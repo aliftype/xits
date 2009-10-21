@@ -16,12 +16,12 @@ Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 XUID: [1021 27 160335056 7645198]
 UniqueID: 4138406
-FSType: 4
+FSType: 0
 OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1256111182
+ModificationTime: 1256116638
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -60,9 +60,9 @@ LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Insti
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
-MATH:DisplayOperatorMinHeight: 0
+MATH:DisplayOperatorMinHeight: 1450
 MATH:MathLeading: 0 
-MATH:AxisHeight: 0 
+MATH:AxisHeight: 260 
 MATH:AccentBaseHeight: 450 
 MATH:FlattenedAccentBaseHeight: 662 
 MATH:SubscriptShiftDown: 250 
@@ -121,7 +121,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3451 17 7
+WinInfo: 68 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
