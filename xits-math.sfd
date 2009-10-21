@@ -121,7 +121,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3247 17 7
+WinInfo: 0 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -2015,7 +2015,7 @@ Encoding: 92 92 61
 Width: 278
 GlyphClass: 2
 Flags: MW
-GlyphVariantsVertical: backslash uni005C.alt01 uni005C.alt02 uni005C.alt03 uni005C.alt04
+GlyphVariantsVertical: backslash backslash.alt01 backslash.alt02 backslash.alt03 backslash.alt04
 HStem: -14 20 656 20<-9 58 58 58>
 LayerCount: 2
 Fore
@@ -42254,6 +42254,7 @@ Encoding: 8896 8896 1215
 Width: 924
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: uni22C0 uni22C0.alt01
 LayerCount: 2
 Fore
 SplineSet
@@ -42274,6 +42275,7 @@ Encoding: 8897 8897 1216
 Width: 924
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: uni22C1 uni22C1.alt01
 LayerCount: 2
 Fore
 SplineSet
@@ -42294,6 +42296,7 @@ Encoding: 8898 8898 1217
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni22C2 uni22C2.alt01
 HStem: 705 73<380 544>
 VStem: 94 73<-254 448 448 461 -254 546.5> 757 73<-254 448>
 LayerCount: 2
@@ -42318,6 +42321,7 @@ Encoding: 8899 8899 1218
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni22C3 uni22C3.alt01
 HStem: -264 73<380 544 380 555.5>
 VStem: 94 73<66 768> 757 73<53 66 66 768>
 LayerCount: 2
@@ -44342,6 +44346,7 @@ Encoding: 8968 8968 1283
 Width: 469
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2308 uni2308.alt01 uni2308.alt02 uni2308.alt03 uni2308.alt04
 HStem: 680 33<305.5 338 338 447>
 VStem: 188 66<-213 585 -213 713>
 LayerCount: 2
@@ -44363,6 +44368,7 @@ Encoding: 8969 8969 1284
 Width: 469
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2309 uni2309.alt01 uni2309.alt02 uni2309.alt03 uni2309.alt04
 HStem: 680 33<27 136 27 286>
 VStem: 220 66<-213 585 585 617>
 LayerCount: 2
@@ -44384,6 +44390,7 @@ Encoding: 8970 8970 1285
 Width: 469
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni230A uni230A.alt01 uni230A.alt02 uni230A.alt03 uni230A.alt04
 HStem: -213 33<338 447 338 447>
 VStem: 188 66<-117 -85 -85 713>
 LayerCount: 2
@@ -44405,6 +44412,7 @@ Encoding: 8971 8971 1286
 Width: 469
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni230B uni230B.alt01 uni230B.alt02 uni230B.alt03 uni230B.alt04
 HStem: -213 33<27 136 136 168.5 27 286 27 136>
 VStem: 220 66<-85 713>
 LayerCount: 2
@@ -57210,6 +57218,7 @@ Encoding: 10098 10098 1613
 Width: 488
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2772 uni2772.alt01 uni2772.alt02 uni2772.alt03 uni2772.alt04
 VStem: 188 66<27 479 27 502 27 502>
 LayerCount: 2
 Fore
@@ -57231,6 +57240,7 @@ Encoding: 10099 10099 1614
 Width: 488
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2773 uni2773.alt01 uni2773.alt02 uni2773.alt03 uni2773.alt04
 VStem: 234 66<27 479 479 479>
 LayerCount: 2
 Fore
@@ -58892,6 +58902,7 @@ Encoding: 10214 10214 1669
 Width: 504
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27E6 uni27E6.alt01 uni27E6.alt02 uni27E6.alt03 uni27E6.alt04
 HStem: -213 20<365 365 415 482> 697 20<365 365 415 482 415 415>
 VStem: 188 66<-141 -109 -109 600> 365 50<-193 697 -193 697>
 LayerCount: 2
@@ -58919,6 +58930,7 @@ Encoding: 10215 10215 1670
 Width: 504
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27E7 uni27E7.alt01 uni27E7.alt02 uni27E7.alt03 uni27E7.alt04
 HStem: -213 20<22 89 22 89> 697 20<22 89 22 316 139 139>
 VStem: 89 50<-193 697 -193 697> 250 66<-96 613 613 645>
 LayerCount: 2
@@ -58946,6 +58958,7 @@ Encoding: 10216 10216 1671
 Width: 400
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27E8 uni27E8.alt01 uni27E8.alt02 uni27E8.alt03 uni27E8.alt04
 VStem: 77 258
 LayerCount: 2
 Fore
@@ -58966,6 +58979,7 @@ Encoding: 10217 10217 1672
 Width: 400
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27E9 uni27E9.alt01 uni27E9.alt02 uni27E9.alt03 uni27E9.alt04
 VStem: 65 258
 LayerCount: 2
 Fore
@@ -58986,6 +59000,7 @@ Encoding: 10218 10218 1673
 Width: 610
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27EA uni27EA.alt01 uni27EA.alt02 uni27EA.alt03 uni27EA.alt04
 VStem: 73 472<253 719>
 LayerCount: 2
 Fore
@@ -59012,6 +59027,7 @@ Encoding: 10219 10219 1674
 Width: 610
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni27EB uni27EB.alt01 uni27EB.alt02 uni27EB.alt03 uni27EB.alt04
 VStem: 65 472<-213 253>
 LayerCount: 2
 Fore
@@ -64399,6 +64415,7 @@ Encoding: 10627 10627 1826
 Width: 596
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2983 uni2983.alt01 uni2983.alt02 uni2983.alt03 uni2983.alt04
 HStem: -213 20<293.5 360 344 360 410 477> 699 20<296.5 477 344 360 410 477 410 410>
 VStem: 183 66<-40 -6 -6 85 384 421 421 512> 360 50<-193 699 -193 699>
 LayerCount: 2
@@ -64438,6 +64455,7 @@ Encoding: 10628 10628 1827
 Width: 596
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2984 uni2984.alt01 uni2984.alt02 uni2984.alt03 uni2984.alt04
 HStem: -213 20<119 186 236 252 119 186> 699 20<119 186 119 252 236 236 236 252>
 VStem: 186 50<-193 699 -193 699> 347 66<-6 85 85 122 421 512 512 546>
 LayerCount: 2
@@ -64477,6 +64495,7 @@ Encoding: 10629 10629 1828
 Width: 463
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2985 uni2985.alt01 uni2985.alt02 uni2985.alt03 uni2985.alt04
 VStem: 70 50<157 347 157 373> 197 50<156.5 347.5>
 LayerCount: 2
 Fore
@@ -64503,6 +64522,7 @@ Encoding: 10630 10630 1829
 Width: 463
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2986 uni2986.alt01 uni2986.alt02 uni2986.alt03 uni2986.alt04
 VStem: 216 50<158.5 349.5 158.5 378.5> 343 50<159 349>
 LayerCount: 2
 Fore
@@ -68158,6 +68178,7 @@ Encoding: 10744 10744 1943
 Width: 602
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni29F8 uni29F8.alt01
 VStem: 85 432
 LayerCount: 2
 Fore
@@ -68175,6 +68196,7 @@ Encoding: 10745 10745 1944
 Width: 602
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni29F9 uni29F9.alt01
 VStem: 85 432
 LayerCount: 2
 Fore
@@ -68353,6 +68375,7 @@ Encoding: 10752 10752 1951
 Width: 1126
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A00 uni2A00.alt01
 HStem: -259 80<444.5 681.5 444.5 704.5> 167 166<540 586> 683 80<444.5 681.5>
 VStem: 53 80<133.5 370.5 133.5 393.5> 480 166<227 273> 993 80<133.5 370.5>
 CounterMasks: 1 1c
@@ -68382,6 +68405,7 @@ Encoding: 10753 10753 1952
 Width: 1126
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A01 uni2A01.alt01
 HStem: -259 20 219 66<134 530 134 530 596 991>
 VStem: 530 66<-177 219 -177 219 285 682>
 LayerCount: 2
@@ -68416,6 +68440,7 @@ Encoding: 10754 10754 1953
 Width: 1126
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A02 uni2A02.alt01
 HStem: -259 80<509.5 616.5 509.5 704.5> 683 80<509.5 616.5>
 VStem: 53 80<199 305.5 199 393.5> 993 80<199 305.5>
 LayerCount: 2
@@ -68454,6 +68479,7 @@ Encoding: 10755 10755 1954
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A03 uni2A03.alt01
 HStem: -264 80<376 535.5 376 555> 184 166<439 485>
 VStem: 94 80<66 768> 379 166<244 290> 750 80<54 66 66 768>
 CounterMasks: 1 38
@@ -68484,6 +68510,7 @@ Encoding: 10756 10756 1955
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A04 uni2A04.alt01
 HStem: -264 80<376 535.5 376 555> 146 66<255 430 255 430 496 671>
 VStem: 94 80<66 768> 430 66<-28 146 -28 146 212 388> 750 80<54 66 66 768>
 LayerCount: 2
@@ -68521,6 +68548,7 @@ Encoding: 10757 10757 1956
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A05 uni2A05.alt01
 HStem: 683 80<174 750 174 174>
 VStem: 94 80<-259 683 -259 763> 750 80<-259 683 683 683>
 LayerCount: 2
@@ -68543,6 +68571,7 @@ Encoding: 10758 10758 1957
 Width: 924
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A06 uni2A06.alt01
 HStem: -259 80<174 750 174 830>
 VStem: 94 80<-179 763 -179 763 -179 763> 750 80<-179 763>
 LayerCount: 2
@@ -68565,6 +68594,7 @@ Encoding: 10759 10759 1958
 Width: 1180
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: uni2A07 uni2A07.alt01
 LayerCount: 2
 Fore
 SplineSet
@@ -68597,6 +68627,7 @@ Encoding: 10760 10760 1959
 Width: 1180
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: uni2A08 uni2A08.alt01
 LayerCount: 2
 Fore
 SplineSet
@@ -68629,6 +68660,7 @@ Encoding: 10761 10761 1960
 Width: 1021
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: uni2A09 uni2A09.alt01
 LayerCount: 2
 Fore
 SplineSet
@@ -68653,6 +68685,7 @@ Encoding: 10762 10762 1961
 Width: 914
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A0A uni2A0A.alt01
 HStem: 46 50<467.5 531 467.5 544.5> 486 50<472 531> 697 66<288 618 288 288>
 VStem: 232 50<260.5 314.5 260.5 322.5> 672 50<237 345>
 LayerCount: 2
@@ -114833,7 +114866,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.alt01
+StartChar: backslash.alt01
 Encoding: 1114117 -1 3323
 Width: 579
 GlyphClass: 2
@@ -116622,7 +116655,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.alt02
+StartChar: backslash.alt02
 Encoding: 1114188 -1 3393
 Width: 806
 GlyphClass: 2
@@ -117830,7 +117863,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.alt03
+StartChar: backslash.alt03
 Encoding: 1114239 -1 3443
 Width: 1101
 GlyphClass: 2
@@ -118983,7 +119016,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.alt04
+StartChar: backslash.alt04
 Encoding: 1114288 -1 3491
 Width: 1309
 GlyphClass: 2
