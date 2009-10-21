@@ -121,7 +121,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3281 17 7
+WinInfo: 3451 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -131,7 +131,7 @@ StemSnapH 31 [26 29 33 38 43 49 53 56 59 63]
 StemSnapV 31 [39 43 48 52 56 59 66 73 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114359 3561
+BeginChars: 1114353 3561
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -118629,7 +118629,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni23E0.alt03
-Encoding: 1114271 -1 3474
+Encoding: -1 -1 3474
 Width: 0
 GlyphClass: 2
 Flags: MW
