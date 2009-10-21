@@ -14,6 +14,7 @@ Descent: 250
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 27 160335056 7645198]
 UniqueID: 4138406
 FSType: 0
@@ -21,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1256118131
+ModificationTime: 1256118638
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -121,7 +122,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 119833 17 7
+WinInfo: 1114248 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -131,7 +132,7 @@ StemSnapH 31 [26 29 33 38 43 49 53 56 59 63]
 StemSnapV 31 [39 43 48 52 56 59 66 73 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114353 3561
+BeginChars: 1114355 3563
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -36866,6 +36867,7 @@ Width: 928
 GlyphClass: 2
 Flags: W
 GlyphVariantsVertical: uni221A uni221A.alt01 uni221A.alt02 uni221A.alt03
+GlyphCompositionVertical: 3  uni23B7%0,0,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,0,626
 LayerCount: 2
 Fore
 SplineSet
@@ -120708,6 +120710,41 @@ SplineSet
  256 767 l 1
  304 767 l 1
  560 554 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni221A.ex
+Encoding: 1114353 -1 3561
+Width: 1184
+Flags: W
+VStem: 829 66<-25 610>
+LayerCount: 2
+Fore
+SplineSet
+895 -25 m 1
+ 829 -25 l 1
+ 829 610 l 1
+ 895 610 l 1
+ 895 -25 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni221A.top
+Encoding: 1114354 -1 3562
+Width: 1184
+Flags: W
+HStem: 601 66<895 1211 895 895>
+VStem: 829 66<41 601 41 667>
+LayerCount: 2
+Fore
+SplineSet
+1211 601 m 1
+ 895 601 l 1
+ 895 41 l 1
+ 829 41 l 1
+ 829 667 l 1
+ 1211 667 l 1
+ 1211 601 l 1
 EndSplineSet
 EndChar
 EndChars
