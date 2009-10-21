@@ -14,7 +14,6 @@ Descent: 250
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 27 160335056 7645198]
 UniqueID: 4138406
 FSType: 0
@@ -22,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1256120178
+ModificationTime: 1256123522
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -55,6 +54,7 @@ OS2StrikeYPos: 306
 OS2Vendor: 'FM  '
 OS2CodePages: 4002009f.00000000
 OS2UnicodeRanges: ff400005.ffbfc042.04000040.00000000
+Lookup: 3 0 0 "'ssty' Script Style lookup 2"  {"'ssty' Script Style lookup 2-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 1"  {"'liga' Standard Ligatures lookup 1-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup 0"  {"'dtls' Dotless Forms lookup 0-1"  } ['dtls' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
@@ -122,7 +122,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114282 17 7
+WinInfo: 8211 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -132,7 +132,7 @@ StemSnapH 31 [26 29 33 38 43 49 53 56 59 63]
 StemSnapV 31 [39 43 48 52 56 59 66 73 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114400 3608
+BeginChars: 1114406 3614
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -28663,6 +28663,7 @@ SplineSet
  94 402 l 1
  75 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2032.ssty1 uni2032.ssty1
 EndChar
 
 StartChar: uni2033
@@ -28689,6 +28690,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2033.ssty1 uni2033.ssty1
 EndChar
 
 StartChar: uni2034
@@ -28722,6 +28724,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2034.ssty1 uni2034.ssty1
 EndChar
 
 StartChar: uni2035
@@ -28741,6 +28744,7 @@ SplineSet
  132 678 140 656 147 632 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2035.ssty1 uni2035.ssty1
 EndChar
 
 StartChar: uni2036
@@ -28767,6 +28771,7 @@ SplineSet
  132 678 140.876 656.963 148 633 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2036.ssty1 uni2036.ssty1
 EndChar
 
 StartChar: uni2037
@@ -28800,6 +28805,7 @@ SplineSet
  132 678 140.876 656.963 148 633 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 2-1" uni2037.ssty1 uni2037.ssty1
 EndChar
 
 StartChar: uni2038
@@ -122486,6 +122492,162 @@ SplineSet
  57 -346 l 1
  789 -346 l 1
  789 -426 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2032.ssty1
+Encoding: 1114400 -1 3608
+Width: 323
+VWidth: 736
+Flags: HW
+HStem: 308.75 25<195.625 225.625>
+LayerCount: 2
+Fore
+SplineSet
+75 0 m 1
+ 158.75 276.25 l 2
+ 167.5 306.25 177.5 333.75 213.75 333.75 c 0
+ 237.5 333.75 248.75 313.75 248.75 292.5 c 0
+ 248.75 275 238.75 258.75 231.25 243.75 c 2
+ 98.75 -11.25 l 1
+ 75 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2033.ssty1
+Encoding: 1114401 -1 3609
+Width: 495
+VWidth: 736
+Flags: HW
+HStem: 308.875 25<195.625 225.625 366.875 396.875>
+LayerCount: 2
+Fore
+SplineSet
+246.25 0.125 m 1
+ 328.75 277.625 l 2
+ 337.655 307.579 348.75 333.875 385 333.875 c 0
+ 408.75 333.875 420 315.125 420 293.875 c 0
+ 420 276.375 410 260.125 402.5 245.125 c 2
+ 268.75 -11.125 l 1
+ 246.25 0.125 l 1
+75 -1.125 m 1
+ 157.5 276.375 l 2
+ 166.405 306.329 177.5 333.875 213.75 333.875 c 0
+ 237.5 333.875 248.75 313.875 248.75 292.625 c 0
+ 248.75 275.125 238.75 258.875 231.25 243.875 c 2
+ 97.5 -12.375 l 1
+ 75 -1.125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2034.ssty1
+Encoding: 1114402 -1 3610
+Width: 666
+VWidth: 736
+Flags: HW
+HStem: 308.875 25<195.625 225.625 366.875 396.875 538.125 568.125>
+LayerCount: 2
+Fore
+SplineSet
+417.5 0.125 m 1
+ 500 277.625 l 2
+ 508.905 307.579 520 333.875 556.25 333.875 c 0
+ 580 333.875 591.25 315.125 591.25 293.875 c 0
+ 591.25 276.375 581.25 260.125 573.75 245.125 c 2
+ 440 -11.125 l 1
+ 417.5 0.125 l 1
+246.25 0.125 m 1
+ 328.75 277.625 l 2
+ 337.655 307.579 348.75 333.875 385 333.875 c 0
+ 408.75 333.875 420 315.125 420 293.875 c 0
+ 420 276.375 410 260.125 402.5 245.125 c 2
+ 268.75 -11.125 l 1
+ 246.25 0.125 l 1
+75 -1.125 m 1
+ 157.5 276.375 l 2
+ 166.405 306.329 177.5 333.875 213.75 333.875 c 0
+ 237.5 333.875 248.75 313.875 248.75 292.625 c 0
+ 248.75 275.125 238.75 258.875 231.25 243.875 c 2
+ 97.5 -12.375 l 1
+ 75 -1.125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2035.ssty1
+Encoding: 1114403 -1 3611
+Width: 323
+VWidth: 736
+Flags: HW
+HStem: 308.75 25<98.125 128.125>
+LayerCount: 2
+Fore
+SplineSet
+248.75 0 m 1
+ 225 -11.25 l 1
+ 92.5 243.75 l 2
+ 85 258.75 75 275 75 292.5 c 0
+ 75 313.75 86.25 333.75 110 333.75 c 0
+ 146.25 333.75 156.25 306.25 165 276.25 c 2
+ 248.75 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2036.ssty1
+Encoding: 1114404 -1 3612
+Width: 495
+VWidth: 736
+Flags: HW
+HStem: 308.875 25<98.125 128.125 269.375 299.375>
+LayerCount: 2
+Fore
+SplineSet
+420 -1.125 m 1
+ 397.5 -12.375 l 1
+ 263.75 243.875 l 2
+ 256.25 258.875 246.25 275.125 246.25 292.625 c 0
+ 246.25 313.875 257.5 333.875 281.25 333.875 c 0
+ 317.5 333.875 328.595 306.329 337.5 276.375 c 2
+ 420 -1.125 l 1
+248.75 0.125 m 1
+ 226.25 -11.125 l 1
+ 92.5 245.125 l 2
+ 85 260.125 75 276.375 75 293.875 c 0
+ 75 315.125 86.25 333.875 110 333.875 c 0
+ 146.25 333.875 157.345 307.579 166.25 277.625 c 2
+ 248.75 0.125 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2037.ssty1
+Encoding: 1114405 -1 3613
+Width: 666
+VWidth: 736
+Flags: HW
+HStem: 308.875 25<98.125 128.125 269.375 299.375 440.625 470.625>
+LayerCount: 2
+Fore
+SplineSet
+591.25 -1.125 m 1
+ 568.75 -12.375 l 1
+ 435 243.875 l 2
+ 427.5 258.875 417.5 275.125 417.5 292.625 c 0
+ 417.5 313.875 428.75 333.875 452.5 333.875 c 0
+ 488.75 333.875 499.845 306.329 508.75 276.375 c 2
+ 591.25 -1.125 l 1
+420 0.125 m 1
+ 397.5 -11.125 l 1
+ 263.75 245.125 l 2
+ 256.25 260.125 246.25 276.375 246.25 293.875 c 0
+ 246.25 315.125 257.5 333.875 281.25 333.875 c 0
+ 317.5 333.875 328.595 307.579 337.5 277.625 c 2
+ 420 0.125 l 1
+248.75 0.125 m 1
+ 226.25 -11.125 l 1
+ 92.5 245.125 l 2
+ 85 260.125 75 276.375 75 293.875 c 0
+ 75 315.125 86.25 333.875 110 333.875 c 0
+ 146.25 333.875 157.345 307.579 166.25 277.625 c 2
+ 248.75 0.125 l 1
 EndSplineSet
 EndChar
 EndChars
