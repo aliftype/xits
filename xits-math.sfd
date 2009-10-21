@@ -121,7 +121,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 17 7
+WinInfo: 3281 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -18508,6 +18508,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni0302 uni0302.alt01 uni0302.alt02 uni0302.alt03 uni0302.alt04 uni0302.alt05
 HStem: 654 20<218 280 280 280>
 LayerCount: 2
 Fore
@@ -18529,6 +18530,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni0303 uni0303.alt01 uni0303.alt02 uni0303.alt03 uni0303.alt04 uni0303.alt05
 HStem: 532 55<323 337.5> 578 55<161 174>
 LayerCount: 2
 Fore
@@ -18571,6 +18573,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni0305 uni0305.alt01 uni0305.alt02 uni0305.alt03 uni0305.alt04 uni0305.alt05
 HStem: 770 50<0 500 0 500>
 LayerCount: 2
 Fore
@@ -18731,6 +18734,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni030C uni030C.alt01 uni030C.alt02 uni030C.alt03 uni030C.alt04 uni030C.alt05
 HStem: 654 20<95 130 130 130 371 406 406 406>
 LayerCount: 2
 Fore
@@ -19544,6 +19548,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni0330 uni0330.alt01 uni0330.alt02 uni0330.alt03 uni0330.alt04 uni0330.alt05
 HStem: -219 55<323 337.5> -173 55<161 174>
 LayerCount: 2
 Fore
@@ -19586,6 +19591,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 250
+GlyphVariantsHorizontal: uni0332 uni0332.alt01 uni0332.alt02 uni0332.alt03 uni0332.alt04 uni0332.alt05
 HStem: -191 50<0 500 0 500>
 LayerCount: 2
 Fore
@@ -19705,6 +19711,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 306
+GlyphVariantsHorizontal: uni0338 uni0338.alt01 uni0338.alt02 uni0338.alt03 uni0338.alt04 uni0338.alt05
 HStem: 642 20<457 511 511 511>
 LayerCount: 2
 Fore
@@ -29596,6 +29603,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20D0 uni20D0.alt01 uni20D0.alt02 uni20D0.alt03 uni20D0.alt04 uni20D0.alt05
 HStem: 627 54<182 463 182 463>
 LayerCount: 2
 Fore
@@ -29617,6 +29625,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20D1 uni20D1.alt01 uni20D1.alt02 uni20D1.alt03 uni20D1.alt04 uni20D1.alt05
 HStem: 627 54<27 308 308 324.5 27 463 27 308>
 LayerCount: 2
 Fore
@@ -29657,6 +29666,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20D6 uni20D6.alt01 uni20D6.alt02 uni20D6.alt03 uni20D6.alt04 uni20D6.alt05
 HStem: 627 54<163 463 177 463>
 LayerCount: 2
 Fore
@@ -29682,6 +29692,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20D7 uni20D7.alt01 uni20D7.alt02 uni20D7.alt03 uni20D7.alt03 uni20D7.alt05
 HStem: 627 54<27 313 27 313>
 LayerCount: 2
 Fore
@@ -30060,6 +30071,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20EC uni20EC.alt01 uni20EC.alt02 uni20EC.alt03 uni20EC.alt04 uni20EC.alt05
 HStem: -173 54<27 308 27 463>
 LayerCount: 2
 Fore
@@ -30081,6 +30093,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20ED uni20ED.alt01 uni20ED.alt02 uni20ED.alt03 uni20ED.alt04 uni20ED.alt05
 HStem: -173 54<165.5 182 182 463>
 LayerCount: 2
 Fore
@@ -30102,6 +30115,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20EE uni20EE.alt01 uni20EE.alt02 uni20EE.alt03 uni20EE.alt04 uni20EE.alt05
 HStem: -173 54<163 463 177 463>
 LayerCount: 2
 Fore
@@ -30127,6 +30141,7 @@ Width: 0
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 245
+GlyphVariantsHorizontal: uni20EF uni20EF.alt01 uni20EF.alt02 uni20EF.alt03 uni20EF.alt04 uni20EF.alt05
 HStem: -173 54<27 313 27 313>
 LayerCount: 2
 Fore
@@ -45489,6 +45504,7 @@ Encoding: 9140 9140 1323
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23B4 uni23B4.alt01 uni23B4.alt02 uni23B4.alt03 uni23B4.alt04 uni23B4.alt05
 HStem: 700 66<121 805 121 121>
 VStem: 55 66<574 700 574 766> 805 66<574 700 700 700>
 LayerCount: 2
@@ -45511,6 +45527,7 @@ Encoding: 9141 9141 1324
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23B5 uni23B5.alt01 uni23B5.alt02 uni23B5.alt03 uni23B5.alt04 uni23B5.alt05
 HStem: -83 66<121 805 121 871>
 VStem: 55 66<-17 109 -17 109 -17 109> 805 66<-17 109>
 LayerCount: 2
@@ -45623,6 +45640,7 @@ Encoding: 9180 9180 1328
 Width: 556
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23DC uni23DC.alt01 uni23DC.alt02 uni23DC.alt03 uni23DC.alt04 uni23DC.alt05
 HStem: 0 55<226 319 226 326.5>
 LayerCount: 2
 Fore
@@ -45642,6 +45660,7 @@ Encoding: 9181 9181 1329
 Width: 556
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23DD uni23DD.alt01 uni23DD.alt02 uni23DD.alt03 uni23DD.alt04 uni23DD.alt05
 HStem: 564 55<226 319>
 LayerCount: 2
 Fore
@@ -45661,6 +45680,7 @@ Encoding: 9182 9182 1330
 Width: 556
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23DE uni23DE.alt01 uni23DE.alt02 uni23DE.alt03 uni23DE.alt04 uni23DE.alt05
 HStem: 0 55<139 148 148 185 355 371 371 407>
 LayerCount: 2
 Fore
@@ -45692,6 +45712,7 @@ Encoding: 9183 9183 1331
 Width: 556
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23DF uni23DF.alt01 uni23DF.alt02 uni23DF.alt03 uni23DF.alt04 uni23DF.alt05
 HStem: 626 55<91 185 148 185 185 201 371 407 407 417> 658 20<66.5 98.5 455.5 488>
 LayerCount: 2
 Fore
@@ -45723,6 +45744,7 @@ Encoding: 9184 9184 1332
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23E0 uni23E0.alt01 uni23E0.alt02
 HStem: 0 66<237 689 237 237>
 LayerCount: 2
 Fore
@@ -45744,6 +45766,7 @@ Encoding: 9185 9185 1333
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni23E1 uni23E1.alt01 uni23E1.alt02
 HStem: 564 66<237 689 237 712 214 689>
 LayerCount: 2
 Fore
