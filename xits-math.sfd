@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1256116638
+ModificationTime: 1256118131
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +54,7 @@ OS2StrikeYPos: 306
 OS2Vendor: 'FM  '
 OS2CodePages: 4002009f.00000000
 OS2UnicodeRanges: ff400005.ffbfc042.04000040.00000000
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 1"  {"'liga' Standard Ligatures lookup 1-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup 0"  {"'dtls' Dotless Forms lookup 0-1"  } ['dtls' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "Copyright (c) 2001-2009 by the STI Pub Companies, consisting of the American Institute of Physics, the American Chemical Society, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. (www.stixfonts.org), with Reserved Font Name STIX Fonts, STIX Fonts+ISIA is a trademark of The Institute of Electrical and Electronics Engineers, Inc..+AAoA-Portions copyright (c) 1998-2003 by MicroPress, Inc. (www.micropress-inc.com), with Reserved Font Name TM Math. To obtain additional mathematical fonts, please contact MicroPress, Inc., 68-30 Harrow Street, Forest Hills, NY 11375, USA +IBMA Phone: (718) 575-1816.+AAoA-Portions copyright (c) 1990 by Elsevier, Inc.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.+AAoACgAA-------------------------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA-------------------------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AAoACgAA   1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AAoA   2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AAoA   3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AAoA   4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AAoA   5. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://www.stixfonts.org/user_license.html" 
@@ -115,13 +116,12 @@ MATH:RadicalKernAfterDegree: -555
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 68 17 7
+WinInfo: 119833 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -4064,6 +4064,8 @@ SplineSet
  166 307 180 294 223 294 c 1
  223 270 l 1
 EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction four
 EndChar
 
 StartChar: onehalf
@@ -4111,6 +4113,8 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction two
 EndChar
 
 StartChar: threequarters
@@ -4164,6 +4168,8 @@ SplineSet
  217 676 264 640 264 593 c 0x3e80
  264 565 252 535 204 511 c 1
 EndSplineSet
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 1-1" three fraction four
 EndChar
 
 StartChar: questiondown
@@ -31830,6 +31836,7 @@ SplineSet
  159 307 173 294 216 294 c 1
  216 270 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction three
 EndChar
 
 StartChar: twothirds
@@ -31883,6 +31890,7 @@ SplineSet
  260 335 276 340 291 362 c 1
  309 355 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" two fraction three
 EndChar
 
 StartChar: uni2155
@@ -31935,6 +31943,7 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction five
 EndChar
 
 StartChar: uni2156
@@ -31990,6 +31999,7 @@ SplineSet
  260 335 276 340 291 362 c 1
  309 355 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" two fraction five
 EndChar
 
 StartChar: uni2157
@@ -32048,6 +32058,7 @@ SplineSet
  217 676 264 640 264 593 c 0x3e80
  264 565 252 535 204 511 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" three fraction five
 EndChar
 
 StartChar: uni2158
@@ -32103,6 +32114,7 @@ SplineSet
  59 418 l 1
  194 418 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" four fraction five
 EndChar
 
 StartChar: uni2159
@@ -32147,6 +32159,7 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction six
 EndChar
 
 StartChar: uni215A
@@ -32199,6 +32212,7 @@ SplineSet
  274 660 279 664 288 676 c 1
  307 664 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" five fraction six
 EndChar
 
 StartChar: oneeighth
@@ -32250,6 +32264,7 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" one fraction eight
 EndChar
 
 StartChar: threeeighths
@@ -32307,6 +32322,7 @@ SplineSet
  217 676 264 640 264 593 c 0x3e
  264 565 252 535 204 511 c 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" three fraction eight
 EndChar
 
 StartChar: fiveeighths
@@ -32366,6 +32382,7 @@ SplineSet
  274 660 279 664 288 676 c 1
  307 664 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" five fraction eight
 EndChar
 
 StartChar: seveneighths
@@ -32414,6 +32431,7 @@ SplineSet
  321 660 l 1x30
  321 642 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" seven fraction eight
 EndChar
 
 StartChar: uni2190
@@ -79155,6 +79173,7 @@ SplineSet
  205 655 187 625 187 566 c 2
  187 450 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" f f
 EndChar
 
 StartChar: fi
@@ -79200,6 +79219,7 @@ SplineSet
  455 35 472 20 523 15 c 1
  523 0 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" f i
 EndChar
 
 StartChar: fl
@@ -79245,6 +79265,7 @@ SplineSet
  185 450 l 1
  373 450 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" f l
 EndChar
 
 StartChar: ffi
@@ -79308,6 +79329,7 @@ SplineSet
  729 35 746 20 797 15 c 1
  797 0 l 1xde
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" f f i
 EndChar
 
 StartChar: ffl
@@ -79371,6 +79393,7 @@ SplineSet
  459 450 l 1
  647 450 l 1
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 1-1" f f l
 EndChar
 
 StartChar: uniFFFD
@@ -89568,6 +89591,7 @@ SplineSet
  161 591 180 616 209 616 c 0
  235 616 257 591 257 566 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup 0-1" u1D6A4
 EndChar
 
 StartChar: u1D457
@@ -89600,6 +89624,7 @@ SplineSet
  276 591 295 616 324 616 c 0
  350 616 372 591 372 566 c 0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms lookup 0-1" u1D6A5
 EndChar
 
 StartChar: u1D458
