@@ -126,7 +126,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114367 17 7
+WinInfo: 8194 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -3119,6 +3119,7 @@ Encoding: 124 124 93
 Width: 200
 GlyphClass: 2
 Flags: MW
+GlyphCompositionVertical: 2  bar%0,230,230,690 bar%1,230,230,690
 HStem: -14 20 656 20<67 133 133 133>
 VStem: 67 66<-14 676>
 LayerCount: 2
@@ -28121,6 +28122,7 @@ Encoding: 8214 8214 797
 Width: 523
 GlyphClass: 2
 Flags: MW
+GlyphCompositionVertical: 2  uni2016%0,293,293,879 uni2016%1,293,293,879
 VStem: 129 66<-189 690> 328 66<-189 690>
 LayerCount: 2
 Fore
@@ -33155,6 +33157,8 @@ Encoding: 8612 8612 940
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni21A4 uni27FB
+GlyphCompositionHorizontal: 3  uni2190%0,262,262,786 uni2190.ex%1,105,105,315 uni27DE%0,488,488,1464
 HStem: 220 66<248 807 258 807 258 807> 430 20<308 308 807 857 857 857>
 VStem: 807 50<57 220 220 220 286 450>
 LayerCount: 2
@@ -33219,6 +33223,8 @@ Encoding: 8614 8614 942
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni21A6 uni27FC
+GlyphCompositionHorizontal: 3  uni27DD%0,488,488,1464 uni2190.ex%1,105,105,315 uni2192%0,262,262,786
 HStem: 220 66<120 669 120 670> 430 20<70 120 120 120 620 620>
 VStem: 70 50<57 220 286 450>
 LayerCount: 2
@@ -60156,6 +60162,7 @@ Encoding: 10502 10502 1701
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni2906 uni27FD
 HStem: 120 66<362 371 371 821> 320 66<371 821 371 821>
 VStem: 821 50<-25 120 120 120 186 320 320 320 386 530>
 LayerCount: 2
@@ -60194,6 +60201,7 @@ Encoding: 10503 10503 1702
 Width: 926
 GlyphClass: 2
 Flags: MW
+GlyphVariantsHorizontal: uni2907 uni27FE
 HStem: 120 66<105 555 105 700> 320 66<105 555 555 564 105 699 105 555>
 VStem: 55 50<-25 120 186 320 386 530>
 LayerCount: 2
