@@ -37409,7 +37409,6 @@ Width: 459
 GlyphClass: 2
 Flags: MW
 GlyphVariantsVertical: uni222B uni222B.alt01
-GlyphCompositionVertical: 3  uni2321%0,382,382,1145 uni23AE%1,212,212,635 uni2320%0,382,382,1145
 HStem: -320 31<104.5 131.5 104.5 153> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
