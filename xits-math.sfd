@@ -114,7 +114,7 @@ MATH:UnderbarRuleThickness: 50
 MATH:UnderbarExtraDescender: 50 
 MATH:RadicalVerticalGap: 50 
 MATH:RadicalDisplayStyleVerticalGap: 175 
-MATH:RadicalRuleThickness: 50 
+MATH:RadicalRuleThickness: 66 
 MATH:RadicalExtraAscender: 50 
 MATH:RadicalKernBeforeDegree: 277 
 MATH:RadicalKernAfterDegree: -555 
