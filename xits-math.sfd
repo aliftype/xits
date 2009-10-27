@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1256497146
+ModificationTime: 1256622035
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +59,7 @@ Lookup: 1 0 0 "'ss01' Upright integrals"  {"'ss01' Upright integrals-1" ("uprf" 
 Lookup: 3 0 0 "'ssty' Script Style lookup"  {"'ssty' Script Style lookup-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup"  {"'liga' Standard Ligatures lookup-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('math' <'dflt' > ) ]
-Lookup: 1 0 0 "'rtla' Right to Left Alternates"  {"'rtla' Right to Left Alternates-1" ("rtl" ) } ['rtla' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms"  {"'rtlm' Right to Left mirrored forms-1" ("rtl" ) } ['rtlm' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "Copyright (c) 2001-2009 by the STI Pub Companies, consisting of the American Institute of Physics, the American Chemical Society, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. (www.stixfonts.org), with Reserved Font Name STIX Fonts, STIX Fonts+ISIA is a trademark of The Institute of Electrical and Electronics Engineers, Inc..+AAoA-Portions copyright (c) 1998-2003 by MicroPress, Inc. (www.micropress-inc.com), with Reserved Font Name TM Math. To obtain additional mathematical fonts, please contact MicroPress, Inc., 68-30 Harrow Street, Forest Hills, NY 11375, USA +IBMA Phone: (718) 575-1816.+AAoA-Portions copyright (c) 1990 by Elsevier, Inc.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL.+AAoACgAA-------------------------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA-------------------------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AAoACgAA   1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AAoA   2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AAoA   3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AAoA   4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AAoA   5. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://www.stixfonts.org/user_license.html" 
 OtfFeatName: 'ss01'  1033 "Upright Integrals" 
@@ -36734,7 +36734,7 @@ SplineSet
  768 -128 804 -60 826 40 c 1
  856 40 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2211.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2211.rtl
 EndChar
 
 StartChar: minus
@@ -36956,7 +36956,7 @@ SplineSet
  909 973 l 1
  963 973 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.rtl
 EndChar
 
 StartChar: uni221B
@@ -115747,7 +115747,7 @@ SplineSet
  1058 232 1127 301 1163 465 c 1
  1202 465 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2211.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2211.alt01.rtl
 EndChar
 
 StartChar: uni221A.alt01
@@ -115772,7 +115772,7 @@ SplineSet
  1032 1552 l 1
  1089 1552 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.alt01.rtl
 EndChar
 
 StartChar: uni221B.alt01
@@ -117444,7 +117444,7 @@ SplineSet
  1096 2056 l 1
  1157 2056 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.alt02.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.alt02.rtl
 EndChar
 
 StartChar: uni221B.alt02
@@ -118670,7 +118670,7 @@ SplineSet
  1043 2565 l 1
  1110 2565 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.alt03.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.alt03.rtl
 EndChar
 
 StartChar: uni221B.alt03
@@ -119824,7 +119824,7 @@ SplineSet
  895 1510 l 1
  895 -345 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.base.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.base.rtl
 EndChar
 
 StartChar: uni221B.base
@@ -121085,7 +121085,7 @@ SplineSet
  895 610 l 1
  895 -25 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.ex.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.ex.rtl
 EndChar
 
 StartChar: uni221A.top
@@ -121105,7 +121105,7 @@ SplineSet
  1211 667 l 1
  1211 601 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni221A.top.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.top.rtl
 EndChar
 
 StartChar: uni23DE.lt
@@ -121473,7 +121473,7 @@ SplineSet
  141 -227 147 -231 156 -231 c 0
  221 -231 247 -143 280 -10 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni222B.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222B.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222B.alt01.uprf
 EndChar
 
@@ -121522,7 +121522,7 @@ SplineSet
  141 -227 147 -231 156 -231 c 0
  221 -231 247 -143 280 -10 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni222C.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222C.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222C.alt01.uprf
 EndChar
 
@@ -121588,7 +121588,7 @@ SplineSet
  141 -227 147 -231 156 -231 c 0
  221 -231 247 -143 280 -10 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni222D.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222D.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222D.alt01.uprf
 EndChar
 
@@ -121638,7 +121638,7 @@ SplineSet
  280 754 344 661 435 620 c 1
  559 1124 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni222E.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222E.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222E.alt01.uprf
 EndChar
 
@@ -121713,7 +121713,7 @@ SplineSet
  433 1069 349 979 349 866 c 0
  349 790 387 725 450 679 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni222F.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222F.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222F.alt01.uprf
 EndChar
 
@@ -121812,7 +121812,7 @@ SplineSet
  428 1045 349 970 349 866 c 0
  349 793 388 735 453 692 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2230.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2230.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2230.alt01.uprf
 EndChar
 
@@ -121865,7 +121865,7 @@ SplineSet
  195 885 336 1027 509 1027 c 0
  518 1027 527 1027 536 1026 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2231.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2231.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2231.alt01.uprf
 EndChar
 
@@ -121927,7 +121927,7 @@ SplineSet
  282 760 345 668 436 627 c 1
  561 1131 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2232.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2232.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2232.alt01.uprf
 EndChar
 
@@ -121989,7 +121989,7 @@ SplineSet
  282 760 345 668 436 627 c 1
  561 1131 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2233.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2233.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2233.alt01.uprf
 EndChar
 
@@ -122049,7 +122049,7 @@ SplineSet
  410 516 l 1
  447 669 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A0B.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0B.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0B.alt01.uprf
 EndChar
 
@@ -122132,7 +122132,7 @@ SplineSet
  141 -227 147 -231 156 -231 c 0
  221 -231 247 -143 280 -10 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A0C.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0C.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0C.alt01.uprf
 EndChar
 
@@ -122172,7 +122172,7 @@ SplineSet
  237 901 l 1
  504 901 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A0D.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0D.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0D.alt01.uprf
 EndChar
 
@@ -122220,7 +122220,7 @@ SplineSet
  226 1011 l 1
  531 1011 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A0E.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0E.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0E.alt01.uprf
 EndChar
 
@@ -122260,7 +122260,7 @@ SplineSet
  190 698 l 1
  499 880 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A0F.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0F.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0F.alt01.uprf
 EndChar
 
@@ -122311,7 +122311,7 @@ SplineSet
  395 1128 278 1011 278 866 c 0
  278 758 343 665 436 625 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A10.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A10.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A10.alt01.uprf
 EndChar
 
@@ -122362,7 +122362,7 @@ SplineSet
  278 1023 l 1
  278 913 355 799 472 769 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A11.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A11.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A11.alt01.uprf
 EndChar
 
@@ -122407,7 +122407,7 @@ SplineSet
  427 928 477 979 540 979 c 0
  602 979 653 928 653 866 c 0
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A12.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A12.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A12.alt01.uprf
 EndChar
 
@@ -122452,7 +122452,7 @@ SplineSet
  427 928 477 979 540 979 c 0
  602 979 653 928 653 866 c 0
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A13.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A13.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A13.alt01.uprf
 EndChar
 
@@ -122499,7 +122499,7 @@ SplineSet
  949 1958 943 1962 934 1962 c 0
  869 1962 840 1871 808 1741 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A14.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A14.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A14.alt01.uprf
 EndChar
 
@@ -122549,7 +122549,7 @@ SplineSet
  278 721 395 604 540 604 c 0
  685 604 802 721 802 866 c 0
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A15.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A15.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A15.alt01.uprf
 EndChar
 
@@ -122599,7 +122599,7 @@ SplineSet
  431 604 l 1
  560 1127 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A16.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A16.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A16.alt01.uprf
 EndChar
 
@@ -122655,7 +122655,7 @@ SplineSet
  869 1962 840 1871 808 1741 c 2
  609 931 l 1xfc
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A17.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A17.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A17.alt01.uprf
 EndChar
 
@@ -122701,7 +122701,7 @@ SplineSet
  323 1141 l 1
  516 948 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A18.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A18.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A18.alt01.uprf
 EndChar
 
@@ -122747,7 +122747,7 @@ SplineSet
  177 1266 353 1399 551 1399 c 0
  575 1399 601 1397 625 1392 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A19.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A19.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A19.alt01.uprf
 EndChar
 
@@ -122793,7 +122793,7 @@ SplineSet
  256 691 l 2
  256 605 313 524 401 480 c 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A1A.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1A.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1A.alt01.uprf
 EndChar
 
@@ -122830,7 +122830,7 @@ SplineSet
  141 -227 147 -231 156 -231 c 0
  221 -231 247 -143 280 -10 c 2
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A1B.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1B.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1B.alt01.uprf
 EndChar
 
@@ -122867,7 +122867,7 @@ SplineSet
  789 -346 l 1
  789 -426 l 1
 EndSplineSet
-Substitution2: "'rtla' Right to Left Alternates-1" uni2A1C.alt01.rtl
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1C.alt01.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1C.alt01.uprf
 EndChar
 
