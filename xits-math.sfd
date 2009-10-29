@@ -121449,7 +121449,6 @@ Encoding: 1114372 -1 3580
 Width: 585
 GlyphClass: 2
 Flags: MW
-ItalicCorrection: 500
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
 LayerCount: 2
@@ -126770,7 +126769,6 @@ StartChar: uni222B.alt01.rtl
 Encoding: 1114500 -1 3708
 Width: 585
 Flags: W
-ItalicCorrection: 500
 HStem: -269 38<396.5 433.5 387.5 433.5> 1962 38<-353.5 -316.5>
 VStem: 444 85<-223 -219 -223 -193.5> -450 86<1951 1954.5>
 LayerCount: 2
