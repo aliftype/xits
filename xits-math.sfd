@@ -127,7 +127,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3672 17 7
+WinInfo: 1122 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -424,7 +424,7 @@ SplineSet
  134 69 164 -44 304 -161 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" parenright
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: parenright
@@ -449,7 +449,7 @@ SplineSet
  199 431 174 546 29 660 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" parenleft
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: asterisk
@@ -973,7 +973,7 @@ SplineSet
  621 -24 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" greater
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: equal
@@ -1016,7 +1016,7 @@ SplineSet
  621 249 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" less
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: question
@@ -2039,7 +2039,7 @@ SplineSet
  299 -156 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" bracketright
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: backslash
@@ -2086,7 +2086,7 @@ SplineSet
  245 -156 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" bracketleft
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: asciicircum
@@ -3131,7 +3131,7 @@ SplineSet
  259 -122 281 -152 350 -170 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" braceright
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: bar
@@ -3185,7 +3185,7 @@ SplineSet
  279 637 295 596 295 540 c 2
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" braceleft
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: asciitilde
@@ -36776,7 +36776,7 @@ SplineSet
  856 40 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2211.rtl
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: minus
@@ -37001,7 +37001,7 @@ SplineSet
  963 973 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni221A.rtl
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni221B
@@ -37489,7 +37489,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222B.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222B.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni222C
@@ -37541,7 +37541,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222C.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222C.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni222D
@@ -37610,7 +37610,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222D.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222D.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni222E
@@ -37663,7 +37663,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222E.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222E.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni222F
@@ -37741,7 +37741,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni222F.rtl
 Substitution2: "'ss01' Upright integrals-1" uni222F.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2230
@@ -37844,7 +37844,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2230.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2230.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2231
@@ -37901,7 +37901,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2231.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2231.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2232
@@ -37966,7 +37966,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2232.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2232.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2233
@@ -38031,7 +38031,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2233.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2233.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2234
@@ -39675,7 +39675,7 @@ SplineSet
  629 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2265
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2265
@@ -39702,7 +39702,7 @@ SplineSet
  629 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2264
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2266
@@ -39734,7 +39734,7 @@ SplineSet
  622 -211 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2267
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2267
@@ -39766,7 +39766,7 @@ SplineSet
  622 -211 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2266
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2268
@@ -39809,7 +39809,7 @@ SplineSet
  621 -184 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2269
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2269
@@ -39852,7 +39852,7 @@ SplineSet
  621 -184 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2268
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni226A
@@ -39881,7 +39881,7 @@ SplineSet
  590 -26 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni226B
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni226B
@@ -39910,7 +39910,7 @@ SplineSet
  590 249 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni226A
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni226C
@@ -40014,7 +40014,7 @@ SplineSet
  357 336 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni226F
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni226F
@@ -40049,7 +40049,7 @@ SplineSet
  488 252 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni226E
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2270
@@ -40092,7 +40092,7 @@ SplineSet
  375 419 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2271
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2271
@@ -40135,7 +40135,7 @@ SplineSet
  488 327 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2270
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2272
@@ -40166,7 +40166,7 @@ SplineSet
  556 -88 589 -21 604 50 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2273
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2273
@@ -40197,7 +40197,7 @@ SplineSet
  556 -88 589 -21 604 50 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2272
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2274
@@ -40244,7 +40244,7 @@ SplineSet
  365 471 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2275
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2275
@@ -40290,7 +40290,7 @@ SplineSet
  496 384 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2274
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2276
@@ -40319,7 +40319,7 @@ SplineSet
  621 39 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2277
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2277
@@ -40348,7 +40348,7 @@ SplineSet
  621 -204 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2276
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2278
@@ -40398,7 +40398,7 @@ SplineSet
  496 43 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2279
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2279
@@ -40448,7 +40448,7 @@ SplineSet
  286 83 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2278
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227A
@@ -40469,7 +40469,7 @@ SplineSet
  410 218 571 137 621 51 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227B
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227B
@@ -40490,7 +40490,7 @@ SplineSet
  184 371 418 302 621 286 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227A
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227C
@@ -40517,7 +40517,7 @@ SplineSet
  229 179 481 118 621 -42 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227D
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227D
@@ -40544,7 +40544,7 @@ SplineSet
  204 119 456 180 621 187 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227C
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227E
@@ -40575,7 +40575,7 @@ SplineSet
  556 -88 589 -21 604 50 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227F
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni227F
@@ -40606,7 +40606,7 @@ SplineSet
  556 -88 589 -21 604 50 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni227E
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2280
@@ -40641,7 +40641,7 @@ SplineSet
  308 247 330 239 353 231 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2281
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2281
@@ -40676,7 +40676,7 @@ SplineSet
  377 259 355 266 333 274 c 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2280
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2282
@@ -40702,7 +40702,7 @@ SplineSet
  621 -25 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2283
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2283
@@ -40728,7 +40728,7 @@ SplineSet
  64 531 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2282
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2284
@@ -40767,7 +40767,7 @@ SplineSet
  415 465 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2285
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2285
@@ -40806,7 +40806,7 @@ SplineSet
  270 41 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2284
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2286
@@ -40837,7 +40837,7 @@ SplineSet
  621 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2287
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2287
@@ -40868,7 +40868,7 @@ SplineSet
  612 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2286
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2288
@@ -40914,7 +40914,7 @@ SplineSet
  429 541 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2289
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2289
@@ -40961,7 +40961,7 @@ SplineSet
  319 117 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2288
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni228A
@@ -41000,7 +41000,7 @@ SplineSet
  621 -120 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni228B
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni228B
@@ -41039,7 +41039,7 @@ SplineSet
  611 -120 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni228A
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni228C
@@ -41170,7 +41170,7 @@ SplineSet
  621 -25 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2290
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2290
@@ -41194,7 +41194,7 @@ SplineSet
  621 -25 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni228F
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2291
@@ -41223,7 +41223,7 @@ SplineSet
  621 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2292
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2292
@@ -41252,7 +41252,7 @@ SplineSet
  621 -103 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2291
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2293
@@ -69295,7 +69295,7 @@ SplineSet
  450 251 l 1
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0A.rtl
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A0B
@@ -69359,7 +69359,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0B.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0B.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A0C
@@ -69445,7 +69445,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0C.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0C.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A0D
@@ -69489,7 +69489,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0D.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0D.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A0E
@@ -69540,7 +69540,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0E.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0E.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A0F
@@ -69583,7 +69583,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A0F.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A0F.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A10
@@ -69637,7 +69637,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A10.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A10.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A11
@@ -69739,7 +69739,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A12.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A12.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A13
@@ -69787,7 +69787,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A13.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A13.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A14
@@ -69837,7 +69837,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A14.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A14.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A15
@@ -69890,7 +69890,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A15.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A15.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A16
@@ -70001,7 +70001,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A17.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A17.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A18
@@ -70050,7 +70050,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A18.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A18.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A19
@@ -70099,7 +70099,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A19.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A19.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A1A
@@ -70148,7 +70148,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1A.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1A.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A1B
@@ -70188,7 +70188,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1B.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1B.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A1C
@@ -70228,7 +70228,7 @@ SplineSet
 EndSplineSet
 Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2A1C.rtl
 Substitution2: "'ss01' Upright integrals-1" uni2A1C.uprf
-Colour: ff0000
+Colour: ff00
 EndChar
 
 StartChar: uni2A1D
