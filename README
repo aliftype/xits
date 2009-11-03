@@ -1,0 +1,13 @@
+This is an experimental OpenType math font font based on
+He-Who-Must-Not-Be-Named math fonts.
+
+The ultimate goal of the font is to develop a math font suitable
+for Arabic math typesetting, mainly for LuaTeX engine, and a usable
+Times-like math font as a side effect.
+
+The font is distributed under OFL 1.1.
+
+Khaled Hosny
+khaledhosny@eglug.org
+
+03 Nov. 2009
