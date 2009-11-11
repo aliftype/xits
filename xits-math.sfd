@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1257488515
+ModificationTime: 1257960151
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -36993,7 +36993,7 @@ Width: 928
 GlyphClass: 2
 Flags: W
 GlyphVariantsVertical: uni221A uni221A.alt01 uni221A.alt02 uni221A.alt03
-GlyphCompositionVertical: 3  uni221A.base%0,0,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,0,626
+GlyphCompositionVertical: 3  uni221A.base%0,0,600,1855 uni221A.ex%1,300,300,635 uni221A.top%0,500,0,626
 LayerCount: 2
 Fore
 SplineSet
@@ -37021,7 +37021,7 @@ Width: 928
 GlyphClass: 2
 Flags: MW
 GlyphVariantsVertical: uni221B uni221B.alt01 uni221B.alt02 uni221B.alt03
-GlyphCompositionVertical: 3  uni221B.base%0,0,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,0,626
+GlyphCompositionVertical: 3  uni221B.base%0,0,600,1855 uni221A.ex%1,300,300,635 uni221A.top%0,500,0,626
 HStem: 495 24<373 379.5> 816 30<359.5 387.5>
 VStem: 426 40<765 781.5> 446 47<574.5 610.5>
 LayerCount: 2
@@ -37068,7 +37068,7 @@ Width: 928
 GlyphClass: 2
 Flags: MW
 GlyphVariantsVertical: uni221C uni221C.alt01 uni221C.alt02 uni221C.alt03
-GlyphCompositionVertical: 3  uni221C.base%0,0,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,0,626
+GlyphCompositionVertical: 3  uni221C.base%0,0,600,1855 uni221A.ex%1,300,300,635 uni221A.top%0,600,0,626
 HStem: 583 41<283 403 261 261 451 503>
 VStem: 403 48<499 583 499 583 624 789 789 789>
 LayerCount: 2
@@ -122101,19 +122101,20 @@ EndChar
 StartChar: uni221A.top
 Encoding: 1114353 -1 3561
 Width: 1184
+VWidth: 934
 Flags: W
-HStem: 601 66<895 1211 895 895>
-VStem: 829 66<41 601 41 667>
+HStem: 535 66<895 1211 895 895>
+VStem: 829 66<-25 535 -25 601>
 LayerCount: 2
 Fore
 SplineSet
-1211 601 m 1
- 895 601 l 1
- 895 41 l 1
- 829 41 l 1
- 829 667 l 1
- 1211 667 l 1
+1211 535 m 1
+ 895 535 l 1
+ 895 -25 l 1
+ 829 -25 l 1
+ 829 601 l 1
  1211 601 l 1
+ 1211 535 l 1
 EndSplineSet
 EndChar
 
@@ -127708,7 +127709,7 @@ Width: 928
 Flags: W
 IsExtendedShape: 1
 GlyphVariantsVertical: uni221A.rtl uni221A.alt01.rtl uni221A.alt02.rtl uni221A.alt03.rtl
-GlyphCompositionVertical: 3  uni221A.base.rtl%0,618,618,1855 uni221A.ex.rtl%1,212,212,635 uni221A.top.rtl%0,209,209,626
+GlyphCompositionVertical: 3  uni221A.base.rtl%0,0,600,1855 uni221A.ex.rtl%1,300,300,635 uni221A.top.rtl%0,500,0,626
 LayerCount: 2
 Fore
 SplineSet
@@ -127844,19 +127845,20 @@ EndChar
 StartChar: uni221A.top.rtl
 Encoding: 1114499 -1 3707
 Width: 1184
+VWidth: 934
 Flags: W
-HStem: 601 66<-27 289 289 289>
-VStem: 289 66<41 601 41 667>
+HStem: 535 66<-27 289 289 289>
+VStem: 289 66<-25 535 -25 601>
 LayerCount: 2
 Fore
 SplineSet
--27 601 m 1
- 289 601 l 1
- 289 41 l 1
- 355 41 l 1
- 355 667 l 1
- -27 667 l 1
+-27 535 m 1
+ 289 535 l 1
+ 289 -25 l 1
+ 355 -25 l 1
+ 355 601 l 1
  -27 601 l 1
+ -27 535 l 1
 EndSplineSet
 EndChar
 
