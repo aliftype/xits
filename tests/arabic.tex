@@ -2,8 +2,9 @@
 
 % register 'rtlm' feature for 'base' mode
 \ctxlua{fonts.otf.features.register_base_substitution('rtlm')}
+\ctxlua{fonts.otf.features.register_base_substitution('locl')}
 
-\definefontfeature[virtualmath]      [virtualmath][rtlm=yes]
+\definefontfeature[virtualmath]      [virtualmath][rtlm=yes,locl=yes]
 \definefontfeature[math-text]        [virtualmath][ssty=no]
 \definefontfeature[math-script]      [virtualmath][ssty=1,mathsize=yes]
 \definefontfeature[math-scriptscript][virtualmath][ssty=2,mathsize=yes]
@@ -24,26 +25,26 @@
 
 \starttext
 \startformula
-\left(\root{٢} \of{١٥٥}\right)
+\left(\root{2} \of{155}\right)
 \stopformula
 
 \startformula
-\left[\int^{٥٥}_{\kern-.6em ١٢٣} ٦٦٦^٣\right] % the kern is a temp. hack
+\left[\int^{55}_{\kern-.6em 123} 666^3\right] % the kern is a temp. hack
 \stopformula
 
 \startformula
-\left\{\sum^{٥٥}_{١٢٣} ٦٦٦^٣\right\}
+\left\{\sum^{55}_{123} 666^3\right\}
 \stopformula
 
 \startformula
-\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{٥٥}}}}}}}}}}
+\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{55}}}}}}}}}}
 \stopformula
 
 \startformula
-٥ < ٦ > ٤
+5 < 6 > 4
 \stopformula
 
 \startformula
-٥ \leq ٦ \geq ٧
+5 \leq 6 \geq 7
 \stopformula
 \stoptext

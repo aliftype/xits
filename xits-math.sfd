@@ -14,7 +14,6 @@ Descent: 250
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 27 160335056 7645198]
 UniqueID: 4138406
 FSType: 0
@@ -22,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1257960151
+ModificationTime: 1258046975
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -61,6 +60,8 @@ Lookup: 3 0 0 "'ssty' Script Style lookup"  {"'ssty' Script Style lookup-1"  } [
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup"  {"'liga' Standard Ligatures lookup-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms"  {"'rtlm' Right to Left mirrored forms-1" ("rtl" ) } ['rtlm' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup"  {"'locl' Localized Forms lookup-1" ("arabic" ) } ['locl' ('DFLT' <'dflt' > 'arab' <'dflt' > 'math' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "OFL 1.1" "http://www.stixfonts.org/user_license.html" 
 OtfFeatName: 'ss01'  1033 "Upright Integrals" 
@@ -128,7 +129,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3672 17 7
+WinInfo: 748 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -338,6 +339,7 @@ SplineSet
  132 381 155 353 189 353 c 0
  260 353 321 454 321 569 c 0
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" percent.arabic
 EndChar
 
 StartChar: ampersand
@@ -626,6 +628,7 @@ SplineSet
  120 126 164 12 250 12 c 0
  335 12 380 127 380 325 c 0
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" zero.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" zero.onum
 EndChar
 
@@ -654,6 +657,7 @@ SplineSet
  299 33 319 15 394 15 c 1
  394 0 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" one.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" one.onum
 EndChar
 
@@ -684,6 +688,7 @@ SplineSet
  406 76 427 87 460 143 c 1
  474 137 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" two.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" two.onum
 EndChar
 
@@ -719,6 +724,7 @@ SplineSet
  318 582 276 616 210 616 c 0
  148 616 102 584 61 510 c 1xe0
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" three.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" three.onum
 EndChar
 
@@ -749,6 +755,7 @@ SplineSet
  52 231 l 1
  292 231 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" four.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" four.onum
 EndChar
 
@@ -785,6 +792,7 @@ SplineSet
  404 662 413 667 429 688 c 1
  438 681 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" five.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" five.onum
 EndChar
 
@@ -815,6 +823,7 @@ SplineSet
  127 114 175 14 269 14 c 0
  341 14 378 86 378 188 c 0
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" six.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" six.onum
 EndChar
 
@@ -838,6 +847,7 @@ SplineSet
  449 662 l 1
  449 646 l 1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" seven.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" seven.onum
 EndChar
 
@@ -872,6 +882,7 @@ SplineSet
  324 14 369 59 369 124 c 0xe4
  369 186 338.953 225.931 271 272 c 2
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" eight.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" eight.onum
 EndChar
 
@@ -903,6 +914,7 @@ SplineSet
  122 355 170 280 245 280 c 0
  289 280 362 302 362 355 c 2
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup-1" nine.arabic
 Substitution2: "'onum' Oldstyle Figures lookup-1" nine.onum
 EndChar
 
@@ -131006,7 +131018,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57392
+StartChar: zero.arabic
 Encoding: 1632 1632 3766
 Width: 533
 Flags: W
@@ -131023,7 +131035,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57393
+StartChar: one.arabic
 Encoding: 1633 1633 3767
 Width: 533
 Flags: W
@@ -131043,7 +131055,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57394
+StartChar: two.arabic
 Encoding: 1634 1634 3768
 Width: 533
 Flags: W
@@ -131071,7 +131083,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57395
+StartChar: three.arabic
 Encoding: 1635 1635 3769
 Width: 533
 Flags: W
@@ -131105,7 +131117,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57396
+StartChar: four.arabic
 Encoding: 1636 1636 3770
 Width: 533
 Flags: W
@@ -131135,7 +131147,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57397
+StartChar: five.arabic
 Encoding: 1637 1637 3771
 Width: 533
 Flags: W
@@ -131159,7 +131171,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57398
+StartChar: six.arabic
 Encoding: 1638 1638 3772
 Width: 533
 Flags: W
@@ -131190,7 +131202,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57399
+StartChar: seven.arabic
 Encoding: 1639 1639 3773
 Width: 533
 Flags: W
@@ -131215,7 +131227,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57400
+StartChar: eight.arabic
 Encoding: 1640 1640 3774
 Width: 533
 Flags: W
@@ -131238,7 +131250,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57401
+StartChar: nine.arabic
 Encoding: 1641 1641 3775
 Width: 533
 Flags: W
@@ -131267,7 +131279,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57381
+StartChar: percent.arabic
 Encoding: 1642 1642 3776
 Width: 608
 Flags: W
