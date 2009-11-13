@@ -130,7 +130,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 714 17 7
+WinInfo: 765 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -413,7 +413,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: parenleft parenleft.alt01 parenleft.alt02 parenleft.alt03 parenleft.alt04
-GlyphCompositionVertical: 3  uni239D%0,0,335,1005 uni239C%1,337,337,1010 uni239B%0,335,0,1005
+GlyphCompositionVertical: 3  uni239D%0,0,150,1005 uni239C%1,150,150,1010 uni239B%0,150,0,1005
 HStem: 656 20<295 295>
 VStem: 48 86<167 344.5>
 LayerCount: 2
@@ -438,7 +438,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: parenright parenright.alt01 parenright.alt02 parenright.alt03 parenright.alt04
-GlyphCompositionVertical: 3  uni23A0%0,0,335,1005 uni239F%1,337,337,1010 uni239E%0,335,0,1005
+GlyphCompositionVertical: 3  uni23A0%0,0,150,1005 uni239F%1,150,150,1010 uni239E%0,150,0,1005
 HStem: 656 20<41 41>
 VStem: 199 86<154.5 332 154.5 337.5>
 LayerCount: 2
@@ -2034,7 +2034,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: bracketleft bracketleft.alt01 bracketleft.alt02 bracketleft.alt03 bracketleft.alt04
-GlyphCompositionVertical: 3  uni23A3%0,0,335,1005 uni23A2%1,337,337,1010 uni23A1%0,335,0,1005
+GlyphCompositionVertical: 3  uni23A3%0,0,950,1005 uni23A2%1,500,500,1010 uni23A1%0,950,0,1005
 HStem: -156 25<216 299 216 299> 637 25<199 216 216 299>
 VStem: 88 76<-97 -77 -77 589>
 LayerCount: 2
@@ -2081,7 +2081,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: bracketright bracketright.alt01 bracketright.alt02 bracketright.alt03 bracketright.alt04
-GlyphCompositionVertical: 3  uni23A6%0,0,335,1005 uni23A5%1,337,337,1010 uni23A4%0,335,0,1005
+GlyphCompositionVertical: 3  uni23A6%0,0,950,1005 uni23A5%1,500,500,1010 uni23A4%0,950,0,1005
 HStem: -156 25<34 122 122 139.5 34 245 34 122> 637 25<34 118 34 245>
 VStem: 169 76<-85 583 583 600.5>
 LayerCount: 2
@@ -3120,7 +3120,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: braceleft braceleft.alt01 braceleft.alt02 braceleft.alt03 braceleft.alt04
-GlyphCompositionVertical: 5  uni23A9%0,0,335,1005 uni23AA%1,337,337,1010 uni23A8%0,337,337,1010 uni23AA%1,337,337,1010 uni23A7%0,335,0,1005
+GlyphCompositionVertical: 5  uni23A9%0,0,600,1005 uni23AA%1,600,200,1010 uni23A8%0,200,200,1010 uni23AA%1,200,600,1010 uni23A7%0,600,0,1005
 HStem: 660 20<350 350>
 VStem: 185 74<-41 121 363 378 378 541 541 546>
 LayerCount: 2
@@ -3153,7 +3153,7 @@ Encoding: 124 124 93
 Width: 200
 GlyphClass: 2
 Flags: MW
-GlyphCompositionVertical: 2  bar%0,230,230,690 bar%1,230,230,690
+GlyphCompositionVertical: 2  bar%1,0,600,690 bar%1,600,0,690
 HStem: -14 20 656 20<67 133 133 133>
 VStem: 67 66<-14 676>
 LayerCount: 2
@@ -3174,7 +3174,7 @@ GlyphClass: 2
 Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: braceright braceright.alt01 braceright.alt02 braceright.alt03 braceright.alt04
-GlyphCompositionVertical: 5  uni23AD%0,0,335,1005 uni23AA%1,337,337,1010 uni23AC%0,337,337,1010 uni23AA%1,337,337,1010 uni23AB%0,335,0,1005
+GlyphCompositionVertical: 5  uni23AD%0,0,600,1005 uni23AA%1,600,200,1010 uni23AC%0,200,200,1010 uni23AA%1,200,600,1010 uni23AB%0,600,0,1005
 HStem: 660 20<130 130>
 VStem: 221 74<-47 -42 -42 121 121 136 378 540>
 LayerCount: 2
@@ -28163,7 +28163,7 @@ Encoding: 8214 8214 797
 Width: 523
 GlyphClass: 2
 Flags: MW
-GlyphCompositionVertical: 2  uni2016%0,293,293,879 uni2016%1,293,293,879
+GlyphCompositionVertical: 2  uni2016%1,0,800,879 uni2016%1,800,0,879
 VStem: 129 66<-189 690> 328 66<-189 690>
 LayerCount: 2
 Fore
