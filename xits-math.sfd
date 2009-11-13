@@ -131298,11 +131298,11 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: afii57381
+StartChar: percent.arabic
 Encoding: 1642 1642 3776
 Width: 608
 VWidth: 1060
-Flags: WO
+Flags: W
 VStem: 63 132<588.048 671.714> 414 132<-32.1027 52.8468>
 DStem2: 116 -108 164 -108 0.355949 0.934505<17.0856 907.432>
 LayerCount: 2
