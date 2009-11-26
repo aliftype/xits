@@ -1,9 +1,13 @@
-This is an experimental OpenType math font font based on
-He-Who-Must-Not-Be-Named math fonts.
+This is an OpenType math font font based on He-Who-Must-Not-Be-Named
+math fonts.
 
-The ultimate goal of the font is to develop a math font suitable
-for Arabic math typesetting, mainly for LuaTeX engine, and a usable
-Times-like math font as a side effect.
+The font is highly experimental, there is no guarantee it will work for
+you, bug reports are welcomed.
+
+The font is used mainly as a playground to explore the possibilities
+of Arabic right-to-left math typesetting and OpenType math fonts. As
+the time of writing this, only LuaTeX (ConTeXt MkIV macro package)
+is capable of typesetting right-to-left math using OpenType fonts.
 
 The font is distributed under OFL 1.1.
 
@@ -11,3 +15,4 @@ Khaled Hosny
 khaledhosny@eglug.org
 
 03 Nov. 2009
+
