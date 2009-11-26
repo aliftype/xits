@@ -14,7 +14,6 @@ Descent: 250
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 27 160335056 7645198]
 UniqueID: 4138406
 FSType: 0
@@ -22,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1259242904
+ModificationTime: 1259243384
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -130,7 +129,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 3672 17 7
+WinInfo: 884 17 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -140,7 +139,7 @@ StemSnapH 31 [26 29 33 38 43 49 53 56 59 63]
 StemSnapV 31 [39 43 48 52 56 59 66 73 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114558 3779
+BeginChars: 1114560 3781
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -31703,6 +31702,7 @@ SplineSet
  265 -201 l 1
  550 252 l 1
 EndSplineSet
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2140.rtl
 Colour: ff0000
 EndChar
 
@@ -116552,6 +116552,7 @@ SplineSet
  340 136 l 1
  734 774 l 1
 EndSplineSet
+Substitution2: "'rtlm' Right to Left mirrored forms-1" uni2140.alt01.rtl
 EndChar
 
 StartChar: uni220F.alt01
@@ -131410,6 +131411,68 @@ VStem: 199 53<316.562 417.816>
 LayerCount: 2
 Fore
 Refer: 3777 1643 N 1 0 0 1 44 362 2
+EndChar
+
+StartChar: uni2140.rtl
+Encoding: 1114558 -1 3779
+Width: 923
+Flags: HW
+HStem: -259 58<678 814 61 611 882 882> 705 58<176 882 812 812 671 812 606 606 176 606>
+LayerCount: 2
+Fore
+SplineSet
+61 -259 m 1
+ 882 -259 l 1
+ 882 -201 l 1
+ 598 252 l 1
+ 882 705 l 1
+ 882 763 l 1
+ 176 763 l 1
+ 176 705 l 1
+ 606 705 l 1
+ 327 252 l 1
+ 611 -201 l 1
+ 61 -201 l 1
+ 61 -259 l 1
+393 252 m 1
+ 671 705 l 1
+ 812 705 l 1
+ 534 252 l 1
+ 814 -201 l 1
+ 678 -201 l 1
+ 393 252 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2140.alt01.rtl
+Encoding: 1114559 -1 3780
+Width: 1259
+Flags: HW
+HStem: 50 86<919 1106 55 820 1204 1204> 1414 86<214 1201 1101 1101 908 1101 810 810 214 810>
+LayerCount: 2
+Fore
+SplineSet
+55 50 m 1
+ 1204 50 l 1
+ 1204 136 l 1
+ 807 774 l 1
+ 1201 1414 l 1
+ 1201 1500 l 1
+ 214 1500 l 1
+ 214 1414 l 1
+ 810 1414 l 1
+ 425 774 l 1
+ 820 136 l 1
+ 55 136 l 1
+ 55 50 l 1
+525 774 m 1
+ 908 1414 l 1
+ 1101 1414 l 1
+ 708 774 l 1
+ 1106 136 l 1
+ 919 136 l 1
+ 525 774 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
