@@ -1,5 +1,5 @@
 SplineFontDB: 3.0
-FontName: XITSMath
+FontName: XITS-Math
 FullName: XITS Math
 FamilyName: XITS Math
 Weight: Book
@@ -7,8 +7,8 @@ Copyright: Copyright (c) 2001-2007 by the STI Pub Companies, consisting of the A
 Version: 0.10
 DefaultBaseFilename: xits-math
 ItalicAngle: 0
-UnderlinePosition: -50
-UnderlineWidth: 100
+UnderlinePosition: -125
+UnderlineWidth: 50
 Ascent: 750
 Descent: 250
 LayerCount: 2
@@ -25,21 +25,21 @@ ModificationTime: 1259271386
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 150
+LineGap: 566
 VLineGap: 0
 Panose: 2 4 5 3 5 4 6 3 2 3
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
-OS2TypoLinegap: 150
+OS2TypoAscent: 750
+OS2TypoAOffset: 0
+OS2TypoDescent: -256
+OS2TypoDOffset: 0
+OS2TypoLinegap: 466
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: 750
+HheadAscent: 683
 HheadAOffset: 0
-HheadDescent: -250
+HheadDescent: -217
 HheadDOffset: 0
 OS2SubXSize: 500
 OS2SubYSize: 500
