@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1259271386
+ModificationTime: 1259734276
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +59,7 @@ Lookup: 3 0 0 "'ssty' Script Style lookup"  {"'ssty' Script Style lookup-1"  } [
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup"  {"'liga' Standard Ligatures lookup-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms lookup"  {"'dtls' Dotless Forms lookup-1"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms"  {"'rtlm' Right to Left mirrored forms-1" ("rtl" ) } ['rtlm' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms lookup"  {"'locl' Localized Forms lookup-1" ("arabic" ) } ['locl' ('DFLT' <'dflt' > 'arab' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms lookup"  {"'locl' Localized Forms lookup-1" ("arabic" ) } ['locl' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "OFL 1.1" "http://www.stixfonts.org/user_license.html" 
