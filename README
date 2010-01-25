@@ -1,18 +1,26 @@
 This is an OpenType math font font based on He-Who-Must-Not-Be-Named
 math fonts.
 
-The font is highly experimental, there is no guarantee it will work for
-you, bug reports are welcomed.
+The final release of this font shall support both Latin-based, left to
+right and Arabic-based right to left math typesetting.
 
-The font is used mainly as a playground to explore the possibilities
-of Arabic right-to-left math typesetting and OpenType math fonts. As
-the time of writing this, only LuaTeX (ConTeXt MkIV macro package)
-is capable of typesetting right-to-left math using OpenType fonts.
+Though the font is in early development stages, then Latin-based part is
+more or less done and once He-Who-Must-Not-Be-Named first release is out,
+we'll be preparing an initial release of this font. Bug reports are very
+appreciated.
 
-The font is distributed under OFL 1.1.
+The Arabic-based part is still experimental and serves as a test bed for
+exploring high quality Arabic mathematical typesetting. Input and idea
+are highly appreciated.
+
+The font is based on beta release He-Who-Must-Not-Be-Named fonts
+distributed by Mozilla, though the license is quite free, it is in free
+enough to allow derivative work in a practical way. However, the final
+release is planed to be under OFL, based on this this font is distributed
+under OFL 1.1, hopping nobody is going to sue me.
 
 Khaled Hosny
 khaledhosny@eglug.org
 
-03 Nov. 2009
+25 Jan. 2010
 
