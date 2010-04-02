@@ -11,6 +11,7 @@ UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 750
 Descent: 250
+Descent: 250
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
@@ -21,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1193770406
-ModificationTime: 1259734276
+ModificationTime: 1270230607
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,8 +63,8 @@ Lookup: 1 0 0 "'rtlm' Right to Left mirrored forms"  {"'rtlm' Right to Left mirr
 Lookup: 1 0 0 "'locl' Localized Forms lookup"  {"'locl' Localized Forms lookup-1" ("arabic" ) } ['locl' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "OFL 1.1" "http://www.stixfonts.org/user_license.html" 
-GaspTable: 1 65535 15
+LangName: 1033 "" "" "Regular" "" "" "" "" "STIX Fonts (TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "The STI Pub group of companies:  American Chemical Society, American Institute of Physics, American Mathematical Society, American Physical Society, Elsevier, Inc., and Institute of Electrical and Electronics Engineers, Inc." "MicroPress, Inc. (http://www.micropress-inc.com/), with final additions and corrections provided by Coen Hofmann, typographical designer" "" "http://www.stixfonts.org" "http://www.micropress-inc.com" "OFL 1.1" "http://www.stixfonts.org/user_license.html" "" "XITS Math" "Regular" 
+GaspTable: 1 65535 3
 OtfFeatName: 'ss01'  1033 "Upright Integrals" 
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
