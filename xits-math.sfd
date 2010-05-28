@@ -60,13 +60,70 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "Copyright (c) 2001-2010 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright (c) 1990 by Elsevier, Inc. All rights reserved." "" "" "" "" "Version 1.0.0" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
+MATH:ScriptPercentScaleDown: 75
+MATH:ScriptScriptPercentScaleDown: 60
+MATH:DelimitedSubFormulaMinHeight: 1500
+MATH:DisplayOperatorMinHeight: 1450
+MATH:MathLeading: 150 
+MATH:AxisHeight: 250 
+MATH:AccentBaseHeight: 450 
+MATH:FlattenedAccentBaseHeight: 662 
+MATH:SubscriptShiftDown: 250 
+MATH:SubscriptTopMax: 400 
+MATH:SubscriptBaselineDropMin: 50 
+MATH:SuperscriptShiftUp: 400 
+MATH:SuperscriptShiftUpCramped: 275 
+MATH:SuperscriptBottomMin: 125 
+MATH:SuperscriptBaselineDropMax: 375 
+MATH:SubSuperscriptGapMin: 200 
+MATH:SuperscriptBottomMaxWithSubscript: 400 
+MATH:SpaceAfterScript: 41 
+MATH:UpperLimitGapMin: 150 
+MATH:UpperLimitBaselineRiseMin: 300 
+MATH:LowerLimitGapMin: 150 
+MATH:LowerLimitBaselineDropMin: 600 
+MATH:StackTopShiftUp: 480 
+MATH:StackTopDisplayStyleShiftUp: 580 
+MATH:StackBottomShiftDown: 800 
+MATH:StackBottomDisplayStyleShiftDown: 900 
+MATH:StackGapMin: 150 
+MATH:StackDisplayStyleGapMin: 350 
+MATH:StretchStackTopShiftUp: 300 
+MATH:StretchStackBottomShiftDown: 600 
+MATH:StretchStackGapAboveMin: 150 
+MATH:StretchStackGapBelowMin: 150 
+MATH:FractionNumeratorShiftUp: 480 
+MATH:FractionNumeratorDisplayStyleShiftUp: 580 
+MATH:FractionDenominatorShiftDown: 480 
+MATH:FractionDenominatorDisplayStyleShiftDown: 580 
+MATH:FractionNumeratorGapMin: 50 
+MATH:FractionNumeratorDisplayStyleGapMin: 150 
+MATH:FractionRuleThickness: 50 
+MATH:FractionDenominatorGapMin: 50 
+MATH:FractionDenominatorDisplayStyleGapMin: 150 
+MATH:SkewedFractionHorizontalGap: 300 
+MATH:SkewedFractionVerticalGap: 50 
+MATH:OverbarVerticalGap: 150 
+MATH:OverbarRuleThickness: 50 
+MATH:OverbarExtraAscender: 50 
+MATH:UnderbarVerticalGap: 150 
+MATH:UnderbarRuleThickness: 50 
+MATH:UnderbarExtraDescender: 50 
+MATH:RadicalVerticalGap: 50 
+MATH:RadicalDisplayStyleVerticalGap: 175 
+MATH:RadicalRuleThickness: 66 
+MATH:RadicalExtraAscender: 50 
+MATH:RadicalKernBeforeDegree: 277 
+MATH:RadicalKernAfterDegree: -555 
+MATH:RadicalDegreeBottomRaisePercent: 60
+MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 120816 48 16
+WinInfo: 119616 48 16
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
