@@ -126,7 +126,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114392 12 7
+WinInfo: 1114080 12 7
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -3071,7 +3071,7 @@ StartChar: bar
 Encoding: 124 124 93
 Width: 200
 Flags: MW
-GlyphCompositionVertical: 2  bar%1,0,600,690 bar%1,600,0,690
+GlyphCompositionVertical: 2  bar%0,0,600,690 bar%1,600,0,690
 HStem: -14 20 656 20<67 133 133 133>
 VStem: 67 66<-14 676>
 LayerCount: 2
