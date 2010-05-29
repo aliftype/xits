@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275158872
+ModificationTime: 1275160036
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -124,7 +124,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114224 24 10
+WinInfo: 1114248 24 10
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
@@ -134,7 +134,7 @@ StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114474 3652
+BeginChars: 1114476 3654
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -36903,6 +36903,7 @@ Encoding: 8730 8730 1072
 Width: 928
 Flags: W
 GlyphVariantsVertical: uni221A uni221A.size1 uni221A.size2 uni221A.size3
+GlyphCompositionVertical: 3  uni221A.base%0,618,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,209,626
 LayerCount: 2
 Fore
 SplineSet
@@ -36927,6 +36928,7 @@ Encoding: 8731 8731 1073
 Width: 928
 Flags: MW
 GlyphVariantsVertical: uni221B uni221B.size1 uni221B.size2 uni221B.size3
+GlyphCompositionVertical: 3  uni221B.base%0,618,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,209,626
 HStem: 495 24<373 379.5> 816 30<359.5 387.5>
 VStem: 426 40<765 781.5> 446 47<574.5 610.5>
 LayerCount: 2
@@ -36971,6 +36973,7 @@ Encoding: 8732 8732 1074
 Width: 928
 Flags: MW
 GlyphVariantsVertical: uni221C uni221C.size1 uni221C.size2 uni221C.size3
+GlyphCompositionVertical: 3  uni221C.base%0,618,618,1855 uni221A.ex%1,212,212,635 uni221A.top%0,209,209,626
 HStem: 583 41<283 403 261 261 451 503>
 VStem: 403 48<499 583 499 583 624 789 789 789>
 LayerCount: 2
@@ -119867,7 +119870,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni221A.size4
+StartChar: uni221A.base
 Encoding: 1114418 -1 3596
 Width: 1184
 Flags: MW
@@ -119891,7 +119894,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni221B.size4
+StartChar: uni221B.base
 Encoding: 1114419 -1 3597
 Width: 1184
 Flags: MW
@@ -119935,7 +119938,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni221C.size4
+StartChar: uni221C.base
 Encoding: 1114420 -1 3598
 Width: 1184
 Flags: MW
@@ -121182,6 +121185,41 @@ SplineSet
  2924 630 l 1
  3164 842 l 1
  3164 790 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni221A.ex
+Encoding: 1114474 -1 3652
+Width: 1184
+Flags: W
+VStem: 829 66<-25 610>
+LayerCount: 2
+Fore
+SplineSet
+895 -25 m 1
+ 829 -25 l 1
+ 829 610 l 1
+ 895 610 l 1
+ 895 -25 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni221A.top
+Encoding: 1114475 -1 3653
+Width: 1184
+Flags: W
+HStem: 601 66<895 1211 895 895>
+VStem: 829 66<41 601 41 667>
+LayerCount: 2
+Fore
+SplineSet
+1211 601 m 1
+ 895 601 l 1
+ 895 41 l 1
+ 829 41 l 1
+ 829 667 l 1
+ 1211 667 l 1
+ 1211 601 l 1
 EndSplineSet
 EndChar
 EndChars
