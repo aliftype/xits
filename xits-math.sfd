@@ -5,6 +5,7 @@ FamilyName: XITS
 Weight: Regular
 Copyright: Copyright (c) 2001-2010 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  All rights reserved.
 Version: Version 1.0
+DefaultBaseFilename: xits-math
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
@@ -14,7 +15,6 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 862 584604386 11015597]
 UniqueID: 4164958
 FSType: 0
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275092841
+ModificationTime: 1275094051
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -124,7 +124,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114128 24 10
+WinInfo: 1114320 24 10
 BeginPrivate: 7
 BlueValues 23 [-14 0 450 460 662 676]
 BlueScale 8 0.039625
