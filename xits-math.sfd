@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275170130
+ModificationTime: 1275238180
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -127,14 +127,15 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 1114080 12 7
-BeginPrivate: 7
-BlueValues 23 [-14 0 450 460 662 676]
+BeginPrivate: 8
+BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
 StdHW 4 [66]
 StdVW 4 [66]
 StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
+OtherBlues 11 [-218 -217]
 EndPrivate
 BeginChars: 1114516 3693
 
