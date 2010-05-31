@@ -28559,7 +28559,7 @@ StartChar: uni2016
 Encoding: 8214 8214 827
 Width: 523
 Flags: MW
-GlyphCompositionVertical: 2  uni2016%1,0,800,879 uni2016%1,800,0,879
+GlyphCompositionVertical: 2  uni2016%0,0,800,879 uni2016%1,800,0,879
 VStem: 129 66<-189 690> 328 66<-189 690>
 LayerCount: 2
 Fore
