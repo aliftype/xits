@@ -1,0 +1,30 @@
+
+\startmode[xits]
+\usetypescript[xits]
+\setupbodyfont[xits]
+\stopmode
+\startmode[cambria]
+\usetypescript[cambria]
+\setupbodyfont[cambria]
+\stopmode
+
+\def\THEFORMULA
+  {\left\Vert\left\vert \frac12 \right\vert \right\Vert}
+
+\starttext
+
+\startTEXpage
+
+$$\THEFORMULA $$
+
+\stopTEXpage
+
+\stoptext
+
+\usemodule[fnt-25]
+
+\starttext
+   \showmathfontcharacters
+\stoptext
+
+
