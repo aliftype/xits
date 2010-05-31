@@ -1,0 +1,28 @@
+
+\usemodule[fnt-25]
+
+\startmode[xits]
+\usetypescript[xits]
+\setupbodyfont[xits]
+\stopmode
+\startmode[cambria]
+\usetypescript[cambria]
+\setupbodyfont[cambria]
+\stopmode
+
+\def\THEFORMULA
+  {\hat{a}\qquad \widehat{a}\qquad
+   \hat{aaa}\qquad \widehat{aaa}\qquad
+   \hat{aaaaaaaa}\qquad \widehat{aaaaaaaa}}
+
+\starttext
+
+$\THEFORMULA $
+
+\blank
+
+\showmathfontcharacters[][0x2C6,0xFE302]
+
+\stoptext
+
+
