@@ -87,7 +87,6 @@ ChangeLog
      positive with we should do the same.
 - Fix variants of long combining slash (U+0338):
      They are vertical not horizontal variants.
-- Remove unused slots
 - More italic correction:
      Covers most lower case letters now.
 - Italic correction:
@@ -116,7 +115,6 @@ ChangeLog
 - Mark extended shapes
 - Italic corection of text integrals
 - Map horizontal variants
-- Add generated file to the repository
 - Add italic correction to display integrals
 - Add the rest of vertical variants
 - Add vertical variants of integral symbols
