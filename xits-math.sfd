@@ -126,7 +126,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114404 12 7
+WinInfo: 1114368 12 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -20469,7 +20469,7 @@ Encoding: 824 824 597
 Width: 0
 Flags: MW
 TopAccentHorizontal: -174
-GlyphVariantsHorizontal: uni0338 uni0338.size1 uni0338.size2 uni0338.size3 uni0338.size4 uni0338.size5
+GlyphVariantsVertical: uni0338 uni0338.size1 uni0338.size2 uni0338.size3 uni0338.size4 uni0338.size5
 HStem: 642 20<-23 31 31 31>
 LayerCount: 2
 Fore
