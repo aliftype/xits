@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275654727
+ModificationTime: 1275655598
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,6 +59,7 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0"  {"'liga' Standard L
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1"  {"'liga' Standard Ligatures in Latin lookup 1 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
 Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 2"  {"'onum' Oldstyle Figures lookup 2-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 3"  {"'frac' Diagonal Fractions lookup 3-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'ssty' Script Style lookup 4"  {"'ssty' Script Style lookup 4-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -126,7 +127,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114320 12 7
+WinInfo: 1114416 12 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -137,7 +138,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114484 3693
+BeginChars: 1114491 3700
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -28740,6 +28741,7 @@ SplineSet
  94 402 l 1
  75 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2032.ssty
 EndChar
 
 StartChar: uni2033
@@ -28765,6 +28767,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2033.ssty
 EndChar
 
 StartChar: uni2034
@@ -28797,6 +28800,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2034.ssty
 EndChar
 
 StartChar: uni2035
@@ -28815,6 +28819,7 @@ SplineSet
  132 678 140 656 147 632 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2035.ssty
 EndChar
 
 StartChar: uni2036
@@ -28840,6 +28845,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2036.ssty
 EndChar
 
 StartChar: uni2037
@@ -28872,6 +28878,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2037.ssty
 EndChar
 
 StartChar: uni2038
@@ -29331,6 +29338,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2057.ssty
 EndChar
 
 StartChar: uni205F
@@ -122329,6 +122337,188 @@ SplineSet
  133 161 181 64 294 64 c 0
  324 64 348 73 371 82 c 1
  385 131 388 162 388 196 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2032.ssty
+Encoding: 1114484 -1 3693
+Width: 340
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+78 28 m 1
+ 44 40 l 1
+ 70 163 133 438 151 496 c 0
+ 167 547 197 565 227 565 c 0
+ 263 565 295 543 295 494 c 0
+ 295 483 290 459 285 447 c 0
+ 264 390 139 141 78 28 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2033.ssty
+Encoding: 1114485 -1 3694
+Width: 605
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+343 28 m 1
+ 309 40 l 1
+ 335 163 396 438 414 496 c 0
+ 430 547 463 565 493 565 c 0
+ 529 565 561 543 561 494 c 0
+ 561 483 555 459 550 447 c 0
+ 529 390 404 141 343 28 c 1
+76 28 m 1
+ 43 40 l 1
+ 69 163 133 438 150 496 c 0
+ 165 547 197 565 227 565 c 0
+ 263 565 295 543 295 494 c 0
+ 295 483 289 459 284 447 c 0
+ 262 390 138 141 76 28 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2034.ssty
+Encoding: 1114486 -1 3695
+Width: 873
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+610 28 m 1
+ 577 40 l 1
+ 603 163 667 438 684 496 c 0
+ 699 547 731 565 761 565 c 0
+ 797 565 829 543 829 494 c 0
+ 829 483 823 459 818 447 c 0
+ 796 390 672 141 610 28 c 1
+343 28 m 1
+ 310 40 l 1
+ 336 163 400 438 417 496 c 0
+ 432 547 464 565 494 565 c 0
+ 530 565 562 543 562 494 c 0
+ 562 483 556 459 551 447 c 0
+ 529 390 405 141 343 28 c 1
+76 28 m 1
+ 43 40 l 1
+ 69 163 133 438 150 496 c 0
+ 165 547 197 565 227 565 c 0
+ 263 565 295 543 295 494 c 0
+ 295 483 289 459 284 447 c 0
+ 262 390 138 141 76 28 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2035.ssty
+Encoding: 1114487 -1 3696
+Width: 340
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+296 40 m 1
+ 262 28 l 1
+ 201 141 76 390 55 447 c 0
+ 50 459 45 483 45 494 c 0
+ 45 543 77 565 113 565 c 0
+ 143 565 173 547 189 496 c 0
+ 207 438 270 163 296 40 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2036.ssty
+Encoding: 1114488 -1 3697
+Width: 605
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+561 40 m 1
+ 528 28 l 1
+ 466 141 342 390 320 447 c 0
+ 315 459 310 483 310 494 c 0
+ 310 543 342 565 378 565 c 0
+ 408 565 439 547 454 496 c 0
+ 471 438 535 163 561 40 c 1
+295 40 m 1
+ 261 28 l 1
+ 200 141 75 390 54 447 c 0
+ 49 459 44 483 44 494 c 0
+ 44 543 76 565 112 565 c 0
+ 142 565 175 547 191 496 c 0
+ 209 438 269 163 295 40 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2037.ssty
+Encoding: 1114489 -1 3698
+Width: 873
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+829 40 m 1
+ 796 28 l 1
+ 734 141 610 390 588 447 c 0
+ 583 459 577 483 577 494 c 0
+ 577 543 609 565 645 565 c 0
+ 675 565 707 547 722 496 c 0
+ 739 438 803 163 829 40 c 1
+562 40 m 1
+ 529 28 l 1
+ 467 141 343 390 321 447 c 0
+ 316 459 310 483 310 494 c 0
+ 310 543 342 565 378 565 c 0
+ 408 565 440 547 455 496 c 0
+ 472 438 536 163 562 40 c 1
+295 40 m 1
+ 262 28 l 1
+ 200 141 76 390 54 447 c 0
+ 49 459 43 483 43 494 c 0
+ 43 543 75 565 111 565 c 0
+ 141 565 173 547 188 496 c 0
+ 205 438 269 163 295 40 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni2057.ssty
+Encoding: 1114490 -1 3699
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+877 28 m 1
+ 844 40 l 1
+ 870 163 934 438 951 496 c 0
+ 966 547 998 565 1028 565 c 0
+ 1064 565 1096 543 1096 494 c 0
+ 1096 483 1090 459 1085 447 c 0
+ 1063 390 939 141 877 28 c 1
+610 28 m 1
+ 577 40 l 1
+ 603 163 667 438 684 496 c 0
+ 699 547 731 565 761 565 c 0
+ 797 565 829 543 829 494 c 0
+ 829 483 823 459 818 447 c 0
+ 796 390 672 141 610 28 c 1
+343 28 m 1
+ 310 40 l 1
+ 336 163 400 438 417 496 c 0
+ 432 547 464 565 494 565 c 0
+ 530 565 562 543 562 494 c 0
+ 562 483 556 459 551 447 c 0
+ 529 390 405 141 343 28 c 1
+76 28 m 1
+ 43 40 l 1
+ 69 163 133 438 150 496 c 0
+ 165 547 197 565 227 565 c 0
+ 263 565 295 543 295 494 c 0
+ 295 483 289 459 284 447 c 0
+ 262 390 138 141 76 28 c 1
 EndSplineSet
 EndChar
 EndChars
