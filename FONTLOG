@@ -1,0 +1,141 @@
+
+FONTLOG for XITS
+-------------------
+This file provides detailed information on the XITS font software.
+This information should be distributed along with the XITS fonts
+and any derivative works.
+
+
+Basic Font Information
+--------------------------
+XITS is a Times-like typeface for mathematical and scientific publishing,
+based on STIX fonts project. The main mission of XITS is to provide a version
+of STIX fonts enriched with the OpenType MATH extension, making it suitable
+for high quality mathematic typesetting with OpenType MATH capable layout
+systems, like MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
+
+XITS development is currently hosted on:
+
+http://github.com/khaledhosny/xits-math
+
+Feature requests, bug reports and patches should be directed to our issue
+tracker.
+
+XITS currently provides the following Unicode coverage:
+Alphabetic Presentation Forms: 5/80 (6.25%)
+Arrows: 103/112 (91.96%)
+Basic Latin: 95/128 (74.22%)
+Block Elements: 8/32 (25.00%)
+Box Drawing: 45/128 (35.16%)
+CJK Symbols and Punctuation: 2/64 (3.12%)
+Combining Diacritical Marks: 71/112 (63.39%)
+Combining Diacritical Marks for Symbols: 24/48 (50.00%)
+Control Pictures: 1/64 (1.56%)
+Currency Symbols: 4/48 (8.33%)
+Cyrillic: 102/256 (39.84%)
+Dingbats: 30/192 (15.62%)
+Enclosed Alphanumerics: 62/160 (38.75%)
+General Punctuation: 46/112 (41.07%)
+Geometric Shapes: 96/96 (100.00%)
+Greek and Coptic: 93/144 (64.58%)
+Hiragana: 1/96 (1.04%)
+IPA Extensions: 91/96 (94.79%)
+Latin Extended Additional: 8/256 (3.12%)
+Latin Extended-A: 128/128 (100.00%)
+Latin Extended-B: 37/208 (17.79%)
+Latin Extended-D: 1/224 (0.45%)
+Latin-1 Supplement: 96/128 (75.00%)
+Letterlike Symbols: 60/80 (75.00%)
+Mathematical Alphanumeric Symbols: 994/1024 (97.07%)
+Mathematical Operators: 256/256 (100.00%)
+Miscellaneous Mathematical Symbols-A: 43/48 (89.58%)
+Miscellaneous Mathematical Symbols-B: 128/128 (100.00%)
+Miscellaneous Symbols: 54/256 (21.09%)
+Miscellaneous Symbols and Arrows: 64/256 (25.00%)
+Miscellaneous Technical: 90/256 (35.16%)
+Number Forms: 12/64 (18.75%)
+Phonetic Extensions: 3/128 (2.34%)
+Phonetic Extensions Supplement: 6/64 (9.38%)
+Spacing Modifier Letters: 60/80 (75.00%)
+Specials: 1/16 (6.25%)
+Superscripts and Subscripts: 1/48 (2.08%)
+Supplemental Arrows-A: 16/16 (100.00%)
+Supplemental Arrows-B: 128/128 (100.00%)
+Supplemental Mathematical Operators: 256/256 (100.00%)
+
+
+Information for Contributors
+------------------------------
+XITS is released under the OFL 1.1 - http://scripts.sil.org/OFL
+For information on what you're allowed to change or modify, consult the
+OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
+rationale and various recommendations regarding why you would want to
+contribute to the project or make your own version of the font.
+
+See the project website for the current trunk and the various branches:
+http://openfontlibrary.org/projects/foo-font
+
+
+ChangeLog
+----------
+4 Jun 2010 (Khaled Hosny) <XITS Math> Version 1.0
+- Initial release of "XITS Math"
+- Add sub/superscript variants of primes
+- Fix displaced \widehat and sisters:
+     The original STIX glyphs for wide variants of combining marks have zero
+     width, this breaks its horizontal positioning, and since Cambria ones have
+     positive with we should do the same.
+- Fix variants of long combining slash (U+0338):
+     They are vertical not horizontal variants.
+- Remove unused slots
+- More italic correction:
+     Covers most lower case letters now.
+- Italic correction:
+     Add italic correction values to improve horizontal positioning of
+     sub/superscripts relative to many base glyphs.
+- Fix the vertical positions of \[over|under]brace:
+     The original STIX glyphs are swapped vertically (under taking position
+     of over and vice versa), but this seems to cause wrong placement with
+     ConTeXt.
+- Don't mark poth parts of \Vert extensible
+- Ask FontForge to guess the BlueValues:
+     Taco suggests this would fix the bad hinting issue, since I didn't notice
+     any hinting issues, I'm not sure if this makes any difference.
+- Fix vertical bar composition:
+     LuaTeX complains about the lack of a fixed part.
+- Add 'frac' feature for text fractions
+- Add oldstyle numbers
+- Horizontal construction
+- More vertical contruction:
+     Covers most common cases now.
+- Add vertical variants of fraction slash:
+     STIX have no vertical variants of fraction slash, so I used slash variants
+     instead, hope it is OK.
+- Add radical vertical composition
+- Add horizontal top accent position values
+- Mark extended shapes
+- Italic corection of text integrals
+- Map horizontal variants
+- Add generated file to the repository
+- Add italic correction to display integrals
+- Add the rest of vertical variants
+- Add vertical variants of integral symbols
+- Initialize MATH table
+
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Khaled Hosny
+E: khaledhosny@eglug.org
+W: http://www.khaledhosny.org
+D: Engineer - OpenType MATH code
+
+N: STIX Fonts project
+E: fred@foobar.org
+W: http://www.stixfonts.org
+D: Original authors
+
