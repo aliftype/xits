@@ -15,7 +15,6 @@ for high quality mathematic typesetting with OpenType MATH capable layout
 systems, like MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
 
 XITS development is currently hosted on:
-
 http://github.com/khaledhosny/xits-math
 
 Feature requests, bug reports and patches should be directed to our issue
@@ -72,13 +71,14 @@ OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
 rationale and various recommendations regarding why you would want to
 contribute to the project or make your own version of the font.
 
-See the project website for the current trunk and the various branches:
-http://openfontlibrary.org/projects/foo-font
+See the project website for the current master and the various branches:
+http://github.com/khaledhosny/xits-math
 
 
 ChangeLog
 ----------
 4 Jun 2010 (Khaled Hosny) <XITS Math> Version 1.0
+- Edit various font metadata
 - Initial release of "XITS Math"
 - Add sub/superscript variants of primes
 - Fix displaced \widehat and sisters:
