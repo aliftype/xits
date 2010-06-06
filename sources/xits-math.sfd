@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275655598
+ModificationTime: 1275831659
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -57,8 +57,6 @@ OS2CodePages: a03f01ff.dfff0000
 OS2UnicodeRanges: a00002ff.4203fdff.02000020.00000000
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0"  {"'liga' Standard Ligatures in Latin lookup 0 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1"  {"'liga' Standard Ligatures in Latin lookup 1 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 2"  {"'onum' Oldstyle Figures lookup 2-1" ("onum" ) } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
-Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 3"  {"'frac' Diagonal Fractions lookup 3-1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 4"  {"'ssty' Script Style lookup 4-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -128,7 +126,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 12 7
+WinInfo: 1114416 12 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -607,7 +605,6 @@ SplineSet
  120 126 164 12 250 12 c 0
  335 12 380 127 380 325 c 0
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" zero.onum
 EndChar
 
 StartChar: one
@@ -634,7 +631,6 @@ SplineSet
  299 33 319 15 394 15 c 1
  394 0 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" one.onum
 EndChar
 
 StartChar: two
@@ -663,7 +659,6 @@ SplineSet
  406 76 427 87 460 143 c 1
  474 137 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" two.onum
 EndChar
 
 StartChar: three
@@ -697,7 +692,6 @@ SplineSet
  318 582 276 616 210 616 c 0
  148 616 102 584 61 510 c 1xe0
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" three.onum
 EndChar
 
 StartChar: four
@@ -726,7 +720,6 @@ SplineSet
  52 231 l 1
  292 231 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" four.onum
 EndChar
 
 StartChar: five
@@ -761,7 +754,6 @@ SplineSet
  404 662 413 667 429 688 c 1
  438 681 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" five.onum
 EndChar
 
 StartChar: six
@@ -790,7 +782,6 @@ SplineSet
  127 114 175 14 269 14 c 0
  341 14 378 86 378 188 c 0
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" six.onum
 EndChar
 
 StartChar: seven
@@ -812,7 +803,6 @@ SplineSet
  449 662 l 1
  449 646 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" seven.onum
 EndChar
 
 StartChar: eight
@@ -845,7 +835,6 @@ SplineSet
  324 14 369 59 369 124 c 0
  369 186 339 226 271 272 c 2xe4
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" eight.onum
 EndChar
 
 StartChar: nine
@@ -875,7 +864,6 @@ SplineSet
  122 355 170 280 245 280 c 0
  289 280 362 302 362 355 c 2
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 2-1" nine.onum
 EndChar
 
 StartChar: colon
@@ -4846,8 +4834,6 @@ SplineSet
  166 307 180 294 223 294 c 1
  223 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction four
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash four
 EndChar
 
 StartChar: onehalf
@@ -4894,8 +4880,6 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction two
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash two
 EndChar
 
 StartChar: threequarters
@@ -4948,8 +4932,6 @@ SplineSet
  217 676 264 640 264 593 c 0
  264 565 252 535 204 511 c 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three fraction four
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three slash four
 EndChar
 
 StartChar: questiondown
@@ -8276,8 +8258,6 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction eight
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash eight
 EndChar
 
 StartChar: threeeighths
@@ -8334,8 +8314,6 @@ SplineSet
  217 676 264 640 264 593 c 0
  264 565 252 535 204 511 c 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three fraction eight
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three slash eight
 EndChar
 
 StartChar: fiveeighths
@@ -8394,8 +8372,6 @@ SplineSet
  274 660 279 664 288 676 c 1
  307 664 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" five fraction eight
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" five slash eight
 EndChar
 
 StartChar: seveneighths
@@ -8443,8 +8419,6 @@ SplineSet
  321 660 l 1
  321 642 l 1x1480
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" seven fraction eight
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" seven slash eight
 EndChar
 
 StartChar: onethird
@@ -8494,8 +8468,6 @@ SplineSet
  159 307 173 294 216 294 c 1
  216 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction three
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash three
 EndChar
 
 StartChar: twothirds
@@ -8548,8 +8520,6 @@ SplineSet
  260 335 276 340 291 362 c 1
  309 355 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" two fraction three
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" two slash three
 EndChar
 
 StartChar: uni0100
@@ -32419,8 +32389,6 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction five
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash five
 EndChar
 
 StartChar: uni2156
@@ -32475,8 +32443,6 @@ SplineSet
  260 335 276 340 291 362 c 1
  309 355 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" two fraction five
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" two slash five
 EndChar
 
 StartChar: uni2157
@@ -32534,8 +32500,6 @@ SplineSet
  217 676 264 640 264 593 c 0
  264 565 252 535 204 511 c 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three fraction five
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" three slash five
 EndChar
 
 StartChar: uni2158
@@ -32590,8 +32554,6 @@ SplineSet
  59 418 l 1
  194 418 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" four fraction five
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" four slash five
 EndChar
 
 StartChar: uni2159
@@ -32635,8 +32597,6 @@ SplineSet
  160 307 174 294 217 294 c 1
  217 270 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one fraction six
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" one slash six
 EndChar
 
 StartChar: uni215A
@@ -32688,8 +32648,6 @@ SplineSet
  274 660 279 664 288 676 c 1
  307 664 l 1
 EndSplineSet
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" five fraction six
-Ligature2: "'frac' Diagonal Fractions lookup 3-1" five slash six
 EndChar
 
 StartChar: uni2190
