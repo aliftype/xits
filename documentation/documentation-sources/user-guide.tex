@@ -1,0 +1,76 @@
+\starttypescript [math] [xits] [name]
+  \definefontsynonym[MathRoman][name:xitsmath] [features=math\mathsizesuffix]
+\stoptypescript
+
+\starttypescript [serif] [xits] [name]
+  \definefontsynonym[Serif]          [name:xitsregular]    [features=default]
+  \definefontsynonym[SerifBold]      [name:xitsbold]       [features=default]
+  \definefontsynonym[SerifItalic]    [name:xitsitalic]     [features=default]
+  \definefontsynonym[SerifBoldItalic][name:xitsbolditalic] [features=default]
+\stoptypescript
+
+\starttypescript[xits]
+   \definetypeface [xits] [rm] [serif] [xits] [default]
+   \definetypeface [xits] [mm] [math]  [xits] [default]
+\stoptypescript
+
+\usetypescript[xits]
+\setupbodyfont[xits]
+
+\starttext
+
+\section{Instalation}
+TODO
+
+\section{Usage}
+
+\subsection{\LATEX}
+
+\subsubsection{Requirements}
+
+A modern \TEX\ engine with Unicode and OpenType suport is needed, namely
+\LUATEX\ or \XETEX. In addition to {\tt fontspec} package, {\tt unicode-math}
+is needed for using XITS fonts in math mode.
+
+\subsubsection{Examples}
+\startTEX
+\documentclass{article}
+\usepackage{unicode-math}
+\setmainfont{XITS}
+\setmathfont{XITS Math}
+
+\begin{document}
+Text $x+y=\sqrt{z}$
+\end{document}
+\stopTEX
+
+\subsection{\CONTEXT}
+
+\subsubsection{Requirements}
+For using XITS in text mode, either \CONTEXT\ MkII with \XETEX\ engine, or
+\CONTEXT\ MkIV are needed, but only MkIV supports using them in math mode.
+
+\subsubsection{Examples}
+
+\startTEX
+\usetypescript[xits]
+\setupbodyfont[xits]
+
+\starttext
+Text $x+y=\sqrt{z}$
+\stoptext
+\stopTEX
+
+\section{Font features}
+\definefontfeature[frac][default][frac=yes]
+\definefontfeature[onum][default][onum=yes]
+\starttable[|lT|l|r|]
+\HL
+\NC feature\NC Discription	\NC Example	 			\NC\SR
+\HL
+\NC onum \NC Oldstyle numbers	\NC {\addff{onum} 0123456789}		\NC\FR
+\NC frac \NC Diagonal fractions	\NC {\addff{frac} 1/2 2/3 3/4 5/6 7/8}	\NC\LR
+\HL
+\stoptable
+
+\stoptext
