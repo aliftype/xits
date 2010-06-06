@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1275795716
+ModificationTime: 1275832196
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -55,8 +55,6 @@ OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
 OS2CodePages: a03f01ff.dfff0000
 OS2UnicodeRanges: a00002ff.4203fdff.02000020.00000000
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0"  {"'liga' Standard Ligatures in Latin lookup 0 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1"  {"'liga' Standard Ligatures in Latin lookup 1 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -7507,8 +7505,6 @@ SplineSet
  455 35 472 20 523 15 c 1
  523 0 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f i
 EndChar
 
 StartChar: fl
@@ -7553,8 +7549,6 @@ SplineSet
  185 450 l 1
  373 450 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f l
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f l
 EndChar
 
 StartChar: breve
@@ -7969,8 +7963,6 @@ SplineSet
  205 655 187 625 187 566 c 2
  187 450 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f f
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f f
 EndChar
 
 StartChar: ffi
@@ -8033,8 +8025,6 @@ SplineSet
  729 35 746 20 797 15 c 1
  797 0 l 1xde
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f f i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f f i
 EndChar
 
 StartChar: ffl
@@ -8097,8 +8087,6 @@ SplineSet
  459 450 l 1
  647 450 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f f l
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f f l
 EndChar
 
 StartChar: figuredash
@@ -10473,7 +10461,6 @@ SplineSet
  217 37 233 22 315 19 c 1
  315 0 l 1x60
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" I J
 EndChar
 
 StartChar: uni0133
@@ -10525,7 +10512,6 @@ SplineSet
  179 31 187 20 253 15 c 1
  253 0 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" i j
 EndChar
 
 StartChar: uni0134
@@ -110753,8 +110739,6 @@ SplineSet
  338 450 l 2
  377 450 414 455 452 461 c 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f j
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f j
 EndChar
 
 StartChar: zero.onum
