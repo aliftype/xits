@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1232396790
-ModificationTime: 1275794437
+ModificationTime: 1275795726
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -62,13 +62,12 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 32 8 2
+WinInfo: 1114104 8 2
 BeginPrivate: 7
 BlueValues 23 [-19 0 461 473 676 691]
 BlueScale 8 0.039625
@@ -78,7 +77,7 @@ StemSnapH 31 [29 33 38 43 48 52 57 68 73 78]
 StemSnapV 31 [42 48 51 54 62 66 69 73 79 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114114 1711
+BeginChars: 1114124 1721
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -56171,6 +56170,268 @@ SplineSet
 EndSplineSet
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" f j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" f j
+EndChar
+
+StartChar: zero.onum
+Encoding: 1114114 -1 1711
+Width: 523
+Flags: W
+HStem: -10 29<220 300.5 220 340.5> 394 28<227.5 302.5>
+VStem: 26 132<161.5 235 161.5 248> 364 132<161.5 234.5>
+LayerCount: 2
+Fore
+SplineSet
+496 206 m 0
+ 496 95 423 -10 258 -10 c 0
+ 89 -10 26 95 26 205 c 0
+ 26 291 90 422 267 422 c 0
+ 424 422 496 293 496 206 c 0
+364 206 m 0
+ 364 263 340 394 265 394 c 0
+ 190 394 158 264 158 206 c 0
+ 158 117 181 19 259 19 c 0
+ 342 19 364 117 364 206 c 0
+EndSplineSet
+EndChar
+
+StartChar: one.onum
+Encoding: 1114115 -1 1712
+Width: 523
+Flags: W
+HStem: 0 20
+VStem: 207 137<62 86 86 352 352 361>
+LayerCount: 2
+Fore
+SplineSet
+420 0 m 1
+ 131 0 l 1
+ 131 21 l 1
+ 186 21 207 36 207 58 c 2
+ 207 352 l 2
+ 207 370 198 373 180 373 c 0
+ 175 373 169 372 164 371 c 2
+ 120 362 l 1
+ 111 387 l 1
+ 344 425 l 1
+ 344 86 l 2
+ 344 38 348 21 420 21 c 1
+ 420 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: two.onum
+Encoding: 1114116 -1 1713
+Width: 523
+Flags: W
+HStem: 0 69<209 334 334 368.5 209 470> 0 112<421 470 421 470> 371 50<215.5 265>
+VStem: 319 133<243 302>
+LayerCount: 2
+Fore
+SplineSet
+470 0 m 1x50
+ 53 0 l 1x50
+ 53 32 l 1
+ 227 147 319 208 319 273 c 0
+ 319 331 292 371 238 371 c 0
+ 174 371 132 345 109 295 c 1
+ 58 304 l 1
+ 89 382 179 421 252 421 c 0
+ 368 421 452 382 452 294 c 0
+ 452 192 322 142 209 69 c 1
+ 334 69 l 2xb0
+ 403 69 413 72 421 112 c 1
+ 470 112 l 1
+ 470 0 l 1x50
+EndSplineSet
+EndChar
+
+StartChar: three.onum
+Encoding: 1114117 -1 1714
+Width: 523
+Flags: W
+HStem: -198 45<212.5 259> 376 48<230 275.5>
+VStem: 324 118<263 312> 343 135<-56.5 26>
+LayerCount: 2
+Fore
+SplineSet
+339 161 m 1xe0
+ 339 160 l 1
+ 429 131 478 73 478 -2 c 0
+ 478 -111 334 -198 184 -198 c 0
+ 113 -198 70 -179 56 -167 c 0
+ 37 -151 31 -137 31 -128 c 0
+ 31 -114 53 -95 93 -95 c 0
+ 167 -95 190 -153 235 -153 c 0
+ 293 -153 343 -110 343 -33 c 0xd0
+ 343 85 243 119 153 119 c 1
+ 153 146 l 1
+ 278 146 324 211 324 283 c 0
+ 324 341 302 376 249 376 c 0
+ 211 376 169 368 128 304 c 1
+ 84 324 l 1
+ 117 388 198 424 258 424 c 0
+ 385 424 442 355 442 291 c 0
+ 442 235 408 186 339 161 c 1xe0
+EndSplineSet
+EndChar
+
+StartChar: four.onum
+Encoding: 1114118 -1 1715
+Width: 523
+Flags: W
+HStem: -36 70<125 287 125 287 421 496>
+VStem: 287 134<-198 -36 -198 -36 34 256 256 256>
+LayerCount: 2
+Fore
+SplineSet
+496 -36 m 1
+ 421 -36 l 1
+ 421 -198 l 1
+ 287 -198 l 1
+ 287 -36 l 1
+ 42 -36 l 1
+ 42 36 l 1
+ 321 420 l 1
+ 421 420 l 1
+ 421 34 l 1
+ 496 34 l 1
+ 496 -36 l 1
+287 34 m 1
+ 287 256 l 1
+ 125 34 l 1
+ 287 34 l 1
+EndSplineSet
+EndChar
+
+StartChar: five.onum
+Encoding: 1114119 -1 1716
+Width: 523
+Flags: W
+HStem: -198 49<220 297 220 299.5> 339 82<193 193 193 429>
+VStem: 371 103<-56 37.5>
+LayerCount: 2
+Fore
+SplineSet
+193 339 m 1
+ 174 263 l 1
+ 336 255 474 150 474 -4 c 0
+ 474 -108 382 -198 217 -198 c 0
+ 142 -198 98 -178 79 -165 c 0
+ 53 -146 49 -129 49 -120 c 0
+ 49 -106 74 -88 112 -88 c 0
+ 187 -88 166 -149 274 -149 c 0
+ 320 -149 371 -101 371 -25 c 0
+ 371 100 257 156 170 174 c 0
+ 141 180 117 183 76 183 c 1
+ 137 421 l 1
+ 452 421 l 1
+ 429 339 l 1
+ 193 339 l 1
+EndSplineSet
+EndChar
+
+StartChar: six.onum
+Encoding: 1114120 -1 1717
+Width: 523
+Flags: W
+HStem: -8 40<238.5 314.5 238.5 368.5> 342 46<251 269.5>
+VStem: 21 132<189 248 183.5 339.5> 369 133<162 213>
+LayerCount: 2
+Fore
+SplineSet
+454 614 m 1
+ 455 591 l 1
+ 315 561 236 497 183 374 c 1
+ 211 383 237 388 265 388 c 0
+ 389 388 502 304 502 200 c 0
+ 502 124 457 -8 280 -8 c 0
+ 94 -8 21 131 21 247 c 0
+ 21 432 198 593 454 614 c 1
+369 164 m 0
+ 369 262 308 342 231 342 c 0
+ 207 342 184 331 168 318 c 1
+ 159 296 153 265 153 231 c 0
+ 153 136 194 32 283 32 c 0
+ 346 32 369 95 369 164 c 0
+EndSplineSet
+EndChar
+
+StartChar: seven.onum
+Encoding: 1114121 -1 1718
+Width: 523
+Flags: W
+HStem: 338 83<143.5 178 178 376>
+LayerCount: 2
+Fore
+SplineSet
+507 421 m 1
+ 287 -198 l 1
+ 180 -198 l 1
+ 376 338 l 1
+ 178 338 l 2
+ 109 338 81 332 62 268 c 1
+ 8 268 l 1
+ 55 421 l 1
+ 507 421 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight.onum
+Encoding: 1114122 -1 1719
+Width: 523
+Flags: W
+HStem: -12 40<241 317 241 359> 566 40<221 282.5>
+VStem: 31 117<129 178> 60 114<470.5 513> 369 113<436.5 501> 371 122<104.5 138.5>
+LayerCount: 2
+Fore
+SplineSet
+493 137 m 0xc4
+ 493 72 434 -12 284 -12 c 0
+ 116 -12 31 64 31 142 c 0xe4
+ 31 214 89 267 193 307 c 1
+ 123 354 60 414 60 481 c 0
+ 60 545 136 606 262 606 c 0
+ 369 606 482 574 482 469 c 0xd8
+ 482 404 408 352 325 320 c 1
+ 444 244 493 204 493 137 c 0xc4
+369 461 m 0xd8
+ 369 541 320 566 245 566 c 0
+ 197 566 174 540 174 499 c 0
+ 174 442 208 412 285 351 c 1
+ 335 374 369 408 369 461 c 0xd8
+371 110 m 0xe4
+ 371 167 340 193 251 263 c 0
+ 246 267 240 271 234 276 c 1
+ 195 254 148 218 148 159 c 0
+ 148 99 195 28 287 28 c 0
+ 347 28 371 64 371 110 c 0xe4
+EndSplineSet
+EndChar
+
+StartChar: nine.onum
+Encoding: 1114123 -1 1720
+Width: 523
+Flags: W
+HStem: 24 46<246 279.5> 381 40<213 292.5>
+VStem: 25 130<213 282.5> 366 133<178 230>
+LayerCount: 2
+Fore
+SplineSet
+60 -202 m 1
+ 54 -178 l 1
+ 198 -154 277 -84 331 31 c 1
+ 312 27 291 24 268 24 c 0
+ 155 24 25 93 25 240 c 0
+ 25 325 91 421 247 421 c 0
+ 423 421 499 287 499 179 c 0
+ 499 -10 337 -172 60 -202 c 1
+366 195 m 0
+ 366 265 343 381 242 381 c 0
+ 184 381 155 334 155 268 c 0
+ 155 158 199 70 293 70 c 0
+ 317 70 340 79 350 82 c 1
+ 363 129 366 161 366 195 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
