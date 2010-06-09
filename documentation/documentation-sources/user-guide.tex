@@ -1,19 +1,4 @@
-\starttypescript [math] [xits] [name]
-  \definefontsynonym[MathRoman][name:xitsmath] [features=math\mathsizesuffix]
-\stoptypescript
-
-\starttypescript [serif] [xits] [name]
-  \definefontsynonym[Serif]          [name:xitsregular]    [features=default]
-  \definefontsynonym[SerifBold]      [name:xitsbold]       [features=default]
-  \definefontsynonym[SerifItalic]    [name:xitsitalic]     [features=default]
-  \definefontsynonym[SerifBoldItalic][name:xitsbolditalic] [features=default]
-\stoptypescript
-
-\starttypescript[xits]
-   \definetypeface [xits] [rm] [serif] [xits] [default]
-   \definetypeface [xits] [mm] [math]  [xits] [default]
-\stoptypescript
-
+\usetypescriptfile[type-xits]
 \usetypescript[xits]
 \setupbodyfont[xits]
 
