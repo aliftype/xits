@@ -4,18 +4,32 @@
 
 \starttext
 
-\section{Instalation}
-TODO
+\section{Installation}
+
+\subsection{\CONTEXT}
+\CONTEXT\ MkIV are needed for using the math font, text fonts can be used with either MkIV or MkII with \XETEX\ engine, MkII with \PDFTEX\ is not supported.
+
+Recent versions of \CONTEXT\ already have typescripts for XITS, so just
+installing the fonts into TEXMF tree is enough.
+
+\subsection{\LATEX}
+A modern \TEX\ engine with Unicode and OpenType support is needed, namely
+\LUATEX\ or \XETEX. In addition to {\ss fontspec} package, {\ss unicode-math}
+is needed for using XITS fonts in math mode.
+
+If you are using \LUATEX\ then you can either install the fonts OS wide or in
+TEXMF tree. If you are using \XeTeX\ then you need to either install fonts OS
+wide, or adapt your {\ss fontconfig} configuration to look for for fonts
+installed under TEXMF tree, otherwise you will not be able to access fonts by
+font name.
+
+\subsection{MS Office}
+MS Office 2007 or newer is required, the fonts can be installed the regular
+way.
 
 \section{Usage}
 
 \subsection{\LATEX}
-
-\subsubsection{Requirements}
-
-A modern \TEX\ engine with Unicode and OpenType suport is needed, namely
-\LUATEX\ or \XETEX. In addition to {\tt fontspec} package, {\tt unicode-math}
-is needed for using XITS fonts in math mode.
 
 \subsubsection{Examples}
 \startTEX
@@ -30,10 +44,6 @@ Text $x+y=\sqrt{z}$
 \stopTEX
 
 \subsection{\CONTEXT}
-
-\subsubsection{Requirements}
-For using XITS in text mode, either \CONTEXT\ MkII with \XETEX\ engine, or
-\CONTEXT\ MkIV are needed, but only MkIV supports using them in math mode.
 
 \subsubsection{Examples}
 
@@ -51,7 +61,7 @@ Text $x+y=\sqrt{z}$
 \definefontfeature[onum][default][onum=yes]
 \starttable[|lT|l|r|]
 \HL
-\NC feature\NC Discription	\NC Example	 			\NC\SR
+\NC feature\NC Description	\NC Example	 			\NC\SR
 \HL
 \NC onum \NC Oldstyle numbers	\NC {\addff{onum} 0123456789}		\NC\FR
 \NC frac \NC Diagonal fractions	\NC {\addff{frac} 1/2 2/3 3/4 5/6 7/8}	\NC\LR
