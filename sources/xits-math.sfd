@@ -55,9 +55,9 @@ OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
 OS2CodePages: a03f01ff.dfff0000
 OS2UnicodeRanges: a00002ff.4203fdff.02000020.00000000
-Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2"  {"'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
-Lookup: 3 0 0 "'ssty' Script Style lookup 4"  {"'ssty' Script Style lookup 4-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Alternate Math Script"  {"'ss01' Alternate Math Script-1" ("cal" ) } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'dtls' Dotless Forms 2"  {"'dtls' Dotless Forms 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
+Lookup: 3 0 0 "'ssty' Script Style 4"  {"'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Calligraphic Math Alphabet"  {"'ss01' Calligraphic Math Alphabet-1" ("cal" ) } ['ss01' ('math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -2407,7 +2407,7 @@ SplineSet
  253 0 l 1xd0
 EndSplineSet
 Kerns2: 75 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  53 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" dotlessi
+Substitution2: "'dtls' Dotless Forms 2-1" dotlessi
 EndChar
 
 StartChar: j
@@ -2441,7 +2441,7 @@ SplineSet
  91 424 129 437 188 460 c 1
  193 457 l 1xe8
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" uni0237
+Substitution2: "'dtls' Dotless Forms 2-1" uni0237
 EndChar
 
 StartChar: k
@@ -28703,7 +28703,7 @@ SplineSet
  94 402 l 1
  75 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2032.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2032.ssty
 EndChar
 
 StartChar: uni2033
@@ -28729,7 +28729,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2033.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2033.ssty
 EndChar
 
 StartChar: uni2034
@@ -28762,7 +28762,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2034.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2034.ssty
 EndChar
 
 StartChar: uni2035
@@ -28781,7 +28781,7 @@ SplineSet
  132 678 140 656 147 632 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2035.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2035.ssty
 EndChar
 
 StartChar: uni2036
@@ -28807,7 +28807,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2036.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2036.ssty
 EndChar
 
 StartChar: uni2037
@@ -28840,7 +28840,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2037.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2037.ssty
 EndChar
 
 StartChar: uni2038
@@ -29300,7 +29300,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style lookup 4-1" uni2057.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2057.ssty
 EndChar
 
 StartChar: uni205F
@@ -30290,7 +30290,7 @@ SplineSet
  86 24 98 17 110 15 c 1
  171 15 253 147 307 241 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni210B.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni210B.cal
 EndChar
 
 StartChar: uni210C
@@ -30501,7 +30501,7 @@ SplineSet
  437 422 465 371 536 362 c 1
  594 475 649 547 729 601 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni2110.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2110.cal
 EndChar
 
 StartChar: uni2111
@@ -30593,7 +30593,7 @@ SplineSet
  74 32 103 21 161 21 c 0
  200 21 235 24 266 35 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni2112.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2112.cal
 EndChar
 
 StartChar: uni2113
@@ -30933,7 +30933,7 @@ SplineSet
  649 354 669 348 686 337 c 1
  766 345 814 417 814 486 c 0
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni211B.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni211B.cal
 EndChar
 
 StartChar: uni211C
@@ -31367,7 +31367,7 @@ SplineSet
  675 352 697 348 717 338 c 1
  803 345 841 421 841 485 c 0
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni212C.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni212C.cal
 EndChar
 
 StartChar: uni212D
@@ -31514,7 +31514,7 @@ SplineSet
  546 621 416 520 403 430 c 1
  567 440 693 525 693 588 c 0
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni2130.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2130.cal
 EndChar
 
 StartChar: uni2131
@@ -31568,7 +31568,7 @@ SplineSet
  468 320 472 330 477 341 c 0
  520 439 577 500 657 568 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni2131.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2131.cal
 EndChar
 
 StartChar: uni2132
@@ -31639,7 +31639,7 @@ SplineSet
  668 317 821 648 1020 674 c 1
  1028 674 1036 674 1048 672 c 1x3c
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" uni2133.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2133.cal
 EndChar
 
 StartChar: uni2134
@@ -79266,7 +79266,7 @@ SplineSet
  208 42 221 29 256 24 c 1
  256 0 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D422.dtls
+Substitution2: "'dtls' Dotless Forms 2-1" u1D422.dtls
 EndChar
 
 StartChar: u1D423
@@ -79299,7 +79299,7 @@ SplineSet
  58 461 l 1
  260 461 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D423.dtls
+Substitution2: "'dtls' Dotless Forms 2-1" u1D423.dtls
 EndChar
 
 StartChar: u1D424
@@ -81141,7 +81141,7 @@ SplineSet
  69 419 l 1
  227 441 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D6A4
+Substitution2: "'dtls' Dotless Forms 2-1" u1D6A4
 EndChar
 
 StartChar: u1D457
@@ -81175,7 +81175,7 @@ SplineSet
  193 413 l 1
  351 441 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D6A5
+Substitution2: "'dtls' Dotless Forms 2-1" u1D6A5
 EndChar
 
 StartChar: u1D458
@@ -83069,7 +83069,7 @@ SplineSet
  180 70 189 58 201 58 c 0
  221 58 236 81 255 104 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D48A.dtls
+Substitution2: "'dtls' Dotless Forms 2-1" u1D48A.dtls
 EndChar
 
 StartChar: u1D48B
@@ -83104,7 +83104,7 @@ SplineSet
  187 427 l 1
  384 462 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D48B.dtls
+Substitution2: "'dtls' Dotless Forms 2-1" u1D48B.dtls
 EndChar
 
 StartChar: u1D48C
@@ -83709,7 +83709,7 @@ SplineSet
  203 218 245 158 310 119 c 1
  368 183 431 278 492 372 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D49C.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49C.cal
 EndChar
 
 StartChar: u1D49E
@@ -83751,7 +83751,7 @@ SplineSet
  740 619 723 632 690 632 c 0
  593 632 442 513 331 355 c 1x2f
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D49E.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49E.cal
 EndChar
 
 StartChar: u1D49F
@@ -83799,7 +83799,7 @@ SplineSet
  77 32 106 21 164 21 c 0
  207 21 243 26 276 39 c 1x65
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D49F.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49F.cal
 EndChar
 
 StartChar: u1D4A2
@@ -83845,7 +83845,7 @@ SplineSet
  556 632 425 534 361 420 c 1
  532 420 699 512 699 590 c 0x2e
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4A2.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A2.cal
 EndChar
 
 StartChar: u1D4A5
@@ -83890,7 +83890,7 @@ SplineSet
  51 -129 65 -147 87 -147 c 0
  172 -147 239 -72 302 43 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4A5.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A5.cal
 EndChar
 
 StartChar: u1D4A6
@@ -83950,7 +83950,7 @@ SplineSet
  565 611 594 598 616 598 c 0
  660 598 722 624 771 669 c 1xbb80
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4A6.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A6.cal
 EndChar
 
 StartChar: u1D4A9
@@ -83991,7 +83991,7 @@ SplineSet
  609 615 603 524 596 391 c 0
  591 291 583 202 569 131 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4A9.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A9.cal
 EndChar
 
 StartChar: u1D4AA
@@ -84022,7 +84022,7 @@ SplineSet
  82 444 283 680 521 680 c 0
  608 680 663 621 663 549 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4AA.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AA.cal
 EndChar
 
 StartChar: u1D4AB
@@ -84068,7 +84068,7 @@ SplineSet
  630 687 710 666 772 628 c 1
  797 644 824 657 856 669 c 1xbe
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4AB.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AB.cal
 EndChar
 
 StartChar: u1D4AC
@@ -84111,7 +84111,7 @@ SplineSet
  82 444 283 680 521 680 c 0
  607 680 663 621 663 549 c 1x4f
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4AC.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AC.cal
 EndChar
 
 StartChar: u1D4AE
@@ -84143,7 +84143,7 @@ SplineSet
  67 242 152 299 234 299 c 0
  309 299 384 252 397 143 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4AE.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AE.cal
 EndChar
 
 StartChar: u1D4AF
@@ -84183,7 +84183,7 @@ SplineSet
  295 16 363 81 454 277 c 0
  522 423 578 485 658 553 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4AF.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AF.cal
 EndChar
 
 StartChar: u1D4B0
@@ -84227,7 +84227,7 @@ SplineSet
  719 658 l 1
  805 658 l 1xbe
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B0.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B0.cal
 EndChar
 
 StartChar: u1D4B1
@@ -84271,7 +84271,7 @@ SplineSet
  501 541 466 460 421 347 c 0
  366 210 291 90 214 21 c 1xf4
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B1.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B1.cal
 EndChar
 
 StartChar: u1D4B2
@@ -84326,7 +84326,7 @@ SplineSet
  750 588 708 467 650 334 c 0
  594 207 539 108 455 24 c 1xf4
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B2.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B2.cal
 EndChar
 
 StartChar: u1D4B3
@@ -84373,7 +84373,7 @@ SplineSet
  169 605 259 687 374 687 c 0
  495 687 571 599 571 489 c 1xbc
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B3.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B3.cal
 EndChar
 
 StartChar: u1D4B4
@@ -84419,7 +84419,7 @@ SplineSet
  165 -178 182 -196 204 -196 c 0
  289 -196 356 -117 419 -2 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B4.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B4.cal
 EndChar
 
 StartChar: u1D4B5
@@ -84479,7 +84479,7 @@ SplineSet
  100 35 117 21 171 21 c 0
  215 21 252 31 283 51 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4B5.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B5.cal
 EndChar
 
 StartChar: u1D4B6
@@ -85440,7 +85440,7 @@ SplineSet
  293 239 329 183 381 147 c 1
  444 219 496 301 547 384 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D0.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D0.cal
 EndChar
 
 StartChar: u1D4D1
@@ -85497,7 +85497,7 @@ SplineSet
  731 367 766 364 786 354 c 1
  839 364 871 423 871 480 c 0
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D1.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D1.cal
 EndChar
 
 StartChar: u1D4D2
@@ -85538,7 +85538,7 @@ SplineSet
  786 617 771 632 740 632 c 0
  653 632 505 519 414 375 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D2.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D2.cal
 EndChar
 
 StartChar: u1D4D3
@@ -85592,7 +85592,7 @@ SplineSet
  151 45 172 38 215 38 c 0
  249 38 280 42 310 51 c 1x64
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D3.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D3.cal
 EndChar
 
 StartChar: u1D4D4
@@ -85639,7 +85639,7 @@ SplineSet
  700 624 686 632 655 632 c 0
  579 632 481 542 456 455 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D4.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D4.cal
 EndChar
 
 StartChar: u1D4D5
@@ -85692,7 +85692,7 @@ SplineSet
  334 213 414 276 525 323 c 1
  608 468 656 515 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D5.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D5.cal
 EndChar
 
 StartChar: u1D4D6
@@ -85739,7 +85739,7 @@ SplineSet
  708 617 695 632 665 632 c 0
  589 632 489 548 424 447 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D6.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D6.cal
 EndChar
 
 StartChar: u1D4D7
@@ -85796,7 +85796,7 @@ SplineSet
  156 38 165 34 176 34 c 0
  217 34 294 131 344 225 c 1x8e
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D7.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D7.cal
 EndChar
 
 StartChar: u1D4D8
@@ -85839,7 +85839,7 @@ SplineSet
  517 406 535 375 571 358 c 1
  618 450 672 546 769 604 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D8.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D8.cal
 EndChar
 
 StartChar: u1D4D9
@@ -85887,7 +85887,7 @@ SplineSet
  110 -157 122 -169 139 -169 c 0
  207 -169 287 -54 333 50 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4D9.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D9.cal
 EndChar
 
 StartChar: u1D4DA
@@ -85945,7 +85945,7 @@ SplineSet
  638 643 667 636 682 636 c 0
  719 636 779 642 842 699 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DA.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DA.cal
 EndChar
 
 StartChar: u1D4DB
@@ -85997,7 +85997,7 @@ SplineSet
  131 47 152 38 195 38 c 0
  229 38 260 44 290 53 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DB.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DB.cal
 EndChar
 
 StartChar: u1D4DC
@@ -86047,7 +86047,7 @@ SplineSet
  1046 657 1115 699 1182 699 c 0
  1193 699 1222 698 1234 691 c 1x20
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DC.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DC.cal
 EndChar
 
 StartChar: u1D4DD
@@ -86089,7 +86089,7 @@ SplineSet
  725 618 722 498 713 375 c 0
  708 307 703 229 695 175 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DD.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DD.cal
 EndChar
 
 StartChar: u1D4DE
@@ -86120,7 +86120,7 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DE.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DE.cal
 EndChar
 
 StartChar: u1D4DF
@@ -86166,7 +86166,7 @@ SplineSet
  672 699 750 683 816 654 c 1
  846 671 878 686 914 698 c 1xdc
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4DF.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DF.cal
 EndChar
 
 StartChar: u1D4E0
@@ -86208,7 +86208,7 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1x4c
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E0.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E0.cal
 EndChar
 
 StartChar: u1D4E1
@@ -86263,7 +86263,7 @@ SplineSet
  720 367 742 360 760 349 c 1
  811 358 857 423 857 481 c 0
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E1.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E1.cal
 EndChar
 
 StartChar: u1D4E2
@@ -86295,7 +86295,7 @@ SplineSet
  81 251 179 306 275 306 c 0
  363 306 424 257 437 136 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E2.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E2.cal
 EndChar
 
 StartChar: u1D4E3
@@ -86336,7 +86336,7 @@ SplineSet
  331 34 403 86 490 260 c 0
  585 450 618 477 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E3.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E3.cal
 EndChar
 
 StartChar: u1D4E4
@@ -86382,7 +86382,7 @@ SplineSet
  769 669 l 1
  904 669 l 1xb8
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E4.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E4.cal
 EndChar
 
 StartChar: u1D4E5
@@ -86424,7 +86424,7 @@ SplineSet
  593 552 554 473 506 355 c 0
  461 245 400 137 332 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E5.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E5.cal
 EndChar
 
 StartChar: u1D4E6
@@ -86473,7 +86473,7 @@ SplineSet
  952 687 971 683 983 679 c 1
  812 495 816 242 634 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E6.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E6.cal
 EndChar
 
 StartChar: u1D4E7
@@ -86522,7 +86522,7 @@ SplineSet
  338 686 392 699 450 699 c 0
  561 699 637 648 664 567 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E7.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E7.cal
 EndChar
 
 StartChar: u1D4E8
@@ -86572,7 +86572,7 @@ SplineSet
  194 -154 201 -169 223 -169 c 0
  265 -169 334 -134 396 -23 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E8.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E8.cal
 EndChar
 
 StartChar: u1D4E9
@@ -86634,7 +86634,7 @@ SplineSet
  141 46 163 37 198 37 c 0
  225 37 252 43 278 56 c 1
 EndSplineSet
-Substitution2: "'ss01' Alternate Math Script-1" u1D4E9.cal
+Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E9.cal
 EndChar
 
 StartChar: u1D4EA
