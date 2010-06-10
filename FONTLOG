@@ -77,6 +77,14 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+10 Jun 2010 (Khaled Hosny) <XITS> Version 1.003
+- Set OS/2 version to 4
+- Add italic correction to math italic Greek and Latin
+- Remove redundant math glyphs from text fonts
+- Add 'dtls' feature and bold dotless i and j
+- Add bold mathematical calligraphic alphabet
+- Add mathematical calligraphic alphabet
+
 6 Jun 2010 (Khaled Hosny) <XITS> Version 1.002
 - Make OS/2 ascender/descender absolute values
 - Move GSUB code to a font feature file
@@ -87,44 +95,19 @@ ChangeLog
 - Edit various font metadata
 - Initial release of "XITS Math"
 - Add sub/superscript variants of primes
-- Fix displaced \widehat and sisters:
-     The original STIX glyphs for wide variants of combining marks have zero
-     width, this breaks its horizontal positioning, and since Cambria ones have
-     positive with we should do the same.
-- Fix variants of long combining slash (U+0338):
-     They are vertical not horizontal variants.
-- More italic correction:
-     Covers most lower case letters now.
-- Italic correction:
-     Add italic correction values to improve horizontal positioning of
-     sub/superscripts relative to many base glyphs.
-- Fix the vertical positions of \[over|under]brace:
-     The original STIX glyphs are swapped vertically (under taking position
-     of over and vice versa), but this seems to cause wrong placement with
-     ConTeXt.
-- Don't mark poth parts of \Vert extensible
+- Fix displaced \widehat and sisters
+- Add italic correction, not all glyphs yet
+- Fix the vertical positions of \[over|under]brace
 - Ask FontForge to guess the BlueValues:
-     Taco suggests this would fix the bad hinting issue, since I didn't notice
-     any hinting issues, I'm not sure if this makes any difference.
-- Fix vertical bar composition:
-     LuaTeX complains about the lack of a fixed part.
 - Add 'frac' feature for text fractions
 - Add oldstyle numbers
-- Horizontal construction
-- More vertical contruction:
-     Covers most common cases now.
-- Add vertical variants of fraction slash:
-     STIX have no vertical variants of fraction slash, so I used slash variants
-     instead, hope it is OK.
-- Add radical vertical composition
+- Add Horizontal construction
+- Add Vertical contruction
 - Add horizontal top accent position values
 - Mark extended shapes
-- Italic corection of text integrals
-- Map horizontal variants
-- Add italic correction to display integrals
-- Add the rest of vertical variants
-- Add vertical variants of integral symbols
-- Initialize MATH table
+- Add horizontal variants
+- Add vertical variants
+- Add MATH table
 
 
 Acknowledgements
