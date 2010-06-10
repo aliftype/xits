@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1276154807
+ModificationTime: 1276158978
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -55,6 +55,7 @@ OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
 OS2CodePages: a03f01ff.dfff0000
 OS2UnicodeRanges: a00002ff.4203fdff.02000020.00000000
+Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2"  {"'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style lookup 4"  {"'ssty' Script Style lookup 4-1"  } ['ssty' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Alternate Math Script"  {"'ss01' Alternate Math Script-1" ("cal" ) } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'NLD ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -126,7 +127,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114464 12 7
+WinInfo: 1114440 12 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -137,7 +138,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114543 3752
+BeginChars: 1114547 3756
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2406,6 +2407,7 @@ SplineSet
  253 0 l 1xd0
 EndSplineSet
 Kerns2: 75 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  53 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" dotlessi
 EndChar
 
 StartChar: j
@@ -2439,6 +2441,7 @@ SplineSet
  91 424 129 437 188 460 c 1
  193 457 l 1xe8
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" uni0237
 EndChar
 
 StartChar: k
@@ -79263,6 +79266,7 @@ SplineSet
  208 42 221 29 256 24 c 1
  256 0 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D422.dtls
 EndChar
 
 StartChar: u1D423
@@ -79295,6 +79299,7 @@ SplineSet
  58 461 l 1
  260 461 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D423.dtls
 EndChar
 
 StartChar: u1D424
@@ -81136,6 +81141,7 @@ SplineSet
  69 419 l 1
  227 441 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D6A4
 EndChar
 
 StartChar: u1D457
@@ -81169,6 +81175,7 @@ SplineSet
  193 413 l 1
  351 441 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D6A5
 EndChar
 
 StartChar: u1D458
@@ -83062,6 +83069,7 @@ SplineSet
  180 70 189 58 201 58 c 0
  221 58 236 81 255 104 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D48A.dtls
 EndChar
 
 StartChar: u1D48B
@@ -83096,6 +83104,7 @@ SplineSet
  187 427 l 1
  384 462 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 2-1" u1D48B.dtls
 EndChar
 
 StartChar: u1D48C
@@ -124395,6 +124404,107 @@ SplineSet
  232 654 345 702 442 702 c 0xf0
  491 702 545 675 585 675 c 0
  633 675 662 696 744 696 c 1x08
+EndSplineSet
+EndChar
+
+StartChar: u1D48A.dtls
+Encoding: 1114543 -1 3752
+Width: 357
+Flags: W
+HStem: -9 20 442 20<266 266>
+LayerCount: 2
+Fore
+SplineSet
+255 104 m 1
+ 274 92 l 1
+ 242 35 192 -9 122 -9 c 0
+ 71 -9 55 15 55 47 c 0
+ 55 57 56 67 59 78 c 2
+ 125 363 l 2
+ 128 376 130 383 130 390 c 0
+ 130 401 125 408 110 408 c 0
+ 101 408 89 408 73 405 c 1
+ 69 428 l 1
+ 266 462 l 1
+ 188 131 l 2
+ 184 116 180 101 180 83 c 0
+ 180 70 189 58 201 58 c 0
+ 221 58 236 81 255 104 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D48B.dtls
+Encoding: 1114544 -1 3753
+Width: 514
+Flags: W
+HStem: -207 31<148 168 148 202> 442 20<475 475>
+VStem: 47 83<-166 -115.5>
+LayerCount: 2
+Fore
+SplineSet
+475 462 m 1
+ 359 18 l 2
+ 317 -142 252 -207 152 -207 c 0
+ 89 -207 47 -174 47 -130 c 0
+ 47 -101 69 -77 96 -77 c 0
+ 125 -77 145 -96 145 -126 c 0
+ 145 -147 130 -147 130 -161 c 0
+ 130 -171 142 -176 154 -176 c 0
+ 182 -176 203 -140 228 -40 c 2
+ 317 310 l 2
+ 325 340 329 364 329 377 c 0
+ 329 398 317 407 288 407 c 2
+ 266 407 l 1
+ 266 434 l 1
+ 378 444 415 449 475 462 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D422.dtls
+Encoding: 1114545 -1 3754
+Width: 278
+Flags: W
+HStem: 0 20 441 20<15 208 208 208>
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1
+ 16 0 l 1
+ 16 24 l 1
+ 62 35 69 42 69 88 c 2
+ 69 373 l 2
+ 69 418 59 428 15 437 c 1
+ 15 461 l 1
+ 208 461 l 1
+ 208 85 l 2
+ 208 42 221 29 256 24 c 1
+ 256 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D423.dtls
+Encoding: 1114546 -1 3755
+Width: 333
+Flags: W
+HStem: -203 31<63.5 90 63.5 117.5> 441 20<58 260 260 260>
+LayerCount: 2
+Fore
+SplineSet
+260 461 m 1
+ 260 2 l 2
+ 260 -57 252 -95 233 -127 c 0
+ 205 -176 152 -203 83 -203 c 0
+ 1 -203 -57 -162 -57 -103 c 0
+ -57 -67 -32 -42 5 -42 c 0
+ 38 -42 64 -66 64 -96 c 0
+ 64 -106 60 -118 50 -133 c 0
+ 44 -143 41 -150 41 -155 c 0
+ 41 -165 54 -172 73 -172 c 0
+ 107 -172 121 -149 121 -96 c 2
+ 121 378 l 2
+ 121 421 109 433 58 437 c 1
+ 58 461 l 1
+ 260 461 l 1
 EndSplineSet
 EndChar
 EndChars
