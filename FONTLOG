@@ -77,6 +77,9 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+11 Jun 2010 (Khaled Hosny) <XITS> Version 1.004
+- Fix the mysterious Office2007 composition bug
+
 10 Jun 2010 (Khaled Hosny) <XITS> Version 1.003
 - Set OS/2 version to 4
 - Add italic correction to math italic Greek and Latin
