@@ -18,7 +18,7 @@ for arg in args:
     if arg == "all":
         args = styles
     elif not arg in styles:
-        print "Unkown style requested: %s" %arg
+        print "Unknown style requested: %s" %arg
         args.remove(arg)
 
 if len(args) == 0:
