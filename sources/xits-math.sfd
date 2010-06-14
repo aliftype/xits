@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1276265037
+ModificationTime: 1276549050
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -69,7 +69,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
 GaspTable: 2 8 15 65535 15
-OtfFeatName: 'ss07'  1033 "Mathematical Bold Italic Double-Struck Alphabet" OtfFeatName: 'ss06'  1033 "Mathematical Italic Double-Struck Alphabet" OtfFeatName: 'ss04'  1033 "Mathematical Bold Monospace Digits" OtfFeatName: 'ss01'  1033 "Mathematical Calligraphic Alphabet" OtfFeatName: 'ss02'  1033 "Mathematical Greek Sans Serif Alphabet" OtfFeatName: 'ss03'  1033 "Mathematical Italic Sans Serif Digits" OtfFeatName: 'ss05'  1033 "Mathematical Bold Double-Struck Alphabet" 
+OtfFeatName: 'ss07'  1033 "Mathematical Bold Italic Double-Struck Alphabet" 
+OtfFeatName: 'ss06'  1033 "Mathematical Italic Double-Struck Alphabet" 
+OtfFeatName: 'ss04'  1033 "Mathematical Bold Monospace Digits" 
+OtfFeatName: 'ss01'  1033 "Mathematical Calligraphic Alphabet" 
+OtfFeatName: 'ss02'  1033 "Mathematical Greek Sans Serif Alphabet" 
+OtfFeatName: 'ss03'  1033 "Mathematical Italic Sans Serif Digits" 
+OtfFeatName: 'ss05'  1033 "Mathematical Bold Double-Struck Alphabet" 
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -132,8 +138,8 @@ UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
-FitToEm: 1
-WinInfo: 1114785 9 7
+FitToEm: 0
+WinInfo: 1114803 9 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -144,7 +150,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114845 4019
+BeginChars: 1114865 4041
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -612,6 +618,7 @@ SplineSet
  120 126 164 12 250 12 c 0
  335 12 380 127 380 325 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" zero.ssty1 zero.ssty2
 EndChar
 
 StartChar: one
@@ -638,6 +645,7 @@ SplineSet
  299 33 319 15 394 15 c 1
  394 0 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" one.ssty1 one.ssty2
 EndChar
 
 StartChar: two
@@ -666,6 +674,7 @@ SplineSet
  406 76 427 87 460 143 c 1
  474 137 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" two.ssty1 two.ssty2
 EndChar
 
 StartChar: three
@@ -699,6 +708,7 @@ SplineSet
  318 582 276 616 210 616 c 0
  148 616 102 584 61 510 c 1xe0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" three.ssty1 three.ssty2
 EndChar
 
 StartChar: four
@@ -727,6 +737,7 @@ SplineSet
  52 231 l 1
  292 231 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" four.ssty1 four.ssty2
 EndChar
 
 StartChar: five
@@ -761,6 +772,7 @@ SplineSet
  404 662 413 667 429 688 c 1
  438 681 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" five.ssty1 five.ssty2
 EndChar
 
 StartChar: six
@@ -789,6 +801,7 @@ SplineSet
  127 114 175 14 269 14 c 0
  341 14 378 86 378 188 c 0
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" six.ssty1 six.ssty2
 EndChar
 
 StartChar: seven
@@ -810,6 +823,7 @@ SplineSet
  449 662 l 1
  449 646 l 1
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" seven.ssty1 seven.ssty2
 EndChar
 
 StartChar: eight
@@ -842,6 +856,7 @@ SplineSet
  324 14 369 59 369 124 c 0
  369 186 339 226 271 272 c 2xe4
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" eight.ssty1 eight.ssty2
 EndChar
 
 StartChar: nine
@@ -871,6 +886,7 @@ SplineSet
  122 355 170 280 245 280 c 0
  289 280 362 302 362 355 c 2
 EndSplineSet
+AlternateSubs2: "'ssty' Script Style 4-1" nine.ssty1 nine.ssty2
 EndChar
 
 StartChar: colon
@@ -132856,6 +132872,605 @@ SplineSet
  72 37 l 1
  157 37 l 1
  485 391 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D7CA
+Encoding: 120778 120778 4019
+Width: 620
+Flags: W
+HStem: 0 20 326 47<266 494 266 494> 642 34<310.5 380>
+LayerCount: 2
+Fore
+SplineSet
+593 676 m 1
+ 593 474 l 1
+ 569 474 l 1
+ 555 550 544 573 509 603 c 0
+ 478 630 424 642 336 642 c 0
+ 285 642 266 628 266 591 c 2
+ 266 373 l 1
+ 494 373 l 1
+ 494 326 l 1
+ 266 326 l 1
+ 266 101 l 2
+ 266 44 284 29 376 25 c 1
+ 376 0 l 1
+ 16 0 l 1
+ 16 25 l 1
+ 90 33 104 47 104 103 c 2
+ 104 575 l 2
+ 104 633 85 647 16 651 c 1
+ 16 676 l 1
+ 593 676 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D7CB
+Encoding: 120779 120779 4020
+Width: 491
+Flags: W
+HStem: 97 44<205 408 205 408> 441 20<66 458 458 458>
+LayerCount: 2
+Fore
+SplineSet
+458 361 m 1
+ 205 361 l 1
+ 205 141 l 1
+ 408 141 l 1
+ 408 97 l 1
+ 205 97 l 1
+ 205 -54 l 2
+ 205 -124 201 -166 185 -205 c 1
+ 45 -205 l 1
+ 64 -166 66 -130 66 -54 c 2
+ 66 461 l 1
+ 458 461 l 1
+ 458 361 l 1
+EndSplineSet
+EndChar
+
+StartChar: two.ssty1
+Encoding: 1114847 -1 4021
+Width: 570
+Flags: W
+HStem: 0 92<172 442> 589 87<157.057 285.689>
+VStem: 34 31<473.613 493.01> 341 120<398.229 533.266>
+DStem2: 211 210 172 92 0.684994 0.728549<-112.684 172.51>
+LayerCount: 2
+Fore
+SplineSet
+502 139 m 1
+ 442 0 l 1
+ 38 0 l 1
+ 38 26 l 1
+ 211 210 l 2
+ 300 305 341 388 341 455 c 0
+ 341 535 288 589 212 589 c 0
+ 145 589 103 551 65 462 c 1
+ 34 477 l 1
+ 68 604 131 676 263 676 c 0
+ 384 676 461 599 461 497 c 0
+ 461 417 424 347 325 248 c 2
+ 172 92 l 1
+ 384 92 l 2
+ 427 92 451 102 480 148 c 1
+ 502 139 l 1
+EndSplineSet
+EndChar
+
+StartChar: four.ssty1
+Encoding: 1114849 -1 4022
+Width: 570
+Flags: W
+HStem: 0 21G<318.667 415.667> 159 79<85.667 318.667 415.667 512.667> 655 20G<339.982 415.667>
+VStem: 318.667 97<0 159 238 559>
+DStem2: 28.667 231 85.667 238 0.591836 0.806059<39.3771 436.02>
+LayerCount: 2
+Fore
+SplineSet
+512.667 159 m 1
+ 415.667 159 l 1
+ 415.667 0 l 1
+ 318.667 0 l 1
+ 318.667 159 l 1
+ 28.667 159 l 1
+ 28.667 231 l 1
+ 354.667 675 l 1
+ 415.667 675 l 1
+ 415.667 238 l 1
+ 512.667 238 l 1
+ 512.667 159 l 1
+318.667 238 m 1
+ 318.667 559 l 1
+ 85.667 238 l 1
+ 318.667 238 l 1
+EndSplineSet
+EndChar
+
+StartChar: seven.ssty1
+Encoding: 1114852 -1 4023
+Width: 570
+Flags: W
+HStem: -4 21G<190.333 276.298> 577 91<107.205 396.333>
+DStem2: 190.333 -4 269.333 -4 0.328859 0.944379<25.9799 616.429>
+LayerCount: 2
+Fore
+SplineSet
+495.333 645 m 1
+ 269.333 -4 l 1
+ 190.333 -4 l 1
+ 396.333 577 l 1
+ 183.333 577 l 2
+ 122.333 577 108.333 566 66.333 505 c 1
+ 37.333 518 l 1
+ 104.333 668 l 1
+ 495.333 668 l 1
+ 495.333 645 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight.ssty1
+Encoding: 1114853 -1 4024
+Width: 570
+Flags: W
+HStem: -16 59<191.67 351.213> 615 58<177.831 331.88>
+VStem: 40 96<95.5406 218.101> 48 91<472.272 579.643> 380 86<458.619 570.413> 395 95<82.8438 192.546>
+LayerCount: 2
+Fore
+SplineSet
+490 156 m 0xc4
+ 490 50 390 -16 261 -16 c 0
+ 140 -16 40 44 40 142 c 0xe4
+ 40 211 79 258 187 330 c 1
+ 84 411 48 446 48 513 c 0
+ 48 611 150 673 270 673 c 0
+ 376 673 466 610 466 531 c 0xd8
+ 466 454 415 418 316 368 c 1
+ 439 290 490 236 490 156 c 0xc4
+380 514 m 0xd8
+ 380 575 317 615 256 615 c 0
+ 193 615 139 583 139 529 c 0
+ 139 474 185 439 272 391 c 1
+ 334 427 380 459 380 514 c 0xd8
+284 268 m 2
+ 229 304 l 1
+ 172 261 136 221 136 165 c 0
+ 136 85 201 43 274 43 c 0
+ 336 43 395 79 395 135 c 0xe4
+ 395 187 348 227 284 268 c 2
+EndSplineSet
+EndChar
+
+StartChar: two.ssty2
+Encoding: 1114857 -1 4025
+Width: 630
+Flags: W
+HStem: 0 108<246 496> 453 21G<77.4 129.5> 576 100<202.2 324.918>
+VStem: 376 153<396.163 523.424>
+LayerCount: 2
+Fore
+SplineSet
+561 142 m 1
+ 496 0 l 1
+ 78 0 l 1
+ 78 40 l 1
+ 246 220 l 2
+ 331 312 376 400 376 450 c 0
+ 376 520 325 576 258 576 c 0
+ 196 576 148 533 111 453 c 1
+ 69 478 l 1
+ 116 615 177 676 319 676 c 0
+ 449 676 529 600 529 495 c 0
+ 529 413 494 348 386 243 c 2
+ 246 108 l 1
+ 434 108 l 2
+ 479 108 506 116 531 153 c 1
+ 561 142 l 1
+EndSplineSet
+EndChar
+
+StartChar: four.ssty2
+Encoding: 1114859 -1 4026
+Width: 630
+Flags: W
+HStem: 0 21G<361 478> 150 95<136 361 478 569> 655 20G<383.74 478>
+VStem: 361 117<0 150 245 543>
+DStem2: 61 232 136 245 0.606584 0.79502<55.829 429.226>
+LayerCount: 2
+Fore
+SplineSet
+569 150 m 1
+ 478 150 l 1
+ 478 0 l 1
+ 361 0 l 1
+ 361 150 l 1
+ 61 150 l 1
+ 61 232 l 1
+ 399 675 l 1
+ 478 675 l 1
+ 478 245 l 1
+ 569 245 l 1
+ 569 150 l 1
+361 245 m 1
+ 361 543 l 1
+ 136 245 l 1
+ 361 245 l 1
+EndSplineSet
+EndChar
+
+StartChar: seven.ssty2
+Encoding: 1114862 -1 4027
+Width: 630
+Flags: W
+HStem: 0 21G<226 326.442> 566 108<146.776 439>
+DStem2: 226 0 319 0 0.348734 0.937222<32.4322 604.748>
+LayerCount: 2
+Fore
+SplineSet
+559 645 m 1
+ 319 0 l 1
+ 226 0 l 1
+ 439 566 l 1
+ 229 566 l 2
+ 164 566 153 558 111 505 c 1
+ 71 521 l 1
+ 146 674 l 1
+ 559 674 l 1
+ 559 645 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight.ssty2
+Encoding: 1114863 -1 4028
+Width: 630
+Flags: W
+HStem: -11 90<232.929 414.869> 590 88<214.835 388.303>
+VStem: 60 117<128.098 213.471> 440 103<465.266 547.776> 457 113<113.702 196.05>
+LayerCount: 2
+Fore
+SplineSet
+570 166 m 0xe8
+ 570 56 448 -11 310 -11 c 0
+ 180 -11 60 41 60 143 c 0
+ 60 213 128 286 220 344 c 1
+ 133 396 69 446 69 514 c 0
+ 69 614 190 678 320 678 c 0
+ 433 678 543 617 543 537 c 0xf0
+ 543 459 485 418 387 371 c 1
+ 492 316 570 246 570 166 c 0xe8
+440 504 m 0
+ 440 557 357 590 302 590 c 0
+ 244 590 162.42 555.437 177 517 c 0
+ 188 488 240 448 318 401 c 1
+ 375 433 440 456 440 504 c 0
+333 274 m 2
+ 282 304 l 1
+ 227 266 177 228 177 181 c 0
+ 177 113 255 79 325 79 c 0
+ 383 79 457 107 457 154 c 0xe8
+ 457 196 382.864 244.668 333 274 c 2
+EndSplineSet
+EndChar
+
+StartChar: one.ssty2
+Encoding: 1114856 -1 4029
+Width: 630
+Flags: W
+HStem: 0 40<156 232.454 395.586 474> 656 20G<313.174 379>
+VStem: 244 135<55.9223 567.991>
+LayerCount: 2
+Fore
+SplineSet
+474 0 m 1
+ 156 0 l 1
+ 156 40 l 1
+ 228 45 244 57 244 95 c 2
+ 244 518 l 2
+ 244 556 239 568 229 568 c 0
+ 217 568 202 564 159 544 c 1
+ 159 584 l 1
+ 356 676 l 1
+ 379 669 l 1
+ 379 105 l 2
+ 379 62 402 40 474 40 c 1
+ 474 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: three.ssty2
+Encoding: 1114858 -1 4030
+Width: 630
+Flags: W
+HStem: -11 80<230.223 363.492> 585 93<220.417 350.357>
+VStem: 411.5 135<130.196 265.52>
+LayerCount: 2
+Fore
+SplineSet
+401.5 404 m 1
+ 401.5 401 l 1
+ 501.5 376 546.5 297 546.5 217 c 0
+ 546.5 85 419.5 -11 234.5 -11 c 0
+ 146.5 -11 83.5 30 83.5 83 c 0
+ 83.5 118 111.5 134 144.5 134 c 0
+ 162.5 134 180.5 126 212.5 103 c 0
+ 249.5 76 267.5 69 297.5 69 c 0
+ 365.5 69 411.5 119 411.5 187 c 0
+ 411.5 274 354.5 324 262.5 324 c 0
+ 259.5 324 256.5 324 216.5 319 c 1
+ 216.5 367 l 1
+ 333.5 407 374.5 447 374.5 507 c 0
+ 374.5 557 339.5 585 281.5 585 c 0
+ 221.5 585 183.5 562 138.5 489 c 1
+ 96.5 520 l 1
+ 156.5 632 219.5 678 321.5 678 c 0
+ 423.5 678 500.5 618 500.5 540 c 0
+ 500.5 493 481.5 444 401.5 404 c 1
+EndSplineSet
+EndChar
+
+StartChar: five.ssty2
+Encoding: 1114860 -1 4031
+Width: 630
+Flags: W
+HStem: -14 80<174.5 362.954> 545 120<248 491.685>
+VStem: 420 108<135.308 274.926>
+LayerCount: 2
+Fore
+SplineSet
+546 672 m 1
+ 491 565 l 2
+ 486 553 478 545 460 545 c 2
+ 242 545 l 1
+ 217 504 l 1
+ 354 482 405 462 447 424 c 0
+ 502 374 528 336 528 241 c 0
+ 528 86 417 -14 227 -14 c 0
+ 122 -14 84 31 84 74 c 0
+ 84 107 104 128 137 128 c 0
+ 165 128 178 124 220 94 c 0
+ 250 72 270 66 293 66 c 0
+ 365 66 420 115 420 202 c 0
+ 420 254 395 294 343 329 c 0
+ 295 362 224 376 124 376 c 0
+ 109 376 107 381 107 396 c 0
+ 107 401 107 404 109 407 c 2
+ 248 665 l 1
+ 463 665 l 2
+ 491 665 500 672 515 692 c 1
+ 546 672 l 1
+EndSplineSet
+EndChar
+
+StartChar: six.ssty2
+Encoding: 1114861 -1 4032
+Width: 630
+Flags: W
+HStem: -22 75<264.964 394.052> 654 40<460.738 543.191>
+VStem: 32.1914 152<149.536 309.388> 466.191 132<129.416 279.477>
+LayerCount: 2
+Fore
+SplineSet
+543.191 694 m 1
+ 548.191 654 l 1
+ 413.191 634 215.191 579 193.191 413 c 1
+ 225.191 428 301.191 447 348.191 447 c 0
+ 486.191 447 598.191 354 598.191 216 c 0
+ 598.191 78 460.191 -22 323.191 -22 c 0
+ 158.191 -22 40.6992 59.8291 32.1914 269 c 0
+ 20.1914 564 293.191 692 543.191 694 c 1
+466.191 198 m 0
+ 466.191 286 382.191 392 308.191 384 c 0
+ 255.498 378.304 185.588 324.014 184.191 250 c 0
+ 182.191 144 247.191 53 332.191 53 c 0
+ 397.191 53 466.191 128 466.191 198 c 0
+EndSplineSet
+EndChar
+
+StartChar: three.ssty1
+Encoding: 1114848 -1 4033
+Width: 570
+VWidth: 995
+Flags: W
+HStem: -16 59<188.066 315.432> 595 77<168.178 297.13>
+LayerCount: 2
+Fore
+SplineSet
+339.893 399 m 1
+ 339.893 396 l 1
+ 437.893 369 474.893 287 473.893 212 c 0
+ 472.893 80 362.893 -16 177.893 -16 c 0
+ 89.8926 -16 40.8926 17 48.8926 68 c 0
+ 52.8926 94 77.8926 108 96.8926 108 c 0
+ 114.893 108 131.893 103 152.893 90 c 0
+ 191.893 66 200.893 41 254.893 43 c 0
+ 322.893 46 376.893 114 372.893 182 c 0
+ 367.893 278 292.893 335 169.893 319 c 1
+ 169.893 349 l 1
+ 286.893 389 330.893 442 330.893 502 c 0
+ 330.893 574 273.893 597 224.893 595 c 0
+ 164.893 593 128.893 567 83.8926 494 c 1
+ 55.8926 511 l 1
+ 109.893 622 162.893 672 264.893 672 c 0
+ 366.893 672 435.893 613 435.893 535 c 0
+ 435.893 488 419.893 439 339.893 399 c 1
+EndSplineSet
+EndChar
+
+StartChar: five.ssty1
+Encoding: 1114850 -1 4034
+Width: 570
+Flags: W
+HStem: -16 61<122.332 309.016> 560 103<196.832 436.143> 664 20G<452.332 477.832>
+VStem: 372.832 92<128.395 276.482>
+DStem2: 79.832 422 164.832 499 0.436731 0.899592<106.391 173.931>
+LayerCount: 2
+Fore
+SplineSet
+477.832 674 m 1
+ 435.832 580 l 2
+ 430.832 568 421.832 560 403.832 560 c 2
+ 193.832 560 l 1
+ 164.832 499 l 1
+ 301.832 477 351.832 449 386.832 419 c 0
+ 416.832 393 464.832 334 464.832 239 c 0
+ 464.832 84 364.832 -16 174.832 -16 c 0
+ 69.832 -16 40.832 26 46.832 69 c 0
+ 49.832 94 72.832 110 90.832 110 c 0
+ 111.832 110 125.832 110 167.832 80 c 0
+ 197.832 58 205.832 45 250.832 45 c 0
+ 322.832 45 372.832 113 372.832 200 c 0
+ 372.832 252 340.832 309 288.832 344 c 0
+ 240.832 377 194.832 391 94.832 391 c 0
+ 78.832 391 71.832 406 79.832 422 c 2
+ 196.832 663 l 1
+ 410.832 663 l 2
+ 438.832 663 444.832 664 459.832 684 c 1
+ 477.832 674 l 1
+EndSplineSet
+EndChar
+
+StartChar: six.ssty1
+Encoding: 1114851 -1 4035
+Width: 570
+Flags: W
+HStem: -16 53<220.732 344.161> 387 53<205.003 334.256> 663 29<419.639 484.713>
+VStem: 408.713 112<120.264 301.372>
+LayerCount: 2
+Fore
+SplineSet
+484.713 692 m 1
+ 487.713 663 l 1
+ 339.713 642 195.713 565 173.713 399 c 1
+ 215.713 430 252.713 440 299.713 440 c 0
+ 425.713 440 519.69 356.996 520.713 219 c 0
+ 521.713 84 411.713 -16 274.713 -16 c 0
+ 109.712 -16 27.7119 94 24.7119 258 c 0
+ 19.9385 518.956 252.713 692 484.713 692 c 1
+408.713 186 m 0
+ 413.713 290 363.713 388 259.713 387 c 0
+ 201.713 387 145.579 323.879 141.713 262 c 0
+ 133.713 134 198.713 37 283.713 37 c 0
+ 348.713 37 404.631 101.098 408.713 186 c 0
+EndSplineSet
+EndChar
+
+StartChar: one.ssty1
+Encoding: 1114846 -1 4036
+Width: 570
+Flags: W
+HStem: 0 30<92 154.705 311.5 386> 655 20G<230.758 291>
+VStem: 180 111<47.1753 579.99>
+LayerCount: 2
+Fore
+SplineSet
+386 0 m 1
+ 92 0 l 1
+ 92 30 l 1
+ 164 35 180 57 180 95 c 2
+ 180 528 l 2
+ 180 566 175 580 165 580 c 0
+ 153 580 138 579 95 559 c 1
+ 95 584 l 1
+ 269 675 l 1
+ 291 669 l 1
+ 291 105 l 2
+ 291 44 314 30 386 30 c 1
+ 386 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: zero.ssty1
+Encoding: 1114845 -1 4037
+Width: 570
+Flags: W
+HStem: -16 50<214.97 336.855> 625 50<213.772 336.156>
+VStem: 18.667 118<188.98 474.888> 414.667 118<184.677 470.265>
+LayerCount: 2
+Fore
+SplineSet
+532.667 328 m 0
+ 532.667 156 446.667 -16 276.667 -16 c 0
+ 97.667 -16 18.667 169 18.667 334 c 0
+ 18.667 512 110.667 675 279.667 675 c 0
+ 417.667 675 532.667 533 532.667 328 c 0
+414.667 324 m 0
+ 414.667 530 361.667 625 273.667 625 c 0
+ 191.667 625 136.667 528 136.667 328 c 0
+ 136.667 128 191.667 34 276.667 34 c 0
+ 361.667 34 414.667 128 414.667 324 c 0
+EndSplineSet
+EndChar
+
+StartChar: nine.ssty1
+Encoding: 1114854 -1 4038
+Width: 570
+Flags: W
+HStem: -27 29<75.6455 140.338> 225 53<216.712 340.362> 628 53<200.759 317.139>
+VStem: 24.6455 112<373.369 545.51> 403.646 117<333.73 507.646>
+LayerCount: 2
+Fore
+SplineSet
+75.6455 -27 m 1
+ 72.6455 2 l 1
+ 220.646 23 364.646 100 386.646 266 c 1
+ 354.646 251 292.646 225 245.646 225 c 0
+ 119.646 225 24.6455 308 24.6455 446 c 0
+ 24.6455 584 133.646 681 270.646 681 c 0
+ 435.646 681 517.646 574 520.646 393 c 0
+ 524.97 132.036 307.646 -27 75.6455 -27 c 1
+136.646 479 m 0
+ 136.646 391 181.646 277 285.646 278 c 0
+ 343.646 278 404.67 327.008 403.646 389 c 0
+ 401.646 510 346.646 628 261.646 628 c 0
+ 196.646 628 136.646 564 136.646 479 c 0
+EndSplineSet
+EndChar
+
+StartChar: zero.ssty2
+Encoding: 1114855 -1 4039
+Width: 630
+Flags: W
+HStem: -16 60<251.72 378.752> 615 60<250.424 378.225>
+VStem: 33 138<204.102 463.159> 459 138<199.625 458.558>
+LayerCount: 2
+Fore
+SplineSet
+597 328 m 0
+ 597 156 486 -16 316 -16 c 0
+ 137 -16 33 169 33 334 c 0
+ 33 512 150 675 319 675 c 0
+ 457 675 597 533 597 328 c 0
+459 324 m 0
+ 459 530 401 615 313 615 c 0
+ 231 615 171 528 171 328 c 0
+ 171 128 231 44 316 44 c 0
+ 401 44 459 128 459 324 c 0
+EndSplineSet
+EndChar
+
+StartChar: nine.ssty2
+Encoding: 1114864 -1 4040
+Width: 630
+Flags: W
+HStem: -22 40<91.9941 182.13> 225 63<255.695 396.272> 619 75<235.767 365.292>
+VStem: 36.9941 133<384.125 550.922> 455.994 137<351.282 507.345>
+LayerCount: 2
+Fore
+SplineSet
+91.9941 -22 m 1
+ 86.9941 18 l 1
+ 221.994 38 419.994 93 441.994 259 c 1
+ 409.994 244 333.994 225 286.994 225 c 0
+ 148.994 225 36.9941 304 36.9941 456 c 0
+ 36.9941 606.014 174.994 694 311.994 694 c 0
+ 476.994 694 591.906 557.996 592.994 403 c 0
+ 594.994 118 341.994 -20 91.9941 -22 c 1
+169.994 489 m 0
+ 164.994 372 243.994 288 326.994 288 c 0
+ 379.994 288 455.464 337.002 455.994 399 c 0
+ 456.994 516 387.994 619 302.994 619 c 0
+ 237.994 619 172.982 558.937 169.994 489 c 0
 EndSplineSet
 EndChar
 EndChars
