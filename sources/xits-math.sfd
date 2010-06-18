@@ -131,7 +131,7 @@ MATH:RadicalRuleThickness: 66
 MATH:RadicalExtraAscender: 50 
 MATH:RadicalKernBeforeDegree: 277 
 MATH:RadicalKernAfterDegree: -555 
-MATH:RadicalDegreeBottomRaisePercent: 60
+MATH:RadicalDegreeBottomRaisePercent: 70
 MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
 UnicodeInterp: none
