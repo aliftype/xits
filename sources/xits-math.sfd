@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1276549050
+ModificationTime: 1277566980
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114803 9 7
+WinInfo: 120544 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -21224,6 +21224,7 @@ StartChar: uni0391
 Encoding: 913 913 624
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 HStem: 0 20 216 41<216 447 216 461 199 447> 654 20<347 367 367 367>
 LayerCount: 2
 Fore
@@ -21260,6 +21261,7 @@ StartChar: uni0392
 Encoding: 914 914 625
 Width: 667
 Flags: MW
+TopAccentHorizontal: 305
 HStem: 0 37<254 333 254 354> 326 40<215 278 215 278 278 280> 625 37<230.5 297 297 319>
 LayerCount: 2
 Fore
@@ -21297,6 +21299,7 @@ StartChar: uni0393
 Encoding: 915 915 626
 Width: 587
 Flags: MW
+TopAccentHorizontal: 294
 HStem: 0 20 624 38<223 237 237 412>
 LayerCount: 2
 Fore
@@ -21325,6 +21328,7 @@ StartChar: uni0394
 Encoding: 916 916 627
 Width: 722
 Flags: MW
+TopAccentHorizontal: 362
 HStem: 0 92<136 524 136 675 48 524> 654 20<347 367 367 367>
 LayerCount: 2
 Fore
@@ -21346,6 +21350,7 @@ StartChar: uni0395
 Encoding: 917 917 628
 Width: 611
 Flags: MW
+TopAccentHorizontal: 304
 HStem: 0 37<265 391.5 265 551> 327 41<201 352 201 352> 624 38<222 359.5>
 LayerCount: 2
 Fore
@@ -21383,6 +21388,7 @@ StartChar: uni0396
 Encoding: 918 918 629
 Width: 612
 Flags: MW
+TopAccentHorizontal: 304
 HStem: 0 38<146 398 398 426 146 573> 624 38<197.5 233 233 447>
 LayerCount: 2
 Fore
@@ -21412,6 +21418,7 @@ StartChar: uni0397
 Encoding: 919 919 630
 Width: 722
 Flags: MW
+TopAccentHorizontal: 360
 HStem: 0 20 315 44<209 512 209 512> 642 20<18 298 298 298 423 703 703 703>
 LayerCount: 2
 Fore
@@ -21453,6 +21460,7 @@ StartChar: uni0398
 Encoding: 920 920 631
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 HStem: -14 36<339 387 339 457> 298 85<312 313 313 418> 640 36<333 383.5>
 LayerCount: 2
 Fore
@@ -21494,6 +21502,7 @@ StartChar: uni0399
 Encoding: 921 921 632
 Width: 333
 Flags: MW
+TopAccentHorizontal: 166
 HStem: 0 20 642 20<18 315 315 315>
 LayerCount: 2
 Fore
@@ -21519,6 +21528,7 @@ StartChar: uni039A
 Encoding: 922 922 633
 Width: 731
 Flags: MW
+TopAccentHorizontal: 370
 HStem: 0 20<447 447 447 723> 642 20<441 441>
 LayerCount: 2
 Fore
@@ -21564,6 +21574,7 @@ StartChar: uni039B
 Encoding: 923 923 634
 Width: 702
 Flags: MW
+TopAccentHorizontal: 349
 HStem: 0 20 654 20<337 357 357 357>
 LayerCount: 2
 Fore
@@ -21595,6 +21606,7 @@ StartChar: uni039C
 Encoding: 924 924 635
 Width: 889
 Flags: MW
+TopAccentHorizontal: 438
 HStem: 0 20 642 20<14 212 212 212 664 863 863 863>
 VStem: 109 44<151 549>
 LayerCount: 2
@@ -21634,6 +21646,7 @@ StartChar: uni039D
 Encoding: 925 925 636
 Width: 722
 Flags: MW
+TopAccentHorizontal: 360
 HStem: -11 20 0 20 642 20<12 182 182 182 470 707 707 707>
 VStem: 109 44<150 538> 568 44<179 507 -11 519 -11 544.5>
 LayerCount: 2
@@ -21670,6 +21683,7 @@ StartChar: uni039E
 Encoding: 926 926 637
 Width: 643
 Flags: MW
+TopAccentHorizontal: 322
 HStem: 0 85<139 497 497 528 139 614> 295 80<203 414 228 411> 580 82<133 159 159 484>
 LayerCount: 2
 Fore
@@ -21713,6 +21727,7 @@ StartChar: uni039F
 Encoding: 927 927 638
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 HStem: -14 36<339 387 339 457> 640 36<333 383.5>
 LayerCount: 2
 Fore
@@ -21739,6 +21754,7 @@ StartChar: uni03A0
 Encoding: 928 928 639
 Width: 722
 Flags: MW
+TopAccentHorizontal: 360
 HStem: 0 20 624 38<232 245 245 476>
 LayerCount: 2
 Fore
@@ -21774,6 +21790,7 @@ StartChar: uni03A1
 Encoding: 929 929 640
 Width: 557
 Flags: MW
+TopAccentHorizontal: 279
 HStem: 0 20 288 40<258 318 253 324.5> 625 37<222.5 275 275 305>
 LayerCount: 2
 Fore
@@ -21808,6 +21825,7 @@ StartChar: uni03A3
 Encoding: 931 931 641
 Width: 624
 Flags: MW
+TopAccentHorizontal: 315
 HStem: 0 95<148 458 458 496.5 148 572> 624 38<173 381 173 173>
 LayerCount: 2
 Fore
@@ -21837,6 +21855,7 @@ StartChar: uni03A4
 Encoding: 932 932 642
 Width: 611
 Flags: MW
+TopAccentHorizontal: 305
 HStem: 0 20 620 42<141 194 194 254 356 415 356 356>
 LayerCount: 2
 Fore
@@ -21866,6 +21885,7 @@ StartChar: uni03A5
 Encoding: 933 933 643
 Width: 722
 Flags: MW
+TopAccentHorizontal: 390
 HStem: 0 20 624 50<101 226.5> 644 27<601.5 650 588 676.5>
 LayerCount: 2
 Fore
@@ -21897,6 +21917,7 @@ StartChar: uni03A6
 Encoding: 934 934 644
 Width: 763
 Flags: MW
+TopAccentHorizontal: 382
 HStem: 0 20 642 20<229 535 535 535>
 LayerCount: 2
 Fore
@@ -21938,6 +21959,7 @@ StartChar: uni03A7
 Encoding: 935 935 645
 Width: 722
 Flags: MW
+TopAccentHorizontal: 401
 HStem: 0 20 642 20<294 294>
 LayerCount: 2
 Fore
@@ -21985,6 +22007,7 @@ StartChar: uni03A8
 Encoding: 936 936 646
 Width: 746
 Flags: MW
+TopAccentHorizontal: 373
 HStem: 0 20 642 20<221 527 527 527>
 LayerCount: 2
 Fore
@@ -22026,6 +22049,7 @@ StartChar: uni03A9
 Encoding: 937 937 647
 Width: 744
 Flags: MW
+TopAccentHorizontal: 372
 HStem: 0 95<116 267 116 316 29 267 474 628 628 648.5> 640 36<304 437.5>
 LayerCount: 2
 Fore
@@ -22330,6 +22354,7 @@ StartChar: uni03B1
 Encoding: 945 945 655
 Width: 543
 Flags: MW
+TopAccentHorizontal: 279
 HStem: -10 28<180.5 255> -10 62<466 475> 430 20<424 521 521 521> 432 28<195 257>
 VStem: 29 90<236 286.5>
 LayerCount: 2
@@ -22361,6 +22386,7 @@ StartChar: uni03B2
 Encoding: 946 946 656
 Width: 496
 Flags: MW
+TopAccentHorizontal: 260
 HStem: -10 32<240.5 296 232.5 320.5> 381 32<297.5 311> 655 28<218 288>
 VStem: 71 84<-136 31 74 89 89 373 373 485 485 494> 346 81<517.5 527.5> 380 86<167 267 167 269.5>
 LayerCount: 2
@@ -22401,6 +22427,7 @@ StartChar: uni03B3
 Encoding: 947 947 657
 Width: 474
 Flags: MW
+TopAccentHorizontal: 227
 HStem: 0 20 387 70<72.5 130.5> 430 20<344 444 444 444>
 LayerCount: 2
 Fore
@@ -22427,6 +22454,7 @@ StartChar: uni03B4
 Encoding: 948 948 658
 Width: 500
 Flags: MW
+TopAccentHorizontal: 250
 HStem: -10 28<245.5 298.5 245.5 315> 641 42<214.5 277>
 VStem: 29 90<218.5 266> 84 38<551 602.5 551 616.5> 380 90<162 240.5>
 LayerCount: 2
@@ -22459,6 +22487,7 @@ StartChar: uni03B5
 Encoding: 949 949 659
 Width: 439
 Flags: MW
+TopAccentHorizontal: 216
 HStem: -10 50<194 252.5> 217 32<200 230 187 232.5> 431 29<195.5 252>
 VStem: 25 90<102.5 149> 48 83<311 360 311 363> 311 87<386 396 343 404.5>
 LayerCount: 2
@@ -22493,6 +22522,7 @@ StartChar: uni03B6
 Encoding: 950 950 660
 Width: 441
 Flags: MW
+TopAccentHorizontal: 221
 HStem: -218 68<281 294> -10 90<158.5 205> -1 83<280.5 308.5 246.5 312>
 VStem: 35 47<192.5 262> 55 45<575.5 606.5 575.5 612.5> 376 31<-93.5 -47.5>
 LayerCount: 2
@@ -22529,6 +22559,7 @@ StartChar: uni03B7
 Encoding: 951 951 661
 Width: 512
 Flags: MW
+TopAccentHorizontal: 231
 HStem: 0 20 388 67<61.5 136> 405 55<295 304>
 VStem: 92 84<0 313 313 346> 352 84<-131 308 308 319>
 LayerCount: 2
@@ -22561,6 +22592,7 @@ StartChar: uni03B8
 Encoding: 952 952 662
 Width: 496
 Flags: MW
+TopAccentHorizontal: 248
 HStem: -10 28<197.5 298.5 196.5 315.5> 322 32<117 378 117 378> 655 28<203.5 295 179.5 301>
 LayerCount: 2
 Fore
@@ -22590,6 +22622,7 @@ StartChar: uni03B9
 Encoding: 953 953 663
 Width: 275
 Flags: MW
+TopAccentHorizontal: 144
 HStem: -10 66<131 210> 440 20<175 175>
 VStem: 95 84<78 79 79 344 344 362.5>
 LayerCount: 2
@@ -22616,6 +22649,7 @@ StartChar: uni03BA
 Encoding: 954 954 664
 Width: 500
 Flags: MW
+TopAccentHorizontal: 255
 HStem: 0 20 374 86
 VStem: 82 84<0 227 0 258 258 341 341 365>
 LayerCount: 2
@@ -22684,6 +22718,7 @@ StartChar: uni03BC
 Encoding: 956 956 666
 Width: 528
 Flags: MW
+TopAccentHorizontal: 254
 HStem: -10 58<220.5 232.5> -10 66<383 458.5> 430 20<71 155 155 155 345 429 429 429>
 VStem: 71 82<-132 -131 -131 18> 71 84<18 18 109 138 138 450> 345 84<49 113 136 450>
 LayerCount: 2
@@ -22720,6 +22755,7 @@ StartChar: uni03BD
 Encoding: 957 957 667
 Width: 455
 Flags: MW
+TopAccentHorizontal: 232
 HStem: -14 20 440 20<175 175 424 443 443 443>
 VStem: 95 84<90 344 344 360>
 LayerCount: 2
@@ -22747,6 +22783,7 @@ StartChar: uni03BE
 Encoding: 958 958 668
 Width: 441
 Flags: MW
+TopAccentHorizontal: 221
 HStem: -218 68<281 294.5> -10 90<161.5 205 161.5 208> -1 83<280.5 309 251 312>
 VStem: 35 45<153 205> 81 45<596.5 614.5> 103 40<437.5 463.5> 376 31<-94 -47.5>
 LayerCount: 2
@@ -22790,6 +22827,7 @@ StartChar: uni03BF
 Encoding: 959 959 669
 Width: 505
 Flags: MW
+TopAccentHorizontal: 254
 HStem: -10 32<217.5 309 217.5 312.5> 428 32<195.5 292.5>
 VStem: 35 89<202.5 265.5> 384 89<170 233.5>
 LayerCount: 2
@@ -22813,6 +22851,7 @@ StartChar: uni03C0
 Encoding: 960 960 670
 Width: 501
 Flags: MW
+TopAccentHorizontal: 246
 HStem: -14 20 -10 83<390 405.5> 366 84<126.5 479 201 294 201 201 360 360 360 479>
 VStem: 278 72<79.5 248>
 LayerCount: 2
@@ -22846,6 +22885,7 @@ StartChar: uni03C1
 Encoding: 961 961 671
 Width: 496
 Flags: MW
+TopAccentHorizontal: 260
 HStem: -10 32<239 295 235.5 319.5> 432 28<217.5 284>
 VStem: 71 84<-132 -131 -131 30 73 88 88 152 152 272> 380 86<174.5 282>
 LayerCount: 2
@@ -22875,6 +22915,7 @@ StartChar: uni03C2
 Encoding: 962 962 672
 Width: 441
 Flags: MW
+TopAccentHorizontal: 234
 HStem: -218 68<281 294> -10 20 -1 83<280.5 308.5 248 312> 372 88<226 282>
 VStem: 35 47<175.5 249.5> 376 31<-93.5 -47.5>
 LayerCount: 2
@@ -22906,6 +22947,7 @@ StartChar: uni03C3
 Encoding: 963 963 673
 Width: 548
 Flags: MW
+TopAccentHorizontal: 274
 HStem: -10 28<226 300.5 226 303> 366 84<244 273 342 518 342 342>
 VStem: 29 90<176.5 290 176.5 296> 377 90<138.5 211.5>
 LayerCount: 2
@@ -22932,6 +22974,7 @@ StartChar: uni03C4
 Encoding: 964 964 674
 Width: 477
 Flags: MW
+TopAccentHorizontal: 240
 HStem: -10 83<281.5 310> 366 84<104.5 442 162 214 272 442 272 272>
 VStem: 174 75<152.5 180.5>
 LayerCount: 2
@@ -22960,6 +23003,7 @@ StartChar: uni03C5
 Encoding: 965 965 675
 Width: 524
 Flags: MW
+TopAccentHorizontal: 255
 HStem: -10 28<243 327.5 243 339.5> 388 67<68 140> 440 20<255 282>
 VStem: 98 84<198 318 318 337> 404 90<160 237.5>
 LayerCount: 2
@@ -22990,6 +23034,7 @@ StartChar: uni03C6
 Encoding: 966 966 676
 Width: 623
 Flags: MW
+TopAccentHorizontal: 311
 HStem: 432 28<393 433.5>
 VStem: 29 90<241 289.5> 269 84<-217 -10 -217 -10 18 153 153 200.5> 503 90<160 255>
 CounterMasks: 1 70
@@ -23027,6 +23072,7 @@ StartChar: uni03C7
 Encoding: 967 967 677
 Width: 500
 Flags: MW
+TopAccentHorizontal: 248
 HStem: -220 70<355.5 387 355.5 395> 390 70<105 131.5> 430 20<388 486 486 486>
 LayerCount: 2
 Fore
@@ -23060,6 +23106,7 @@ Encoding: 968 968 678
 Width: 694
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 352
 HStem: 430 20<310 394 394 394> 440 20<63 119.5 581.5 641>
 VStem: 310 84<-217 -10 -217 -10 18 450>
 LayerCount: 2
@@ -23092,6 +23139,7 @@ StartChar: uni03C9
 Encoding: 969 969 679
 Width: 625
 Flags: MW
+TopAccentHorizontal: 312
 HStem: -10 28<166 214 407 457> 440 20<197.5 263 361 427.5>
 VStem: 29 90<173.5 291 172 296.5> 505 90<174 285>
 LayerCount: 2
@@ -23305,6 +23353,7 @@ StartChar: uni03D0
 Encoding: 976 976 685
 Width: 450
 Flags: MW
+TopAccentHorizontal: 232
 HStem: -10 33<158 221 158 277.5> 351 34<248.5 304.5 214 308> 674 19<300 330.5 287 348>
 VStem: 54 61<88 322.5> 357 41<236.5 240.5 149.5 291.5> 374 37<623.5 644.5 564 649>
 LayerCount: 2
@@ -23339,6 +23388,7 @@ StartChar: uni03D1
 Encoding: 977 977 686
 Width: 554
 Flags: MW
+TopAccentHorizontal: 242
 HStem: -10 28<231.5 313 231.5 342.5> 263 57<59 132.5> 646 37<221 264>
 VStem: 92 76<532 585>
 LayerCount: 2
@@ -23377,6 +23427,7 @@ StartChar: uni03D2
 Encoding: 978 978 687
 Width: 722
 Flags: MW
+TopAccentHorizontal: 398
 HStem: 0 20 624 50<101 226.5> 650 26<541.5 596.5>
 VStem: 617 81<570.5 642>
 LayerCount: 2
@@ -23410,6 +23461,7 @@ StartChar: uni03D5
 Encoding: 981 981 688
 Width: 623
 Flags: MW
+TopAccentHorizontal: 311
 VStem: 29 90<233.5 287.5> 269 84<-217 -10 -217 -10 460 683> 270 82<18 432> 503 90<174 263>
 LayerCount: 2
 Fore
@@ -23447,6 +23499,7 @@ StartChar: uni03D6
 Encoding: 982 982 689
 Width: 762
 Flags: MW
+TopAccentHorizontal: 406
 HStem: -10 28<252 303 498.5 549.5> 366 84<97.5 726 154 167 250 250 250 558 640 726 640 640>
 VStem: 120 90<162.5 231 162.5 232.5> 596 90<162 231 132 232.5>
 LayerCount: 2
@@ -23486,6 +23539,7 @@ StartChar: uni03D8
 Encoding: 984 984 690
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 HStem: 640 36<333 383.5>
 LayerCount: 2
 Fore
@@ -23518,6 +23572,7 @@ StartChar: uni03D9
 Encoding: 985 985 691
 Width: 500
 Flags: MW
+TopAccentHorizontal: 250
 HStem: 432 28<200.5 256.5>
 VStem: 29 90<233.5 297.5> 207 84<-217 -6 -217 -6> 380 90<169.5 238>
 LayerCount: 2
@@ -23545,6 +23600,7 @@ StartChar: uni03DA
 Encoding: 986 986 692
 Width: 667
 Flags: MW
+TopAccentHorizontal: 441
 HStem: -218 44<369.5 409.5 366 455> 618 58<349 458.5>
 VStem: 28 74<256 412.5> 543 79<-70.5 0>
 LayerCount: 2
@@ -23573,6 +23629,7 @@ StartChar: uni03DB
 Encoding: 987 987 693
 Width: 461
 Flags: MW
+TopAccentHorizontal: 236
 HStem: -218 68<281 294> -10 76<148.5 168 135 205> -1 83<280.5 308.5 246.5 312>
 VStem: 35 47<128.5 165.5 128.5 194> 376 31<-93.5 -47.5>
 LayerCount: 2
@@ -23603,6 +23660,7 @@ StartChar: uni03DC
 Encoding: 988 988 694
 Width: 556
 Flags: MW
+TopAccentHorizontal: 278
 HStem: 0 20 327 41<201 449 201 449> 624 38<220.5 235 235 367>
 LayerCount: 2
 Fore
@@ -23634,6 +23692,7 @@ StartChar: uni03DD
 Encoding: 989 989 695
 Width: 470
 Flags: MW
+TopAccentHorizontal: 258
 HStem: 90 40<160 385 160 385> 390 60<160 435 160 160>
 VStem: 80 80<-190 90 130 390>
 LayerCount: 2
@@ -23769,6 +23828,7 @@ StartChar: uni03F0
 Encoding: 1008 1008 700
 Width: 551
 Flags: MW
+TopAccentHorizontal: 278
 HStem: -10 76<401 425.5 401 448> 0 20 384 76<133.5 160 110 161> 430 20<412 515 515 515>
 VStem: 200 34<305.5 321.5> 325 34<131 147.5>
 LayerCount: 2
@@ -23804,6 +23864,7 @@ StartChar: uni03F1
 Encoding: 1009 1009 701
 Width: 500
 Flags: MW
+TopAccentHorizontal: 250
 HStem: -10 28<217.5 312.5 214 324.5> 432 28<204 275>
 VStem: 29 90<214 235.5> 380 90<175 274.5>
 LayerCount: 2
@@ -23833,6 +23894,7 @@ StartChar: uni03F4
 Encoding: 1012 1012 702
 Width: 722
 Flags: MW
+TopAccentHorizontal: 361
 HStem: -14 36<339 387 339 457> 315 44<148 573 148 574 148 573> 640 36<333 383.5>
 LayerCount: 2
 Fore
@@ -23862,6 +23924,7 @@ StartChar: uni03F5
 Encoding: 1013 1013 703
 Width: 439
 Flags: MW
+TopAccentHorizontal: 216
 HStem: -10 41<204 266> 223 32<115 310 115 310> 431 29<203.5 264.5 171.5 283>
 LayerCount: 2
 Fore
@@ -23891,6 +23954,7 @@ StartChar: uni03F6
 Encoding: 1014 1014 704
 Width: 444
 Flags: MW
+TopAccentHorizontal: 223
 HStem: -10 29<174.5 235.5 156 267.5> 195 32<129 324 129 324> 419 41<173 235>
 LayerCount: 2
 Fore
@@ -103188,6 +103252,7 @@ StartChar: u1D6E2
 Encoding: 120546 120546 3009
 Width: 717
 Flags: MW
+TopAccentHorizontal: 508
 HStem: 0 20 211 37<296 466 296 473 275 466> 647 20<499 517 517 517>
 LayerCount: 2
 Fore
@@ -103228,6 +103293,7 @@ Encoding: 120547 120547 3010
 Width: 696
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 464
 HStem: 0 38<328 362> 318 35<392.5 428> 614 39<441.5 450 450 476>
 LayerCount: 2
 Fore
@@ -103270,6 +103336,7 @@ Encoding: 120548 120548 3011
 Width: 616
 Flags: MW
 ItalicCorrection: 145
+TopAccentHorizontal: 492
 HStem: 0 20 616 37<410 556 410 410>
 LayerCount: 2
 Fore
@@ -103303,6 +103370,7 @@ StartChar: u1D6E5
 Encoding: 120549 120549 3012
 Width: 596
 Flags: MW
+TopAccentHorizontal: 453
 HStem: 0 82<137 429 137 556> 647 20<442 461 461 461>
 LayerCount: 2
 Fore
@@ -103326,6 +103394,7 @@ Encoding: 120550 120550 3013
 Width: 714
 Flags: MW
 ItalicCorrection: 60
+TopAccentHorizontal: 492
 HStem: 0 38<335 402 402 481> 333 36<349 429 429 430 340 429> 617 36<409 569 409 409>
 LayerCount: 2
 Fore
@@ -103371,6 +103440,7 @@ Encoding: 120551 120551 3014
 Width: 772
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 503
 HStem: 0 38<236 454 454 501> 616 37<383 431 431 633>
 LayerCount: 2
 Fore
@@ -103397,6 +103467,7 @@ Encoding: 120552 120552 3015
 Width: 873
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 560
 HStem: 0 20 320 37<350 620 340 628>
 LayerCount: 2
 Fore
@@ -103451,6 +103522,7 @@ Encoding: 120553 120553 3016
 Width: 737
 Flags: MW
 ItalicCorrection: 15
+TopAccentHorizontal: 463
 HStem: -11 38<271 415.5 271 423.5> 292 76<303.5 452 334 439> 632 37<337.5 505>
 LayerCount: 2
 Fore
@@ -103489,6 +103561,7 @@ Encoding: 120554 120554 3017
 Width: 480
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 360
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -103521,6 +103594,7 @@ Encoding: 120555 120555 3018
 Width: 762
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 540
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -103572,6 +103646,7 @@ StartChar: u1D6EC
 Encoding: 120556 120556 3019
 Width: 718
 Flags: MW
+TopAccentHorizontal: 510
 HStem: 0 20 647 20<500 517 517 517>
 LayerCount: 2
 Fore
@@ -103607,6 +103682,7 @@ Encoding: 120557 120557 3020
 Width: 1005
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 614
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -103658,6 +103734,7 @@ Encoding: 120558 120558 3021
 Width: 851
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 538
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -103701,6 +103778,7 @@ Encoding: 120559 120559 3022
 Width: 706
 Flags: MW
 ItalicCorrection: 75
+TopAccentHorizontal: 476
 HStem: 0 82<170 509 509 538 170 589> 308 76<300.5 498 353 498 498 505> 577 76<298 324 324 623>
 LayerCount: 2
 Fore
@@ -103750,6 +103828,7 @@ Encoding: 120560 120560 3023
 Width: 732
 Flags: MW
 ItalicCorrection: 20
+TopAccentHorizontal: 465
 HStem: -11 38<272 417 272 429.5> 632 37<339 505.5>
 LayerCount: 2
 Fore
@@ -103773,6 +103852,7 @@ Encoding: 120561 120561 3024
 Width: 873
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 554
 HStem: 0 20 616 37<413 691 413 413>
 LayerCount: 2
 Fore
@@ -103816,6 +103896,7 @@ Encoding: 120562 120562 3025
 Width: 594
 Flags: MW
 ItalicCorrection: 150
+TopAccentHorizontal: 477
 HStem: 0 20 294 37<405 454 393 521> 616 37<451.5 472 472 507.5>
 LayerCount: 2
 Fore
@@ -103855,6 +103936,7 @@ Encoding: 120563 120563 3026
 Width: 737
 Flags: MW
 ItalicCorrection: 15
+TopAccentHorizontal: 465
 HStem: -11 38<271 384.5 271 423.5> 292 76<195 575 180 590> 632 37<378.5 505>
 LayerCount: 2
 Fore
@@ -103883,6 +103965,7 @@ Encoding: 120564 120564 3027
 Width: 735
 Flags: MW
 ItalicCorrection: 65
+TopAccentHorizontal: 509
 HStem: 0 82<217 532 532 570.5 217 624> 616 37<373 578 373 373>
 LayerCount: 2
 Fore
@@ -103912,6 +103995,7 @@ Encoding: 120565 120565 3028
 Width: 550
 Flags: MW
 ItalicCorrection: 160
+TopAccentHorizontal: 348
 HStem: 0 20 616 37<170.5 212 212 303 416 514 416 416>
 LayerCount: 2
 Fore
@@ -103946,6 +104030,7 @@ Encoding: 120566 120566 3029
 Width: 567
 Flags: MW
 ItalicCorrection: 160
+TopAccentHorizontal: 358
 HStem: 0 20 643 20<32 32 617 653> 648 20<105 171>
 LayerCount: 2
 Fore
@@ -103983,6 +104068,7 @@ Encoding: 120567 120567 3030
 Width: 772
 Flags: MW
 ItalicCorrection: 15
+TopAccentHorizontal: 464
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -104028,6 +104114,7 @@ Encoding: 120568 120568 3031
 Width: 790
 Flags: MW
 ItalicCorrection: 60
+TopAccentHorizontal: 530
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -104081,6 +104168,7 @@ Encoding: 120569 120569 3032
 Width: 670
 Flags: MW
 ItalicCorrection: 113
+TopAccentHorizontal: 386
 HStem: 0 15<358.5 378 358.5 391> 647 20<32 50 50 83 725 743 743 743>
 VStem: 32 89<358.5 407 344 444.5>
 LayerCount: 2
@@ -104130,6 +104218,7 @@ Encoding: 120570 120570 3033
 Width: 800
 Flags: MW
 ItalicCorrection: 20
+TopAccentHorizontal: 546
 HStem: 0 94<149 280 149 303 488 616> 633 33<496 578.5>
 LayerCount: 2
 Fore
@@ -104175,6 +104264,7 @@ Encoding: 120571 120571 3034
 Width: 627
 Flags: MW
 ItalicCorrection: 15
+TopAccentHorizontal: 321
 HStem: -15 20 559 94<157 499 157 157>
 LayerCount: 2
 Fore
@@ -104196,6 +104286,7 @@ Encoding: 120572 120572 3035
 Width: 524
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 284
 HStem: -10 30<153 202.5> -10 61<372 430> 411 30<231.5 289>
 VStem: 40 84<109.5 162>
 LayerCount: 2
@@ -104232,6 +104323,7 @@ Encoding: 120573 120573 3036
 Width: 493
 Flags: MW
 ItalicCorrection: 65
+TopAccentHorizontal: 424
 HStem: -12 29<207 260> 358 36<358.5 407> 618 50<396 406>
 VStem: 389 85<246.5 295.5 239 312> 445 73<517.5 541>
 LayerCount: 2
@@ -104273,6 +104365,7 @@ Encoding: 120574 120574 3037
 Width: 428
 Flags: MW
 ItalicCorrection: 80
+TopAccentHorizontal: 246
 HStem: 377 64<111.5 135.5>
 VStem: 165 38<211.5 348>
 LayerCount: 2
@@ -104302,6 +104395,7 @@ Encoding: 120575 120575 3038
 Width: 463
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 342
 HStem: -11 29<166.5 233 166.5 243.5> 627 41<309 346.5>
 VStem: 40 78<94 164.5 92.5 193.5> 175 36<512.5 578> 351 84<250.5 291>
 LayerCount: 2
@@ -104332,6 +104426,7 @@ StartChar: u1D700
 Encoding: 120576 120576 3039
 Width: 484
 Flags: MW
+TopAccentHorizontal: 234
 HStem: -11 41<207 246.5> 211 36<226.5 255.5> 411 30<278.5 339 237 340>
 VStem: 25 87<77.5 127.5> 83 88<282 332.5 282 334.5>
 LayerCount: 2
@@ -104365,6 +104460,7 @@ Encoding: 120577 120577 3040
 Width: 435
 Flags: MW
 ItalicCorrection: 100
+TopAccentHorizontal: 260
 HStem: -183 66<219 221> -9 91<157.5 175> 0 83<237.5 267> 648 20<290 290>
 VStem: 40 58<145.5 213.5> 167 53<568 584.5> 325 36<-58.5 -29.5>
 LayerCount: 2
@@ -104402,6 +104498,7 @@ Encoding: 120578 120578 3041
 Width: 460
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 242
 HStem: 0 20 376 65<96 180>
 VStem: 120 85<356 412> 260 82<-146 -132.5 -155 -116.5>
 LayerCount: 2
@@ -104442,6 +104539,7 @@ Encoding: 120579 120579 3042
 Width: 484
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 347
 HStem: -11 29<160.5 215.5 160.5 254> 308 36<159 356 149 365> 639 29<303 359.5>
 VStem: 40 84<108.5 167 108.5 255> 390 84<489.5 538.5 374 546.5>
 LayerCount: 2
@@ -104471,6 +104569,7 @@ StartChar: u1D704
 Encoding: 120580 120580 3043
 Width: 267
 Flags: MW
+TopAccentHorizontal: 164
 HStem: -11 20
 VStem: 50 84<21.5 65>
 LayerCount: 2
@@ -104499,6 +104598,7 @@ Encoding: 120581 120581 3044
 Width: 534
 Flags: MW
 ItalicCorrection: 60
+TopAccentHorizontal: 300
 HStem: 0 20 389 52<436.5 519>
 LayerCount: 2
 Fore
@@ -104536,6 +104636,7 @@ StartChar: u1D706
 Encoding: 120582 120582 3045
 Width: 541
 Flags: MW
+TopAccentHorizontal: 348
 HStem: -16 64<424 431.5> 0 20 604 64<321.5 328.5>
 VStem: 371 33<456.5 465.5>
 LayerCount: 2
@@ -104568,6 +104669,7 @@ Encoding: 120583 120583 3046
 Width: 579
 Flags: MW
 ItalicCorrection: 30
+TopAccentHorizontal: 374
 HStem: -27 64<398.5 483.5> -6 64<202.5 284.5>
 VStem: 372 83<0 56>
 LayerCount: 2
@@ -104604,6 +104706,7 @@ Encoding: 120584 120584 3047
 Width: 452
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 284
 HStem: -9 20
 LayerCount: 2
 Fore
@@ -104628,6 +104731,7 @@ Encoding: 120585 120585 3048
 Width: 433
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 234
 HStem: -183 66<222 223> -9 92<172 181> 0 84<236.5 270> 648 20<293 293>
 VStem: 25 57<132 166.5> 166 35<434 434> 173 48<575 587 575 596> 328 36<-58.5 -29.5>
 LayerCount: 2
@@ -104671,6 +104775,7 @@ StartChar: u1D70A
 Encoding: 120586 120586 3049
 Width: 458
 Flags: MW
+TopAccentHorizontal: 293
 HStem: -11 30<152 233 152 251.5> 411 30<249 316.5>
 VStem: 40 81<115.5 194 109.5 216> 357 81<280 337>
 LayerCount: 2
@@ -104695,6 +104800,7 @@ Encoding: 120587 120587 3050
 Width: 558
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 370
 HStem: -13 20 -7 76<329 414.5> 355 73<200 568 286 379 285 568 433 545 433 433>
 LayerCount: 2
 Fore
@@ -104729,6 +104835,7 @@ StartChar: u1D70C
 Encoding: 120588 120588 3051
 Width: 502
 Flags: MW
+TopAccentHorizontal: 379
 HStem: -12 29<206 262.5 206 290> 385 56<310.5 408.5>
 VStem: 388 84<246 333.5>
 LayerCount: 2
@@ -104758,6 +104865,7 @@ Encoding: 120589 120589 3052
 Width: 439
 Flags: MW
 ItalicCorrection: 65
+TopAccentHorizontal: 250
 HStem: -183 66<214 219.5> -7 91<143 168.5> 2 83<227 238> 432 58<299 372>
 VStem: 35 58<159 224> 320 36<-58 -31>
 LayerCount: 2
@@ -104789,6 +104897,7 @@ Encoding: 120590 120590 3053
 Width: 537
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 294
 HStem: -11 30<159 235.5 159 254.5> 355 73<284 547 284 547 354 527 354 354>
 VStem: 40 81<113 192 105 234> 358 80<185.5 249.5 156 258>
 LayerCount: 2
@@ -104817,6 +104926,7 @@ Encoding: 120591 120591 3054
 Width: 442
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 251
 HStem: -5 76<189.5 277> 355 73<154.5 472 182 472 295 450 295 295>
 VStem: 144 84<36 127>
 LayerCount: 2
@@ -104847,6 +104957,7 @@ StartChar: u1D710
 Encoding: 120592 120592 3055
 Width: 460
 Flags: MW
+TopAccentHorizontal: 238
 HStem: -11 29<175 257.5 175 267.5>
 VStem: 57 78<68.5 100.5 68.5 103.5> 385 60<240 320 208.5 329.5>
 LayerCount: 2
@@ -104878,6 +104989,7 @@ StartChar: u1D711
 Encoding: 120593 120593 3056
 Width: 666
 Flags: MW
+TopAccentHorizontal: 340
 HStem: 382 56<479 514>
 VStem: 50 84<119.5 224.5 119.5 227> 547 84<223.5 329.5>
 LayerCount: 2
@@ -104911,6 +105023,7 @@ Encoding: 120594 120594 3057
 Width: 595
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 438
 HStem: -202 64<381 390> 377 64<273 293>
 LayerCount: 2
 Fore
@@ -104945,6 +105058,7 @@ Encoding: 120595 120595 3058
 Width: 661
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 370
 VStem: 59 88<107.5 174 107.5 182> 91 87<303.5 357>
 LayerCount: 2
 Fore
@@ -104979,6 +105093,7 @@ StartChar: u1D714
 Encoding: 120596 120596 3059
 Width: 681
 Flags: MW
+TopAccentHorizontal: 392
 HStem: -11 30<147.5 191 389.5 460>
 VStem: 20 82<115.5 196 89 231> 581 80<249 339 195 340>
 LayerCount: 2
@@ -105013,6 +105128,7 @@ Encoding: 120597 120597 3060
 Width: 471
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 280
 HStem: -11 30<156.5 226.5 156.5 293> 405 30<256.5 313 224 319.5> 638 30<266 320>
 VStem: 40 81<108.5 186.5 98 221.5> 400 71<445 493 334 501>
 LayerCount: 2
@@ -105044,6 +105160,7 @@ Encoding: 120598 120598 3061
 Width: 430
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 309
 HStem: -11 55<190.5 221.5> 211 36<142 318 133 323> 414 27<262 333.5 231.5 337.5>
 VStem: 40 86<113 157.5 113 212>
 LayerCount: 2
@@ -105075,6 +105192,7 @@ StartChar: u1D717
 Encoding: 120599 120599 3062
 Width: 554
 Flags: MW
+TopAccentHorizontal: 348
 HStem: -10 21<192 264 192 274> 265 55<91.5 166> 645 33<310 381>
 VStem: 78 80<69.5 115> 114 81<244.5 255> 175 84<448 524 448 545> 423 84<445.5 510>
 LayerCount: 2
@@ -105114,6 +105232,7 @@ Encoding: 120600 120600 3063
 Width: 561
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 300
 HStem: -13 20 0 20
 VStem: 215 40<314.5 389.5> 326 42<61.5 123>
 LayerCount: 2
@@ -105154,6 +105273,7 @@ StartChar: u1D719
 Encoding: 120601 120601 3064
 Width: 645
 Flags: MW
+TopAccentHorizontal: 442
 HStem: 648 20<398 480 480 480>
 VStem: 40 84<126.5 198> 535 85<246 319.5>
 LayerCount: 2
@@ -105189,6 +105309,7 @@ StartChar: u1D71A
 Encoding: 120602 120602 3065
 Width: 509
 Flags: MW
+TopAccentHorizontal: 350
 HStem: -10 29<200.5 289 200.5 306.5> 412 29<303 369.5>
 VStem: 40 54<35.5 65.5 -9.5 97> 211 23<-167.5 -90.5> 409 80<284 332 216 343>
 LayerCount: 2
@@ -105221,6 +105342,7 @@ Encoding: 120603 120603 3066
 Width: 856
 Flags: MW
 ItalicCorrection: 60
+TopAccentHorizontal: 504
 HStem: -11 30<268.5 312 510.5 581> 355 73<154 866 181 866 319 319 319 690 764 844 764 764>
 VStem: 141 82<112.5 159 86 189.5> 702 80<241 289 187 299>
 LayerCount: 2
@@ -105259,6 +105381,7 @@ StartChar: u1D71C
 Encoding: 120604 120604 3067
 Width: 759
 Flags: MW
+TopAccentHorizontal: 518
 HStem: 0 23<43 43 249 299 39 43 407 438 438 454.5 687 722> 210 46<340 466 340 472 313 466>
 LayerCount: 2
 Fore
@@ -105297,6 +105420,7 @@ Encoding: 120605 120605 3068
 Width: 726
 Flags: MW
 ItalicCorrection: 20
+TopAccentHorizontal: 496
 HStem: 0 23<46 86 86 116 42 86> 646 23<197 231 194 462>
 LayerCount: 2
 Fore
@@ -105338,6 +105462,7 @@ Encoding: 120606 120606 3069
 Width: 634
 Flags: MW
 ItalicCorrection: 155
+TopAccentHorizontal: 532
 HStem: 0 23<46 82 82 112.5 370 417 42 82> 624 45<439 594 439 439>
 LayerCount: 2
 Fore
@@ -105370,6 +105495,7 @@ StartChar: u1D71F
 Encoding: 120607 120607 3070
 Width: 632
 Flags: MW
+TopAccentHorizontal: 464
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -105391,6 +105517,7 @@ Encoding: 120608 120608 3071
 Width: 732
 Flags: MW
 ItalicCorrection: 62
+TopAccentHorizontal: 512
 HStem: 0 23<46 82 82 111.5 42 82> 0 45<354 419 419 492> 340 45<383 438 438 441 372 438> 624 45<438 573 438 438>
 LayerCount: 2
 Fore
@@ -105435,6 +105562,7 @@ Encoding: 120609 120609 3072
 Width: 797
 Flags: MW
 ItalicCorrection: 73
+TopAccentHorizontal: 518
 HStem: 0 46<282 476 476 521.5 282 678> 624 45<400.5 444 444 621>
 LayerCount: 2
 Fore
@@ -105460,6 +105588,7 @@ Encoding: 120610 120610 3073
 Width: 891
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 560
 HStem: 0 23<46 82 82 112.5 371 391 42 82 449 472 472 502.5 758 794> 335 48<384 616 374 626> 646 23<195 229 189 543 483.5 515 515 540 582 616 873.5 904 904 941>
 LayerCount: 2
 Fore
@@ -105514,6 +105643,7 @@ Encoding: 120611 120611 3074
 Width: 783
 Flags: MW
 ItalicCorrection: 68
+TopAccentHorizontal: 485
 HStem: -16 47<291 420 291 443> 297 86<330.5 480 364 460> 638 47<380 518.5>
 LayerCount: 2
 Fore
@@ -105550,6 +105680,7 @@ Encoding: 120612 120612 3075
 Width: 502
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 366
 HStem: 0 23<46 84 84 114.5 371 404 42 84> 646 23<195 228 191 557 484.5 515 515 553>
 LayerCount: 2
 Fore
@@ -105581,6 +105712,7 @@ Encoding: 120613 120613 3076
 Width: 795
 Flags: MW
 ItalicCorrection: 84
+TopAccentHorizontal: 558
 HStem: 0 20 649 20<187 534 534 534 589 839 839 839>
 LayerCount: 2
 Fore
@@ -105631,6 +105763,7 @@ StartChar: u1D726
 Encoding: 120614 120614 3077
 Width: 759
 Flags: MW
+TopAccentHorizontal: 520
 HStem: 0 23<43 43 249 299 39 43 407 438 438 454.5 687 722>
 LayerCount: 2
 Fore
@@ -105664,6 +105797,7 @@ Encoding: 120615 120615 3078
 Width: 1016
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 632
 HStem: 0 23<46 82 82 113 307 342 42 82 563 598 598 629.5 886 921> 646 23<192 227 188 438 1001 1034 1034 1068>
 LayerCount: 2
 Fore
@@ -105712,6 +105846,7 @@ Encoding: 120616 120616 3079
 Width: 869
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 523
 HStem: 0 23<46 82 82 112.5 308 343 42 82> 646 23<178 213 175 410 624 657 852.5 883 883 921>
 LayerCount: 2
 Fore
@@ -105753,6 +105888,7 @@ Encoding: 120617 120617 3080
 Width: 718
 Flags: MW
 ItalicCorrection: 80
+TopAccentHorizontal: 495
 HStem: 0 20 649 20<232 757 757 757>
 LayerCount: 2
 Fore
@@ -105800,6 +105936,7 @@ Encoding: 120618 120618 3081
 Width: 777
 Flags: MW
 ItalicCorrection: 18
+TopAccentHorizontal: 483
 HStem: -16 47<291 420 291 443> 638 47<380 518.5>
 LayerCount: 2
 Fore
@@ -105822,6 +105959,7 @@ Encoding: 120619 120619 3082
 Width: 887
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 558
 HStem: 0 23<44 79 79 108 367 387 39 79 446 468 468 498 755 790> 624 45<435 677 435 435>
 LayerCount: 2
 Fore
@@ -105864,6 +106002,7 @@ Encoding: 120620 120620 3083
 Width: 612
 Flags: MW
 ItalicCorrection: 161
+TopAccentHorizontal: 526
 HStem: 0 23<46 86 86 117 374 422 42 86> 300 45<424 465.5 414 543.5> 646 23<198 229 192 482>
 LayerCount: 2
 Fore
@@ -105901,6 +106040,7 @@ Encoding: 120621 120621 3084
 Width: 783
 Flags: MW
 ItalicCorrection: 12
+TopAccentHorizontal: 485
 HStem: -16 47<291 394 291 443> 297 86<237 574 218 593> 638 47<411 518.5>
 LayerCount: 2
 Fore
@@ -105928,6 +106068,7 @@ Encoding: 120622 120622 3085
 Width: 759
 Flags: MW
 ItalicCorrection: 68
+TopAccentHorizontal: 526
 HStem: 0 20 624 45<408 620 408 408>
 LayerCount: 2
 Fore
@@ -105956,6 +106097,7 @@ Encoding: 120623 120623 3086
 Width: 568
 Flags: MW
 ItalicCorrection: 172
+TopAccentHorizontal: 364
 HStem: 0 23<55 95 95 126 380 419 51 95> 624 45<179 229 229 304 450 528 450 450>
 LayerCount: 2
 Fore
@@ -105989,6 +106131,7 @@ Encoding: 120624 120624 3087
 Width: 589
 Flags: MW
 ItalicCorrection: 172
+TopAccentHorizontal: 376
 HStem: 0 23<73 107 107 137 392 426 65 107> 665 20<128 200>
 LayerCount: 2
 Fore
@@ -106023,6 +106166,7 @@ Encoding: 120625 120625 3088
 Width: 827
 Flags: MW
 ItalicCorrection: 12
+TopAccentHorizontal: 482
 HStem: 0 23<161 199 478 520 155 199> 646 23<308 344 303 672 598 626 626 667>
 LayerCount: 2
 Fore
@@ -106068,6 +106212,7 @@ Encoding: 120626 120626 3089
 Width: 808
 Flags: MW
 ItalicCorrection: 18
+TopAccentHorizontal: 535
 HStem: 0 23<32 32 275 313 28 32 389 417 417 433.5 670 702> 646 23<176 199 172 494 439.5 451 451 490 570 597 771.5 803 803 827>
 LayerCount: 2
 Fore
@@ -106120,6 +106265,7 @@ Encoding: 120627 120627 3090
 Width: 694
 Flags: MW
 ItalicCorrection: 127
+TopAccentHorizontal: 406
 HStem: 0 23<79 102 102 132 424 436 74 102> 647 22<241.5 262.5>
 LayerCount: 2
 Fore
@@ -106169,6 +106315,7 @@ Encoding: 120628 120628 3091
 Width: 826
 Flags: MW
 ItalicCorrection: 20
+TopAccentHorizontal: 548
 HStem: 0 92<154 300 154 362 531 684 684 699.5> 637 48<473 580>
 LayerCount: 2
 Fore
@@ -106205,6 +106352,7 @@ Encoding: 120629 120629 3092
 Width: 632
 Flags: MW
 ItalicCorrection: 10
+TopAccentHorizontal: 322
 HStem: -16 20 649 20<43 600 600 600>
 LayerCount: 2
 Fore
@@ -106226,6 +106374,7 @@ Encoding: 120630 120630 3093
 Width: 624
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 337
 HStem: -12 70<501 501.5> -10 37<197.5 233.5> 422 39<282.5 330.5> 430 20<505 630 630 630>
 LayerCount: 2
 Fore
@@ -106259,6 +106408,7 @@ Encoding: 120631 120631 3094
 Width: 555
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 462
 HStem: -12 40<279.5 329 268 382.5> 372 44<379.5 443> 633 52<433.5 434.5>
 LayerCount: 2
 Fore
@@ -106297,6 +106447,7 @@ Encoding: 120632 120632 3095
 Width: 490
 Flags: MW
 ItalicCorrection: 53
+TopAccentHorizontal: 274
 HStem: 393 69<131.5 146.5> 430 20<377 503 503 503>
 VStem: 173 76<224.5 362.5>
 LayerCount: 2
@@ -106323,6 +106474,7 @@ StartChar: u1D739
 Encoding: 120633 120633 3096
 Width: 538
 Flags: MW
+TopAccentHorizontal: 369
 HStem: -8 40<217.5 295.5 217.5 312.5> 641 44<322 354>
 VStem: 177 75<540 600.5>
 LayerCount: 2
@@ -106352,6 +106504,7 @@ StartChar: u1D73A
 Encoding: 120634 120634 3097
 Width: 495
 Flags: MW
+TopAccentHorizontal: 240
 HStem: -10 45<218 241> 219 44<245 268.5> 422 40<295.5 346.5 241 364.5>
 LayerCount: 2
 Fore
@@ -106384,6 +106537,7 @@ Encoding: 120635 120635 3098
 Width: 472
 Flags: MW
 ItalicCorrection: 90
+TopAccentHorizontal: 283
 HStem: -203 75<184.5 276.5> -9 20 -2 20 0 20
 VStem: 176 81<574 593.5> 330 76<-72.5 31.5>
 LayerCount: 2
@@ -106418,6 +106572,7 @@ StartChar: u1D73C
 Encoding: 120636 120636 3099
 Width: 517
 Flags: MW
+TopAccentHorizontal: 272
 HStem: 0 20 387 75
 LayerCount: 2
 Fore
@@ -106453,6 +106608,7 @@ StartChar: u1D73D
 Encoding: 120637 120637 3100
 Width: 566
 Flags: MW
+TopAccentHorizontal: 378
 HStem: -11 40<205.5 267.5 205.5 296.5> 315 44<184 417 172 427> 645 40<374 398.5>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -106480,6 +106636,7 @@ StartChar: u1D73E
 Encoding: 120638 120638 3101
 Width: 318
 Flags: MW
+TopAccentHorizontal: 164
 HStem: -9 20 442 20<265 265>
 LayerCount: 2
 Fore
@@ -106507,6 +106664,7 @@ Encoding: 120639 120639 3102
 Width: 560
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 316
 HStem: 0 20 396 66
 LayerCount: 2
 Fore
@@ -106544,6 +106702,7 @@ StartChar: u1D740
 Encoding: 120640 120640 3103
 Width: 570
 Flags: MW
+TopAccentHorizontal: 346
 HStem: -16 70<442.5 446> 0 20 615 70<309 317.5>
 VStem: 357 42<435 485 485 532.5>
 LayerCount: 2
@@ -106573,6 +106732,7 @@ StartChar: u1D741
 Encoding: 120641 120641 3104
 Width: 636
 Flags: MW
+TopAccentHorizontal: 404
 HStem: -2 75<264.5 287> 430 20<203 316 316 316 486 597 597 597>
 LayerCount: 2
 Fore
@@ -106609,6 +106769,7 @@ Encoding: 120642 120642 3105
 Width: 523
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 372
 HStem: -10 20 439 20<237 237>
 LayerCount: 2
 Fore
@@ -106632,6 +106793,7 @@ Encoding: 120643 120643 3106
 Width: 476
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 348
 HStem: -203 74<195.5 290.5> -9 20 -2 20 0 20
 VStem: 174 72<424.5 450.5> 180 79<578.5 599 578.5 605.5> 341 76<-68 34.5>
 LayerCount: 2
@@ -106675,6 +106837,7 @@ StartChar: u1D744
 Encoding: 120644 120644 3107
 Width: 561
 Flags: MW
+TopAccentHorizontal: 340
 HStem: -10 40<218 294 218 313> 422 40<290 357>
 LayerCount: 2
 Fore
@@ -106697,6 +106860,7 @@ Encoding: 120645 120645 3108
 Width: 579
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 384
 HStem: -13 20 -7 70<341 445> 359 91<190 590 304 365 304 304 456 569 456 456>
 LayerCount: 2
 Fore
@@ -106729,6 +106893,7 @@ StartChar: u1D746
 Encoding: 120646 120646 3109
 Width: 595
 Flags: MW
+TopAccentHorizontal: 398
 HStem: -12 40<273 323 270 354.5> 412 50<380 394.5>
 LayerCount: 2
 Fore
@@ -106758,6 +106923,7 @@ Encoding: 120647 120647 3110
 Width: 480
 Flags: MW
 ItalicCorrection: 70
+TopAccentHorizontal: 404
 HStem: -203 74<206.5 301.5> -9 20 -2 20 0 20 382 80<373 379>
 VStem: 352 76<-68 34.5>
 LayerCount: 2
@@ -106789,6 +106955,7 @@ Encoding: 120648 120648 3111
 Width: 592
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 324
 HStem: -10 40<218.5 288.5 218.5 306.5> 359 91<291 603 406 582 406 406>
 LayerCount: 2
 Fore
@@ -106815,6 +106982,7 @@ Encoding: 120649 120649 3112
 Width: 469
 Flags: MW
 ItalicCorrection: 80
+TopAccentHorizontal: 268
 HStem: -7 70<220.5 311> 359 91<174.5 502 196 502 332 481 332 332>
 LayerCount: 2
 Fore
@@ -106843,6 +107011,7 @@ StartChar: u1D74A
 Encoding: 120650 120650 3113
 Width: 552
 Flags: MW
+TopAccentHorizontal: 284
 HStem: -10 40<234.5 306.5 234.5 314> 438 20<158 213> 442 20<308 371.5>
 LayerCount: 2
 Fore
@@ -106873,6 +107042,7 @@ StartChar: u1D74B
 Encoding: 120651 120651 3114
 Width: 706
 Flags: MW
+TopAccentHorizontal: 429
 HStem: 404 50<514.5 523.5> 442 20<352 393 393 393>
 LayerCount: 2
 Fore
@@ -106905,6 +107075,7 @@ Encoding: 120652 120652 3115
 Width: 621
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 444
 HStem: -204 70<430 445.5> 393 69<258.5 285.5> 430 20<557 676 676 676>
 LayerCount: 2
 Fore
@@ -106938,6 +107109,7 @@ Encoding: 120653 120653 3116
 Width: 701
 Flags: MW
 ItalicCorrection: 95
+TopAccentHorizontal: 394
 HStem: 430 20<340 456 456 456> 442 20<40 89 89 135 707 756 756 756>
 LayerCount: 2
 Fore
@@ -106970,6 +107142,7 @@ StartChar: u1D74E
 Encoding: 120654 120654 3117
 Width: 687
 Flags: MW
+TopAccentHorizontal: 398
 HStem: -10 40<180 200.5 410 461.5> 442 20<325 357 357 357 441 480 480 538>
 LayerCount: 2
 Fore
@@ -107006,6 +107179,7 @@ Encoding: 120655 120655 3118
 Width: 559
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 404
 HStem: -10 40<218 294 218 343.5> 419 40<290 357> 645 41<335 394>
 VStem: 481 78<419.5 481>
 LayerCount: 2
@@ -107037,6 +107211,7 @@ Encoding: 120656 120656 3119
 Width: 481
 Flags: MW
 ItalicCorrection: 40
+TopAccentHorizontal: 326
 HStem: -10 45<230.5 275> 219 44<180 358 170 368> 424 37<306.5 362 249.5 384.5>
 LayerCount: 2
 Fore
@@ -107066,6 +107241,7 @@ StartChar: u1D751
 Encoding: 120657 120657 3120
 Width: 607
 Flags: MW
+TopAccentHorizontal: 398
 HStem: -13 29<257.5 311.5 257.5 343> 249 68<106 208.5> 660 38<362 412 337 422>
 LayerCount: 2
 Fore
@@ -107105,6 +107281,7 @@ Encoding: 120658 120658 3121
 Width: 607
 Flags: MW
 ItalicCorrection: 60
+TopAccentHorizontal: 309
 HStem: -15 20 0 20 430 20<466 630 630 630> 442 20<156 181.5>
 VStem: 191 57<306 371.5> 373 57<76 142.5>
 LayerCount: 2
@@ -107144,6 +107321,7 @@ StartChar: u1D753
 Encoding: 120659 120659 3122
 Width: 683
 Flags: W
+TopAccentHorizontal: 454
 LayerCount: 2
 Fore
 SplineSet
@@ -107176,6 +107354,7 @@ StartChar: u1D754
 Encoding: 120660 120660 3123
 Width: 585
 Flags: MW
+TopAccentHorizontal: 370
 HStem: -10 40<243 319 243 348> 422 40<315 382>
 VStem: 236 44<-191 -98>
 LayerCount: 2
@@ -107205,6 +107384,7 @@ Encoding: 120661 120661 3124
 Width: 868
 Flags: MW
 ItalicCorrection: 50
+TopAccentHorizontal: 506
 HStem: -10 40<315 335.5 545 596.5> 359 91<169.5 879 199 879 356 356 356 668 785 858 785 785>
 LayerCount: 2
 Fore
