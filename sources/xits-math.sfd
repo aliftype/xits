@@ -44336,6 +44336,7 @@ Encoding: 8968 8968 1306
 Width: 469
 Flags: MW
 GlyphVariantsVertical: uni2308 uni2308.size1 uni2308.size2 uni2308.size3 uni2308.size4
+GlyphCompositionVertical: 2  uni23A2%1,337,337,1010 uni23A1%0,335,335,1005
 HStem: 680 33<305.5 338 338 447>
 VStem: 188 66<-213 585 -213 713>
 LayerCount: 2
@@ -44357,6 +44358,7 @@ Encoding: 8969 8969 1307
 Width: 469
 Flags: MW
 GlyphVariantsVertical: uni2309 uni2309.size1 uni2309.size2 uni2309.size3 uni2309.size4
+GlyphCompositionVertical: 2  uni23A5%1,337,337,1010 uni23A4%0,335,335,1005
 HStem: 680 33<27 136 27 286>
 VStem: 220 66<-213 585 585 617>
 LayerCount: 2
@@ -44378,6 +44380,7 @@ Encoding: 8970 8970 1308
 Width: 469
 Flags: MW
 GlyphVariantsVertical: uni230A uni230A.size1 uni230A.size2 uni230A.size3 uni230A.size4
+GlyphCompositionVertical: 2  uni23A3%0,335,335,1005 uni23A2%1,337,337,1010
 HStem: -213 33<338 447 338 447>
 VStem: 188 66<-117 -85 -85 713>
 LayerCount: 2
@@ -44399,6 +44402,7 @@ Encoding: 8971 8971 1309
 Width: 469
 Flags: MW
 GlyphVariantsVertical: uni230B uni230B.size1 uni230B.size2 uni230B.size3 uni230B.size4
+GlyphCompositionVertical: 2  uni23A6%0,335,335,1005 uni23A5%1,337,337,1010
 HStem: -213 33<27 136 136 168.5 27 286 27 136>
 VStem: 220 66<-85 713>
 LayerCount: 2
