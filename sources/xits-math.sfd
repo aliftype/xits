@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1278218263
+ModificationTime: 1278220462
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -68,14 +68,14 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
-GaspTable: 2 8 15 65535 15
-OtfFeatName: 'ss07'  1033 "Mathematical Bold Italic Double-Struck Alphabet" 
-OtfFeatName: 'ss06'  1033 "Mathematical Italic Double-Struck Alphabet" 
-OtfFeatName: 'ss04'  1033 "Mathematical Bold Monospace Digits" 
-OtfFeatName: 'ss01'  1033 "Mathematical Calligraphic Alphabet" 
-OtfFeatName: 'ss02'  1033 "Mathematical Greek Sans Serif Alphabet" 
-OtfFeatName: 'ss03'  1033 "Mathematical Italic Sans Serif Digits" 
+GaspTable: 2 8 3 65535 3
 OtfFeatName: 'ss05'  1033 "Mathematical Bold Double-Struck Alphabet" 
+OtfFeatName: 'ss03'  1033 "Mathematical Italic Sans Serif Digits" 
+OtfFeatName: 'ss02'  1033 "Mathematical Greek Sans Serif Alphabet" 
+OtfFeatName: 'ss01'  1033 "Mathematical Calligraphic Alphabet" 
+OtfFeatName: 'ss04'  1033 "Mathematical Bold Monospace Digits" 
+OtfFeatName: 'ss06'  1033 "Mathematical Italic Double-Struck Alphabet" 
+OtfFeatName: 'ss07'  1033 "Mathematical Bold Italic Double-Struck Alphabet" 
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 120544 16 7
+WinInfo: 1114768 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -150,7 +150,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114845 4021
+BeginChars: 1114867 4043
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -84881,6 +84881,7 @@ SplineSet
  180 33 193 19 213 19 c 0
  262 19 320 76 417 188 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D4BE.dtls
 EndChar
 
 StartChar: u1D4BF
@@ -84924,6 +84925,7 @@ SplineSet
  43 -168 66 -185 99 -185 c 0
  137 -185 199 -174 254 -86 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D4BF.dtls
 EndChar
 
 StartChar: u1D4C0
@@ -87113,6 +87115,7 @@ SplineSet
  241 50 249 36 262 36 c 0
  295 36 349 83 450 205 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D4F2.dtls
 EndChar
 
 StartChar: u1D4F3
@@ -87155,6 +87158,7 @@ SplineSet
  141 -165 162 -173 181 -173 c 0
  210 -173 260 -166 310 -90 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D4F3.dtls
 EndChar
 
 StartChar: u1D4F4
@@ -89060,6 +89064,7 @@ SplineSet
  318 121 l 1
  338 104 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D526.dtls
 EndChar
 
 StartChar: u1D527
@@ -89093,6 +89098,7 @@ SplineSet
  203 468 l 1
  235 440 278 414 311 401 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D527.dtls
 EndChar
 
 StartChar: u1D528
@@ -90731,6 +90737,7 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D55A.dtls
 EndChar
 
 StartChar: u1D55B
@@ -90767,6 +90774,7 @@ SplineSet
  151 -153 l 1
  186 -135 206 -97 206 -58 c 2
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D55B.dtls
 EndChar
 
 StartChar: u1D55C
@@ -92793,6 +92801,7 @@ SplineSet
  308 83 329 98 360 123 c 1
  379 101 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D58E.dtls
 EndChar
 
 StartChar: u1D58F
@@ -92828,6 +92837,7 @@ SplineSet
  217 475 l 1
  264 445 306 417 337 414 c 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D58F.dtls
 EndChar
 
 StartChar: u1D590
@@ -94367,6 +94377,7 @@ SplineSet
  152 459 l 1
  152 0 l 1xd0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D5C2.dtls
 EndChar
 
 StartChar: u1D5C3
@@ -94396,6 +94407,7 @@ SplineSet
  171 464 l 1
  180 459 l 1xd0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D5C3.dtls
 EndChar
 
 StartChar: u1D5C4
@@ -95698,6 +95710,7 @@ SplineSet
  184 461 l 1
  184 0 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D5F6.dtls
 EndChar
 
 StartChar: u1D5F7
@@ -95724,6 +95737,7 @@ SplineSet
  133 461 l 1
  258 461 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D5F7.dtls
 EndChar
 
 StartChar: u1D5F8
@@ -97090,6 +97104,7 @@ SplineSet
  258 464 l 1
  266 459 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D62A.dtls
 EndChar
 
 StartChar: u1D62B
@@ -97118,6 +97133,7 @@ SplineSet
  286 464 l 1
  294 459 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D62B.dtls
 EndChar
 
 StartChar: u1D62C
@@ -98500,6 +98516,7 @@ SplineSet
  173 462 l 1
  298 462 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D65E.dtls
 EndChar
 
 StartChar: u1D65F
@@ -98526,6 +98543,7 @@ SplineSet
  247 462 l 1
  372 462 l 1
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D65F.dtls
 EndChar
 
 StartChar: u1D660
@@ -100398,6 +100416,7 @@ SplineSet
  424 64 l 2
  437 64 448 53 448 40 c 2xe8
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D692.dtls
 EndChar
 
 StartChar: u1D693
@@ -100433,6 +100452,7 @@ SplineSet
  337 450 l 2
  351 450 361 439 361 426 c 2xd0
 EndSplineSet
+Substitution2: "'dtls' Dotless Forms 2-1" u1D693.dtls
 EndChar
 
 StartChar: u1D694
@@ -133101,6 +133121,555 @@ SplineSet
  66 461 l 1
  458 461 l 1
  458 361 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D4BE.dtls
+Encoding: 1114845 -1 4021
+Width: 496
+Flags: W
+HStem: -11 30<203 237.5 203 238.5> 315 30<144 172.5>
+VStem: 128 52<44 63 42 91>
+LayerCount: 2
+Fore
+SplineSet
+417 188 m 1
+ 438 171 l 1
+ 337 48 269 -11 208 -11 c 0
+ 161 -11 128 17 128 71 c 0
+ 128 111 146 166 185 236 c 2
+ 245 345 l 1
+ 220 325 189 315 156 315 c 0
+ 132 315 105 320 83 332 c 1
+ 93 358 l 1
+ 112 350 134 345 153 345 c 0
+ 209 345 256 385 289 424 c 1
+ 362 424 l 1
+ 202 129 l 2
+ 190 107 180 75 180 51 c 0
+ 180 33 193 19 213 19 c 0
+ 262 19 320 76 417 188 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D4BF.dtls
+Encoding: 1114846 -1 4022
+Width: 730
+Flags: W
+HStem: -219 34<82.5 118 82.5 147> -127 30<401.5 430.5> -72 30<160 181> 296 30<357.5 384.5>
+VStem: 9 34<-156 -129.5>
+LayerCount: 2
+Fore
+SplineSet
+596 424 m 1
+ 332 -75 l 1
+ 359 -89 386 -97 417 -97 c 0
+ 447 -97 487 -89 517 -67 c 1
+ 529 -93 l 1
+ 483 -122 449 -127 412 -127 c 0
+ 377 -127 338 -117 312 -105 c 1
+ 252 -192 187 -219 107 -219 c 0
+ 40 -219 9 -182 9 -148 c 0
+ 9 -111 36 -84 63 -68 c 0
+ 100 -45 142 -42 178 -42 c 0
+ 198 -42 249 -47 269 -55 c 1
+ 478 339 l 1
+ 447 309 405 296 364 296 c 0
+ 344 296 314 301 296 312 c 1
+ 306 338 l 1
+ 323 330 349 326 366 326 c 0
+ 432 326 485 381 523 424 c 1
+ 596 424 l 1
+254 -86 m 1
+ 253 -85 l 1
+ 233 -76 193 -72 169 -72 c 0
+ 93 -72 43 -102 43 -144 c 0
+ 43 -168 66 -185 99 -185 c 0
+ 137 -185 199 -174 254 -86 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D4F2.dtls
+Encoding: 1114847 -1 4023
+Width: 558
+Flags: MW
+HStem: -14 50<255.5 278.5 255.5 283> 319 50<120 162.5> 430 20<306 424 424 424>
+LayerCount: 2
+Fore
+SplineSet
+450 205 m 1
+ 486 177 l 1
+ 387 46 329 -14 237 -14 c 0
+ 176 -14 134 19 134 78 c 0
+ 134 135 162 182 202 257 c 2
+ 251 348 l 1
+ 218 330 189 319 136 319 c 0
+ 104 319 71 325 40 341 c 1
+ 52 384 l 1
+ 83 371 105 369 134 369 c 0
+ 232 369 285 425 306 450 c 1
+ 424 450 l 1
+ 260 134 l 2
+ 252 119 241 89 241 65 c 0
+ 241 50 249 36 262 36 c 0
+ 295 36 349 83 450 205 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D4F3.dtls
+Encoding: 1114848 -1 4024
+Width: 840
+Flags: MW
+HStem: -223 50<171.5 195.5 171.5 212> -130 50<496.5 516> -81 50<247.5 255.5> 319 50<402 445> 430 20<598 710 710 710>
+LayerCount: 2
+Fore
+SplineSet
+710 450 m 1xb8
+ 434 -68 l 1
+ 455 -78 486 -80 507 -80 c 0
+ 531 -80 565 -79 617 -45 c 1
+ 637 -86 l 1
+ 592 -119 536 -130 496 -130 c 0xd8
+ 466 -130 433 -125 407 -116 c 1
+ 344 -191 255 -223 169 -223 c 0
+ 84 -223 41 -185 41 -146 c 0
+ 41 -100 94 -64 141 -46 c 0
+ 180 -31 233 -31 262 -31 c 0
+ 278 -31 312 -35 337 -39 c 1
+ 544 348 l 1
+ 511 330 472 319 418 319 c 0
+ 386 319 353 325 322 341 c 1
+ 334 384 l 1
+ 365 371 387 369 416 369 c 0
+ 514 369 577 425 598 450 c 1
+ 710 450 l 1xb8
+310 -90 m 1
+ 290 -84 264 -81 247 -81 c 0xb8
+ 197 -82 142 -98 141 -143 c 0
+ 141 -165 162 -173 181 -173 c 0
+ 210 -173 260 -166 310 -90 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D526.dtls
+Encoding: 1114849 -1 4025
+Width: 384
+Flags: W
+HStem: -18 20
+LayerCount: 2
+Fore
+SplineSet
+338 104 m 1
+ 230 -18 l 1
+ 216 -18 l 1
+ 177 1 126 39 126 124 c 2
+ 126 347 l 2
+ 126 378 114 379 108 379 c 0
+ 96 379 68 358 57 349 c 1
+ 42 371 l 1
+ 171 468 l 1
+ 185 468 l 1
+ 217 440 260 414 293 401 c 1
+ 293 387 l 1
+ 266 384 228 375 228 342 c 2
+ 228 170 l 2
+ 228 99 244 86 270 86 c 0
+ 279 86 292 91 302 104 c 1
+ 318 121 l 1
+ 338 104 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D527.dtls
+Encoding: 1114850 -1 4026
+Width: 345
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+311 401 m 1
+ 311 387 l 1
+ 284 384 246 375 246 342 c 2
+ 246 -41 l 2
+ 246 -97 265 -148 288 -183 c 1
+ 273 -197 l 1
+ 245 -171 221 -147 206 -122 c 1
+ 185 -160 130 -209 73 -209 c 0
+ 64 -209 54 -209 44 -206 c 1
+ 44 -189 l 1
+ 93 -189 144 -141 144 -33 c 2
+ 144 345 l 2
+ 144 376 132 377 126 377 c 0
+ 115 377 86 353 75 344 c 1
+ 60 366 l 1
+ 189 468 l 1
+ 203 468 l 1
+ 235 440 278 414 311 401 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D55A.dtls
+Encoding: 1114851 -1 4027
+Width: 258
+Flags: MW
+HStem: 0 44<99 159 99 203> 406 44<99 159 99 99>
+VStem: 55 44<44 406 44 450 581 639> 159 44<44 406 406 406 581 639 639 639>
+LayerCount: 2
+Fore
+SplineSet
+203 0 m 1
+ 55 0 l 1
+ 55 450 l 1
+ 203 450 l 1
+ 203 0 l 1
+159 44 m 1
+ 159 406 l 1
+ 99 406 l 1
+ 99 44 l 1
+ 159 44 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D55B.dtls
+Encoding: 1114852 -1 4028
+Width: 305
+Flags: MW
+HStem: -217 45<54.5 66.5 48 122.5> 406 44<151 206 151 151>
+VStem: 107 44<-153 406 -153 450 581 639> 206 44<-58 -41 -41 406 406 406 581 639 639 639>
+LayerCount: 2
+Fore
+SplineSet
+250 450 m 1
+ 250 -41 l 2
+ 250 -149 176 -217 69 -217 c 0
+ 40 -217 12 -212 -15 -201 c 1
+ -1 -159 l 1
+ 18 -166 38 -172 58 -172 c 0
+ 75 -172 92 -171 107 -163 c 1
+ 107 450 l 1
+ 250 450 l 1
+206 -58 m 2
+ 206 406 l 1
+ 151 406 l 1
+ 151 -153 l 1
+ 186 -135 206 -97 206 -58 c 2
+EndSplineSet
+EndChar
+
+StartChar: u1D58E.dtls
+Encoding: 1114853 -1 4029
+Width: 429
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+379 101 m 1
+ 238 -24 l 1
+ 214 -24 l 1
+ 148 9 131 41 131 122 c 2
+ 131 313 l 2
+ 131 353 117 368 98 368 c 0
+ 86 368 74 362 50 346 c 1
+ 35 368 l 1
+ 182 475 l 1
+ 206 475 l 1
+ 253 445 295 417 326 414 c 1
+ 326 389 l 1
+ 303 386 270 377 270 346 c 2
+ 270 168 l 2
+ 270 109 276 83 294 83 c 0
+ 308 83 329 98 360 123 c 1
+ 379 101 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D58F.dtls
+Encoding: 1114854 -1 4030
+Width: 389
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+337 414 m 1
+ 337 389 l 1
+ 314 386 281 377 281 346 c 2
+ 281 -48 l 2
+ 281 -108 301 -171 325 -202 c 1
+ 305 -219 l 1
+ 270 -195 244 -168 226 -145 c 1
+ 201 -176 145 -219 99 -219 c 0
+ 87 -219 68 -219 40 -213 c 1
+ 40 -186 l 1
+ 82 -186 142 -153 142 -38 c 2
+ 142 313 l 2
+ 142 353 131 362 114 362 c 0
+ 102 362 81 352 57 336 c 1
+ 42 357 l 1
+ 193 475 l 1
+ 217 475 l 1
+ 264 445 306 417 337 414 c 1
+EndSplineSet
+EndChar
+
+StartChar: u1D5C2.dtls
+Encoding: 1114855 -1 4031
+Width: 220
+Flags: MW
+HStem: 0 20
+VStem: 69 83<0 440 440 440>
+LayerCount: 2
+Fore
+SplineSet
+152 0 m 1
+ 69 0 l 1
+ 69 440 l 1
+ 143 464 l 1
+ 152 459 l 1
+ 152 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D5C3.dtls
+Encoding: 1114856 -1 4032
+Width: 254
+Flags: MW
+HStem: -216 72<23 52.5>
+VStem: 98 82<-42 -26 -26 439 439 439>
+LayerCount: 2
+Fore
+SplineSet
+180 459 m 1
+ 180 -26 l 2
+ 180 -96 165 -147 133 -179 c 0
+ 108 -204 70 -216 35 -216 c 0
+ 3 -216 -35 -204 -74 -180 c 1
+ -47 -116 l 1
+ -31 -116 l 1
+ -4 -133 12 -144 34 -144 c 0
+ 72 -144 98 -114 98 -42 c 2
+ 98 439 l 1
+ 171 464 l 1
+ 180 459 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D5F6.dtls
+Encoding: 1114857 -1 4033
+Width: 245
+Flags: W
+HStem: 0 20
+LayerCount: 2
+Fore
+SplineSet
+184 0 m 1
+ 59 0 l 1
+ 59 461 l 1
+ 184 461 l 1
+ 184 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D5F7.dtls
+Encoding: 1114858 -1 4034
+Width: 324
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+258 461 m 1
+ 258 -17 l 2
+ 258 -95 225 -150 177 -179 c 0
+ 148 -196 115 -203 79 -203 c 0
+ 29 -203 -11 -187 -57 -136 c 1
+ -14 -51 l 1
+ 4 -51 l 1
+ 19 -76 40 -101 64 -101 c 0
+ 104 -101 133 -80 133 -6 c 2
+ 133 461 l 1
+ 258 461 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D62A.dtls
+Encoding: 1114859 -1 4035
+Width: 220
+Flags: MW
+HStem: 0 20
+LayerCount: 2
+Fore
+SplineSet
+266 459 m 1
+ 152 0 l 1
+ 69 0 l 1
+ 178 440 l 1
+ 258 464 l 1
+ 266 459 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D62B.dtls
+Encoding: 1114860 -1 4036
+Width: 254
+Flags: MW
+HStem: -216 72<-12 17.5 -12 26>
+LayerCount: 2
+Fore
+SplineSet
+294 459 m 1
+ 173 -26 l 2
+ 141 -153 70 -216 -18 -216 c 0
+ -50 -216 -85 -204 -118 -180 c 1
+ -75 -116 l 1
+ -59 -116 l 1
+ -37 -133 -23 -144 -1 -144 c 0
+ 36 -144 69 -114 87 -42 c 2
+ 207 439 l 1
+ 286 464 l 1
+ 294 459 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D65E.dtls
+Encoding: 1114861 -1 4037
+Width: 245
+Flags: W
+HStem: 0 20
+LayerCount: 2
+Fore
+SplineSet
+298 462 m 1
+ 184 0 l 1
+ 59 0 l 1
+ 173 462 l 1
+ 298 462 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D65F.dtls
+Encoding: 1114862 -1 4038
+Width: 324
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+372 462 m 1
+ 253 -16 l 2
+ 222 -141 126 -202 28 -202 c 0
+ -21 -202 -57 -186 -90 -135 c 1
+ -26 -50 l 1
+ -8 -50 l 1
+ 0 -75 14 -100 38 -100 c 0
+ 78 -100 113 -79 131 -5 c 2
+ 247 462 l 1
+ 372 462 l 1
+EndSplineSet
+EndChar
+
+StartChar: u1D692.dtls
+Encoding: 1114863 -1 4039
+Width: 525
+Flags: MW
+HStem: 0 64<101.5 245 108 245 303 424> 386 64<109.5 279 116 245>
+VStem: 245 58<64 386 386 386>
+LayerCount: 2
+Fore
+SplineSet
+448 40 m 2
+ 448 24 l 2
+ 448 11 437 0 424 0 c 2
+ 108 0 l 2
+ 95 0 84 11 84 24 c 2
+ 84 40 l 2
+ 84 53 95 64 108 64 c 2
+ 245 64 l 1
+ 245 386 l 1
+ 116 386 l 2
+ 103 386 92 397 92 410 c 2
+ 92 426 l 2
+ 92 439 103 450 116 450 c 2
+ 279 450 l 2
+ 292 450 303 439 303 426 c 2
+ 303 64 l 1
+ 424 64 l 2
+ 437 64 448 53 448 40 c 2
+EndSplineSet
+EndChar
+
+StartChar: u1D693.dtls
+Encoding: 1114864 -1 4040
+Width: 525
+Flags: MW
+HStem: 386 64<151.5 337 158 303>
+VStem: 303 58<-50 386 386 386>
+LayerCount: 2
+Fore
+SplineSet
+361 426 m 2
+ 361 -50 l 2
+ 361 -146 284 -227 187 -227 c 2
+ 168 -227 l 2
+ 123 -227 47 -223 47 -157 c 0
+ 47 -133 67 -120 84 -120 c 0
+ 101 -120 121 -133 121 -157 c 2
+ 121 -159 l 1
+ 125 -159 l 1
+ 146 -163 175 -163 202 -163 c 0
+ 257 -163 303 -113 303 -50 c 2
+ 303 386 l 1
+ 158 386 l 2
+ 145 386 134 397 134 410 c 2
+ 134 426 l 2
+ 134 439 145 450 158 450 c 2
+ 337 450 l 2
+ 351 450 361 439 361 426 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni2148.dtls
+Encoding: 1114865 -1 4041
+Width: 258
+Flags: MW
+HStem: 0 44<99 159 99 203> 406 44<99 159 99 99>
+VStem: 55 44<44 406 44 450 581 639> 159 44<44 406 406 406 581 639 639 639>
+LayerCount: 2
+Fore
+SplineSet
+203 0 m 1
+ 55 0 l 1
+ 55 450 l 1
+ 203 450 l 1
+ 203 0 l 1
+159 44 m 1
+ 159 406 l 1
+ 99 406 l 1
+ 99 44 l 1
+ 159 44 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2149.dtls
+Encoding: 1114866 -1 4042
+Width: 305
+Flags: MW
+HStem: -217 45<54.5 66.5 48 122.5> 406 44<151 206 151 151>
+VStem: 107 44<-153 406 -153 450 581 639> 206 44<-58 -41 -41 406 406 406 581 639 639 639>
+LayerCount: 2
+Fore
+SplineSet
+250 450 m 1
+ 250 -41 l 2
+ 250 -149 176 -217 69 -217 c 0
+ 40 -217 12 -212 -15 -201 c 1
+ -1 -159 l 1
+ 18 -166 38 -172 58 -172 c 0
+ 75 -172 92 -171 107 -163 c 1
+ 107 450 l 1
+ 250 450 l 1
+206 -58 m 2
+ 206 406 l 1
+ 151 406 l 1
+ 151 -153 l 1
+ 186 -135 206 -97 206 -58 c 2
 EndSplineSet
 EndChar
 EndChars
