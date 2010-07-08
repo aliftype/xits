@@ -90,7 +90,7 @@ ChangeLog
 - Add math sans-serif Greek stylistic set
 
 11 Jun 2010 (Khaled Hosny) <XITS> Version 1.004
-- Fix the mysterious Office2007 composition bug
+- Fix the mysterious MS Office 2007 composition bug
 
 10 Jun 2010 (Khaled Hosny) <XITS> Version 1.003
 - Set OS/2 version to 4
@@ -117,7 +117,7 @@ ChangeLog
 - Add 'frac' feature for text fractions
 - Add oldstyle numbers
 - Add Horizontal construction
-- Add Vertical contruction
+- Add Vertical construction
 - Add horizontal top accent position values
 - Mark extended shapes
 - Add horizontal variants
@@ -137,7 +137,7 @@ W: http://www.khaledhosny.org
 D: Engineer - OpenType MATH code
 
 N: STIX Fonts project
-E: fred@foobar.org
+E: 
 W: http://www.stixfonts.org
 D: Original authors
 
