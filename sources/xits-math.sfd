@@ -91,7 +91,7 @@ MATH:SuperscriptShiftUp: 400
 MATH:SuperscriptShiftUpCramped: 275 
 MATH:SuperscriptBottomMin: 125 
 MATH:SuperscriptBaselineDropMax: 375 
-MATH:SubSuperscriptGapMin: 200 
+MATH:SubSuperscriptGapMin: 264 
 MATH:SuperscriptBottomMaxWithSubscript: 400 
 MATH:SpaceAfterScript: 41 
 MATH:UpperLimitGapMin: 150 
@@ -102,8 +102,8 @@ MATH:StackTopShiftUp: 480
 MATH:StackTopDisplayStyleShiftUp: 580 
 MATH:StackBottomShiftDown: 800 
 MATH:StackBottomDisplayStyleShiftDown: 900 
-MATH:StackGapMin: 150 
-MATH:StackDisplayStyleGapMin: 350 
+MATH:StackGapMin: 198 
+MATH:StackDisplayStyleGapMin: 462 
 MATH:StretchStackTopShiftUp: 300 
 MATH:StretchStackBottomShiftDown: 600 
 MATH:StretchStackGapAboveMin: 150 
@@ -111,24 +111,24 @@ MATH:StretchStackGapBelowMin: 150
 MATH:FractionNumeratorShiftUp: 480 
 MATH:FractionNumeratorDisplayStyleShiftUp: 580 
 MATH:FractionDenominatorShiftDown: 480 
-MATH:FractionDenominatorDisplayStyleShiftDown: 580 
-MATH:FractionNumeratorGapMin: 50 
-MATH:FractionNumeratorDisplayStyleGapMin: 150 
-MATH:FractionRuleThickness: 50 
-MATH:FractionDenominatorGapMin: 50 
-MATH:FractionDenominatorDisplayStyleGapMin: 150 
+MATH:FractionDenominatorDisplayStyleShiftDown: 900 
+MATH:FractionNumeratorGapMin: 66 
+MATH:FractionNumeratorDisplayStyleGapMin: 198 
+MATH:FractionRuleThickness: 66 
+MATH:FractionDenominatorGapMin: 66 
+MATH:FractionDenominatorDisplayStyleGapMin: 198 
 MATH:SkewedFractionHorizontalGap: 300 
-MATH:SkewedFractionVerticalGap: 50 
-MATH:OverbarVerticalGap: 150 
-MATH:OverbarRuleThickness: 50 
-MATH:OverbarExtraAscender: 50 
-MATH:UnderbarVerticalGap: 150 
-MATH:UnderbarRuleThickness: 50 
-MATH:UnderbarExtraDescender: 50 
-MATH:RadicalVerticalGap: 50 
-MATH:RadicalDisplayStyleVerticalGap: 175 
+MATH:SkewedFractionVerticalGap: 66 
+MATH:OverbarVerticalGap: 198 
+MATH:OverbarRuleThickness: 66 
+MATH:OverbarExtraAscender: 66 
+MATH:UnderbarVerticalGap: 198 
+MATH:UnderbarRuleThickness: 66 
+MATH:UnderbarExtraDescender: 66 
+MATH:RadicalVerticalGap: 82 
+MATH:RadicalDisplayStyleVerticalGap: 186 
 MATH:RadicalRuleThickness: 66 
-MATH:RadicalExtraAscender: 50 
+MATH:RadicalExtraAscender: 66 
 MATH:RadicalKernBeforeDegree: 277 
 MATH:RadicalKernAfterDegree: -555 
 MATH:RadicalDegreeBottomRaisePercent: 70
@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114768 16 7
+WinInfo: 16 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
