@@ -3083,15 +3083,15 @@ Width: 200
 Flags: MW
 GlyphCompositionVertical: 2  bar%0,0,600,690 bar%1,600,0,690
 HStem: -14 20 656 20<67 133 133 133>
-VStem: 67 66<-14 676>
+VStem: 67 66<-177 676>
 LayerCount: 2
 Fore
 SplineSet
-133 -14 m 1
- 67 -14 l 1
+133 -177 m 1
+ 67 -177 l 1
  67 676 l 1
  133 676 l 1
- 133 -14 l 1
+ 133 -177 l 1
 EndSplineSet
 EndChar
 
