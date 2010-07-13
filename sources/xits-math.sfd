@@ -156,7 +156,22 @@ StartChar: .notdef
 Encoding: 1114112 -1 0
 Width: 250
 Flags: W
+HStem: 0 67<66 184> 618 66<66 184>
+VStem: 0 66<67 618> 184 66<67 618>
 LayerCount: 2
+Fore
+SplineSet
+250 0 m 1
+ 0 0 l 1
+ 0 684 l 1
+ 250 684 l 1
+ 250 0 l 1
+184 67 m 1
+ 184 618 l 1
+ 66 618 l 1
+ 66 67 l 1
+ 184 67 l 1
+EndSplineSet
 EndChar
 
 StartChar: space
