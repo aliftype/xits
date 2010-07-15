@@ -111,7 +111,7 @@ MATH:StretchStackGapBelowMin: 150
 MATH:FractionNumeratorShiftUp: 480 
 MATH:FractionNumeratorDisplayStyleShiftUp: 580 
 MATH:FractionDenominatorShiftDown: 480 
-MATH:FractionDenominatorDisplayStyleShiftDown: 900 
+MATH:FractionDenominatorDisplayStyleShiftDown: 700 
 MATH:FractionNumeratorGapMin: 66 
 MATH:FractionNumeratorDisplayStyleGapMin: 198 
 MATH:FractionRuleThickness: 66 
