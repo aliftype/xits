@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 736 16 7
+WinInfo: 80 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -32111,6 +32111,7 @@ StartChar: uni213E
 Encoding: 8510 8510 924
 Width: 469
 Flags: MW
+ItalicCorrection: 130
 HStem: 0 44<114 192 114 236> 618 44<114 192 114 114 236 567 236 236>
 VStem: 70 44<44 618 44 662> 192 44<44 618 0 618>
 LayerCount: 2
@@ -32286,6 +32287,7 @@ StartChar: uni2145
 Encoding: 8517 8517 931
 Width: 713
 Flags: MW
+ItalicCorrection: 20
 HStem: 0 37<64 144 182 286> 616 37<220 298 220 220 335 443 335 335>
 VStem: 666 37<350 429.5>
 LayerCount: 2
@@ -32320,6 +32322,7 @@ StartChar: uni2146
 Encoding: 8518 8518 932
 Width: 581
 Flags: MW
+ItalicCorrection: 80
 HStem: -11 37<185.5 208> 0 37<352 419 352 446> 404 37<291 306 206 328> 646 37<520 587 520 520>
 VStem: 40 37<134.5 192 134.5 210.5>
 LayerCount: 2
@@ -32398,6 +32401,7 @@ StartChar: uni2148
 Encoding: 8520 8520 934
 Width: 293
 Flags: MW
+ItalicCorrection: 80
 HStem: 0 37<74 141 74 167> 391 37<171 238 171 171> 518 37<215 283 215 310> 616 37<232 299 232 232>
 LayerCount: 2
 Fore
@@ -32429,6 +32433,7 @@ StartChar: uni2149
 Encoding: 8521 8521 935
 Width: 341
 Flags: MW
+ItalicCorrection: 80
 HStem: -217 36<-24 -3 -24 29.5> 391 37<220 280 220 220> 518 37<263 331 263 358> 616 37<280 347 280 280>
 LayerCount: 2
 Fore
@@ -90003,6 +90008,7 @@ StartChar: u1D53D
 Encoding: 120125 120125 2596
 Width: 469
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 44<114 192 114 236> 304 44<236 501 236 501> 618 44<114 192 114 114 236 567 236 236>
 VStem: 70 44<44 618 44 662> 192 44<44 304 348 618>
 LayerCount: 2
@@ -90310,6 +90316,7 @@ StartChar: u1D54B
 Encoding: 120139 120139 2605
 Width: 527
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 44<282 360 282 404> 618 44<20 238 20 622 282 282 282 360 404 622 404 404>
 VStem: 238 44<44 618 44 618 44 618> 360 44<44 618 0 618>
 LayerCount: 2
@@ -90370,6 +90377,7 @@ StartChar: u1D54D
 Encoding: 120141 120141 2607
 Width: 568
 Flags: MW
+ItalicCorrection: 130
 HStem: 0 44<279 361 279 417 248 361> 618 44<73 156 73 73>
 LayerCount: 2
 Fore
@@ -90398,6 +90406,7 @@ StartChar: u1D54E
 Encoding: 120142 120142 2608
 Width: 920
 Flags: MW
+ItalicCorrection: 60
 HStem: 0 44<228 310 228 338 194 310 661 741> 618 44<69 149 69 69 502 583 502 502>
 LayerCount: 2
 Fore
@@ -90471,6 +90480,7 @@ StartChar: u1D550
 Encoding: 120144 120144 2610
 Width: 563
 Flags: MW
+ItalicCorrection: 150
 HStem: 0 44<318 396 318 440> 618 44<91 182 91 91>
 VStem: 274 44<44 243 243 243> 396 44<44 240 0 278 0 278>
 LayerCount: 2
