@@ -1,12 +1,44 @@
-\usetypescriptfile[type-xits]
-\ctxlua{fonts.otf.features.register_base_substitution('ss01')}
-\definefontfeature[math-text][math-text][ss01=yes]
-\definefontfeature[frac][default][frac=yes]
-\definefontfeature[onum][default][onum=yes]
-\usetypescript[xits]
 \setupbodyfont[xits]
 
 \starttext
+
+\section{Introduction}
+
+XITS is Times-like font for scientific publishing with support for mathematical
+typesetting. It has wide coverage of Latin, Greek and Cyrillic scripts, as
+well as extensive coverage of Unicode symbols used in mathematics and other
+fields of science. XITS supports also proper mathematical typesetting and can
+be used to typeset complex mathematical equations in modern \TEX\ engines,
+namely \LUATEX\ and \XETEX, as well as Microsoft Office starting from 2007 version\footnote{Only on Microsoft Windows, versions of Microsoft Office on
+Mac~OS~X does not support OpenType features needed for mathimatics.}.
+
+XITS is available as an OpenType font, in four styles; regular, bold, italic
+and bold italics, besides the maths font.
+
+\section{Font features}
+
+XITS supports the following OpenType features:
+
+\starttable[|lT|l|]
+\HL
+\NC feature\NC Description \NC\SR
+\HL
+\NC \Use{2}[I]{All fonts} \MR
+\NC kern \NC Kerning \NC\FR
+\NC liga \NC Ligatures \NC\MR
+\NC onum \NC Oldstyle numbers \NC\MR
+\NC frac \NC Diagonal fractions \NC\MR
+\NC \Use{2}[I]{The maths font, spports additional features} \MR
+\NC ss01 \NC Mathematical Calligraphic Alphabet \NC\MR
+\NC ss02 \NC Mathematical Greek Sans Serif Alphabet \NC\MR
+\NC ss03 \NC Mathematical Italic Sans Serif Digits \NC\MR
+\NC ss04 \NC Mathematical Bold Monospace Digits \NC\MR
+\NC ss05 \NC Mathematical Bold Double-Struck Alphabet \NC\MR
+\NC ss06 \NC Mathematical Italic Double-Struck Alphabet \NC\MR
+\NC ss07 \NC Mathematical Bold Italic Double-Struck Alphabet \NC\LR
+\HL
+\stoptable
+
 
 \section{Installation}
 
@@ -52,23 +84,11 @@ Text $x+y=\sqrt{z}$
 \subsubsection{Examples}
 
 \startTEX
-\usetypescript[xits]
 \setupbodyfont[xits]
 
 \starttext
 Text $x+y=\sqrt{z}$
 \stoptext
 \stopTEX
-
-\section{Font features}
-\starttable[|lT|l|r|]
-\HL
-\NC feature\NC Description	\NC Example	 			\NC\SR
-\HL
-\NC onum \NC Oldstyle numbers	\NC {\addff{onum} 0123456789}		\NC\FR
-\NC frac \NC Diagonal fractions	\NC {\addff{frac} 1/2 2/3 3/4 5/6 7/8}	\NC\LR
-\NC ss01 \NC Mathematical Calligraphic Alphabet  \NC $\cal ABCDEFGHIJK$	\NC\LR
-\HL
-\stoptable
 
 \stoptext
