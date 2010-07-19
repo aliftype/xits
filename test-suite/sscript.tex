@@ -1,9 +1,11 @@
+\environment xits-env
+
+\setupinterlinespace[line=20pt]
+
 \starttext
 
-\setuplayout[width=middle,height=middle,topspace=1cm,backspace=1cm,header=0pt,footer=0pt]
-
-\setupbodyfont[xits] \setupinterlinespace[line=20pt]
-
+\startTEXpage
 \directlua { dofile("\jobname.lua") }
+\stopTEXpage
 
 \stoptext
