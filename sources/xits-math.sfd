@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1279169522
+ModificationTime: 1280319888
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 80 16 7
+WinInfo: 1114064 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -37619,7 +37619,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222B.size1 uni222B uni222B.size2
+GlyphVariantsVertical: uni222B.small uni222B uni222B.display
 HStem: -320 31<104.5 131.5 104.5 153> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -37651,7 +37651,7 @@ Width: 931
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222C.size1 uni222C uni222C.size2
+GlyphVariantsVertical: uni222C.small uni222C uni222C.display
 HStem: -320 31<104.5 131.5 104.5 143 346.5 373.5> 793 31<538 566.5 780 808.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 274 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5> 816 65<780.5 787.5>
 LayerCount: 2
@@ -37700,7 +37700,7 @@ Width: 1173
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222D.size1 uni222D uni222D.size2
+GlyphVariantsVertical: uni222D.small uni222D uni222D.display
 HStem: -320 31<104.5 131.5 104.5 143 345.5 372.5 588.5 615.5> 793 31<538 566.5 779 807.5 1022 1050.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 273 65<-283.5 -275.5 -283.5 -258.5> 516 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5> 815 65<780.5 787.5> 1058 65<780.5 787.5>
 LayerCount: 2
@@ -37766,7 +37766,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222E.size1 uni222E uni222E.size2
+GlyphVariantsVertical: uni222E.small uni222E uni222E.display
 HStem: -320 31<104.5 131.5 104.5 153> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 109 38<213.5 302.5 213.5 313> 521 38<199.5 288.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -37816,7 +37816,7 @@ Width: 931
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222F.size1 uni222F uni222F.size2
+GlyphVariantsVertical: uni222F.small uni222F uni222F.display
 HStem: -320 31<104.5 131.5 104.5 143 346.5 373.5> 27 38<434.5 462 433 464> 793 31<538 566.5 780 808.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 110 38<223 291.5 223 302.5> 274 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5> 770 38<212.5 281.5> 816 65<780.5 787.5>
 LayerCount: 2
@@ -37891,7 +37891,7 @@ Width: 1172
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2230.size1 uni2230 uni2230.size2
+GlyphVariantsVertical: uni2230.small uni2230 uni2230.display
 HStem: -320 31<104.5 131.5 104.5 143 345.5 372.5 587.5 614.5> 793 31<538 566.5 779 807.5 1021 1049.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 107 38<222 287.5 222 298.5> 273 65<-283.5 -275.5 -283.5 -258.5> 515 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5> 815 65<780.5 787.5> 1010 38<210 282> 1057 65<780.5 787.5>
 LayerCount: 2
@@ -37991,7 +37991,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2231.size1 uni2231 uni2231.size2
+GlyphVariantsVertical: uni2231.small uni2231 uni2231.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -38045,7 +38045,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2232.size1 uni2232 uni2232.size2
+GlyphVariantsVertical: uni2232.small uni2232 uni2232.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 110 38<215 303.5 215 314> 574 65<780.5 787.5>
 LayerCount: 2
@@ -38107,7 +38107,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2233.size1 uni2233 uni2233.size2
+GlyphVariantsVertical: uni2233.small uni2233 uni2233.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 110 38<215 303.5 215 314> 522 38<200.5 264.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68173,7 +68173,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A0B.size1 uni2A0B uni2A0B.size2
+GlyphVariantsVertical: uni2A0B.small uni2A0B uni2A0B.display
 HStem: -320 31<124.5 151.5 124.5 163> -59 90<185 240 336 493 493 532.5 185 313> 513 50<211 383 211 211> 793 31<558 586.5>
 VStem: 52 65<-283.5 -275.5 -283.5 -258.5> 594 65<780.5 787.5>
 LayerCount: 2
@@ -68234,7 +68234,7 @@ Width: 1414
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A0C.size1 uni2A0C uni2A0C.size2
+GlyphVariantsVertical: uni2A0C.small uni2A0C uni2A0C.display
 HStem: -320 31<104.5 131.5 104.5 143 345.5 372.5 588.5 615.5 829.5 856.5> 793 31<538 566.5 779 807.5 1022 1050.5 1263 1291.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 273 65<-283.5 -275.5 -283.5 -258.5> 516 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5> 757 65<-283.5 -275.5 -283.5 -258.5> 815 65<780.5 787.5> 1058 65<780.5 787.5> 1299 65<780.5 787.5>
 LayerCount: 2
@@ -68317,7 +68317,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A0D.size1 uni2A0D uni2A0D.size2
+GlyphVariantsVertical: uni2A0D.small uni2A0D uni2A0D.display
 HStem: -320 31<104.5 131.5 104.5 143> 219 66<111 289 111 306 379 561 111 363> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 CounterMasks: 1 e0
@@ -68358,7 +68358,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A0E.size1 uni2A0E uni2A0E.size2
+GlyphVariantsVertical: uni2A0E.small uni2A0E uni2A0E.display
 HStem: -320 31<104.5 131.5 104.5 143> 119 66<111 264 111 281 354 561 111 338> 319 66<111 314 111 331 404 561 111 388> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68406,7 +68406,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A0F.size1 uni2A0F uni2A0F.size2
+GlyphVariantsVertical: uni2A0F.small uni2A0F uni2A0F.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68446,7 +68446,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A10.size1 uni2A10 uni2A10.size2
+GlyphVariantsVertical: uni2A10.small uni2A10 uni2A10.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 108 38<214.5 303.5 214.5 314> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68497,7 +68497,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A11.size1 uni2A11 uni2A11.size2
+GlyphVariantsVertical: uni2A11.small uni2A11 uni2A11.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68549,7 +68549,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A12.size1 uni2A12 uni2A12.size2
+GlyphVariantsVertical: uni2A12.small uni2A12 uni2A12.display
 HStem: -320 31<104.5 131.5 104.5 143> 27 38<314 521 250 559 314 314> 175 156<315 354 315 357.5> 439 38<427 521> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 256 156<233 276 233 276.5> 521 38<65 439 439 439> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68594,7 +68594,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A13.size1 uni2A13 uni2A13.size2
+GlyphVariantsVertical: uni2A13.small uni2A13 uni2A13.display
 HStem: -320 31<104.5 131.5 104.5 143> 27 38<330 385.5 320 395> 175 156<315 354 315 357.5> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 256 156<233 276 233 276.5> 521 37<200.5 298.5 190 302> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68639,7 +68639,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A14.size1 uni2A14 uni2A14.size2
+GlyphVariantsVertical: uni2A14.small uni2A14 uni2A14.display
 HStem: -320 31<104.5 131.5 104.5 143> 27 38<437.5 515.5 421.5 525> 175 156<445 484 445 487.5> 439 38<457 515.5> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 386 156<233 276 233 276.5> 574 65<780.5 787.5> 650 38<200.5 303.5>
 LayerCount: 2
@@ -68686,7 +68686,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A15.size1 uni2A15 uni2A15.size2
+GlyphVariantsVertical: uni2A15.small uni2A15 uni2A15.display
 HStem: -320 31<104.5 131.5 104.5 143> 27 38<330 385.5 282.5 395> 175 156<315 354 315 357.5> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 108 39<205.5 303.5 200.5 314> 256 156<233 276 233 276.5> 521 37<200.5 298 190 303.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68736,7 +68736,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A16.size1 uni2A16 uni2A16.size2
+GlyphVariantsVertical: uni2A16.small uni2A16 uni2A16.display
 HStem: -320 31<104.5 131.5 104.5 143> 27 38<147 241 324 521> 439 38<147 344 147 147 427 521> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 109 38<65 439 65 477> 521 38<65 439 439 439> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68786,7 +68786,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A17.size1 uni2A17 uni2A17.size2
+GlyphVariantsVertical: uni2A17.small uni2A17 uni2A17.display
 HStem: -320 31<211.5 238.5 211.5 250> 56 66<628 698 698 701 628 698> 238 66<216 217 217 401 491 685 216 474> 793 31<645 673.5>
 VStem: 139 65<-283.5 -275.5 -283.5 -258.5> 681 65<780.5 787.5> 752 66<160.5 204.5>
 LayerCount: 2
@@ -68842,7 +68842,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A18.size1 uni2A18 uni2A18.size2
+GlyphVariantsVertical: uni2A18.small uni2A18 uni2A18.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68888,7 +68888,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A19.size1 uni2A19 uni2A19.size2
+GlyphVariantsVertical: uni2A19.small uni2A19 uni2A19.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 72 66<-11 245 -11 325> 530 66<-11 244 244 248 -11 286> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68934,7 +68934,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A1A.size1 uni2A1A uni2A1A.size2
+GlyphVariantsVertical: uni2A1A.small uni2A1A uni2A1A.display
 HStem: -320 31<104.5 131.5 104.5 143> -11 20 793 31<538 566.5>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 72 66<257 261 261 516> 530 66<260 516> 574 65<780.5 787.5>
 LayerCount: 2
@@ -68980,7 +68980,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A1B.size1 uni2A1B uni2A1B.size2
+GlyphVariantsVertical: uni2A1B.small uni2A1B uni2A1B.display
 HStem: -320 31<104.5 131.5 104.5 143> 793 31<538 566.5> 881 66<189 639 189 639>
 VStem: 32 65<-283.5 -275.5 -283.5 -258.5> 574 65<780.5 787.5>
 LayerCount: 2
@@ -69017,7 +69017,7 @@ Width: 692
 Flags: MW
 ItalicCorrection: 180
 IsExtendedShape: 1
-GlyphVariantsVertical: uni2A1C.size1 uni2A1C uni2A1C.size2
+GlyphVariantsVertical: uni2A1C.small uni2A1C uni2A1C.display
 HStem: -443 66<32 482 32 482> -320 31<104.5 133 104.5 147> 793 31<539.5 566.5>
 VStem: 32 65<-283.5 -276.5 -283.5 -258.5> 574 65<779.5 787.5>
 LayerCount: 2
@@ -112322,7 +112322,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222B.size1
+StartChar: uni222B.small
 Encoding: 1114114 -1 3292
 Width: 600
 Flags: MW
@@ -112355,7 +112355,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222C.size1
+StartChar: uni222C.small
 Encoding: 1114115 -1 3293
 Width: 830
 Flags: MW
@@ -112407,7 +112407,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222D.size1
+StartChar: uni222D.small
 Encoding: 1114116 -1 3294
 Width: 1060
 Flags: MW
@@ -112478,7 +112478,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222E.size1
+StartChar: uni222E.small
 Encoding: 1114117 -1 3295
 Width: 600
 Flags: MW
@@ -112529,7 +112529,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222F.size1
+StartChar: uni222F.small
 Encoding: 1114118 -1 3296
 Width: 830
 Flags: MW
@@ -112607,7 +112607,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2230.size1
+StartChar: uni2230.small
 Encoding: 1114119 -1 3297
 Width: 1060
 Flags: MW
@@ -112712,7 +112712,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2231.size1
+StartChar: uni2231.small
 Encoding: 1114120 -1 3298
 Width: 600
 Flags: MW
@@ -112767,7 +112767,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2232.size1
+StartChar: uni2232.small
 Encoding: 1114121 -1 3299
 Width: 600
 Flags: MW
@@ -112830,7 +112830,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2233.size1
+StartChar: uni2233.small
 Encoding: 1114122 -1 3300
 Width: 600
 Flags: MW
@@ -112893,7 +112893,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0B.size1
+StartChar: uni2A0B.small
 Encoding: 1114123 -1 3301
 Width: 600
 Flags: MW
@@ -112955,7 +112955,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0C.size1
+StartChar: uni2A0C.small
 Encoding: 1114124 -1 3302
 Width: 1290
 Flags: MW
@@ -113045,7 +113045,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0D.size1
+StartChar: uni2A0D.small
 Encoding: 1114125 -1 3303
 Width: 600
 Flags: MW
@@ -113087,7 +113087,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0E.size1
+StartChar: uni2A0E.small
 Encoding: 1114126 -1 3304
 Width: 600
 Flags: MW
@@ -113136,7 +113136,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0F.size1
+StartChar: uni2A0F.small
 Encoding: 1114127 -1 3305
 Width: 600
 Flags: MW
@@ -113177,7 +113177,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A10.size1
+StartChar: uni2A10.small
 Encoding: 1114128 -1 3306
 Width: 600
 Flags: MW
@@ -113229,7 +113229,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A11.size1
+StartChar: uni2A11.small
 Encoding: 1114129 -1 3307
 Width: 600
 Flags: MW
@@ -113283,7 +113283,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A12.size1
+StartChar: uni2A12.small
 Encoding: 1114130 -1 3308
 Width: 600
 Flags: MW
@@ -113329,7 +113329,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A13.size1
+StartChar: uni2A13.small
 Encoding: 1114131 -1 3309
 Width: 600
 Flags: MW
@@ -113376,7 +113376,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A14.size1
+StartChar: uni2A14.small
 Encoding: 1114132 -1 3310
 Width: 600
 Flags: MW
@@ -113424,7 +113424,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A15.size1
+StartChar: uni2A15.small
 Encoding: 1114133 -1 3311
 Width: 600
 Flags: MW
@@ -113475,7 +113475,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A16.size1
+StartChar: uni2A16.small
 Encoding: 1114134 -1 3312
 Width: 600
 Flags: MW
@@ -113526,7 +113526,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A17.size1
+StartChar: uni2A17.small
 Encoding: 1114135 -1 3313
 Width: 600
 Flags: MW
@@ -113583,7 +113583,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A18.size1
+StartChar: uni2A18.small
 Encoding: 1114136 -1 3314
 Width: 600
 Flags: MW
@@ -113630,7 +113630,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A19.size1
+StartChar: uni2A19.small
 Encoding: 1114137 -1 3315
 Width: 600
 Flags: MW
@@ -113677,7 +113677,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1A.size1
+StartChar: uni2A1A.small
 Encoding: 1114138 -1 3316
 Width: 600
 Flags: MW
@@ -113724,7 +113724,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1B.size1
+StartChar: uni2A1B.small
 Encoding: 1114139 -1 3317
 Width: 600
 Flags: MW
@@ -113762,7 +113762,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1C.size1
+StartChar: uni2A1C.small
 Encoding: 1114140 -1 3318
 Width: 600
 Flags: MW
@@ -113800,7 +113800,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222B.size2
+StartChar: uni222B.display
 Encoding: 1114141 -1 3319
 Width: 1135
 Flags: MW
@@ -113831,7 +113831,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222C.size2
+StartChar: uni222C.display
 Encoding: 1114142 -1 3320
 Width: 1445
 Flags: MW
@@ -113879,7 +113879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222D.size2
+StartChar: uni222D.display
 Encoding: 1114143 -1 3321
 Width: 1755
 Flags: MW
@@ -113944,7 +113944,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222E.size2
+StartChar: uni222E.display
 Encoding: 1114144 -1 3322
 Width: 1135
 Flags: MW
@@ -113993,7 +113993,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni222F.size2
+StartChar: uni222F.display
 Encoding: 1114145 -1 3323
 Width: 1445
 Flags: MW
@@ -114067,7 +114067,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2230.size2
+StartChar: uni2230.display
 Encoding: 1114146 -1 3324
 Width: 1755
 Flags: MW
@@ -114165,7 +114165,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2231.size2
+StartChar: uni2231.display
 Encoding: 1114147 -1 3325
 Width: 1135
 Flags: MW
@@ -114217,7 +114217,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2232.size2
+StartChar: uni2232.display
 Encoding: 1114148 -1 3326
 Width: 1135
 Flags: MW
@@ -114278,7 +114278,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2233.size2
+StartChar: uni2233.display
 Encoding: 1114149 -1 3327
 Width: 1135
 Flags: MW
@@ -114339,7 +114339,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0B.size2
+StartChar: uni2A0B.display
 Encoding: 1114150 -1 3328
 Width: 1135
 Flags: MW
@@ -114398,7 +114398,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0C.size2
+StartChar: uni2A0C.display
 Encoding: 1114151 -1 3329
 Width: 2065
 Flags: MW
@@ -114480,7 +114480,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0D.size2
+StartChar: uni2A0D.display
 Encoding: 1114152 -1 3330
 Width: 1135
 Flags: MW
@@ -114519,7 +114519,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0E.size2
+StartChar: uni2A0E.display
 Encoding: 1114153 -1 3331
 Width: 1135
 Flags: MW
@@ -114566,7 +114566,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A0F.size2
+StartChar: uni2A0F.display
 Encoding: 1114154 -1 3332
 Width: 1135
 Flags: MW
@@ -114605,7 +114605,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A10.size2
+StartChar: uni2A10.display
 Encoding: 1114155 -1 3333
 Width: 1135
 Flags: MW
@@ -114655,7 +114655,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A11.size2
+StartChar: uni2A11.display
 Encoding: 1114156 -1 3334
 Width: 1135
 Flags: MW
@@ -114705,7 +114705,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A12.size2
+StartChar: uni2A12.display
 Encoding: 1114157 -1 3335
 Width: 1135
 Flags: MW
@@ -114749,7 +114749,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A13.size2
+StartChar: uni2A13.display
 Encoding: 1114158 -1 3336
 Width: 1135
 Flags: MW
@@ -114793,7 +114793,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A14.size2
+StartChar: uni2A14.display
 Encoding: 1114159 -1 3337
 Width: 1135
 Flags: MW
@@ -114839,7 +114839,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A15.size2
+StartChar: uni2A15.display
 Encoding: 1114160 -1 3338
 Width: 1135
 Flags: MW
@@ -114888,7 +114888,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A16.size2
+StartChar: uni2A16.display
 Encoding: 1114161 -1 3339
 Width: 1135
 Flags: MW
@@ -114937,7 +114937,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A17.size2
+StartChar: uni2A17.display
 Encoding: 1114162 -1 3340
 Width: 1135
 Flags: MW
@@ -114992,7 +114992,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A18.size2
+StartChar: uni2A18.display
 Encoding: 1114163 -1 3341
 Width: 1135
 Flags: MW
@@ -115037,7 +115037,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A19.size2
+StartChar: uni2A19.display
 Encoding: 1114164 -1 3342
 Width: 1135
 Flags: MW
@@ -115082,7 +115082,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1A.size2
+StartChar: uni2A1A.display
 Encoding: 1114165 -1 3343
 Width: 1135
 Flags: MW
@@ -115127,7 +115127,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1B.size2
+StartChar: uni2A1B.display
 Encoding: 1114166 -1 3344
 Width: 1135
 Flags: MW
@@ -115163,7 +115163,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2A1C.size2
+StartChar: uni2A1C.display
 Encoding: 1114167 -1 3345
 Width: 1135
 Flags: MW
