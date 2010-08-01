@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1280319888
+ModificationTime: 1280640438
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114320 16 7
+WinInfo: 288 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -7884,6 +7884,7 @@ StartChar: dotlessi
 Encoding: 305 305 227
 Width: 278
 Flags: MW
+TopAccentHorizontal: 134
 HStem: 0 20 440 20<174 174>
 VStem: 95 84<104 105 105 331 331 354.5>
 LayerCount: 2
@@ -14773,6 +14774,7 @@ StartChar: uni0237
 Encoding: 567 567 397
 Width: 278
 Flags: MW
+TopAccentHorizontal: 150
 HStem: -218 34<53.5 68 53.5 78.5> 0 20 440 20<188 188>
 VStem: 109 84<-45 0 0 334 334 355.5>
 LayerCount: 2
