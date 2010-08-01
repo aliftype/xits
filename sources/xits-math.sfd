@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 288 16 7
+WinInfo: 8224 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -29153,6 +29153,7 @@ StartChar: uni203E
 Encoding: 8254 8254 841
 Width: 500
 Flags: MW
+TopAccentHorizontal: 250
 GlyphVariantsHorizontal: uni203E uni203E.size1 uni203E.size2 uni203E.size3 uni203E.size4 uni203E.size5
 HStem: 770 50<0 500 0 500>
 LayerCount: 2
