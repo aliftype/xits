@@ -44,6 +44,7 @@ for style in args:
         xits.save(tmpfont)
         xits.close()
         xits = fontforge.open(tmpfont)
+        os.remove(tmpfont)
     xits.mergeFeature  (os.path.join(source, family+".fea"))
     xits.generate(family+"-"+style+".otf", flags=flags)
     xits.close()
