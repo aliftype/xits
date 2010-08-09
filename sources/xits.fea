@@ -57,7 +57,7 @@ lookup StandardLigatures {
     sub \f \f  by \ff;
     sub \f \f \i  by \ffi;
     sub \f \f \l  by \ffl;
-    sub \f \j  by \uniE0B3;
+    sub \f \j  by \f_j;
 } StandardLigatures;
 
 lookup StandardLigaturesNLD {
@@ -69,7 +69,7 @@ lookup StandardLigaturesNLD {
     sub \f \f \l  by \ffl;
     sub \I \J  by \uni0132;
     sub \i \j  by \uni0133;
-    sub \f \j  by \uniE0B3;
+    sub \f \j  by \f_j;
 } StandardLigaturesNLD;
 
 feature liga {

@@ -112277,7 +112277,7 @@ EndSplineSet
 Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FF.bf
 EndChar
 
-StartChar: uniE0B3
+StartChar: f_j
 Encoding: 1114113 -1 3291
 Width: 541
 Flags: MW
