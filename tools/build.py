@@ -13,6 +13,7 @@ source = "sources"
 args   = [ ]
 
 def doPUA(font):
+    print "Assigning unencoded glyphs to PUA..."
     pua = 0x100000
     for glyph in font.glyphs():
         if glyph.unicode == -1 and glyph.glyphname != ".notdef":
@@ -34,13 +35,15 @@ if len(args) == 0:
 
 for style in args:
     print "Generating %s..." % style
-    font = fontforge.open(os.path.join(source, family+"-"+style+".sfd"))
+    xits = fontforge.open(os.path.join(source, family+"-"+style+".sfd"))
     if style == "math":
-        doPUA(font)
+        doPUA(xits)
+        # XXX: if we don't save the font and reload it, the generated font
+        # contian invalid code points (outside Unicode) instead of PUA
         tmpfont = tempfile.mkstemp()[1]
-        font.save(tmpfont)
-        font.close()
-        font = fontforge.open(tmpfont)
-    font . mergeFeature  (os.path.join(source, family+".fea"))
-    font . generate(family+"-"+style+".otf", flags=flags)
-    font . close()
+        xits.save(tmpfont)
+        xits.close()
+        xits = fontforge.open(tmpfont)
+    xits.mergeFeature  (os.path.join(source, family+".fea"))
+    xits.generate(family+"-"+style+".otf", flags=flags)
+    xits.close()
