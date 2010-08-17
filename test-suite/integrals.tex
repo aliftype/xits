@@ -1,0 +1,28 @@
+\environment xits-env
+\starttext
+\def\ops{
+ \ctxlua {
+  uchar = unicode.utf8.char
+  for i = 0x222B, 0x2233 do
+    tex.sprint([[\Umathchar"1"0`]]..uchar(i)..[[\nolimits_{x}^{y}]])
+  end
+  for i = 0x2A0B, 0x2A1C do
+    tex.sprint([[\Umathchar"1"0`]]..uchar(i)..[[\nolimits_{x}^{y}]])
+  end
+ }
+}
+
+\startTEXpage
+ \startformula
+  \textstyle\ops
+ \stopformula
+\stopTEXpage
+
+\startTEXpage
+ \startformula
+  \ops
+ \stopformula
+\stopTEXpage
+
+\stoptext
+

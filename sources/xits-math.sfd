@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8224 16 7
+WinInfo: 1114096 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -113807,7 +113807,7 @@ StartChar: uni222B.display
 Encoding: 1114141 -1 3319
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -113838,7 +113838,7 @@ StartChar: uni222C.display
 Encoding: 1114142 -1 3320
 Width: 1445
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5 461.5 498.5> 1962 38<901.5 938.5 1211.5 1248.5>
 VStem: 56 85<-223 -219 -223 -193.5> 366 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 1259 86<1951 1954.5>
@@ -113886,7 +113886,7 @@ StartChar: uni222D.display
 Encoding: 1114143 -1 3321
 Width: 1755
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5 461.5 498.5 771.5 808.5> 1962 38<901.5 938.5 1211.5 1248.5 1521.5 1558.5>
 VStem: 56 85<-223 -219 -223 -193.5> 366 85<-223 -219 -223 -193.5> 676 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 1259 86<1951 1954.5> 1569 86<1951 1954.5>
@@ -113951,7 +113951,7 @@ StartChar: uni222E.display
 Encoding: 1114144 -1 3322
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 230 50<807 933.5> 808 50<786 914> 949 86<1951 1954.5>
@@ -114000,7 +114000,7 @@ StartChar: uni222F.display
 Encoding: 1114145 -1 3323
 Width: 1445
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5 461.5 498.5> 553 50<670 704.5> 1131 50<695 729.5> 1962 38<901.5 938.5 1211.5 1248.5>
 VStem: 56 85<-223 -219 -223 -193.5> 299 50<828 922.5 828 941.5> 366 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 1052 50<809.5 904.5> 1259 86<1951 1954.5>
@@ -114074,7 +114074,7 @@ StartChar: uni2230.display
 Encoding: 1114146 -1 3324
 Width: 1755
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5 461.5 498.5 771.5 808.5> 1962 38<901.5 938.5 1211.5 1248.5 1521.5 1558.5>
 VStem: 56 85<-223 -219 -223 -193.5> 299 50<829.5 918 829.5 931> 366 85<-223 -219 -223 -193.5> 676 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 1259 86<1951 1954.5> 1325 50<820 896.5> 1569 86<1951 1954.5>
@@ -114172,7 +114172,7 @@ StartChar: uni2231.display
 Encoding: 1114147 -1 3325
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114224,7 +114224,7 @@ StartChar: uni2232.display
 Encoding: 1114148 -1 3326
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 553 50<543 619 543 632.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 232 50<813.5 940 813.5 953.5> 949 86<1951 1954.5>
@@ -114285,7 +114285,7 @@ StartChar: uni2233.display
 Encoding: 1114149 -1 3327
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 553 50<543 619.5 543 632.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 232 50<813.5 940 813.5 953.5> 810 50<794 884.5> 949 86<1951 1954.5>
@@ -114346,7 +114346,7 @@ StartChar: uni2A0B.display
 Encoding: 1114150 -1 3328
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 385 131<329 377 507 743 743 799 329 475> 1341 66<375 613 375 375> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114405,7 +114405,7 @@ StartChar: uni2A0C.display
 Encoding: 1114151 -1 3329
 Width: 2065
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5 461.5 498.5 771.5 808.5 1081.5 1118.5> 1962 38<901.5 938.5 1211.5 1248.5 1521.5 1558.5 1831.5 1868.5>
 VStem: 56 85<-223 -219 -223 -193.5> 366 85<-223 -219 -223 -193.5> 676 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 986 85<-223 -219 -223 -193.5> 1259 86<1951 1954.5> 1569 86<1951 1954.5> 1879 86<1951 1954.5>
@@ -114487,7 +114487,7 @@ StartChar: uni2A0D.display
 Encoding: 1114152 -1 3330
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 831 70<237 487 237 504 601 849> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114526,7 +114526,7 @@ StartChar: uni2A0E.display
 Encoding: 1114153 -1 3331
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 721 70<226 460 226 477 574 859> 941 70<226 514 226 531 628 859> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114573,7 +114573,7 @@ StartChar: uni2A0F.display
 Encoding: 1114154 -1 3332
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114612,7 +114612,7 @@ StartChar: uni2A10.display
 Encoding: 1114155 -1 3333
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1128 52<467.5 543> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 226 52<812 938.5 812 952.5> 949 86<1951 1954.5>
@@ -114662,7 +114662,7 @@ StartChar: uni2A11.display
 Encoding: 1114156 -1 3334
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -114712,7 +114712,7 @@ StartChar: uni2A12.display
 Encoding: 1114157 -1 3335
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 552 52<515 802 432 854 515 515> 753 226<508.5 571> 1128 51<670 802> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 427 226<834.5 897> 802 52<604 1128 1128 1128> 949 86<1951 1954.5>
@@ -114756,7 +114756,7 @@ StartChar: uni2A13.display
 Encoding: 1114158 -1 3336
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 552 52<536 612.5 521.5 626.5> 753 226<508.5 571> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 427 226<834.5 897> 802 52<793.5 930.5 779.5 935> 949 86<1951 1954.5>
@@ -114800,7 +114800,7 @@ StartChar: uni2A14.display
 Encoding: 1114159 -1 3337
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 552 52<701 812.5 676 826.5> 753 226<708.5 771> 1128 52<727.5 812.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 627 226<834.5 897> 949 86<1951 1954.5> 1002 52<793.5 938.5>
@@ -114846,7 +114846,7 @@ StartChar: uni2A15.display
 Encoding: 1114160 -1 3338
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 552 52<536 612.5 467.5 626.5> 753 226<508.5 571> 1128 52<467.5 545.5 453.5 612.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 226 52<800 938.5 793.5 952.5> 427 226<834.5 897> 802 52<793.5 930.5 779.5 938.5> 949 86<1951 1954.5>
@@ -114895,7 +114895,7 @@ StartChar: uni2A16.display
 Encoding: 1114161 -1 3339
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 552 52<278 418 528 802> 1127 52<278 560 278 278 670 802> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 226 52<604 1127 604 1179> 802 52<604 1127 1127 1127> 949 86<1951 1954.5>
@@ -114944,7 +114944,7 @@ StartChar: uni2A17.display
 Encoding: 1114162 -1 3340
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 685 66<827 888 888 891 827 888> 865 66<200.5 512 210 495 609 887> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5> 973 66<787.5 831.5>
@@ -114999,7 +114999,7 @@ StartChar: uni2A18.display
 Encoding: 1114163 -1 3341
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -213 -223 -193.5> 949 86<1951 1954.5>
@@ -115044,7 +115044,7 @@ StartChar: uni2A19.display
 Encoding: 1114164 -1 3342
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1319 80<463 555.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 177 80<367 1069 1069 1075 367 1167.5> 833 80<367 1069 367 1075 367 1117> 949 86<1951 1954.5>
@@ -115089,7 +115089,7 @@ StartChar: uni2A1A.display
 Encoding: 1114165 -1 3343
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 367 80<535 626 535 637> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 176 80<697 1399> 832 80<691 697 697 1399> 949 86<1951 1954.5>
@@ -115134,7 +115134,7 @@ StartChar: uni2A1B.display
 Encoding: 1114166 -1 3344
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 550
 IsExtendedShape: 1
 HStem: -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5> 2077 80<304 1036 304 1036>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
@@ -115170,7 +115170,7 @@ StartChar: uni2A1C.display
 Encoding: 1114167 -1 3345
 Width: 1135
 Flags: MW
-ItalicCorrection: 450
+ItalicCorrection: 300
 IsExtendedShape: 1
 HStem: -426 80<57 789 57 789> -269 38<151.5 188.5 151.5 197.5> 1962 38<901.5 938.5>
 VStem: 56 85<-223 -219 -223 -193.5> 949 86<1951 1954.5>
