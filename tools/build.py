@@ -14,7 +14,7 @@ args   = [ ]
 
 def doPUA(font):
     print "Assigning unencoded glyphs to PUA..."
-    pua = 0x100000
+    pua = 0xE000
     for glyph in font.glyphs():
         if glyph.unicode == -1 and glyph.glyphname != ".notdef":
             glyph.unicode = pua
