@@ -4742,6 +4742,7 @@ StartChar: periodcentered
 Encoding: 183 183 144
 Width: 250
 Flags: MW
+TopAccentHorizontal: 126
 HStem: 199 111<110.5 140>
 VStem: 70 111<238.5 268 238.5 269.5>
 LayerCount: 2
