@@ -42558,6 +42558,7 @@ StartChar: uni22C5
 Encoding: 8901 8901 1243
 Width: 286
 Flags: MW
+TopAccentHorizontal: 143
 HStem: 193 120<127.5 160>
 VStem: 83 120<238 268>
 LayerCount: 2
