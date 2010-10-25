@@ -34,7 +34,7 @@ XITS currently provides the following Unicode coverage:
   Phonetic Extensions (U+1D00-1D7F): 3/128 (2.34%)
   Phonetic Extensions Supplement (U+1D80-1DBF): 6/64 (9.38%)
   Latin Extended Additional (U+1E00-1EFF): 8/256 (3.12%)
-  General Punctuation (U+2000-206F): 46/107 (42.99%)
+  General Punctuation (U+2000-206F): 70/107 (65.42%)
   Superscripts and Subscripts (U+2070-209F): 1/34 (2.94%)
   Currency Symbols (U+20A0-20CF): 4/22 (18.18%)
   Combining Diacritical Marks for Symbols (U+20D0-20FF): 24/33 (72.73%)
@@ -192,6 +192,16 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+25 Oct 2010 (Khaled Hosny) <XITS> Version 1.007
+- Add TopAccentHorizontal position to U+00B7, U+0131, U+0237, U+203E, U+22C5
+- Add spaces and control characters U+0000-001F, U+2000-200F, U+2028-202F
+- Tune script positioning for display integrals
+- Disable smaller that text size integrals
+- Rename fj ligature glyph to "f_j" for PDF search
+- Assign un-encoded glyphs PUA code points
+- Use U+23B7 slot for the glyph uni221A.base
+- Change integral glyphs name suffixes to "small" and "display"
+
 15 Jul 2010 (Khaled Hosny) <XITS> Version 1.006
 - More italic correction to double struck alphabet
 - Misc accents cleanup
