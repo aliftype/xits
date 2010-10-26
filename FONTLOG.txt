@@ -196,7 +196,7 @@ ChangeLog
 - Add TopAccentHorizontal position to U+00B7, U+0131, U+0237, U+203E, U+22C5
 - Add spaces and control characters U+0000-001F, U+2000-200F, U+2028-202F
 - Tune script positioning for display integrals
-- Disable smaller that text size integrals
+- Disable smaller than text size integrals
 - Rename fj ligature glyph to "f_j" for PDF search
 - Assign un-encoded glyphs PUA code points
 - Use U+23B7 slot for the glyph uni221A.base
