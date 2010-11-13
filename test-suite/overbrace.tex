@@ -1,21 +1,19 @@
-
 \environment xits-env
 
 \usemodule[fnt-25]
 
-\def\THEFORMULA
-  {\overbrace{a}\qquad
+\startbuffer[THEFORMULA]
+   \overbrace{a}\qquad
    \overbrace{aaa}\qquad
-   \overbrace{aaaaaaaa}\qquad}
+   \overbrace{aaaaaaaa}\qquad
+\stopbuffer
 
 \starttext
 
-$\THEFORMULA $
+$\getbuffer[THEFORMULA]$
 
 \blank
 
 \showmathfontcharacters[][0x23DE]
 
 \stoptext
-
-

@@ -1,24 +1,16 @@
-
 \environment xits-env
 
-\def\THEFORMULA
-  {\left\Vert\left\vert \frac12 \right\vert \right\Vert
-\vert\big\vert\Big\vert\bigg\vert\Bigg\vert}
+\startbuffer[THEFORMULA]
+   \left\Vert\left\vert \frac12 \right\vert \right\Vert
+   \vert\big\vert\Big\vert\bigg\vert\Bigg\vert
+\stopbuffer
 
 \starttext
 
 \startTEXpage
-
-$$\THEFORMULA $$
-
+  \startformula
+    \getbuffer[THEFORMULA]
+  \stopformula
 \stopTEXpage
 
 \stoptext
-
-\usemodule[fnt-25]
-
-\starttext
-   \showmathfontcharacters
-\stoptext
-
-
