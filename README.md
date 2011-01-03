@@ -1,5 +1,5 @@
 
-The XTIS font project
+The XITS font project
 ======================
 
 XITS is a Times-like typeface for mathematical and scientific publishing,
