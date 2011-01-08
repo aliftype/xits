@@ -139,7 +139,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 119952 16 7
+WinInfo: 10192 16 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -58845,6 +58845,8 @@ StartChar: uni27EE
 Encoding: 10222 10222 1700
 Width: 233
 Flags: MW
+GlyphVariantsVertical: uni27EE
+GlyphCompositionVertical: 3  uni239D%0,0,150,1005 uni239C%1,150,150,1010 uni239B%0,150,0,1005
 HStem: 656 20<195 195>
 VStem: 56 74<167.5 327>
 LayerCount: 2
@@ -58865,6 +58867,8 @@ StartChar: uni27EF
 Encoding: 10223 10223 1701
 Width: 233
 Flags: MW
+GlyphVariantsVertical: uni27EF
+GlyphCompositionVertical: 3  uni23A0%0,0,150,1005 uni239F%1,150,150,1010 uni239E%0,150,0,1005
 HStem: 656 20<38 38>
 VStem: 103 74<167.5 327 167.5 403>
 LayerCount: 2
