@@ -58653,6 +58653,7 @@ StartChar: uni27E6
 Encoding: 10214 10214 1692
 Width: 504
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27E6 uni27E6.size1 uni27E6.size2 uni27E6.size3 uni27E6.size4
 HStem: -213 20<365 365 415 482> 697 20<365 365 415 482 415 415>
 VStem: 188 66<-141 -109 -109 600> 365 50<-193 697 -193 697>
@@ -58680,6 +58681,7 @@ StartChar: uni27E7
 Encoding: 10215 10215 1693
 Width: 504
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27E7 uni27E7.size1 uni27E7.size2 uni27E7.size3 uni27E7.size4
 HStem: -213 20<22 89 22 89> 697 20<22 89 22 316 139 139>
 VStem: 89 50<-193 697 -193 697> 250 66<-96 613 613 645>
@@ -58707,6 +58709,7 @@ StartChar: uni27E8
 Encoding: 10216 10216 1694
 Width: 400
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27E8 uni27E8.size1 uni27E8.size2 uni27E8.size3 uni27E8.size4
 LayerCount: 2
 Fore
@@ -58726,6 +58729,7 @@ StartChar: uni27E9
 Encoding: 10217 10217 1695
 Width: 400
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27E9 uni27E9.size1 uni27E9.size2 uni27E9.size3 uni27E9.size4
 LayerCount: 2
 Fore
@@ -58745,6 +58749,7 @@ StartChar: uni27EA
 Encoding: 10218 10218 1696
 Width: 610
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27EA uni27EA.size1 uni27EA.size2 uni27EA.size3 uni27EA.size4
 LayerCount: 2
 Fore
@@ -58770,6 +58775,7 @@ StartChar: uni27EB
 Encoding: 10219 10219 1697
 Width: 610
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27EB uni27EB.size1 uni27EB.size2 uni27EB.size3 uni27EB.size4
 LayerCount: 2
 Fore
@@ -58795,6 +58801,7 @@ StartChar: uni27EC
 Encoding: 10220 10220 1698
 Width: 488
 Flags: MW
+IsExtendedShape: 1
 VStem: 178 66<27 479 27 502 27 502> 350 50<-88 594 594 594>
 LayerCount: 2
 Fore
@@ -58820,6 +58827,7 @@ StartChar: uni27ED
 Encoding: 10221 10221 1699
 Width: 488
 Flags: MW
+IsExtendedShape: 1
 VStem: 88 50<-88 594 -88 648> 244 66<27 479 479 479>
 LayerCount: 2
 Fore
@@ -58845,6 +58853,7 @@ StartChar: uni27EE
 Encoding: 10222 10222 1700
 Width: 233
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27EE
 GlyphCompositionVertical: 3  uni239D%0,0,150,1005 uni239C%1,150,150,1010 uni239B%0,150,0,1005
 HStem: 656 20<195 195>
@@ -58867,6 +58876,7 @@ StartChar: uni27EF
 Encoding: 10223 10223 1701
 Width: 233
 Flags: MW
+IsExtendedShape: 1
 GlyphVariantsVertical: uni27EF
 GlyphCompositionVertical: 3  uni23A0%0,0,150,1005 uni239F%1,150,150,1010 uni239E%0,150,0,1005
 HStem: 656 20<38 38>
