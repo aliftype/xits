@@ -116638,6 +116638,9 @@ StartChar: uni23B0
 Encoding: 9136 9136 3408
 Width: 600
 Flags: MW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni23B0
+GlyphCompositionVertical: 3  uni23AD%0,0,90,1005 uni23AA%1,90,90,1010 uni23A7%0,90,0,1005
 VStem: 243 115<-16 3 3 396 396 415>
 LayerCount: 2
 Fore
@@ -116658,6 +116661,9 @@ StartChar: uni23B1
 Encoding: 9137 9137 3409
 Width: 600
 Flags: MW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni23B1
+GlyphCompositionVertical: 3  uni23A9%0,0,90,1005 uni23AA%1,90,90,1010 uni23AB%0,90,0,1005
 VStem: 243 115<3 396>
 LayerCount: 2
 Fore
