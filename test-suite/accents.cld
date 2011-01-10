@@ -64,6 +64,10 @@ local bot_accents = {
     "20ED", "20EE", "20EF", "23DD", "23DF", "23E1",
 }
 
+--context.environment({"xits-env"})
+context.input("xits-env")
+context.starttext()
+
 for _,g in next, chars do
     for c in utfcharacters(g) do
         for _,a in next, top_accents do
@@ -78,3 +82,5 @@ for _,g in next, chars do
         context.par()
     end
 end
+
+context.stoptext()
