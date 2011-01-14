@@ -3,8 +3,7 @@ local format, lower = string.format, string.lower
 local alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 local styles = { "it", "bi", "rm", "bf" }
 
---context.environment({"xits-env"})
-context.input("xits-env")
+context.environment({"xits-env"})
 context.starttext()
 
 for c in alpha:gmatch"." do
