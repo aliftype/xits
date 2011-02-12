@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1232396790
-ModificationTime: 1275845942
+ModificationTime: 1297512431
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -53,8 +53,6 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 313
 OS2Vendor: 'STIX'
-OS2CodePages: a03f01ff.dfff0000
-OS2UnicodeRanges: a00002ff.42006dff.02000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
