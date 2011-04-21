@@ -1,18 +1,18 @@
 
 FONTLOG for XITS
 -------------------
-This file provides detailed information on the XITS font software.
-This information should be distributed along with the XITS fonts
-and any derivative works.
+This file provides detailed information on the XITS font software.  This
+information should be distributed along with the XITS fonts and any derivative
+works.
 
 
 Basic Font Information
 --------------------------
-XITS is a Times-like typeface for mathematical and scientific publishing,
-based on STIX fonts project. The main mission of XITS is to provide a version
-of STIX fonts enriched with the OpenType MATH extension, making it suitable
-for high quality mathematic typesetting with OpenType MATH capable layout
-systems, like MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
+XITS is a Times-like typeface for mathematical and scientific publishing, based
+on STIX fonts project. The main mission of XITS is to provide a version of STIX
+fonts enriched with the OpenType MATH extension, making it suitable for high
+quality mathematic typesetting with OpenType MATH capable layout systems, like
+MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
 
 XITS development is currently hosted on:
 http://github.com/khaledhosny/xits-math
@@ -180,11 +180,11 @@ XITS currently provides the following Unicode coverage:
 
 Information for Contributors
 ------------------------------
-XITS is released under the OFL 1.1 - http://scripts.sil.org/OFL
-For information on what you're allowed to change or modify, consult the
-OFL-1.1.txt and OFL-FAQ.txt files. The OFL-FAQ also gives a very general
-rationale and various recommendations regarding why you would want to
-contribute to the project or make your own version of the font.
+XITS is released under the OFL 1.1 - http://scripts.sil.org/OFL For information
+on what you're allowed to change or modify, consult the OFL-1.1.txt and
+OFL-FAQ.txt files. The OFL-FAQ also gives a very general rationale and various
+recommendations regarding why you would want to contribute to the project or
+make your own version of the font.
 
 See the project website for the current master and the various branches:
 http://github.com/khaledhosny/xits-math
@@ -192,6 +192,10 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+21 Apr 2011 (Khaled Hosny) <XITS> Version 1.009
+- Don't hard code OS/2 code pages and Unicode ranges
+- Fix StackBottomShiftDown and StackBottomDisplayStyleShiftDown math parameters
+
 12 Jan 2011 (Khaled Hosny) <XITS> Version 1.008
 - Fix sub/supercript positioning for uppercase script family
 - Make \lgroup and \rgroup extensible
