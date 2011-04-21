@@ -8,8 +8,8 @@ context.starttext()
 
 for c in alpha:gmatch"." do
     for _,i in next, styles do
-        context.mathematics(format([[\math%s{%s^1_1}\kern5pt]], i, c))
-        context.mathematics(format([[\math%s{%s^1_1}\kern5pt]], i, lower(c)))
+        context.math(format([[\math%s{%s^1_1}\kern5pt]], i, c))
+        context.math(format([[\math%s{%s^1_1}\kern5pt]], i, lower(c)))
     end
     context.blank({"big"})
 end

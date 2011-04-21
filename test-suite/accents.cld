@@ -70,12 +70,12 @@ context.starttext()
 for _,g in next, chars do
     for c in utfcharacters(g) do
         for _,a in next, top_accents do
-            context.mathematics(format([[\Umathaccent fixed "0"0"%s {\Umathchar "0"0 `%s}]], a, c))
+            context.math(format([[\Umathaccent fixed "0"0"%s {\Umathchar "0"0 `%s}]], a, c))
             context(" ")
         end
         context.par()
         for _,a in next, bot_accents do
-            context.mathematics(format([[\Umathaccent bottom fixed "0"0"%s {\Umathchar "0"0 `%s}]], a, c))
+            context.math(format([[\Umathaccent bottom fixed "0"0"%s {\Umathchar "0"0 `%s}]], a, c))
             context(" ")
         end
         context.par()
