@@ -1,5 +1,5 @@
 NAME=xits
-VERSION=1.009
+VERSION=1.010
 
 SRC=sources
 DIST=$(NAME)-$(VERSION)
