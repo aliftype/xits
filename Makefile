@@ -8,7 +8,9 @@ DIST=$(NAME)-$(VERSION)
 
 FF=fontforge -lang=ff
 FFLAGES=0x200000
-SCRIPT='Open($$1); MergeFeature("$(SRC)/$(FEA)"); Generate($$2, "", $(FFLAGES))'
+SCRIPT='Open($$1); MergeFeature("$(SRC)/$(FEA)");\
+       SetFontNames("","","","","","$(VERSION)");\
+       Generate($$2, "", $(FFLAGES))'
 
 FONTS=math regular bold italic bolditalic
 DOCS=user-guide xits-specimen
