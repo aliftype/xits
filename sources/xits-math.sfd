@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1303443823
+ModificationTime: 1303444420
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -137,7 +137,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114367 17 8
+WinInfo: 1114384 17 8
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -148,7 +148,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114867 4080
+BeginChars: 1114867 4082
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -45725,7 +45725,7 @@ Width: 556
 VWidth: 1802
 Flags: MW
 GlyphVariantsHorizontal: uni23DC uni23DC.size1 uni23DC.size2 uni23DC.size3 uni23DC.size4 uni23DC.size5
-GlyphCompositionHorizontal: 3  uni23DC.lt%0,0,618,1855 uni23B4.ex%1,212,212,635 uni23DC.rt%0,618,0,1855
+GlyphCompositionHorizontal: 3  uni23DC.lt%0,0,618,1855 uni23DC.ex%1,212,212,635 uni23DC.rt%0,618,0,1855
 HStem: 802 55<226 319 226 326>
 LayerCount: 2
 Fore
@@ -45746,7 +45746,7 @@ Width: 556
 VWidth: 29
 Flags: MW
 GlyphVariantsHorizontal: uni23DD uni23DD.size1 uni23DD.size2 uni23DD.size3 uni23DD.size4 uni23DD.size5
-GlyphCompositionHorizontal: 3  uni23DD.lt%0,0,618,1855 uni23B5.ex%1,212,212,635 uni23DD.rt%0,618,0,1855
+GlyphCompositionHorizontal: 3  uni23DD.lt%0,0,618,1855 uni23DD.ex%1,212,212,635 uni23DD.rt%0,618,0,1855
 HStem: -407 55<226 319>
 LayerCount: 2
 Fore
@@ -134009,6 +134009,40 @@ Width: 0
 VWidth: 0
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: uni23DC.ex
+Encoding: 1114418 -1 4080
+Width: 633
+VWidth: 1308
+Flags: HW
+HStem: 1128 135<-1 634 -1 634>
+LayerCount: 2
+Fore
+SplineSet
+634 1128 m 1
+ -1 1128 l 1
+ -1 1263 l 1
+ 634 1263 l 1
+ 634 1128 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni23DD.ex
+Encoding: 1114419 -1 4081
+Width: 633
+VWidth: 448
+Flags: HW
+HStem: -813 135<-1 634 -1 634>
+LayerCount: 2
+Fore
+SplineSet
+634 -813 m 1
+ -1 -813 l 1
+ -1 -678 l 1
+ 634 -678 l 1
+ 634 -813 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
