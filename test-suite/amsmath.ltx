@@ -9,14 +9,11 @@ File name: \fn{testmath.tex}}
 \author{American Mathematical Society}
 \date{Version 2.0, 1999/11/15}
 
-\usepackage{amsmath,amsthm,fontspec,xunicode,xltxtra}
-\usepackage{unicode-math}
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont{TeX Gyre Termes}
-\setsansfont{TeX Gyre Heros}
-\setmonofont{Inconsolata}
+\usepackage{amsmath,amsthm,unicode-math}
+\setmainfont[Ligatures=TeX]{XITS}
+\setsansfont[Ligatures=TeX]{TeX Gyre Heros}
+\setmonofont{Latin Modern Mono}
 \setmathfont{XITS Math}
-%\setmathfont{Cambria Math}
 
 %    Some definitions useful in producing this sort of documentation:
 \chardef\bslash=`\\ % p. 424, TeXbook
@@ -145,7 +142,7 @@ Define multiplication for the elements of $\wh X$ by
 \hat x_i\hat x_j=\hat x_j\hat x_i,\quad \hat x^2_i=0,\quad
 i,j=1,\dots,n.
 \end{equation}
-Let ${\hat k}_{ij}=k_{ij}\hat x_j$ and $\hat k_{ij}=-\sum_{j\not=i} \hat
+Let ${\hat k}_{ij}=k_{ij}\hat x_j$ and $\hat k_{ij}=-\sum_{j\neq i} \hat
 k_{ij}$. Then the number of Hamiltonian cycles $H_c$ is given by the
 relation \cite{liuchow:formalsum}
 \begin{equation}\label{H-cycles}
@@ -227,7 +224,7 @@ _{ij}\hat y_j+(b_{ii}-\lambda_i)\hat y_i\hat y
 where
 \begin{equation}
 b^{(\lambda)}_{ii}=\lambda_i,\quad b^{(\lambda)}_{ij}=b_{ij},
-\quad i\not=j.
+\quad i\neq j.
 \end{equation}
 Let $\mathbf{B}^{(\lambda)}=(b^{(\lambda)}_{ij})$. By \eqref{detprod}
 and \eqref{sum-bij}, it is
@@ -608,7 +605,7 @@ Let $(\A,\A',\A'')$ be a triple of arrangements. Then
 \begin{defn}
 Let $(\A,\A',\A'')$ be a triple with respect to
 the hyperplane $H \in \A$. Call $H$ a \textit{separator}
-if $T(\A) \not\in L(\A')$.
+if $T(\A) \notin L(\A')$.
 \end{defn}
 
 \begin{cor}\label{nsep}
