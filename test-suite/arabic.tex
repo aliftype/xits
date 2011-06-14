@@ -1,25 +1,11 @@
 % some useless examples
 
-% register 'rtlm' feature for 'base' mode
-\ctxlua{fonts.otf.features.register_base_substitution('rtlm')}
-\ctxlua{fonts.otf.features.register_base_substitution('locl')}
-
 \definefontfeature[virtualmath]      [virtualmath][rtlm=yes,locl=yes]
 \definefontfeature[math-text]        [virtualmath][ssty=no]
 \definefontfeature[math-script]      [virtualmath][ssty=1,mathsize=yes]
 \definefontfeature[math-scriptscript][virtualmath][ssty=2,mathsize=yes]
 
-\starttypescript    [math]     [xits][name]
-  \definefontsynonym[MathRoman][file:../xits-math.otf] [features=math\mathsizesuffix]
-\stoptypescript
-
-\starttypescript[mainface]
-  \definetypeface   [mainface][rm][serif] [termes][default]
-  \definetypeface   [mainface][mm][math]  [xits]  [default]
-\stoptypescript
-
-\usetypescript[mainface]
-\setupbodyfont[mainface]
+\setupbodyfont[xits]
 
 \mathdir TRT
 
