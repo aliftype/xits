@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1308339403
+ModificationTime: 1308352557
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -136,12 +136,13 @@ MATH:RadicalKernAfterDegree: -555
 MATH:RadicalDegreeBottomRaisePercent: 70
 MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114843 17 7
+WinInfo: 1785 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -152,7 +153,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114948 4365
+BeginChars: 1114958 4374
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -37383,7 +37384,7 @@ SplineSet
  101 167 152 84 240 84 c 0
  329 84 377 145 404 181 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221D.rtlm
 EndChar
 
 StartChar: uni221E
@@ -37436,7 +37437,7 @@ SplineSet
  634 66 l 1
  634 0 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221F.rtlm
 EndChar
 
 StartChar: uni2220
@@ -37455,7 +37456,7 @@ SplineSet
  643 66 l 1
  643 0 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2220.rtlm
 EndChar
 
 StartChar: uni2221
@@ -37487,7 +37488,7 @@ SplineSet
  463 143 433 213 388 273 c 1
  181 66 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2221.rtlm
 EndChar
 
 StartChar: uni2222
@@ -37522,7 +37523,7 @@ SplineSet
  513 290 508 329 498 367 c 1
  228 253 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2222.rtlm
 EndChar
 
 StartChar: uni2223
@@ -44383,7 +44384,7 @@ SplineSet
  625 39 l 1
  625 -27 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F5.rtlm
 EndChar
 
 StartChar: uni22F6
@@ -44478,7 +44479,7 @@ SplineSet
  625 -114 l 1
  625 -180 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F8.rtlm
 EndChar
 
 StartChar: uni22F9
@@ -44510,7 +44511,7 @@ SplineSet
  625 39 l 1
  625 -27 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F9.rtlm
 EndChar
 
 StartChar: uni22FA
@@ -44698,7 +44699,7 @@ SplineSet
  487 50 l 1
  487 0 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22FF.rtlm
 EndChar
 
 StartChar: uni2300
@@ -58429,7 +58430,6 @@ SplineSet
  325 806 l 1
  325 752 l 1
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: uni27D0
@@ -144512,6 +144512,255 @@ SplineSet
  502 -99 l 1
  33 2565 l 1
  -34 2565 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni221D.rtlm
+Encoding: 1114948 -1 4365
+Width: 685
+Flags: W
+HStem: 0 84<419 488 41 71> 371 59<449 481>
+VStem: 583 60<209.5 284 209.5 292>
+LayerCount: 2
+Fore
+SplineSet
+41 84 m 1
+ 41 0 l 1
+ 139 0 196 53 258 145 c 1
+ 303 54 371 0 467 0 c 0
+ 553 0 643 62 643 200 c 0
+ 643 384 510 430 452 430 c 0
+ 379 430 329 411 234 283 c 1
+ 188 366 142 430 41 430 c 1
+ 41 346 l 1
+ 131 346 187 291 214 245 c 1
+ 214 242 l 1
+ 150 136 101 84 41 84 c 1
+280 181 m 1
+ 280 184 l 1
+ 352 303 415 371 483 371 c 0
+ 539 371 583 316 583 252 c 0
+ 583 167 532 84 444 84 c 0
+ 355 84 307 145 280 181 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni221F.rtlm
+Encoding: 1114949 -1 4366
+Width: 685
+Flags: W
+HStem: 0 66<50 568 50 568>
+VStem: 568 66<66 584 66 584 66 584>
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1
+ 634 0 l 1
+ 634 584 l 1
+ 568 584 l 1
+ 568 66 l 1
+ 50 66 l 1
+ 50 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2220.rtlm
+Encoding: 1114950 -1 4367
+Width: 685
+Flags: W
+HStem: 0 66<23 484 23 484>
+LayerCount: 2
+Fore
+SplineSet
+23 0 m 1
+ 643 0 l 1
+ 97 547 l 1
+ 47 505 l 1
+ 484 66 l 1
+ 23 66 l 1
+ 23 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2221.rtlm
+Encoding: 1114951 -1 4368
+Width: 685
+Flags: W
+HStem: 0 66<190 483 185 483 22 119 119 119>
+LayerCount: 2
+Fore
+SplineSet
+22 0 m 1
+ 119 0 l 1
+ 119 -24 120 -49 124 -72 c 1
+ 189 -62 l 1
+ 186 -42 185 -21 185 0 c 1
+ 642 0 l 1
+ 319 323 l 1
+ 334 338 350 352 367 365 c 1
+ 327 418 l 1
+ 307 403 289 387 272 370 c 1
+ 96 547 l 1
+ 45 505 l 1
+ 229 320 l 1
+ 173 248 135 161 123 66 c 1
+ 22 66 l 1
+ 22 0 l 1
+483 66 m 1
+ 190 66 l 1
+ 201 143 231 213 276 273 c 1
+ 483 66 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2222.rtlm
+Encoding: 1114952 -1 4369
+Width: 685
+Flags: W
+HStem: -11 20
+VStem: 130 66<234 271.5>
+LayerCount: 2
+Fore
+SplineSet
+56 80 m 1
+ 81 18 l 1
+ 169 55 l 1
+ 177 33 188 11 201 -11 c 1
+ 258 23 l 1
+ 247 41 238 61 230 80 c 1
+ 653 253 l 1
+ 232 430 l 1
+ 240 449 249 467 259 485 c 1
+ 202 519 l 1
+ 191 499 180 477 171 455 c 1
+ 81 492 l 1
+ 56 432 l 1
+ 149 392 l 1
+ 136 346 130 299 130 253 c 0
+ 130 207 136 162 148 118 c 1
+ 56 80 l 1
+481 253 m 1
+ 211 143 l 1
+ 201 179 196 215 196 253 c 0
+ 196 290 201 329 211 367 c 1
+ 481 253 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni22F5.rtlm
+Encoding: 1114953 -1 4370
+Width: 685
+Flags: W
+HStem: -27 66<60 431 60 351> 219 66<60 556 60 556 60 557> 465 66<350 354 60 350> 589 127<306 338 303 338>
+VStem: 259 127<636 671.5 636 672>
+LayerCount: 2
+Fore
+SplineSet
+259 653 m 0
+ 259 619 284 589 322 589 c 0
+ 360 589 386 614 386 653 c 0
+ 386 691 354 716 322 716 c 0
+ 290 716 259 690 259 653 c 0
+60 -27 m 1
+ 351 -27 l 2
+ 511 -27 625 104 625 252 c 0
+ 625 400 513 531 354 531 c 2
+ 60 531 l 1
+ 60 465 l 1
+ 350 465 l 2
+ 453 465 539 380 556 285 c 1
+ 60 285 l 1
+ 60 219 l 1
+ 557 219 l 1
+ 540 124 454 39 351 39 c 2
+ 60 39 l 1
+ 60 -27 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni22F8.rtlm
+Encoding: 1114954 -1 4371
+Width: 685
+Flags: W
+HStem: -180 66<60 615 60 615> -26 66<60 433.5 60 350 60 350> 220 66<60 556 556 556> 466 66<60 402.5 60 351>
+LayerCount: 2
+Fore
+SplineSet
+60 -26 m 1
+ 354 -26 l 2
+ 513 -26 625 105 625 253 c 0
+ 625 401 511 532 351 532 c 2
+ 60 532 l 1
+ 60 466 l 1
+ 351 466 l 2
+ 454 466 540 381 557 286 c 1
+ 60 286 l 1
+ 60 220 l 1
+ 556 220 l 1
+ 539 125 453 40 350 40 c 2
+ 60 40 l 1
+ 60 -26 l 1
+60 -180 m 1
+ 615 -180 l 1
+ 615 -114 l 1
+ 60 -114 l 1
+ 60 -180 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni22F9.rtlm
+Encoding: 1114955 -1 4372
+Width: 685
+Flags: W
+HStem: -27 66<61 437.5 61 354 61 354> 156 66<61 535 535 535> 282 66<61 536 61 536 61 557> 465 66<61 394.5 61 355>
+VStem: 559 66<247.5 257.5 247.5 327>
+LayerCount: 2
+Fore
+SplineSet
+61 -27 m 1
+ 358 -27 l 2
+ 517 -27 625 105 625 253 c 0
+ 625 401 515 531 355 531 c 2
+ 61 531 l 1
+ 61 465 l 1
+ 355 465 l 2
+ 434 465 502 414 536 348 c 1
+ 61 348 l 1
+ 61 282 l 1
+ 557 282 l 1
+ 559 272 559 262 559 253 c 0
+ 559 242 558 232 557 222 c 1
+ 61 222 l 1
+ 61 156 l 1
+ 535 156 l 1
+ 500 89 433 39 354 39 c 2
+ 61 39 l 1
+ 61 -27 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni22FF.rtlm
+Encoding: 1114956 -1 4373
+Width: 560
+Flags: W
+HStem: 0 50<73 421 73 421> 306 50<85 421 85 421> 612 50<73 421 421 421>
+VStem: 421 66<50 306 356 612>
+LayerCount: 2
+Fore
+SplineSet
+73 0 m 1
+ 487 0 l 1
+ 487 662 l 1
+ 73 662 l 1
+ 73 612 l 1
+ 421 612 l 1
+ 421 356 l 1
+ 85 356 l 1
+ 85 306 l 1
+ 421 306 l 1
+ 421 50 l 1
+ 73 50 l 1
+ 73 0 l 1
 EndSplineSet
 EndChar
 EndChars
