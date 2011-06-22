@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1308352557
+ModificationTime: 1308753191
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -136,13 +136,12 @@ MATH:RadicalKernAfterDegree: -555
 MATH:RadicalDegreeBottomRaisePercent: 70
 MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1785 17 7
+WinInfo: 1114180 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -153,7 +152,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1114958 4374
+BeginChars: 1114964 4381
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -20557,7 +20556,7 @@ Encoding: 824 824 597
 Width: 0
 Flags: MW
 TopAccentHorizontal: -174
-GlyphVariantsVertical: uni0338 uni0338.size1 uni0338.size2 uni0338.size3 uni0338.size4 uni0338.size5
+GlyphVariantsVertical: uni0338 uni0338.size1 uni0338.size2 uni0338.size3 uni0338.size4 uni0338.size5 uni0338.size6
 HStem: 642 20<-23 31 31 31>
 LayerCount: 2
 Fore
@@ -29780,6 +29779,7 @@ Encoding: 8402 8402 857
 Width: 0
 Flags: MW
 TopAccentHorizontal: -217
+GlyphVariantsVertical: uni20D2 uni20D2.size1 uni20D2.size2 uni20D2.size3 uni20D2.size4 uni20D2.size5 uni20D2.size6
 HStem: 642 20<-242 -192 -192 -192>
 VStem: -242 50<-156 662>
 LayerCount: 2
@@ -36966,6 +36966,7 @@ StartChar: uni220F
 Encoding: 8719 8719 1062
 Width: 1000
 Flags: MW
+TopAccentHorizontal: 500
 IsExtendedShape: 1
 GlyphVariantsVertical: uni220F uni220F.size1
 HStem: 697 66<301 700 301 301>
@@ -37005,6 +37006,7 @@ StartChar: uni2210
 Encoding: 8720 8720 1063
 Width: 1000
 Flags: MW
+TopAccentHorizontal: 500
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2210 uni2210.size1
 HStem: -259 66<301 700 301 948>
@@ -37044,6 +37046,7 @@ StartChar: uni2211
 Encoding: 8721 8721 1064
 Width: 914
 Flags: MW
+TopAccentHorizontal: 457
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2211 uni2211.size1
 HStem: 697 66<288 608 288 288>
@@ -116383,16 +116386,16 @@ StartChar: uni0338.size1
 Encoding: 1114184 -1 3362
 Width: 0
 Flags: W
-TopAccentHorizontal: -438
+TopAccentHorizontal: -339
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
--157 466 m 1
- -720 -21 l 1
- -720 45 l 1
- -157 532 l 1
- -157 466 l 1
+-554 -181 m 1
+ -179 680 l 1
+ -125 680 l 1
+ -500 -181 l 1
+ -554 -181 l 1
 EndSplineSet
 EndChar
 
@@ -116628,6 +116631,7 @@ StartChar: uni220F.size1
 Encoding: 1114194 -1 3372
 Width: 1355
 Flags: MW
+TopAccentHorizontal: 678
 IsExtendedShape: 1
 HStem: 1411 89<398 958 398 398>
 VStem: 215 183<241 276 276 1287 1287 1356.5> 958 183<276 1293>
@@ -116667,6 +116671,7 @@ StartChar: uni2210.size1
 Encoding: 1114195 -1 3373
 Width: 1355
 Flags: MW
+TopAccentHorizontal: 678
 IsExtendedShape: 1
 HStem: 49 89<398 958 398 1305>
 VStem: 215 183<262 1273 138 1308 138 1359> 958 183<196.5 256 256 1273 1273 1282>
@@ -116706,6 +116711,7 @@ StartChar: uni2211.size1
 Encoding: 1114196 -1 3374
 Width: 1292
 Flags: MW
+TopAccentHorizontal: 646
 IsExtendedShape: 1
 HStem: 49 183<351 919 919 988.5 351 1128> 1409 90<410 787 410 410>
 LayerCount: 2
@@ -118829,18 +118835,17 @@ EndChar
 StartChar: uni0338.size2
 Encoding: 1114257 -1 3466
 Width: 0
-Flags: MW
-TopAccentHorizontal: -363
+Flags: W
+TopAccentHorizontal: -339
 IsExtendedShape: 1
-HStem: 0 20
 LayerCount: 2
 Fore
 SplineSet
--6 662 m 1
- -651 0 l 1
- -720 0 l 1
- -75 662 l 1
- -6 662 l 1
+-103 729 m 1
+ -521 -229 l 1
+ -575 -229 l 1
+ -157 729 l 1
+ -103 729 l 1
 EndSplineSet
 EndChar
 
@@ -120095,15 +120100,15 @@ StartChar: uni0338.size3
 Encoding: 1114310 -1 3519
 Width: 0
 Flags: W
-TopAccentHorizontal: -338
+TopAccentHorizontal: -340
 LayerCount: 2
 Fore
 SplineSet
--132 662 m 1
- -489 -156 l 1
- -543 -156 l 1
- -186 662 l 1
- -132 662 l 1
+-82 778 m 1
+ -543 -280 l 1
+ -597 -280 l 1
+ -136 778 l 1
+ -82 778 l 1
 EndSplineSet
 EndChar
 
@@ -121328,11 +121333,11 @@ TopAccentHorizontal: -330
 LayerCount: 2
 Fore
 SplineSet
--169 731 m 1
- -436 -228 l 1
- -490 -228 l 1
- -223 731 l 1
- -169 731 l 1
+-141 830 m 1
+ -464 -327 l 1
+ -518 -327 l 1
+ -195 830 l 1
+ -141 830 l 1
 EndSplineSet
 EndChar
 
@@ -122354,15 +122359,15 @@ StartChar: uni0338.size5
 Encoding: 1114405 -1 3614
 Width: 0
 Flags: W
-TopAccentHorizontal: -342
+TopAccentHorizontal: -343
 LayerCount: 2
 Fore
 SplineSet
--123 960 m 1
- -507 -454 l 1
- -561 -454 l 1
- -177 960 l 1
- -123 960 l 1
+-554 -429 m 1
+ -185 931 l 1
+ -131 931 l 1
+ -500 -429 l 1
+ -554 -429 l 1
 EndSplineSet
 EndChar
 
@@ -144761,6 +144766,124 @@ SplineSet
  421 50 l 1
  73 50 l 1
  73 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0338.size6
+Encoding: 1114957 -1 4374
+Width: 0
+Flags: W
+TopAccentHorizontal: -486
+LayerCount: 2
+Fore
+SplineSet
+-210 1565 m 1
+ -707 -281 l 1
+ -761 -281 l 1
+ -264 1565 l 1
+ -210 1565 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size6
+Encoding: 1114958 -1 4375
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-279 1566>
+LayerCount: 2
+Fore
+SplineSet
+-192 -279 m 1
+ -242 -279 l 1
+ -242 1566 l 1
+ -192 1566 l 1
+ -192 -279 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size1
+Encoding: 1114959 -1 4376
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-179 681>
+LayerCount: 2
+Fore
+SplineSet
+-192 -179 m 1
+ -242 -179 l 1
+ -242 681 l 1
+ -192 681 l 1
+ -192 -179 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size2
+Encoding: 1114960 -1 4377
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-229 731>
+LayerCount: 2
+Fore
+SplineSet
+-192 -229 m 1
+ -242 -229 l 1
+ -242 731 l 1
+ -192 731 l 1
+ -192 -229 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size3
+Encoding: 1114961 -1 4378
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-279 781>
+LayerCount: 2
+Fore
+SplineSet
+-192 -279 m 1
+ -242 -279 l 1
+ -242 781 l 1
+ -192 781 l 1
+ -192 -279 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size4
+Encoding: 1114962 -1 4379
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-329 831>
+LayerCount: 2
+Fore
+SplineSet
+-192 -329 m 1
+ -242 -329 l 1
+ -242 831 l 1
+ -192 831 l 1
+ -192 -329 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20D2.size5
+Encoding: 1114963 -1 4380
+Width: 0
+Flags: W
+TopAccentHorizontal: -217
+VStem: -242 50<-429 931>
+LayerCount: 2
+Fore
+SplineSet
+-192 -429 m 1
+ -242 -429 l 1
+ -242 931 l 1
+ -192 931 l 1
+ -192 -429 l 1
 EndSplineSet
 EndChar
 EndChars
