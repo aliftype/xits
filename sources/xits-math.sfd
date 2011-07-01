@@ -141,7 +141,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114180 17 7
+WinInfo: 102 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -64356,6 +64356,7 @@ StartChar: uni2980
 Encoding: 10624 10624 1846
 Width: 594
 Flags: MW
+GlyphCompositionVertical: 2  uni2980%0,0,600,884 uni2980%1,600,0,884
 VStem: 85 66<-189 695> 264 66<-189 695> 443 66<-189 695>
 CounterMasks: 1 e0
 LayerCount: 2
