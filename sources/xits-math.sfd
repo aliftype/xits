@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1308753191
+ModificationTime: 1309527455
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -141,7 +141,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 102 17 7
+WinInfo: 10982 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -37533,6 +37533,7 @@ StartChar: uni2223
 Encoding: 8739 8739 1081
 Width: 266
 Flags: MW
+GlyphCompositionVertical: 2  uni2223%0,293,293,879 uni2223%1,293,293,879
 VStem: 100 66<-189 690>
 LayerCount: 2
 Fore
@@ -37574,6 +37575,7 @@ StartChar: uni2225
 Encoding: 8741 8741 1083
 Width: 523
 Flags: MW
+GlyphCompositionVertical: 2  uni2225%0,293,293,879 uni2225%1,293,293,879
 VStem: 129 66<-189 690> 328 66<-189 690>
 LayerCount: 2
 Fore
@@ -76634,6 +76636,7 @@ StartChar: uni2AF4
 Encoding: 10996 10996 2218
 Width: 685
 Flags: MW
+GlyphCompositionVertical: 2  uni2AF4%0,295,295,884 uni2AF4%1,295,295,884
 VStem: 131 66<-189 695> 310 66<-189 695> 489 66<-189 695>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -118463,6 +118466,8 @@ StartChar: uni2AFC
 Encoding: 11004 11004 3448
 Width: 690
 Flags: MW
+GlyphVariantsVertical: uni2AFC uni2AFC.size2
+GlyphCompositionVertical: 2  uni2AFC.size2%0,625,625,1875 uni2AFC.size2%1,625,625,1875
 VStem: 133 66<-363 867> 312 66<-363 867> 491 66<-363 867>
 CounterMasks: 1 e0
 LayerCount: 2
