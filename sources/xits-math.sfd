@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1309676722
+ModificationTime: 1309676913
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -20568,6 +20568,7 @@ SplineSet
  -23 662 l 1
  31 662 l 1
 EndSplineSet
+Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni20D2
 EndChar
 
 StartChar: uni0339
