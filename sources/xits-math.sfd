@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1309677117
+ModificationTime: 1309684030
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -143,7 +143,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8381 17 7
+WinInfo: 1114911 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -154,7 +154,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1115015 4433
+BeginChars: 1115018 4436
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -30122,6 +30122,8 @@ Encoding: 8425 8425 871
 Width: 0
 Flags: MW
 TopAccentHorizontal: -214
+GlyphVariantsHorizontal: uni20E9
+GlyphCompositionHorizontal: 3  uni20E9.lt%0,0,50,154 uni20E9.ex%1,50,50,200 uni20E9.rt%0,50,0,154
 HStem: 627 54<-426 -1 -426 -426>
 VStem: -480 54<538 627 538 681> -1 54<538 627 627 627>
 LayerCount: 2
@@ -146996,6 +146998,61 @@ SplineSet
  140 502 l 1
  140 156 l 1
  304 237 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20E9.lt
+Encoding: 1115015 -1 4433
+Width: 154
+Flags: W
+HStem: 627 54<54 154>
+VStem: 0 54<538 627>
+LayerCount: 2
+Fore
+SplineSet
+154 627 m 1
+ 54 627 l 1
+ 54 538 l 1
+ 0 538 l 1
+ 0 681 l 1
+ 154 681 l 1
+ 154 627 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20E9.ex
+Encoding: 1115016 -1 4434
+Width: 200
+Flags: W
+HStem: 627 54
+VStem: 0 200
+LayerCount: 2
+Fore
+SplineSet
+200 627 m 1
+ 200 681 l 1
+ 0 681 l 1
+ 0 627 l 1
+ 200 627 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni20E9.rt
+Encoding: 1115017 -1 4435
+Width: 154
+Flags: W
+HStem: 627 54<0 100>
+VStem: 100 54<538 627>
+LayerCount: 2
+Fore
+SplineSet
+0 681 m 1
+ 154 681 l 1
+ 154 538 l 1
+ 100 538 l 1
+ 100 627 l 1
+ 0 627 l 1
+ 0 681 l 1
 EndSplineSet
 EndChar
 EndChars
