@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1309676913
+ModificationTime: 1309677117
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
-Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs"  {"'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm" ) } ['rtlm' ('math' <'dflt' > ) ]
+Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs"  {"'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm" ) } ['rtlm' ('math' <'ARA ' > ) ]
 Lookup: 1 0 0 "'locl' Localised digits"  {"'locl' Localised digits-1"  } ['locl' ('math' <'ARA ' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms 2"  {"'dtls' Dotless Forms 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style 4"  {"'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
@@ -64,7 +64,7 @@ Lookup: 1 0 0 "'ss04' Bold Monospace Math digits"  {"'ss04' Bold Monospace Math 
 Lookup: 1 0 0 "'ss05' Bold Double-Struck Math Alphabet"  {"'ss05' Bold Double-Struck Math Alphabet-1" ("bf" ) } ['ss05' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss06' Italic Double-Struck Math Alphabet"  {"'ss06' Italic Double-Struck Math Alphabet-1" ("it" ) } ['ss06' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss07' Bold Italic Double-Struck Math Alphabet"  {"'ss07' Bold Italic Double-Struck Math Alphabet-1" ("bi" ) } ['ss07' ('math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss09' Negated Symbols With Vertical Stroke"  {"'ss09' Negated Symbols With Vertical Stroke-1" ("ss09" ) } ['ss09' ('math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -143,7 +143,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114911 17 7
+WinInfo: 8381 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
