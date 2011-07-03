@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1309532633
+ModificationTime: 1309675694
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -141,7 +141,7 @@ NameList: AGL without afii
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1114877 17 7
+WinInfo: 102 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -3163,19 +3163,18 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 93
-Width: 200
+Width: 320
 Flags: MW
 GlyphCompositionVertical: 2  bar%0,0,600,690 bar%1,600,0,690
-HStem: -14 20 656 20<67 133 133 133>
-VStem: 67 66<-177 676>
+VStem: 127 66<-189 690>
 LayerCount: 2
 Fore
 SplineSet
-133 -177 m 1
- 67 -177 l 1
- 67 676 l 1
- 133 676 l 1
- 133 -177 l 1
+193 -189 m 1
+ 127 -189 l 1
+ 127 690 l 1
+ 193 690 l 1
+ 193 -189 l 1
 EndSplineSet
 EndChar
 
