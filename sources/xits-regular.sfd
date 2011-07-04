@@ -11,7 +11,6 @@ UnderlinePosition: -50
 UnderlineWidth: 50
 Ascent: 750
 Descent: 250
-sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
