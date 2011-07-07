@@ -37151,8 +37151,7 @@ SplineSet
  406 710 l 1
  478 710 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni29F5
-Colour: ff00
+Colour: ff00ff
 EndChar
 
 StartChar: uni2216
@@ -68163,8 +68162,7 @@ SplineSet
  118 710 l 1
  478 -222 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2215
-Colour: ff00
+Colour: ff00ff
 EndChar
 
 StartChar: uni29F6
@@ -68228,8 +68226,7 @@ SplineSet
  455 695 l 1
  517 695 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni29F9
-Colour: ff00
+Colour: ff00ff
 EndChar
 
 StartChar: uni29F9
@@ -68246,8 +68243,7 @@ SplineSet
  147 695 l 1
  517 -325 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni29F8
-Colour: ff00
+Colour: ff00ff
 EndChar
 
 StartChar: uni29FA
