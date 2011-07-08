@@ -43185,8 +43185,8 @@ Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni22D0
 Colour: ff00
 EndChar
 
-StartChar: uni22D2
-Encoding: 8914 8914 1256
+StartChar: uni22D3
+Encoding: 8915 8915 1256
 Width: 620
 Flags: MW
 HStem: -31 66<257 364.5 257 384.5> 107 66<291.5 329 291.5 346.5>
@@ -43219,8 +43219,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni22D3
-Encoding: 8915 8915 1257
+StartChar: uni22D2
+Encoding: 8914 8914 1257
 Width: 620
 Flags: MW
 HStem: 332 66<291.5 329> 470 66<257 364.5>
