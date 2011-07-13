@@ -66209,7 +66209,7 @@ SplineSet
  493 -53 560 -28 612 14 c 1
 EndSplineSet
 Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2298
-Colour: ff00
+Colour: ff00ff
 EndChar
 
 StartChar: uni29B9
