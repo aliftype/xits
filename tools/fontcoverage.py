@@ -241,7 +241,8 @@ for block in blocks:
         found.append((name, (t,f)))
 
 
-print "%s:" %font.fullname
+coverage  = ""
+coverage += "* %s:\n" %font.fullname
 for f in found:
     for b in blocks:
         if b[0] == f[0]:
@@ -249,6 +250,6 @@ for f in found:
             start, end = b[1]
             total, present = f[1]
             percent = present/total*100
-            print "%s (U+%s-%s): %s/%s (%.2f%%)" %(
-                    name, start, end, present, total, percent)
+            coverage += "  %s (U+%s-%s): %s/%s (%.2f%%)\n" %(name, start, end, present, total, percent)
 
+print coverage
