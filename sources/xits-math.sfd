@@ -73079,7 +73079,8 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A86
+Colour: ff
 EndChar
 
 StartChar: uni2A86
@@ -73117,7 +73118,8 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A85
+Colour: ff
 EndChar
 
 StartChar: uni2A87
@@ -73150,7 +73152,7 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A88
 EndChar
 
 StartChar: uni2A88
@@ -73183,7 +73185,7 @@ SplineSet
  621 -54 l 1
  621 -120 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A87
 EndChar
 
 StartChar: uni2A89
@@ -73232,7 +73234,8 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8A
+Colour: ff
 EndChar
 
 StartChar: uni2A8A
@@ -73281,7 +73284,8 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A89
+Colour: ff
 EndChar
 
 StartChar: uni2A8B
@@ -73393,7 +73397,8 @@ SplineSet
  625 -110 l 1
  625 -176 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8E
+Colour: ff
 EndChar
 
 StartChar: uni2A8E
@@ -73427,7 +73432,8 @@ SplineSet
  625 -110 l 1
  625 -176 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8D
+Colour: ff
 EndChar
 
 StartChar: uni2A8F
@@ -73464,7 +73470,8 @@ SplineSet
  625 -123 l 1
  625 -133 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A90
+Colour: ff
 EndChar
 
 StartChar: uni2A90
@@ -73501,7 +73508,8 @@ SplineSet
  625 -296 l 1
  625 -361 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8F
+Colour: ff
 EndChar
 
 StartChar: uni2A91
@@ -73920,7 +73928,8 @@ SplineSet
  620 -99 l 1
  620 -164 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9E
+Colour: ff
 EndChar
 
 StartChar: uni2A9E
@@ -73949,7 +73958,8 @@ SplineSet
  630 120 l 1
  630 110 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9D
+Colour: ff
 EndChar
 
 StartChar: uni2A9F
@@ -73988,7 +73998,8 @@ SplineSet
  625 -201 l 1
  625 -267 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AA0
+Colour: ff
 EndChar
 
 StartChar: uni2AA0
@@ -74027,7 +74038,8 @@ SplineSet
  625 -201 l 1
  625 -267 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9F
+Colour: ff
 EndChar
 
 StartChar: uni2AA1
@@ -74505,7 +74517,7 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB2
 EndChar
 
 StartChar: uni2AB2
@@ -74538,7 +74550,7 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB1
 EndChar
 
 StartChar: uni2AB3
@@ -74641,7 +74653,7 @@ SplineSet
  622 -118 l 1
  622 -184 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB6
 EndChar
 
 StartChar: uni2AB6
@@ -74682,7 +74694,7 @@ SplineSet
  622 -118 l 1
  622 -184 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB5
 EndChar
 
 StartChar: uni2AB7
@@ -74720,7 +74732,8 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB8
+Colour: ff
 EndChar
 
 StartChar: uni2AB8
@@ -74758,7 +74771,8 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB7
+Colour: ff
 EndChar
 
 StartChar: uni2AB9
@@ -74807,7 +74821,8 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ABA
+Colour: ff
 EndChar
 
 StartChar: uni2ABA
@@ -74856,7 +74871,8 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB9
+Colour: ff
 EndChar
 
 StartChar: uni2ABB
@@ -75297,7 +75313,8 @@ SplineSet
  308 40 411 -88 481 -88 c 0
  547 -88 579 -21 593 50 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC8
+Colour: ff
 EndChar
 
 StartChar: uni2AC8
@@ -75330,7 +75347,8 @@ SplineSet
  308 40 411 -88 481 -88 c 0
  547 -88 579 -21 593 50 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC7
+Colour: ff
 EndChar
 
 StartChar: uni2AC9
@@ -75372,7 +75390,8 @@ SplineSet
  308 -70 411 -198 481 -198 c 0
  547 -198 579 -131 593 -60 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACA
+Colour: ff
 EndChar
 
 StartChar: uni2ACA
@@ -75414,7 +75433,8 @@ SplineSet
  308 -70 411 -198 481 -198 c 0
  547 -198 579 -131 593 -60 c 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC9
+Colour: ff
 EndChar
 
 StartChar: uni2ACB
@@ -75459,7 +75479,7 @@ SplineSet
  619 -145 l 1
  619 -211 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACC
 EndChar
 
 StartChar: uni2ACC
@@ -75504,7 +75524,7 @@ SplineSet
  614 -145 l 1
  614 -211 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACB
 EndChar
 
 StartChar: uni2ACD
