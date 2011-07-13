@@ -154,7 +154,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1115043 4461
+BeginChars: 1115045 4463
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -116811,7 +116811,7 @@ SplineSet
  394 -79 l 1
  294 -79 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2320.rtlm
 EndChar
 
 StartChar: uni2321
@@ -116835,7 +116835,7 @@ SplineSet
  294 1086 l 1
  394 1086 l 1
 EndSplineSet
-Colour: ff0000
+Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2321.rtlm
 EndChar
 
 StartChar: uni239B
@@ -147605,6 +147605,52 @@ SplineSet
  360 364 l 1
  57 364 l 1
  57 298 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2320.rtlm
+Encoding: 1115043 -1 4461
+Width: 688
+Flags: W
+HStem: 1028 38<172 260.054>
+VStem: 114 90<963.363 1027.68> 294 100<807 942.463>
+LayerCount: 2
+Fore
+SplineSet
+394 -79 m 1
+ 394 825 l 2
+ 394 930 346 1066 204 1066 c 0
+ 140 1066 114 1028 114 989 c 0
+ 114 955 141 936 169 936 c 0
+ 192 936 216 948 216 979 c 0
+ 216 1004 204 1001 204 1014 c 0
+ 204 1023 211 1028 221 1028 c 0
+ 286 1028 294 937 294 807 c 2
+ 294 -79 l 1
+ 394 -79 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2321.rtlm
+Encoding: 1115044 -1 4462
+Width: 688
+Flags: W
+HStem: -59 38<427.06 515>
+VStem: 294 100<64.5369 200> 483 90<-20.6789 43.6366>
+LayerCount: 2
+Fore
+SplineSet
+294 1086 m 1
+ 294 182 l 2
+ 294 77 341 -59 483 -59 c 0
+ 547 -59 573 -21 573 18 c 0
+ 573 52 546 71 518 71 c 0
+ 495 71 471 59 471 28 c 0
+ 471 3 483 6 483 -7 c 0
+ 483 -16 476 -21 466 -21 c 0
+ 401 -21 394 70 394 200 c 2
+ 394 1086 l 1
+ 294 1086 l 1
 EndSplineSet
 EndChar
 EndChars
