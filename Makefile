@@ -26,7 +26,7 @@ all: otf
 otf: $(OTF)
 
 %.otf: $(SRC)/%.sfd
-	@echo "Generating $@"
+	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 
 doc: $(PDF)
@@ -35,7 +35,11 @@ $(DOC)/%.pdf: $(DOCSRC)/%.tex
 	@echo "Building $@"
 	@context --nonstopmode --result=$@ $< 1>/dev/null
 
-dist: $(OTF) $(PDF)
+FONTLOG.txt: FONTLOG.txt.in
+	@echo "Generating $@"
+	@./tools/fontcoverage.py tools/Blocks.txt $< $(SFD) > $@
+
+dist: $(OTF) $(PDF) FONTLOG.txt
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(DOC)
