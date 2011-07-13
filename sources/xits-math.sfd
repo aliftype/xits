@@ -103814,7 +103814,6 @@ SplineSet
  173 73 194 17 252 17 c 0
  310 17 340 69 340 218 c 0
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: u1D6DC
@@ -105972,7 +105971,6 @@ SplineSet
  361 254 367 288 367 319 c 0
 EndSplineSet
 Substitution2: "'ss02' Sans Serif Math Greek-1" u1D715.ss
-Colour: ff0000
 EndChar
 
 StartChar: u1D716
@@ -108024,7 +108022,6 @@ SplineSet
  160 57 188 30 248 30 c 0
  340 30 423 165 423 293 c 0
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: u1D750
@@ -109612,7 +109609,6 @@ SplineSet
  150 148 183 81 250 81 c 0
  328 81 351 170 351 232 c 0
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: u1D78A
@@ -111213,7 +111209,6 @@ SplineSet
  172 117 194 81 243 81 c 0
  358 81 390 254 390 295 c 0
 EndSplineSet
-Colour: ff0000
 EndChar
 
 StartChar: u1D7C4
