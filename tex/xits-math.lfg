@@ -20,6 +20,7 @@ return {
             mathbbit  = { feature = 'ss06', value = 1, comment = "Mathematical Italic Double-Struck Alphabet" },
             mathbbbi  = { feature = 'ss07', value = 1, comment = "Mathematical Bold Italic Double-Struck Alphabet" },
             upint     = { feature = 'ss08', value = 1, comment = "Upright Integrals" },
+            vertnot   = { feature = 'ss09', value = 1, comment = "Negated Symbols With Vertical Stroke" },
         },
     }
 }
