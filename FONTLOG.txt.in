@@ -41,6 +41,9 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+18 Sep 2011 (Khaled Hosny) <XITS> Version 1.012
+- Fix bug in \scriptscriptstyle primes with XeTeX
+
 13 Jul 2011 (Khaled Hosny) <XITS> Version 1.011
 - Initial right-to-left math support
 - Add basic Arabic letters, digits and some math symbols

@@ -49,8 +49,8 @@ dist: $(OTF) $(PDF) FONTLOG.txt
 	@cp $(OTF) $(DIST)
 	@cp -r $(PDF) $(DIST)/$(DOC)
 	@cp -r $(TEX) $(DIST)/$(DOCSRC)
+	@cp -r Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
 	@cp README.md $(DIST)/README.txt
-	@cp Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST)
 	@zip -r $(DIST).zip $(DIST)
 
 clean:
