@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1309778630
+ModificationTime: 1316336565
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -28937,7 +28937,7 @@ SplineSet
  94 402 l 1
  75 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2032.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2032.ssty uni2032.ssty
 EndChar
 
 StartChar: uni2033
@@ -28963,7 +28963,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2033.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2033.ssty uni2033.ssty
 EndChar
 
 StartChar: uni2034
@@ -28996,7 +28996,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2034.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2034.ssty uni2034.ssty
 EndChar
 
 StartChar: uni2035
@@ -29015,7 +29015,7 @@ SplineSet
  132 678 140 656 147 632 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2035.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2035.ssty uni2035.ssty
 EndChar
 
 StartChar: uni2036
@@ -29041,7 +29041,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2036.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2036.ssty uni2036.ssty
 EndChar
 
 StartChar: uni2037
@@ -29074,7 +29074,7 @@ SplineSet
  132 678 141 657 148 633 c 2
  214 411 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2037.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2037.ssty uni2037.ssty
 EndChar
 
 StartChar: uni2038
@@ -29535,7 +29535,7 @@ SplineSet
  93 401 l 1
  75 410 l 1
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style 4-1" uni2057.ssty
+AlternateSubs2: "'ssty' Script Style 4-1" uni2057.ssty uni2057.ssty
 EndChar
 
 StartChar: uni205F
