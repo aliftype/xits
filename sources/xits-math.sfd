@@ -21,7 +21,6 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
-ModificationTime: 1316336565
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -69,7 +68,7 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
-GaspTable: 2 8 3 65535 3
+GaspTable: 2 8 3 65535 3 0
 OtfFeatName: 'ss01' 1033 "Mathematical Calligraphic Alphabet" 
 OtfFeatName: 'ss02' 1033 "Mathematical Greek Sans Serif Alphabet" 
 OtfFeatName: 'ss03' 1033 "Mathematical Italic Sans Serif Digits" 
@@ -137,13 +136,8 @@ MATH:RadicalKernAfterDegree: -555
 MATH:RadicalDegreeBottomRaisePercent: 70
 MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL without afii
-DisplaySize: -72
-AntiAlias: 1
-FitToEm: 1
-WinInfo: 1377 17 7
 BeginPrivate: 8
 BlueValues 31 [-14 0 450 460 662 676 683 683]
 BlueScale 8 0.039625
@@ -154,7 +148,7 @@ StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 OtherBlues 11 [-218 -217]
 EndPrivate
-BeginChars: 1115045 4381
+BeginChars: 1115045 4382
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -146990,6 +146984,35 @@ SplineSet
  401 -21 394 70 394 200 c 2
  394 1086 l 1
  294 1086 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni060C
+Encoding: 1548 1548 4381
+Width: 491
+Flags: W
+HStem: -59 38<185.704 308.637>
+VStem: 50 38<97.0428 287.202>
+LayerCount: 2
+Fore
+SplineSet
+337 130 m 1
+ 321 98 300 80 276 77 c 0
+ 227 70 199 89 191 135 c 0
+ 187 158 199 306 279 302 c 0
+ 305 301 328 295 351 258 c 0
+ 388 199 407 99 362 13 c 0
+ 332 -45 270 -59 227 -59 c 0
+ 112 -59 50 52 50 166 c 0
+ 50 213 59 259 74 304 c 0
+ 136 494 275 646 420 760 c 0
+ 430 768 440 769 441 763 c 0
+ 442 757 434 744 424 736 c 0
+ 291 632 169 499 111 323 c 0
+ 97 281 88 238 88 194 c 0
+ 88 86 151 -21 255 -21 c 0
+ 298 -21 325 -2 336 13 c 0
+ 360 46 359 100 337 130 c 1
 EndSplineSet
 EndChar
 EndChars
