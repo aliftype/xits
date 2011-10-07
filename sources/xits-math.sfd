@@ -102,8 +102,8 @@ MATH:LowerLimitGapMin: 150
 MATH:LowerLimitBaselineDropMin: 600 
 MATH:StackTopShiftUp: 480 
 MATH:StackTopDisplayStyleShiftUp: 580 
-MATH:StackBottomShiftDown: 480 
-MATH:StackBottomDisplayStyleShiftDown: 700 
+MATH:StackBottomShiftDown: 800 
+MATH:StackBottomDisplayStyleShiftDown: 900 
 MATH:StackGapMin: 198 
 MATH:StackDisplayStyleGapMin: 462 
 MATH:StretchStackTopShiftUp: 300 
