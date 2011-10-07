@@ -3,7 +3,7 @@ FontName: XITS-BoldItalic
 FullName: XITS Bold Italic
 FamilyName: XITS
 Weight: Bold
-Copyright: Copyright (c) 2001-2010 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
+Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
 Version: $version
 DefaultBaseFilename: xits-bolditalic
 ItalicAngle: -16.33
@@ -21,7 +21,6 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710455
-ModificationTime: 1309778741
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -59,10 +58,6 @@ LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Instit
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
-DisplaySize: -72
-AntiAlias: 1
-FitToEm: 1
-WinInfo: 1114016 16 7
 BeginPrivate: 7
 BlueValues 15 [-18 0 669 685]
 BlueScale 8 0.039625
@@ -72,7 +67,7 @@ StemSnapH 31 [22 29 33 37 42 47 52 56 63 69]
 StemSnapV 31 [25 43 48 53 56 63 71 74 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114124 848
+BeginChars: 1114124 849
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -17421,31 +17416,31 @@ StartChar: uni02B2
 Encoding: 690 690 476
 Width: 350
 Flags: MW
-HStem: 331 24<101.5 117 101.5 143.5> 913 104<317.5 345.5 317.5 345.5>
-VStem: 24 64<362 401> 280 104<951 979 950.5 979.5>
+HStem: 176 24<101.5 117 101.5 143.5> 758 104<317.5 345.5 317.5 345.5>
+VStem: 24 64<207 246> 280 104<796 824 795.5 824.5>
 LayerCount: 2
 Fore
 SplineSet
-384 965 m 0
- 384 936 360 913 331 913 c 0
- 303 913 280 936 280 966 c 0
- 280 993 304 1017 331 1017 c 0
- 360 1017 384 993 384 965 c 0
-353 845 m 1
- 264 504 l 2
- 232 381 182 331 105 331 c 0
- 56 331 24 356 24 390 c 0
- 24 412 41 431 62 431 c 0
- 84 431 99 416 99 393 c 0
- 99 377 88 377 88 366 c 0
- 88 358 97 355 106 355 c 0
- 128 355 143 382 163 459 c 2
- 232 728 l 2
- 238 751 241 770 241 780 c 0
- 241 796 232 803 209 803 c 2
- 193 803 l 1
- 193 824 l 1
- 279 831 307 835 353 845 c 1
+384 810 m 0
+ 384 781 360 758 331 758 c 0
+ 303 758 280 781 280 811 c 0
+ 280 838 304 862 331 862 c 0
+ 360 862 384 838 384 810 c 0
+353 690 m 1
+ 264 349 l 2
+ 232 226 182 176 105 176 c 0
+ 56 176 24 201 24 235 c 0
+ 24 257 41 276 62 276 c 0
+ 84 276 99 261 99 238 c 0
+ 99 222 88 222 88 211 c 0
+ 88 203 97 200 106 200 c 0
+ 128 200 143 227 163 304 c 2
+ 232 573 l 2
+ 238 596 241 615 241 625 c 0
+ 241 641 232 648 209 648 c 2
+ 193 648 l 1
+ 193 669 l 1
+ 279 676 307 680 353 690 c 1
 EndSplineSet
 EndChar
 
@@ -25455,15 +25450,15 @@ StartChar: uni203E
 Encoding: 8254 8254 700
 Width: 500
 Flags: MW
-HStem: 565 72<0 500 0 500>
+HStem: 766 72<0 500 0 500>
 LayerCount: 2
 Fore
 SplineSet
-500 565 m 1
- 0 565 l 1
- 0 637 l 1
- 500 637 l 1
- 500 565 l 1
+500 766 m 1
+ 0 766 l 1
+ 0 838 l 1
+ 500 838 l 1
+ 500 766 l 1
 EndSplineSet
 EndChar
 
@@ -30834,6 +30829,29 @@ SplineSet
  210 111 243 75 289 75 c 0
  337 75 352 95 372 139 c 0
  400 199 414 269 414 335 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni02F7
+Encoding: 759 759 848
+Width: 333
+Flags: W
+HStem: -227 77<187 198> -183 75<13.5 19.5>
+LayerCount: 2
+Fore
+SplineSet
+244 -108 m 1x40
+ 285 -108 l 1x40
+ 263 -192 228 -227 168 -227 c 0x80
+ 149 -227 138 -225 111 -214 c 2
+ 52 -191 l 2
+ 39 -186 25 -183 14 -183 c 0
+ -8 -183 -21 -194 -34 -226 c 1
+ -74 -226 l 1
+ -61 -154 -15 -108 42 -108 c 0x40
+ 67 -108 98 -116 139 -134 c 0
+ 166 -145 181 -150 193 -150 c 0x80
+ 216 -150 229 -140 244 -108 c 1x40
 EndSplineSet
 EndChar
 EndChars

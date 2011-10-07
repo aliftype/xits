@@ -3,7 +3,7 @@ FontName: XITS-Italic
 FullName: XITS Italic
 FamilyName: XITS
 Weight: Italic
-Copyright: Copyright (c) 2001-2010 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
+Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
 Version: $version
 DefaultBaseFilename: xits-italic
 ItalicAngle: -16.33
@@ -21,7 +21,6 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710416
-ModificationTime: 1309778707
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,10 +58,6 @@ LangName: 1033 "" "" "" "" "" "" "" "STIX Fonts(TM) is a trademark of The Instit
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
-DisplaySize: -72
-AntiAlias: 1
-FitToEm: 1
-WinInfo: 9392 16 7
 BeginPrivate: 6
 BlueValues 15 [-18 0 653 667]
 BlueScale 8 0.039625
@@ -71,7 +66,7 @@ StdVW 4 [42]
 StemSnapH 31 [23 28 31 34 38 43 48 53 60 64]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114124 868
+BeginChars: 1114124 869
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -25909,15 +25904,15 @@ StartChar: uni203E
 Encoding: 8254 8254 700
 Width: 500
 Flags: MW
-HStem: 532 50<0 500 0 500>
+HStem: 770 50<0 500 0 500>
 LayerCount: 2
 Fore
 SplineSet
-500 532 m 1
- 0 532 l 1
- 0 582 l 1
- 500 582 l 1
- 500 532 l 1
+500 770 m 1
+ 0 770 l 1
+ 0 820 l 1
+ 500 820 l 1
+ 500 770 l 1
 EndSplineSet
 EndChar
 
@@ -26465,18 +26460,18 @@ StartChar: uni20EC
 Encoding: 8428 8428 720
 Width: 0
 Flags: MW
-HStem: 627 54<-453 -172 -453 -17>
+HStem: -173 54<27 308 27 463>
 LayerCount: 2
 Fore
 SplineSet
--17 681 m 1
- -149 548 l 1
- -167 556 l 1
- -135 583 -131 601 -131 608 c 0
- -131 620 -139 627 -172 627 c 2
- -453 627 l 1
- -453 681 l 1
- -17 681 l 1
+463 -119 m 1
+ 331 -252 l 1
+ 313 -244 l 1
+ 345 -217 349 -199 349 -192 c 0
+ 349 -180 341 -173 308 -173 c 2
+ 27 -173 l 1
+ 27 -119 l 1
+ 463 -119 l 1
 EndSplineSet
 EndChar
 
@@ -26484,18 +26479,18 @@ StartChar: uni20ED
 Encoding: 8429 8429 721
 Width: 0
 Flags: MW
-HStem: 627 54<-314.5 -298 -298 -17>
+HStem: -173 54<165.5 182 182 463>
 LayerCount: 2
 Fore
 SplineSet
--453 681 m 1
- -17 681 l 1
- -17 627 l 1
- -298 627 l 2
- -331 627 -339 620 -339 608 c 0
- -339 601 -335 583 -303 556 c 1
- -321 548 l 1
- -453 681 l 1
+27 -119 m 1
+ 463 -119 l 1
+ 463 -173 l 1
+ 182 -173 l 2
+ 149 -173 141 -180 141 -192 c 0
+ 141 -199 145 -217 177 -244 c 1
+ 159 -252 l 1
+ 27 -119 l 1
 EndSplineSet
 EndChar
 
@@ -31798,6 +31793,29 @@ SplineSet
  315 78 345 92 372 121 c 1
  403 178 427 260 427 324 c 0
  427 384 394 432 338 432 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni02F7
+Encoding: 759 759 868
+Width: 333
+GlyphClass: 2
+Flags: MW
+HStem: -217 60<146.5 162> -173 59<-20 -5.5>
+LayerCount: 2
+Fore
+SplineSet
+205 -113 m 1x80
+ 233 -113 l 1
+ 219 -180 186 -217 138 -217 c 0x80
+ 125 -217 107 -212 81 -202 c 0
+ 27 -180 3 -173 -14 -173 c 0
+ -39 -173 -55 -188 -65 -220 c 1
+ -94 -220 l 1
+ -74 -143 -46 -114 6 -114 c 0x40
+ 29 -114 54 -121 92 -138 c 0
+ 122 -152 139 -157 154 -157 c 0
+ 181 -157 194 -146 205 -113 c 1x80
 EndSplineSet
 EndChar
 EndChars
