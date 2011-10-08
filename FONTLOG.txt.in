@@ -41,6 +41,14 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+08 Oct 2011 (Khaled Hosny) <XITS> Version 1.101
+- Support for numr and dnom features in XITS Regular
+- Add Arabic comma to XITS Math
+- Sync with STIXv1.1.0-beta1:
+  - New values for StackBottomShiftDown and StackBottomDisplayStyleShiftDown
+  - Sync PS private table in XITS Math
+  - Sync relevant glyph changes
+
 18 Sep 2011 (Khaled Hosny) <XITS> Version 1.012
 - Fix bug in \scriptscriptstyle primes with XeTeX
 
