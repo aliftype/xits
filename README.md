@@ -12,7 +12,7 @@ XeTeX and LuaTeX.
 XITS font is free, open source font, under [Open Font License][2],
 version 1.1.
 
-The current version of XITS is based on version 1.0.0 of STIX fonts.
+The current version of XITS is based on version 1.1.0-beta1 of STIX fonts.
 
 This is work in progress, feedback, bug reports and even patches are
 welcomed.
@@ -24,5 +24,5 @@ Khaled Hosny
 
 khaledhosny@eglug.org
 
-04 Jun 2010
+08 Oct 2011
 
