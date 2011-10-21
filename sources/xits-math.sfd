@@ -31,7 +31,7 @@ OS2TypoAscent: 750
 OS2TypoAOffset: 0
 OS2TypoDescent: -250
 OS2TypoDOffset: 0
-OS2TypoLinegap: 510
+OS2TypoLinegap: 0
 OS2WinAscent: 32
 OS2WinAOffset: 1
 OS2WinDescent: 12
