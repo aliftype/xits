@@ -26,7 +26,7 @@ all: otf
 
 otf: $(OTF)
 
-%.otf: $(SRC)/%.sfd
+%.otf: $(SRC)/%.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 	@$(POSTPROCESS) $@
