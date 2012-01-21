@@ -19186,7 +19186,7 @@ EndChar
 
 StartChar: uni0347
 Encoding: 839 839 573
-Width: 1
+Width: 0
 GlyphClass: 2
 Flags: MW
 HStem: -292 54<11 323 11 323> -194 54<11 323 11 323>
