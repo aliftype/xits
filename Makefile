@@ -7,6 +7,7 @@ DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
 FF=fontforge -lang=ff
+POSTPROCESS=./postprocess.py
 FFLAGES=0x200000
 SCRIPT='Open($$1); MergeFeature("$(SRC)/$(FEA)");\
        SetFontNames("","","","","","$(VERSION)");\
@@ -28,6 +29,8 @@ otf: $(OTF)
 %.otf: $(SRC)/%.sfd
 	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(POSTPROCESS) $@
+	@mv $@.post $@
 
 doc: $(PDF)
 
@@ -49,7 +52,7 @@ dist: $(OTF) $(PDF) FONTLOG.txt
 	@cp $(OTF) $(DIST)
 	@cp -r $(PDF) $(DIST)/$(DOC)
 	@cp -r $(TEX) $(DIST)/$(DOCSRC)
-	@cp -r Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
+	@cp -r $(POSTPROCESS) Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
