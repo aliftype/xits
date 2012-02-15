@@ -146670,7 +146670,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2032.ssty1
-Encoding: 1115046 -1 4372
+Encoding: 1114456 -1 4372
 Width: 413
 VWidth: 854
 Flags: W
@@ -146681,7 +146681,7 @@ Refer: 3654 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2033.ssty1
-Encoding: 1115047 -1 4373
+Encoding: 1114457 -1 4373
 Width: 640
 VWidth: 854
 Flags: W
@@ -146692,19 +146692,18 @@ Refer: 3655 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2034.ssty1
-Encoding: 1115048 -1 4374
+Encoding: 1114458 -1 4374
 Width: 868
 VWidth: 854
 Flags: W
 VStem: 100 28.05<36.8364 53.2955> 326.95 28.05<36.8364 53.2955> 553.9 28.05<36.8364 53.2955>
-CounterMasks: 1 e0
 LayerCount: 2
 Fore
 Refer: 3656 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2035.ssty1
-Encoding: 1115049 -1 4375
+Encoding: 1114459 -1 4375
 Width: 413
 VWidth: 854
 Flags: W
@@ -146715,7 +146714,7 @@ Refer: 3657 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2036.ssty1
-Encoding: 1115050 -1 4376
+Encoding: 1114460 -1 4376
 Width: 639
 VWidth: 854
 Flags: W
@@ -146726,7 +146725,7 @@ Refer: 3658 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2037.ssty1
-Encoding: 1115051 -1 4377
+Encoding: 1114461 -1 4377
 Width: 868
 VWidth: 854
 Flags: W
@@ -146737,7 +146736,7 @@ Refer: 3659 -1 N 0.85 0 0 0.85 -6.25 5 2
 EndChar
 
 StartChar: uni2057.ssty1
-Encoding: 1115052 -1 4378
+Encoding: 1114462 -1 4378
 Width: 1095
 VWidth: 854
 Flags: W
