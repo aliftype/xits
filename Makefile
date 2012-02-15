@@ -9,9 +9,12 @@ DIST=$(NAME)-$(VERSION)
 FF=fontforge -lang=ff
 POSTPROCESS=./postprocess.py
 FFLAGES=0x200000
-SCRIPT='Open($$1); MergeFeature("$(SRC)/$(FEA)");\
+SCRIPT='Open($$1);\
+       if ($$argc>3)\
+         MergeFeature($$2);\
+       endif;\
        SetFontNames("","","","","","$(VERSION)");\
-       Generate($$2, "", $(FFLAGES))'
+       Generate($$argv[$$argc-1], "", $(FFLAGES))'
 
 FONTS=math regular bold italic bolditalic
 DOCS=user-guide xits-specimen
@@ -26,9 +29,15 @@ all: otf
 
 otf: $(OTF)
 
-%.otf: $(SRC)/%.sfd Makefile $(POSTPROCESS)
+xits-math.otf: $(SRC)/xits-math.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(POSTPROCESS) $@
+	@mv $@.post $@
+
+%.otf: $(SRC)/%.sfd Makefile $(POSTPROCESS)
+	@echo "Building $@"
+	@$(FF) -c $(SCRIPT) $< $(SRC)/$(FEA) $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
