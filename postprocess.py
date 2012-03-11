@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 import sys
-import warnings
 from fontTools import ttLib
-
-# suppress noisy DeprecationWarnings in fontTools
-warnings.filterwarnings("ignore",category=DeprecationWarning)
 
 font = ttLib.TTFont(sys.argv[1])
 
