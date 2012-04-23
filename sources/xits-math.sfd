@@ -117713,7 +117713,6 @@ Encoding: 11004 11004 3434
 Width: 690
 Flags: W
 GlyphVariantsVertical: uni2AFC uni2AFC.size2
-GlyphCompositionVertical: 2  uni2AFC.size2%0,625,625,1875 uni2AFC.size2%1,625,625,1875
 VStem: 133 66<-363 867> 312 66<-363 867> 491 66<-363 867>
 CounterMasks: 1 e0
 LayerCount: 2
