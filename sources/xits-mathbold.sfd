@@ -3005,19 +3005,19 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 92
-Width: 220
+Width: 340
 GlyphClass: 2
-Flags: MW
-HStem: -19 20 671 20<66 154 154 154>
-VStem: 66 88<-19 691>
+Flags: W
+HStem: 671 20G<126 214>
+VStem: 126 88<-189 691>
 LayerCount: 2
 Fore
 SplineSet
-154 -19 m 1
- 66 -19 l 1
- 66 691 l 1
- 154 691 l 1
- 154 -19 l 1
+214 -189 m 1
+ 126 -189 l 1
+ 126 691 l 1
+ 214 691 l 1
+ 214 -189 l 1
 EndSplineSet
 EndChar
 
