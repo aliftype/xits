@@ -57,6 +57,63 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizont
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "http://www.stixfonts.org" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html" 
+MATH:ScriptPercentScaleDown: 75
+MATH:ScriptScriptPercentScaleDown: 60
+MATH:DelimitedSubFormulaMinHeight: 1500
+MATH:DisplayOperatorMinHeight: 1450
+MATH:MathLeading: 150 
+MATH:AxisHeight: 250 
+MATH:AccentBaseHeight: 450 
+MATH:FlattenedAccentBaseHeight: 662 
+MATH:SubscriptShiftDown: 250 
+MATH:SubscriptTopMax: 400 
+MATH:SubscriptBaselineDropMin: 50 
+MATH:SuperscriptShiftUp: 400 
+MATH:SuperscriptShiftUpCramped: 275 
+MATH:SuperscriptBottomMin: 125 
+MATH:SuperscriptBaselineDropMax: 375 
+MATH:SubSuperscriptGapMin: 264 
+MATH:SuperscriptBottomMaxWithSubscript: 400 
+MATH:SpaceAfterScript: 41 
+MATH:UpperLimitGapMin: 150 
+MATH:UpperLimitBaselineRiseMin: 300 
+MATH:LowerLimitGapMin: 150 
+MATH:LowerLimitBaselineDropMin: 600 
+MATH:StackTopShiftUp: 480 
+MATH:StackTopDisplayStyleShiftUp: 580 
+MATH:StackBottomShiftDown: 800 
+MATH:StackBottomDisplayStyleShiftDown: 900 
+MATH:StackGapMin: 198 
+MATH:StackDisplayStyleGapMin: 462 
+MATH:StretchStackTopShiftUp: 300 
+MATH:StretchStackBottomShiftDown: 600 
+MATH:StretchStackGapAboveMin: 150 
+MATH:StretchStackGapBelowMin: 150 
+MATH:FractionNumeratorShiftUp: 480 
+MATH:FractionNumeratorDisplayStyleShiftUp: 580 
+MATH:FractionDenominatorShiftDown: 480 
+MATH:FractionDenominatorDisplayStyleShiftDown: 700 
+MATH:FractionNumeratorGapMin: 66 
+MATH:FractionNumeratorDisplayStyleGapMin: 198 
+MATH:FractionRuleThickness: 66 
+MATH:FractionDenominatorGapMin: 66 
+MATH:FractionDenominatorDisplayStyleGapMin: 198 
+MATH:SkewedFractionHorizontalGap: 300 
+MATH:SkewedFractionVerticalGap: 66 
+MATH:OverbarVerticalGap: 198 
+MATH:OverbarRuleThickness: 66 
+MATH:OverbarExtraAscender: 66 
+MATH:UnderbarVerticalGap: 198 
+MATH:UnderbarRuleThickness: 66 
+MATH:UnderbarExtraDescender: 66 
+MATH:RadicalVerticalGap: 82 
+MATH:RadicalDisplayStyleVerticalGap: 186 
+MATH:RadicalRuleThickness: 66 
+MATH:RadicalExtraAscender: 66 
+MATH:RadicalKernBeforeDegree: 277 
+MATH:RadicalKernAfterDegree: -555 
+MATH:RadicalDegreeBottomRaisePercent: 70
+MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -343,6 +400,7 @@ Encoding: 40 40 9
 Width: 333
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: parenleft parenleft.size1 parenleft.size2 parenleft.size3 parenleft.size4
 HStem: 674 20<306 306>
 LayerCount: 2
 Fore
@@ -364,6 +422,7 @@ Encoding: 41 41 10
 Width: 333
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: parenright parenright.size1 parenright.size2 parenright.size3 parenright.size4
 HStem: 674 20<27 27>
 LayerCount: 2
 Fore
@@ -522,6 +581,7 @@ Encoding: 47 47 16
 Width: 278
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: slash slash.size1 slash.size2 slash.size3 slash.size4
 HStem: -19 20 671 20<212 302 302 302>
 LayerCount: 2
 Fore
@@ -1900,6 +1960,7 @@ Encoding: 91 91 60
 Width: 333
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: bracketleft bracketleft.size1 bracketleft.size2 bracketleft.size3 bracketleft.size4
 HStem: -149 33<221 301 221 301> 645 33<210 238 238 301>
 LayerCount: 2
 Fore
@@ -1923,6 +1984,7 @@ Encoding: 92 92 61
 Width: 278
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: backslash backslash.size1 backslash.size2 backslash.size3 backslash.size4
 HStem: -19 20 671 20<-25 68 68 68>
 LayerCount: 2
 Fore
@@ -1940,6 +2002,7 @@ Encoding: 93 93 62
 Width: 333
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: bracketright bracketright.size1 bracketright.size2 bracketright.size3 bracketright.size4
 HStem: -149 33<32 112 112 133 32 266 32 112> 645 33<32 95 32 266>
 LayerCount: 2
 Fore
@@ -2924,6 +2987,7 @@ Encoding: 123 123 92
 Width: 394
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: braceleft braceleft.size1 braceleft.size2 braceleft.size3 braceleft.size4
 LayerCount: 2
 Fore
 SplineSet
@@ -2970,6 +3034,7 @@ Encoding: 125 125 94
 Width: 394
 GlyphClass: 2
 Flags: W
+GlyphVariantsVertical: braceright braceright.size1 braceright.size2 braceright.size3 braceright.size4
 LayerCount: 2
 Fore
 SplineSet
@@ -30062,6 +30127,7 @@ Encoding: 8512 8512 883
 Width: 976
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2140 uni2140.display
 HStem: -269 95<157 318 428 952 50 50> 678 95<148 302 148 148 422 836 422 422>
 LayerCount: 2
 Fore
@@ -34009,6 +34075,7 @@ Encoding: 8719 8719 993
 Width: 1000
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni220F uni220F.display
 HStem: -259 38<37 74 74 100 389 441 37 74 559 610 610 634.5 925 963> 691 72<322 677 322 322>
 LayerCount: 2
 Fore
@@ -34047,6 +34114,7 @@ Encoding: 8720 8720 994
 Width: 982
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2210 uni2210.display
 HStem: -259 72<314 669 314 954>
 LayerCount: 2
 Fore
@@ -34086,6 +34154,7 @@ Encoding: 8721 8721 995
 Width: 914
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2211 uni2211.display
 HStem: 691 72<313 557 313 313>
 LayerCount: 2
 Fore
@@ -34694,6 +34763,7 @@ Encoding: 8747 8747 1019
 Width: 553
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni222B uni222B.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
 Fore
@@ -34725,6 +34795,7 @@ Encoding: 8748 8748 1020
 Width: 863
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni222C uni222C.display
 HStem: -320 42<144.5 152 454.5 462> 782 42<613 620.5 923 930.5>
 LayerCount: 2
 Fore
@@ -34775,6 +34846,7 @@ Encoding: 8749 8749 1021
 Width: 1174
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni222D uni222D.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773> 782 42<613 620.5 923 930.5 1234 1241.5>
 LayerCount: 2
 Fore
@@ -34844,6 +34916,7 @@ Encoding: 8750 8750 1022
 Width: 591
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni222E uni222E.display
 HStem: -320 42<142.5 150> 0 20<380 381 380 380> 782 42<611 618.5>
 VStem: 146 52<222.5 303.5 222.5 320> 564 52<206.5 288>
 LayerCount: 2
@@ -34891,6 +34964,7 @@ Encoding: 8751 8751 1023
 Width: 903
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni222F uni222F.display
 HStem: -320 42<144.5 152 454.5 462> 32 52<512 545> 428 52<531 564.5> 782 42<613 620.5 923 930.5>
 VStem: 135 52<229 291 229 305> 889 52<221.5 283>
 LayerCount: 2
@@ -34971,6 +35045,7 @@ Encoding: 8752 8752 1024
 Width: 1214
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2230 uni2230.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773> 782 42<613 620.5 923 930.5 1234 1241.5>
 VStem: 135 52<232 286 232 299> 1199 52<226 280>
 LayerCount: 2
@@ -35073,6 +35148,7 @@ Encoding: 8753 8753 1025
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2231 uni2231.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
 Fore
@@ -35122,6 +35198,7 @@ Encoding: 8754 8754 1026
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2232 uni2232.display
 HStem: -320 42<144 170.5 144 181.5> 0 20<382 449> 782 42<594.5 621>
 VStem: 148 52<223.5 303 223.5 320>
 LayerCount: 2
@@ -35174,6 +35251,7 @@ Encoding: 8755 8755 1027
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2233 uni2233.display
 HStem: -320 42<144 170 144 181.5> 0 20<382 449> 782 42<595 621>
 VStem: 148 52<223.5 303 223.5 320> 566 52<208.5 262>
 LayerCount: 2
@@ -45766,6 +45844,7 @@ Encoding: 10764 10764 1357
 Width: 1484
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A0C uni2A0C.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773 1075.5 1083> 782 42<613 620.5 923 930.5 1234 1241.5 1544 1551.5>
 LayerCount: 2
 Fore
@@ -45854,6 +45933,7 @@ Encoding: 10765 10765 1358
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A0D uni2A0D.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 212 80<137 314 137 334 451 631> 782 42<615.5 621>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -45893,6 +45973,7 @@ Encoding: 10766 10766 1359
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A0E uni2A0E.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 109 80<137 288 137 308 425 631> 314 80<137 340 137 360 476 631> 782 42<594.5 621>
 LayerCount: 2
 Fore
@@ -45938,6 +46019,7 @@ Encoding: 10767 10767 1360
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A0F uni2A0F.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 782 42<615.5 621>
 LayerCount: 2
 Fore
@@ -45976,6 +46058,7 @@ Encoding: 10768 10768 1361
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A10 uni2A10.display
 HStem: -320 42<144.5 152> 0 20<382 383 382 382> 782 42<613 620.5>
 VStem: 148 52<222.5 303.5 222.5 320>
 LayerCount: 2
@@ -46025,6 +46108,7 @@ Encoding: 10769 10769 1362
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A11 uni2A11.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
 Fore
@@ -46076,6 +46160,7 @@ Encoding: 10770 10770 1363
 Width: 613
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A12 uni2A12.display
 HStem: -320 42<144.5 152> 17 52<382 385 382 382 385 587 278 639> 163 180<358.5 407.5 358.5 408> 435 52<369 500 499 500 500 587> 782 42<613 620.5>
 VStem: 293 180<228 277.5 228 277.5> 587 52<69 435 435 435>
 LayerCount: 2
@@ -46124,6 +46209,7 @@ Encoding: 10771 10771 1364
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A13 uni2A13.display
 HStem: -320 42<144.5 152> 0 20<382 383 382 382> 163 180<361 406 361 410> 782 42<613 620.5>
 VStem: 293 180<230 279.5 230 280> 566 52<204.5 300 190 305.5>
 LayerCount: 2
@@ -46170,6 +46256,7 @@ Encoding: 10772 10772 1365
 Width: 675
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A14 uni2A14.display
 HStem: -320 42<144.5 152> 20 52<480 550.5 453.5 565> 163 180<478 523 478 527> 782 42<613 620.5>
 VStem: 410 180<230 279.5 230 280> 683 52<204.5 305.5>
 LayerCount: 2
@@ -46216,6 +46303,7 @@ Encoding: 10773 10773 1366
 Width: 593
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A15 uni2A15.display
 HStem: -320 42<144 170.5 144 181.5> 0 20<382 447> 163 180<358.5 407.5 358.5 408> 782 42<594.5 621>
 VStem: 148 52<211.5 305.5 204.5 320> 293 180<228 277.5 228 277.5> 566 52<204.5 298.5 190 305.5>
 CounterMasks: 1 0e
@@ -46263,6 +46351,7 @@ Encoding: 10774 10774 1367
 Width: 623
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A16 uni2A16.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 17 52<178 265 395 587> 435 52<178 370 178 178 499 587> 782 42<594.5 621>
 VStem: 126 52<69 435 69 487> 587 52<69 435 435 435>
 LayerCount: 2
@@ -46311,6 +46400,7 @@ Encoding: 10775 10775 1368
 Width: 791
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A17 uni2A17.display
 HStem: -320 42<225.5 252.5 225.5 263.5> 39 81<666 744 744 747 666 744> 231 81<214 215 215 400 537 731> 782 42<697.5 703>
 LayerCount: 2
 Fore
@@ -46367,6 +46457,7 @@ Encoding: 10776 10776 1369
 Width: 633
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A18 uni2A18.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
 Fore
@@ -46412,6 +46503,7 @@ Encoding: 10777 10777 1370
 Width: 653
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A19 uni2A19.display
 HStem: -320 42<143.5 170 143.5 181.5> 782 42<594.5 621>
 VStem: 83 80<-11 221 -11 303> 590 80<-11 221 -11 260>
 LayerCount: 2
@@ -46455,6 +46547,7 @@ Encoding: 10778 10778 1371
 Width: 653
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A1A uni2A1A.display
 HStem: -320 42<143.5 170 143.5 181.5> 782 42<615.5 621>
 VStem: 91 80<282 514> 598 80<282 514>
 LayerCount: 2
@@ -46499,6 +46592,7 @@ Encoding: 10779 10779 1372
 Width: 557
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A1B uni2A1B.display
 HStem: -320 42<144.5 152> 782 42<613 620.5> 879 80<231 737 231 737>
 LayerCount: 2
 Fore
@@ -46535,6 +46629,7 @@ Encoding: 10780 10780 1373
 Width: 557
 GlyphClass: 2
 Flags: MW
+GlyphVariantsVertical: uni2A1C uni2A1C.display
 HStem: -455 80<32 538 32 538> -320 42<148.5 156> 782 42<617 624.5>
 LayerCount: 2
 Fore
@@ -62108,7 +62203,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.size1
+StartChar: backslash.size1
 Encoding: 1114172 -1 1816
 Width: 579
 GlyphClass: 2
@@ -62558,7 +62653,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.size2
+StartChar: backslash.size2
 Encoding: 1114191 -1 1835
 Width: 802
 GlyphClass: 2
@@ -62872,7 +62967,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.size3
+StartChar: backslash.size3
 Encoding: 1114206 -1 1850
 Width: 1102
 GlyphClass: 2
@@ -63188,7 +63283,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni005C.size4
+StartChar: backslash.size4
 Encoding: 1114221 -1 1865
 Width: 1321
 GlyphClass: 2
@@ -63430,6 +63525,7 @@ StartChar: uni2A0B
 Encoding: 10763 10763 1876
 Width: 553
 Flags: W
+GlyphVariantsVertical: uni2A0B uni2A0B.display
 HStem: -320 42<144.5 152> -64.72 18.8 527.48 43.24<272.375 463.475 272.375 272.375> 782 42<613 620.5>
 LayerCount: 2
 Fore
