@@ -49465,6 +49465,7 @@ Encoding: 119839 119839 1450
 Width: 333
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 TopAccentHorizontal: 246
 HStem: 0 20 417 44<14 71 14 71 210 296> 660 31<242 269>
 LayerCount: 2
@@ -49891,6 +49892,7 @@ Encoding: 119851 119851 1462
 Width: 444
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 TopAccentHorizontal: 231
 HStem: 0 20 441 20<28 218 218 218> 453 20<328 376.5>
 LayerCount: 2
@@ -49959,6 +49961,7 @@ Encoding: 119853 119853 1464
 Width: 333
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 TopAccentHorizontal: 176
 HStem: -12 71<149.5 260.5> 417 44<211 306 211 306>
 LayerCount: 2
@@ -50097,6 +50100,7 @@ Encoding: 119857 119857 1468
 Width: 500
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 262
 HStem: 0 20 441 20<12 262 262 262 309 477 477 477>
 LayerCount: 2
@@ -50145,6 +50149,7 @@ Encoding: 119858 119858 1469
 Width: 500
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 265
 HStem: -205 57<84.5 164> 441 20<16 265 265 265 330 482 482 482>
 LayerCount: 2
@@ -50187,6 +50192,7 @@ Encoding: 119859 119859 1470
 Width: 444
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 220
 HStem: 0 20 441 20<45 416 416 416>
 LayerCount: 2
@@ -50360,6 +50366,7 @@ Encoding: 120125 120125 1475
 Width: 474
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 70<145 225 145 295> 304 70<295 555 295 555> 606 70<145 225 145 145 295 595 295 295>
 VStem: 75 70<70 606 70 676> 225 70<70 304 374 606>
 LayerCount: 2
@@ -50649,6 +50656,7 @@ Encoding: 120139 120139 1484
 Width: 556
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 70<295 375 295 445> 606 70<25 225 25 645 295 295 295 375 445 645 445 445>
 VStem: 225 70<70 606 70 606 70 606> 375 70<70 606 0 606>
 LayerCount: 2
@@ -50705,6 +50713,7 @@ Encoding: 120141 120141 1486
 Width: 627
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 130
 HStem: 0 70<297 381 297 474 247 381> 606 70<114 199 114 114>
 LayerCount: 2
 Fore
@@ -50731,6 +50740,7 @@ Encoding: 120142 120142 1487
 Width: 996
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: 0 70<225 306 225 409 170 306 677 756> 606 70<104 185 104 104 555 636 555 555>
 LayerCount: 2
 Fore
@@ -50800,6 +50810,7 @@ Encoding: 120144 120144 1489
 Width: 652
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 150
 HStem: 0 70<353 433 353 503> 606 70<150 243 150 150>
 VStem: 283 70<70 269 269 269> 433 70<70 262 0 310 0 310>
 LayerCount: 2
@@ -51022,6 +51033,7 @@ Encoding: 120151 120151 1495
 Width: 474
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 105
 HStem: 0 70<199 259 199 329> 381 70<25 129 25 129 329 455> 606 70<365 391 299 399>
 VStem: 129 70<70 381 381 381 451 478 70 479 70 545.5> 259 70<70 381 451 592 592 592>
 LayerCount: 2
@@ -51466,6 +51478,7 @@ Encoding: 120163 120163 1507
 Width: 339
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 145
 HStem: 0 70<130 190 130 260> 391 70<130 190 130 130> 453 20<377 411.5>
 VStem: 60 70<70 391 70 461> 190 70<70 224 0 391>
 LayerCount: 2
@@ -51605,6 +51618,7 @@ Encoding: 120167 120167 1511
 Width: 494
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: 0 70<217 226 169 280 226 280 217 320 217 384> 391 70<104 167 104 104>
 LayerCount: 2
 Fore
@@ -51633,6 +51647,7 @@ Encoding: 120168 120168 1512
 Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: 0 70<179 236 179 351 122 236 515 572> 391 70<109 166 109 109 446 502 446 446>
 LayerCount: 2
 Fore
@@ -51702,6 +51717,7 @@ Encoding: 120170 120170 1514
 Width: 471
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -205 70<143.5 199.5 143.5 204.5> 391 70<113 181 113 113>
 LayerCount: 2
 Fore
@@ -54801,6 +54817,7 @@ AltUni2: 01d5bf.ffffffff.0
 Width: 340
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 TopAccentHorizontal: 242
 HStem: 0 20 366 95<14 72 14 72 192 282> 596 95<230 265.5>
 LayerCount: 2
@@ -64617,6 +64634,7 @@ AltUni2: 01d435.ffffffff.0
 Width: 726
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 486
 HStem: 0 23<46 86 86 116 42 86> 646 23<197 231 194 462>
 LayerCount: 2
@@ -64660,6 +64678,7 @@ AltUni2: 01d436.ffffffff.0
 Width: 701
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 84
 TopAccentHorizontal: 494
 HStem: -12 57<325.5 377> 638 47<432.5 524.5 432.5 567>
 LayerCount: 2
@@ -64691,6 +64710,7 @@ AltUni2: 01d437.ffffffff.0
 Width: 818
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 68
 TopAccentHorizontal: 478
 HStem: 0 23<46 83 83 112.5 42 83> 624 45<440 440 440 486 486 495> 646 23<197 230 193 486>
 LayerCount: 2
@@ -64726,6 +64746,7 @@ AltUni2: 01d438.ffffffff.0
 Width: 732
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 62
 TopAccentHorizontal: 492
 HStem: 0 23<46 82 82 111.5 42 82> 0 45<354 419 419 492> 340 45<383 438 438 441 372 438> 624 45<438 573 438 438>
 LayerCount: 2
@@ -64772,6 +64793,7 @@ AltUni2: 01d439.ffffffff.0
 Width: 635
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 155
 TopAccentHorizontal: 491
 HStem: 0 23<48 84 84 115 372 421 44 84> 331 45<385 444 444 449 374 444> 624 45<441 565 441 441>
 LayerCount: 2
@@ -64816,6 +64838,7 @@ AltUni2: 01d43a.ffffffff.0
 Width: 768
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 510
 HStem: -12 45<305.5 386.5 305.5 388.5> 640 45<442.5 552.5 442.5 564.5>
 LayerCount: 2
@@ -64855,6 +64878,7 @@ AltUni2: 01d43b.ffffffff.0
 Width: 891
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 564
 HStem: 0 23<46 82 82 112.5 371 391 42 82 449 472 472 502.5 758 794> 335 48<384 616 374 626> 646 23<195 229 189 543 483.5 515 515 540 582 616 873.5 904 904 941>
 LayerCount: 2
@@ -64911,6 +64935,7 @@ AltUni2: 01d43c.ffffffff.0
 Width: 502
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 358
 HStem: 0 23<46 84 84 114.5 371 404 42 84> 646 23<195 228 191 557 484.5 515 515 553>
 LayerCount: 2
@@ -64944,6 +64969,7 @@ AltUni2: 01d43d.ffffffff.0
 Width: 558
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 128
 TopAccentHorizontal: 454
 HStem: -12 44<222 223> 646 23<284 319 281 646 576.5 606 606 643>
 LayerCount: 2
@@ -64977,6 +65003,7 @@ AltUni2: 01d43e.ffffffff.0
 Width: 795
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 84
 TopAccentHorizontal: 554
 HStem: 0 20 649 20<187 534 534 534 589 839 839 839>
 LayerCount: 2
@@ -65065,6 +65092,7 @@ AltUni2: 01d440.ffffffff.0
 Width: 1016
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 630
 HStem: 0 23<46 82 82 113 307 342 42 82 563 598 598 629.5 886 921> 646 23<192 227 188 438 1001 1034 1034 1068>
 LayerCount: 2
@@ -65115,6 +65143,7 @@ AltUni2: 01d441.ffffffff.0
 Width: 869
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 537
 HStem: 0 23<46 82 82 112.5 308 343 42 82> 646 23<178 213 175 410 624 657 852.5 883 883 921>
 LayerCount: 2
@@ -65158,6 +65187,7 @@ AltUni2: 01d442.ffffffff.0
 Width: 777
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 493
 HStem: -16 47<291 420 291 443> 638 47<380 518.5>
 LayerCount: 2
@@ -65182,6 +65212,7 @@ AltUni2: 01d443.ffffffff.0
 Width: 612
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 161
 TopAccentHorizontal: 460
 HStem: 0 23<46 86 86 117 374 422 42 86> 300 45<424 465.5 414 543.5> 646 23<198 229 192 482>
 LayerCount: 2
@@ -65256,6 +65287,7 @@ AltUni2: 01d445.ffffffff.0
 Width: 801
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 25
 TopAccentHorizontal: 455
 HStem: 0 23<46 82 82 114.5 367 402 42 82 745.5 780> 646 23<192 225 188 476>
 LayerCount: 2
@@ -65301,6 +65333,7 @@ AltUni2: 01d446.ffffffff.0
 Width: 671
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 73
 TopAccentHorizontal: 474
 HStem: -10 49<310.5 365 259.5 424.5> 638 47<443 498 370.5 509>
 LayerCount: 2
@@ -65339,6 +65372,7 @@ AltUni2: 01d447.ffffffff.0
 Width: 568
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 172
 TopAccentHorizontal: 382
 HStem: 0 23<55 95 95 126 380 419 51 95> 624 45<179 229 229 304 450 528 450 450>
 LayerCount: 2
@@ -65374,6 +65408,7 @@ AltUni2: 01d448.ffffffff.0
 Width: 733
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 117
 TopAccentHorizontal: 473
 HStem: -10 56<309 398 309 399> 646 23<76 109 72 439 363.5 396 396 435 511 544 737.5 768 768 806>
 LayerCount: 2
@@ -65416,6 +65451,7 @@ AltUni2: 01d449.ffffffff.0
 Width: 593
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 244
 TopAccentHorizontal: 462
 HStem: -15 20 646 23<69 91 66 395 334 355 355 391 521 555 758.5 793>
 LayerCount: 2
@@ -65452,6 +65488,7 @@ AltUni2: 01d44a.ffffffff.0
 Width: 925
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 244
 TopAccentHorizontal: 562
 HStem: -17 20 646 23<69 86 66 383 339 357 357 379 410 430 664.5 687 687 724 849 883 1090 1126>
 LayerCount: 2
@@ -65499,6 +65536,7 @@ AltUni2: 01d44b.ffffffff.0
 Width: 808
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 62
 TopAccentHorizontal: 529
 HStem: 0 23<32 32 275 313 28 32 389 417 417 433.5 670 702> 646 23<176 199 172 494 439.5 451 451 490 570 597 771.5 803 803 827>
 LayerCount: 2
@@ -65553,6 +65591,7 @@ AltUni2: 01d44c.ffffffff.0
 Width: 549
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 216
 TopAccentHorizontal: 410
 HStem: 0 23<76 113 113 144.5 399 434 72 113> 646 23<42 79.5 317.5 334 334 369 455 479 693 722>
 LayerCount: 2
@@ -65596,6 +65635,7 @@ AltUni2: 01d44d.ffffffff.0
 Width: 797
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 73
 TopAccentHorizontal: 512
 HStem: 0 46<282 476 476 521.5 282 678> 624 45<400.5 444 444 621>
 LayerCount: 2
@@ -65691,6 +65731,7 @@ AltUni2: 01d450.ffffffff.0
 Width: 477
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 328
 HStem: -10 45<235.5 256.5> 422 40<285.5 342.5>
 LayerCount: 2
@@ -65718,6 +65759,7 @@ AltUni2: 01d451.ffffffff.0
 Width: 595
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 502
 HStem: -14 69<131 233.5> 419 40<286 337 230 339.5> 665 20<589 589>
 LayerCount: 2
@@ -65786,6 +65828,7 @@ AltUni2: 01d453.ffffffff.0
 Width: 572
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 120
 TopAccentHorizontal: 528
 HStem: -207 43<147.5 174.5 147.5 181> 402 47<249 301 301 315 236 301 442 510> 642 43<509.5 528.5>
 LayerCount: 2
@@ -65942,6 +65985,7 @@ AltUni2: 01d457.ffffffff.0
 Width: 431
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 348
 HStem: -207 43<85.5 104 85.5 119>
 LayerCount: 2
@@ -66200,6 +66244,7 @@ AltUni2: 01d45e.ffffffff.0
 Width: 526
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 368
 HStem: -205 21<176 212 212 237.5 430 458 170 212> -10 57<129.5 245.5> 422 40<282 339 235.5 341.5>
 LayerCount: 2
@@ -68026,6 +68071,7 @@ AltUni2: 01d4bb.ffffffff.0
 Width: 768
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: 87 50<381 409.5> 649 50<609 642>
 VStem: 659 90<580.5 631>
 LayerCount: 2
@@ -68157,6 +68203,7 @@ AltUni2: 01d4be.ffffffff.0
 Width: 558
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -14 50<255.5 278.5 255.5 283> 318 50<120 162.5> 571 127<453 487 453 488>
 VStem: 407 127<618 651 615.5 653>
 LayerCount: 2
@@ -68192,6 +68239,7 @@ AltUni2: 01d4bf.ffffffff.0
 Width: 840
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -224 50<171.5 195.5 171.5 212> -131 50<496.5 516> -82 50<247.5 255.5> 318 50<402 445> 571 127<742 776 742 777>
 VStem: 696 127<618 651 615.5 653>
 LayerCount: 2
@@ -68283,6 +68331,7 @@ AltUni2: 01d4c1.ffffffff.0
 Width: 650
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -14 50<186 208 186 213.5> 649 50<488.5 527>
 VStem: 542 90<575.5 629>
 LayerCount: 2
@@ -68596,6 +68645,7 @@ AltUni2: 01d4c9.ffffffff.0
 Width: 618
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -14 50<253 279 253 283.5> 488 50<247 326 225 349 470 590> 649 20<419 539 539 539>
 LayerCount: 2
 Fore
@@ -68915,6 +68965,7 @@ AltUni2: 01d609.ffffffff.0
 Width: 636
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 386
 HStem: 0 20 656 20<248 485 485 552.5>
 LayerCount: 2
@@ -68950,6 +69001,7 @@ AltUni2: 01d60a.ffffffff.0
 Width: 723
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 114
 TopAccentHorizontal: 570
 HStem: -19 20 671 20<451 621>
 LayerCount: 2
@@ -68976,6 +69028,7 @@ AltUni2: 01d60b.ffffffff.0
 Width: 709
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 103
 TopAccentHorizontal: 428
 HStem: 0 20 656 20<248 427 427 552>
 LayerCount: 2
@@ -69003,6 +69056,7 @@ AltUni2: 01d60c.ffffffff.0
 Width: 635
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 TopAccentHorizontal: 496
 HStem: 0 20 656 20<248 728 728 728>
 LayerCount: 2
@@ -69030,6 +69084,7 @@ AltUni2: 01d60d.ffffffff.0
 Width: 582
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 183
 TopAccentHorizontal: 504
 HStem: 0 20 656 20<248 725 725 725>
 LayerCount: 2
@@ -69055,6 +69110,7 @@ AltUni2: 01d60e.ffffffff.0
 Width: 746
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 TopAccentHorizontal: 564
 HStem: -19 20 671 20<437 611>
 LayerCount: 2
@@ -69085,6 +69141,7 @@ AltUni2: 01d60f.ffffffff.0
 Width: 715
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 128
 TopAccentHorizontal: 524
 HStem: 0 20 656 20<248 378 378 378 673 803 803 803>
 LayerCount: 2
@@ -69112,6 +69169,7 @@ AltUni2: 01d610.ffffffff.0
 Width: 440
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 134
 TopAccentHorizontal: 382
 HStem: 0 20 656 20<247 534 534 534>
 LayerCount: 2
@@ -69139,6 +69197,7 @@ AltUni2: 01d611.ffffffff.0
 Width: 481
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 TopAccentHorizontal: 506
 HStem: 656 20<444 574 574 574>
 LayerCount: 2
@@ -69163,6 +69222,7 @@ AltUni2: 01d612.ffffffff.0
 Width: 712
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 144
 TopAccentHorizontal: 512
 HStem: 0 20 656 20<248 376 376 376 671 816 816 816>
 LayerCount: 2
@@ -69212,6 +69272,7 @@ AltUni2: 01d614.ffffffff.0
 Width: 913
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 128
 TopAccentHorizontal: 620
 HStem: 0 20 656 20<248 409 409 409 840 1001 1001 1001>
 LayerCount: 2
@@ -69241,6 +69302,7 @@ AltUni2: 01d615.ffffffff.0
 Width: 724
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 128
 TopAccentHorizontal: 548
 HStem: -18 20 0 20 656 20<248 405 405 405 684 812 812 812>
 LayerCount: 2
@@ -69266,6 +69328,7 @@ AltUni2: 01d616.ffffffff.0
 Width: 778
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 102
 TopAccentHorizontal: 561
 HStem: -18 20 672 20<447 646.5>
 LayerCount: 2
@@ -69292,6 +69355,7 @@ AltUni2: 01d617.ffffffff.0
 Width: 581
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 145
 TopAccentHorizontal: 458
 HStem: 0 20 656 20<248 457 457 537>
 LayerCount: 2
@@ -69320,6 +69384,7 @@ AltUni2: 01d618.ffffffff.0
 Width: 779
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 TopAccentHorizontal: 562
 HStem: 671 20<448 646.5>
 LayerCount: 2
@@ -69349,6 +69414,7 @@ AltUni2: 01d619.ffffffff.0
 Width: 670
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 68
 TopAccentHorizontal: 467
 HStem: 0 20 656 20<248 464 464 542.5>
 LayerCount: 2
@@ -69380,6 +69446,7 @@ AltUni2: 01d61a.ffffffff.0
 Width: 554
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 123
 TopAccentHorizontal: 444
 HStem: -19 20 671 20<374 493>
 LayerCount: 2
@@ -69412,6 +69479,7 @@ AltUni2: 01d61b.ffffffff.0
 Width: 641
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 184
 TopAccentHorizontal: 471
 HStem: 0 20 656 20<196 785 785 785>
 LayerCount: 2
@@ -69435,6 +69503,7 @@ AltUni2: 01d61c.ffffffff.0
 Width: 699
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 TopAccentHorizontal: 522
 HStem: -19 20 656 20<243 371 371 371 664 792 792 792>
 LayerCount: 2
@@ -69463,6 +69532,7 @@ AltUni2: 01d61d.ffffffff.0
 Width: 690
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 183
 TopAccentHorizontal: 513
 HStem: -18 20 656 20<193 323 323 323 703 833 833 833>
 LayerCount: 2
@@ -69485,6 +69555,7 @@ AltUni2: 01d61e.ffffffff.0
 Width: 997
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 178
 TopAccentHorizontal: 666
 HStem: -15 20 656 20<198 328 328 328 670 670 1004 1135 1135 1135>
 LayerCount: 2
@@ -69513,6 +69584,7 @@ AltUni2: 01d61f.ffffffff.0
 Width: 740
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 153
 TopAccentHorizontal: 536
 HStem: 0 20 656 20<209 363 363 363 699 853 853 853>
 LayerCount: 2
@@ -69540,6 +69612,7 @@ AltUni2: 01d620.ffffffff.0
 Width: 694
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 188
 TopAccentHorizontal: 515
 HStem: 0 20 656 20<188 333 333 333 697 842 842 842>
 LayerCount: 2
@@ -69564,6 +69637,7 @@ AltUni2: 01d621.ffffffff.0
 Width: 653
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 156
 TopAccentHorizontal: 473
 HStem: 0 20 656 20<244 769 769 769>
 LayerCount: 2
@@ -69625,6 +69699,7 @@ AltUni2: 01d623.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: -13 95<269.5 295.5> 378 95<346 462.5> 656 20<223 343 343 343>
 LayerCount: 2
 Fore
@@ -69658,6 +69733,7 @@ AltUni2: 01d624.ffffffff.0
 Width: 462
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -14 20 378 95<321.5 364>
 LayerCount: 2
 Fore
@@ -69683,6 +69759,7 @@ AltUni2: 01d625.ffffffff.0
 Width: 518
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: -14 95<166.5 289.5 242 344> 378 95<299.5 360.5> 656 20<505 625 625 625>
 LayerCount: 2
 Fore
@@ -69715,6 +69792,7 @@ AltUni2: 01d626.ffffffff.0
 Width: 452
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -13 20 205 95<233 376 233 473 201 376> 378 95<320 342.5>
 LayerCount: 2
 Fore
@@ -69746,6 +69824,7 @@ AltUni2: 01d627.ffffffff.0
 Width: 340
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 240
 HStem: 0 20 367 95<128 163 105 186 306 373> 597 95<378 413.5>
 LayerCount: 2
 Fore
@@ -69777,6 +69856,7 @@ AltUni2: 01d628.ffffffff.0
 Width: 504
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: -206 95<192.5 233.5> -19 95<237 309 204 321> 356 95<527 575 519 599> 378 95<303 364>
 LayerCount: 2
 Fore
@@ -69822,6 +69902,7 @@ AltUni2: 01d629.ffffffff.0
 Width: 510
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: 0 20 378 95<350.5 463.5> 656 20<223 343 343 343>
 LayerCount: 2
 Fore
@@ -69851,6 +69932,7 @@ AltUni2: 01d62a.ffffffff.0
 Width: 245
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 20 442 20<173 298 298 298> 668 20<221 366 366 366>
 LayerCount: 2
 Fore
@@ -69874,6 +69956,7 @@ AltUni2: 01d62b.ffffffff.0
 Width: 324
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: 442 20<247 372 372 372> 668 20<295 440 440 440>
 LayerCount: 2
 Fore
@@ -69902,6 +69985,7 @@ AltUni2: 01d62c.ffffffff.0
 Width: 519
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: 0 20 442 20<465 599 599 599> 656 20<223 343 343 343>
 LayerCount: 2
 Fore
@@ -69929,6 +70013,7 @@ AltUni2: 01d62d.ffffffff.0
 Width: 235
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 140
 HStem: 0 20 656 20<331 348 348 348>
 LayerCount: 2
 Fore
@@ -69948,6 +70033,7 @@ AltUni2: 01d62e.ffffffff.0
 Width: 776
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: 0 20 379 94<344.5 449> 442 20<169 283 283 283>
 LayerCount: 2
 Fore
@@ -69986,6 +70072,7 @@ AltUni2: 01d62f.ffffffff.0
 Width: 510
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: 0 20 379 94<350.5 463.5> 442 20<169 285 285 285>
 LayerCount: 2
 Fore
@@ -70015,6 +70102,7 @@ AltUni2: 01d630.ffffffff.0
 Width: 501
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: -14 95<245.5 318> 378 95<299.5 366.5>
 LayerCount: 2
 Fore
@@ -70038,6 +70126,7 @@ AltUni2: 01d631.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: -14 95<265.5 330 265.5 343.5> 379 94<341.5 465> 442 20<169 285 285 285>
 LayerCount: 2
 Fore
@@ -70069,6 +70158,7 @@ AltUni2: 01d632.ffffffff.0
 Width: 512
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: -14 95<166.5 283.5> 378 95<311 354>
 LayerCount: 2
 Fore
@@ -70100,6 +70190,7 @@ AltUni2: 01d633.ffffffff.0
 Width: 411
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 120
 HStem: 0 20 379 94<425.5 439> 442 20<169 289 289 289>
 LayerCount: 2
 Fore
@@ -70126,6 +70217,7 @@ AltUni2: 01d634.ffffffff.0
 Width: 385
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: -13 95<179 216.5 179 240.5> 378 95<271.5 312>
 LayerCount: 2
 Fore
@@ -70156,6 +70248,7 @@ AltUni2: 01d635.ffffffff.0
 Width: 386
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: -12 95<212 312.5> 367 95<184 197 98 220 340 424>
 LayerCount: 2
 Fore
@@ -70191,6 +70284,7 @@ AltUni2: 01d636.ffffffff.0
 Width: 518
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: -15 20 -14 95<152.5 273.5> 442 20<169 289 289 289 449 569 569 569>
 LayerCount: 2
 Fore
@@ -70221,6 +70315,7 @@ AltUni2: 01d637.ffffffff.0
 Width: 462
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: -14 20 442 20<129 259 259 259 430 561 561 561>
 LayerCount: 2
 Fore
@@ -70243,6 +70338,7 @@ AltUni2: 01d638.ffffffff.0
 Width: 701
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: -14 20 442 20<131 261 261 261 372 503 503 503 667 798 798 798>
 LayerCount: 2
 Fore
@@ -70273,6 +70369,7 @@ AltUni2: 01d639.ffffffff.0
 Width: 506
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: 0 20 442 20<145 282 282 282 444 582 582 582>
 LayerCount: 2
 Fore
@@ -70299,6 +70396,7 @@ AltUni2: 01d63a.ffffffff.0
 Width: 472
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: -204 95<57 85> 442 20<132 263 263 263 438 569 569 569>
 LayerCount: 2
 Fore
@@ -70326,6 +70424,7 @@ AltUni2: 01d63b.ffffffff.0
 Width: 441
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: 0 95<206 408> 367 95<169 345 138 530>
 LayerCount: 2
 Fore
@@ -70390,6 +70489,7 @@ AltUni2: 01d6e3.ffffffff.0
 Width: 726
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 496
 HStem: 0 23<46 86 86 116 42 86> 646 23<197 231 194 462>
 LayerCount: 2
@@ -70433,6 +70533,7 @@ AltUni2: 01d6e4.ffffffff.0
 Width: 634
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 155
 TopAccentHorizontal: 532
 HStem: 0 23<46 82 82 112.5 370 417 42 82> 624 45<439 594 439 439>
 LayerCount: 2
@@ -70491,6 +70592,7 @@ AltUni2: 01d6e6.ffffffff.0
 Width: 732
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 62
 TopAccentHorizontal: 512
 HStem: 0 23<46 82 82 111.5 42 82> 0 45<354 419 419 492> 340 45<383 438 438 441 372 438> 624 45<438 573 438 438>
 LayerCount: 2
@@ -70537,6 +70639,7 @@ AltUni2: 01d6e7.ffffffff.0
 Width: 797
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 73
 TopAccentHorizontal: 518
 HStem: 0 46<282 476 476 521.5 282 678> 624 45<400.5 444 444 621>
 LayerCount: 2
@@ -70564,6 +70667,7 @@ AltUni2: 01d6e8.ffffffff.0
 Width: 891
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 560
 HStem: 0 23<46 82 82 112.5 371 391 42 82 449 472 472 502.5 758 794> 335 48<384 616 374 626> 646 23<195 229 189 543 483.5 515 515 540 582 616 873.5 904 904 941>
 LayerCount: 2
@@ -70620,6 +70724,7 @@ AltUni2: 01d6e9.ffffffff.0
 Width: 783
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 68
 TopAccentHorizontal: 485
 HStem: -16 47<291 420 291 443> 297 86<330.5 480 364 460> 638 47<380 518.5>
 LayerCount: 2
@@ -70658,6 +70763,7 @@ AltUni2: 01d6ea.ffffffff.0
 Width: 502
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 366
 HStem: 0 23<46 84 84 114.5 371 404 42 84> 646 23<195 228 191 557 484.5 515 515 553>
 LayerCount: 2
@@ -70691,6 +70797,7 @@ AltUni2: 01d6eb.ffffffff.0
 Width: 795
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 84
 TopAccentHorizontal: 558
 HStem: 0 20 649 20<187 534 534 534 589 839 839 839>
 LayerCount: 2
@@ -70779,6 +70886,7 @@ AltUni2: 01d6ed.ffffffff.0
 Width: 1016
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 632
 HStem: 0 23<46 82 82 113 307 342 42 82 563 598 598 629.5 886 921> 646 23<192 227 188 438 1001 1034 1034 1068>
 LayerCount: 2
@@ -70829,6 +70937,7 @@ AltUni2: 01d6ee.ffffffff.0
 Width: 869
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 523
 HStem: 0 23<46 82 82 112.5 308 343 42 82> 646 23<178 213 175 410 624 657 852.5 883 883 921>
 LayerCount: 2
@@ -70872,6 +70981,7 @@ AltUni2: 01d6ef.ffffffff.0
 Width: 718
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 TopAccentHorizontal: 495
 HStem: 0 20 649 20<232 757 757 757>
 LayerCount: 2
@@ -70921,6 +71031,7 @@ AltUni2: 01d6f0.ffffffff.0
 Width: 777
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 18
 TopAccentHorizontal: 483
 HStem: -16 47<291 420 291 443> 638 47<380 518.5>
 LayerCount: 2
@@ -70945,6 +71056,7 @@ AltUni2: 01d6f1.ffffffff.0
 Width: 887
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 558
 HStem: 0 23<44 79 79 108 367 387 39 79 446 468 468 498 755 790> 624 45<435 677 435 435>
 LayerCount: 2
@@ -70989,6 +71101,7 @@ AltUni2: 01d6f2.ffffffff.0
 Width: 612
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 161
 TopAccentHorizontal: 526
 HStem: 0 23<46 86 86 117 374 422 42 86> 300 45<424 465.5 414 543.5> 646 23<198 229 192 482>
 LayerCount: 2
@@ -71028,6 +71141,7 @@ AltUni2: 01d6f3.ffffffff.0
 Width: 783
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 12
 TopAccentHorizontal: 485
 HStem: -16 47<291 394 291 443> 297 86<237 574 218 593> 638 47<411 518.5>
 LayerCount: 2
@@ -71057,6 +71171,7 @@ AltUni2: 01d6f4.ffffffff.0
 Width: 759
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 68
 TopAccentHorizontal: 526
 HStem: 0 20 624 45<408 620 408 408>
 LayerCount: 2
@@ -71087,6 +71202,7 @@ AltUni2: 01d6f5.ffffffff.0
 Width: 568
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 172
 TopAccentHorizontal: 364
 HStem: 0 23<55 95 95 126 380 419 51 95> 624 45<179 229 229 304 450 528 450 450>
 LayerCount: 2
@@ -71122,6 +71238,7 @@ AltUni2: 01d6f6.ffffffff.0
 Width: 641
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 172
 TopAccentHorizontal: 376
 HStem: 0 23<105 141 141 160.5 424 458 97 141> 614 71<102 215> 631 46<696.5 718.5 675 728>
 LayerCount: 2
@@ -71161,6 +71278,7 @@ AltUni2: 01d6f7.ffffffff.0
 Width: 827
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 12
 TopAccentHorizontal: 482
 HStem: 0 23<161 199 478 520 155 199> 646 23<308 344 303 672 598 626 626 667>
 LayerCount: 2
@@ -71208,6 +71326,7 @@ AltUni2: 01d6f8.ffffffff.0
 Width: 808
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 18
 TopAccentHorizontal: 535
 HStem: 0 23<32 32 275 313 28 32 389 417 417 433.5 670 702> 646 23<176 199 172 494 439.5 451 451 490 570 597 771.5 803 803 827>
 LayerCount: 2
@@ -71262,6 +71381,7 @@ AltUni2: 01d6f9.ffffffff.0
 Width: 694
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 127
 TopAccentHorizontal: 406
 HStem: 0 23<79 102 102 132 424 436 74 102> 647 22<241.5 262.5> 665 20<35 68 68 111>
 LayerCount: 2
@@ -71313,6 +71433,7 @@ AltUni2: 01d6fa.ffffffff.0
 Width: 826
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 20
 TopAccentHorizontal: 548
 HStem: 0 92<154 300 154 362 531 684 684 699.5> 637 48<473 580>
 LayerCount: 2
@@ -71351,6 +71472,7 @@ AltUni2: 01d6fb.ffffffff.0
 Width: 632
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 10
 TopAccentHorizontal: 322
 HStem: -16 20 649 20<43 600 600 600>
 LayerCount: 2
@@ -71374,6 +71496,7 @@ AltUni2: 01d6fc.ffffffff.0
 Width: 624
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 337
 HStem: -12 70<501 501.5> -10 37<197.5 233.5> 421 40<282.5 330.5>
 LayerCount: 2
@@ -71409,6 +71532,7 @@ AltUni2: 01d6fd.ffffffff.0
 Width: 555
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 TopAccentHorizontal: 462
 HStem: -12 40<279.5 329 268 382.5> 372 44<379.5 443> 633 52<433.5 434.5>
 LayerCount: 2
@@ -71449,6 +71573,7 @@ AltUni2: 01d6fe.ffffffff.0
 Width: 490
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 53
 TopAccentHorizontal: 274
 HStem: 392 70<131.5 146.5>
 VStem: 173 76<223.5 362>
@@ -71544,6 +71669,7 @@ AltUni2: 01d701.ffffffff.0
 Width: 472
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 TopAccentHorizontal: 369
 HStem: -203 75<184.5 276.5> -9 20 -2 20 0 20 665 20<330 330>
 VStem: 176 81<574 593.5> 330 76<-72.5 31.5>
@@ -71678,6 +71804,7 @@ AltUni2: 01d705.ffffffff.0
 Width: 560
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 316
 HStem: 0 20 396 66
 LayerCount: 2
@@ -71788,6 +71915,7 @@ AltUni2: 01d708.ffffffff.0
 Width: 523
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 372
 HStem: -10 20
 LayerCount: 2
@@ -71813,6 +71941,7 @@ AltUni2: 01d709.ffffffff.0
 Width: 476
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 348
 HStem: -203 74<195.5 290.5> -9 20 -2 20 0 20 665 20<332 332>
 VStem: 174 72<424.5 450.5> 180 79<578.5 599 578.5 605.5> 341 76<-68 34.5>
@@ -71883,6 +72012,7 @@ AltUni2: 01d70b.ffffffff.0
 Width: 579
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 384
 HStem: -13 20 -7 70<341 445> 358 91<190 590 304 365 304 304 456 569 456 456>
 LayerCount: 2
@@ -71949,6 +72079,7 @@ AltUni2: 01d70d.ffffffff.0
 Width: 480
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 TopAccentHorizontal: 404
 HStem: -203 74<206.5 301.5> -9 20 -2 20 0 20 382 80<373 379>
 VStem: 352 76<-68 34.5>
@@ -71982,6 +72113,7 @@ AltUni2: 01d70e.ffffffff.0
 Width: 592
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 324
 HStem: -10 40<218.5 288.5 218.5 306.5> 358 91<291 603 406 582 406 406>
 LayerCount: 2
@@ -72010,6 +72142,7 @@ AltUni2: 01d70f.ffffffff.0
 Width: 469
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 TopAccentHorizontal: 308
 HStem: -7 70<220.5 311> 358 91<174.5 502 196 502 332 481 332 332>
 LayerCount: 2
@@ -72108,6 +72241,7 @@ AltUni2: 01d712.ffffffff.0
 Width: 621
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 444
 HStem: -204 70<430 445.5> 392 70<258.5 285.5>
 LayerCount: 2
@@ -72143,6 +72277,7 @@ AltUni2: 01d713.ffffffff.0
 Width: 701
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 95
 TopAccentHorizontal: 394
 HStem: 442 20<40 89 89 135 707 756 756 756>
 LayerCount: 2
@@ -72216,6 +72351,7 @@ AltUni2: 01d715.ffffffff.0
 Width: 559
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 404
 HStem: -10 40<218 294 218 343.5> 419 40<290 357> 645 41<335 394>
 VStem: 481 78<419.5 481>
@@ -72249,6 +72385,7 @@ AltUni2: 01d716.ffffffff.0
 Width: 481
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 TopAccentHorizontal: 326
 HStem: -10 45<230.5 275> 219 44<180 358 170 368> 424 37<306.5 362 249.5 384.5>
 LayerCount: 2
@@ -72322,6 +72459,7 @@ AltUni2: 01d718.ffffffff.0
 Width: 607
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 TopAccentHorizontal: 309
 HStem: -15 20 0 20 442 20<156 181.5>
 VStem: 191 57<305 370.5> 373 57<76 142.5>
@@ -72431,6 +72569,7 @@ AltUni2: 01d71b.ffffffff.0
 Width: 868
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 50
 TopAccentHorizontal: 506
 HStem: -10 40<315 335.5 545 596.5> 358 91<169.5 879 199 879 356 356 356 668 785 858 785 785>
 LayerCount: 2
@@ -73129,6 +73268,7 @@ Encoding: 120746 120746 2132
 Width: 678
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 65
 HStem: -14 95<224.5 267.5> 379 94<282.5 346.5> 442 20<574 703 703 703>
 LayerCount: 2
 Fore
@@ -73160,6 +73300,7 @@ Encoding: 120747 120747 2133
 Width: 552
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: -14 95<265.5 308.5 265.5 335> 597 95<378 432>
 LayerCount: 2
 Fore
@@ -73196,6 +73337,7 @@ Encoding: 120748 120748 2134
 Width: 525
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: 442 20<441 571 571 571> 453 20<157 202.5>
 LayerCount: 2
 Fore
@@ -73223,6 +73365,7 @@ Encoding: 120749 120749 2135
 Width: 507
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -14 95<205 275.5 205 307.5> 597 95<351.5 386>
 LayerCount: 2
 Fore
@@ -73287,6 +73430,7 @@ Encoding: 120751 120751 2137
 Width: 480
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 120
 HStem: -205 95<265 293.5 265 300.5>
 LayerCount: 2
 Fore
@@ -73412,6 +73556,7 @@ Encoding: 120755 120755 2141
 Width: 537
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: 0 20 442 20<152 272 272 272> 453 20<563 563>
 LayerCount: 2
 Fore
@@ -73500,6 +73645,7 @@ Encoding: 120758 120758 2144
 Width: 525
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: -14 20 442 20<159 279 279 279> 453 20<562 562>
 LayerCount: 2
 Fore
@@ -73524,6 +73670,7 @@ Encoding: 120759 120759 2145
 Width: 481
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 90
 HStem: -205 95<266 294.5 266 301.5> -14 95<155.5 338 277 291>
 LayerCount: 2
 Fore
@@ -73590,6 +73737,7 @@ Encoding: 120761 120761 2147
 Width: 632
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -14 20 367 95<338 414 338 338 534 633 534 534>
 LayerCount: 2
 Fore
@@ -73649,6 +73797,7 @@ Encoding: 120763 120763 2149
 Width: 517
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 80
 HStem: -205 95<267 295.5 267 302.5> 378 95<315 389>
 LayerCount: 2
 Fore
@@ -73680,6 +73829,7 @@ Encoding: 120764 120764 2150
 Width: 614
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: -14 95<220 292.5 220 297.5> 367 95<275 639 451 616 451 451>
 LayerCount: 2
 Fore
@@ -73707,6 +73857,7 @@ Encoding: 120765 120765 2151
 Width: 523
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: -14 20 367 95<250 255 371 524 371 371>
 LayerCount: 2
 Fore
@@ -73797,6 +73948,7 @@ Encoding: 120768 120768 2154
 Width: 575
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 110
 HStem: 442 20<488 626 626 626> 453 20<172 227>
 LayerCount: 2
 Fore
@@ -73828,6 +73980,7 @@ Encoding: 120769 120769 2155
 Width: 703
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 100
 HStem: 442 20<351 471 471 471> 453 20<77 127 691 751>
 LayerCount: 2
 Fore
@@ -73895,6 +74048,7 @@ Encoding: 120771 120771 2157
 Width: 548
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -14 95<218.5 300.5 218.5 327> 378 95<272.5 339.5>
 LayerCount: 2
 Fore
@@ -73922,6 +74076,7 @@ Encoding: 120772 120772 2158
 Width: 468
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -14 20 195 95<198 323 173 347> 378 95<304.5 341>
 LayerCount: 2
 Fore
@@ -73989,6 +74144,7 @@ Encoding: 120774 120774 2160
 Width: 646
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 60
 HStem: -10 20 0 20 442 20<499 665 665 665> 453 20<139 139>
 LayerCount: 2
 Fore
@@ -74077,6 +74233,7 @@ Encoding: 120777 120777 2163
 Width: 889
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 70
 HStem: -14 95<291.5 309.5 563 584.5> 367 95<376 649 376 376 797 889 797 797>
 LayerCount: 2
 Fore
