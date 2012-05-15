@@ -16,7 +16,7 @@ SCRIPT='Open($$1);\
        SetFontNames("","","","","","$(VERSION)");\
        Generate($$argv[$$argc-1], "", $(FFLAGES))'
 
-FONTS=math regular bold italic bolditalic
+FONTS=math mathbold regular bold italic bolditalic
 DOCS=user-guide xits-specimen
 FEA=xits.fea
 
@@ -30,6 +30,12 @@ all: otf
 otf: $(OTF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(POSTPROCESS)
+	@echo "Building $@"
+	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(POSTPROCESS) $@
+	@mv $@.post $@
+
+xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 	@$(POSTPROCESS) $@
