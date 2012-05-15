@@ -69,7 +69,7 @@ StemSnapH 31 [29 33 38 43 48 52 57 68 73 78]
 StemSnapV 31 [42 48 51 54 62 66 69 73 79 83]
 ForceBold 4 true
 EndPrivate
-BeginChars: 1114232 1876
+BeginChars: 1114232 1877
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -59907,8 +59907,13 @@ EndChar
 StartChar: uni2A0B.small
 Encoding: 1114123 -1 1767
 Width: 562
-Flags: HW
+Flags: W
+HStem: -193 47<128.5 156.5 128.5 219.5> 456.33 33.84<235.784 373.4 235.784 235.784> 685 47<502.5 530.5>
+VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
+Fore
+Refer: 995 8721 N 0.564 0 0 0.47 59.252 131.56 2
+Refer: 1758 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni2A0C.small
@@ -61216,8 +61221,13 @@ EndChar
 StartChar: uni2A0B.display
 Encoding: 1114150 -1 1794
 Width: 686
-Flags: HW
+Flags: W
+HStem: -269 52<190.5 204> 1335 72<429 673 429 429> 1948 52<988 999.5>
+VStem: 56 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
+Fore
+Refer: 995 8721 N 1 0 0 1 116 644 2
+Refer: 1785 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni2A0C.display
@@ -63414,6 +63424,17 @@ SplineSet
  206 2604 l 1
  788 1066 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2A0B
+Encoding: 10763 10763 1876
+Width: 553
+Flags: W
+HStem: -320 42<144.5 152> -64.72 18.8 527.48 43.24<272.375 463.475 272.375 272.375> 782 42<613 620.5>
+LayerCount: 2
+Fore
+Refer: 603 931 N 1.05 0 0 0.94 18.275 -64.72 2
+Refer: 1019 8747 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
