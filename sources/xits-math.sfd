@@ -144,7 +144,7 @@ StdVW 4 [66]
 StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 EndPrivate
-BeginChars: 1115053 4351
+BeginChars: 1115053 4352
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -145871,6 +145871,19 @@ Fore
 Refer: 4348 -1 N 1 0 0 1 -42 0 2
 Refer: 4348 -1 N 1 0 0 1 137 0 2
 Refer: 4348 -1 N 1 0 0 1 316 0 2
+EndChar
+
+StartChar: uni034D
+Encoding: 845 845 4351
+Width: 478
+Flags: W
+TopAccentHorizontal: 239
+GlyphVariantsHorizontal: uni034D
+GlyphCompositionHorizontal: 3  uni20EE%0,0,300,436 uni20EE.ex%1,300,300,500 uni20EF%0,300,0,436
+HStem: -173 54<150 151 151 328>
+LayerCount: 2
+Fore
+Refer: 860 8417 N 1 0 0 1 0 -800 2
 EndChar
 EndChars
 EndSplineFont
