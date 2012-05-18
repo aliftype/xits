@@ -29467,7 +29467,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20D0
-GlyphCompositionHorizontal: 2  uni20D0%0,0,300,436 uni20D6.ex%1,300,0,500
+GlyphCompositionHorizontal: 2  uni20D0%0,0,350,436 uni20D6.ex%1,300,0,300
 HStem: 627 54<155 436 155 436>
 LayerCount: 2
 Fore
@@ -29489,7 +29489,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20D1
-GlyphCompositionHorizontal: 2  uni20D6.ex%1,0,300,500 uni20D1%0,300,0,436
+GlyphCompositionHorizontal: 2  uni20D6.ex%1,0,300,300 uni20D1%0,350,0,436
 HStem: 627 54<0 281 281 297.5 0 436 0 281>
 LayerCount: 2
 Fore
@@ -29530,7 +29530,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20D6
-GlyphCompositionHorizontal: 2  uni20D6%0,0,300,436 uni20D6.ex%1,300,0,500
+GlyphCompositionHorizontal: 2  uni20D6%0,0,350,436 uni20D6.ex%1,300,0,300
 HStem: 627 54<136 436 150 436>
 LayerCount: 2
 Fore
@@ -29556,7 +29556,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20D7
-GlyphCompositionHorizontal: 2  uni20D6.ex%1,0,300,500 uni20D7%0,300,0,436
+GlyphCompositionHorizontal: 2  uni20D6.ex%1,0,300,300 uni20D7%0,350,0,436
 HStem: 627 54<0 286 0 286>
 LayerCount: 2
 Fore
@@ -29711,7 +29711,7 @@ Width: 478
 Flags: MW
 TopAccentHorizontal: 239
 GlyphVariantsHorizontal: uni20E1
-GlyphCompositionHorizontal: 3  uni20D6%0,0,300,436 uni20D6.ex%1,300,300,500 uni20D7%0,300,0,436
+GlyphCompositionHorizontal: 3  uni20D6%0,0,350,436 uni20D6.ex%1,300,300,300 uni20D7%0,350,0,436
 HStem: 627 54<150 151 151 328>
 LayerCount: 2
 Fore
@@ -29925,7 +29925,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20EC
-GlyphCompositionHorizontal: 2  uni20EE.ex%1,0,300,500 uni20EC%0,300,0,436
+GlyphCompositionHorizontal: 2  uni20EE.ex%1,0,300,300 uni20EC%0,350,0,436
 HStem: -173 54<0 281 0 436>
 LayerCount: 2
 Fore
@@ -29947,7 +29947,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20ED
-GlyphCompositionHorizontal: 2  uni20ED%0,0,300,436 uni20EE.ex%1,300,0,500
+GlyphCompositionHorizontal: 2  uni20ED%0,0,350,436 uni20EE.ex%1,300,0,300
 HStem: -173 54<138.5 155 155 436>
 LayerCount: 2
 Fore
@@ -29969,7 +29969,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20EE
-GlyphCompositionHorizontal: 2  uni20EE%0,0,300,436 uni20EE.ex%1,300,0,500
+GlyphCompositionHorizontal: 2  uni20EE%0,0,350,436 uni20EE.ex%1,300,0,300
 HStem: -173 54<136 436 150 436>
 LayerCount: 2
 Fore
@@ -29995,7 +29995,7 @@ Width: 436
 Flags: MW
 TopAccentHorizontal: 218
 GlyphVariantsHorizontal: uni20EF
-GlyphCompositionHorizontal: 2  uni20EE.ex%1,0,300,500 uni20EF%0,300,0,436
+GlyphCompositionHorizontal: 2  uni20EE.ex%1,0,300,300 uni20EF%0,350,0,436
 HStem: -173 54<0 286 0 286>
 LayerCount: 2
 Fore
@@ -145879,7 +145879,7 @@ Width: 478
 Flags: W
 TopAccentHorizontal: 239
 GlyphVariantsHorizontal: uni034D
-GlyphCompositionHorizontal: 3  uni20EE%0,0,300,436 uni20EE.ex%1,300,300,500 uni20EF%0,300,0,436
+GlyphCompositionHorizontal: 3  uni20EE%0,0,350,436 uni20EE.ex%1,300,300,300 uni20EF%0,350,0,436
 HStem: -173 54<150 151 151 328>
 LayerCount: 2
 Fore
