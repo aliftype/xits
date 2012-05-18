@@ -41,10 +41,18 @@ http://github.com/khaledhosny/xits-math
 
 ChangeLog
 ----------
+18 May 2012 (Khaled Hosny) <XITS> Version 1.105
+- Remove ligatures and oldstyle figures from math font
+- Move primes closer together
+- Fix extensibility of combining over/under arrows
+- Add 4 pre-built sizes for bar glyphs
+- Initial bold math font
+- Add under left right arrow
+
 12 Feb 2012 (Khaled Hosny) <XITS> Version 1.104
 - Fix various warnings reported vy `compareFamily` tool of AFDKO
 - Fix primes size so that base and superscripted primes are identical in size
-  and a bit smaller than before.
+  and a bit smaller than before
 
 29 Nov 2011 (Khaled Hosny) <XITS> Version 1.103
 - Remove erroneous dots from U+2A2B and add U+2A2C to XITS Bold
