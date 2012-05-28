@@ -34968,9 +34968,10 @@ EndChar
 
 StartChar: uni222B
 Encoding: 8747 8747 1018
-Width: 553
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni222B uni222B.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
@@ -35000,9 +35001,10 @@ EndChar
 
 StartChar: uni222C
 Encoding: 8748 8748 1019
-Width: 863
+Width: 1096
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni222C uni222C.display
 HStem: -320 42<144.5 152 454.5 462> 782 42<613 620.5 923 930.5>
 LayerCount: 2
@@ -35051,9 +35053,10 @@ EndChar
 
 StartChar: uni222D
 Encoding: 8749 8749 1020
-Width: 1174
+Width: 1407
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni222D uni222D.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773> 782 42<613 620.5 923 930.5 1234 1241.5>
 LayerCount: 2
@@ -35121,9 +35124,10 @@ EndChar
 
 StartChar: uni222E
 Encoding: 8750 8750 1021
-Width: 591
+Width: 784
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni222E uni222E.display
 HStem: -320 42<142.5 150> 0 20<380 381 380 380> 782 42<611 618.5>
 VStem: 146 52<222.5 303.5 222.5 320> 564 52<206.5 288>
@@ -35169,9 +35173,10 @@ EndChar
 
 StartChar: uni222F
 Encoding: 8751 8751 1022
-Width: 903
+Width: 1096
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni222F uni222F.display
 HStem: -320 42<144.5 152 454.5 462> 32 52<512 545> 428 52<531 564.5> 782 42<613 620.5 923 930.5>
 VStem: 135 52<229 291 229 305> 889 52<221.5 283>
@@ -35250,9 +35255,10 @@ EndChar
 
 StartChar: uni2230
 Encoding: 8752 8752 1023
-Width: 1214
+Width: 1407
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2230 uni2230.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773> 782 42<613 620.5 923 930.5 1234 1241.5>
 VStem: 135 52<232 286 232 299> 1199 52<226 280>
@@ -35353,9 +35359,10 @@ EndChar
 
 StartChar: uni2231
 Encoding: 8753 8753 1024
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2231 uni2231.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
@@ -35403,9 +35410,10 @@ EndChar
 
 StartChar: uni2232
 Encoding: 8754 8754 1025
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2232 uni2232.display
 HStem: -320 42<144 170.5 144 181.5> 0 20<382 449> 782 42<594.5 621>
 VStem: 148 52<223.5 303 223.5 320>
@@ -35456,9 +35464,10 @@ EndChar
 
 StartChar: uni2233
 Encoding: 8755 8755 1026
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2233 uni2233.display
 HStem: -320 42<144 170 144 181.5> 0 20<382 449> 782 42<595 621>
 VStem: 148 52<223.5 303 223.5 320> 566 52<208.5 262>
@@ -46049,9 +46058,10 @@ EndChar
 
 StartChar: uni2A0C
 Encoding: 10764 10764 1356
-Width: 1484
+Width: 1717
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni2A0C uni2A0C.display
 HStem: -320 42<144.5 152 454.5 462 765.5 773 1075.5 1083> 782 42<613 620.5 923 930.5 1234 1241.5 1544 1551.5>
 LayerCount: 2
@@ -46138,9 +46148,10 @@ EndChar
 
 StartChar: uni2A0D
 Encoding: 10765 10765 1357
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A0D uni2A0D.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 212 80<137 314 137 334 451 631> 782 42<615.5 621>
 CounterMasks: 1 e0
@@ -46178,9 +46189,10 @@ EndChar
 
 StartChar: uni2A0E
 Encoding: 10766 10766 1358
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A0E uni2A0E.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 109 80<137 288 137 308 425 631> 314 80<137 340 137 360 476 631> 782 42<594.5 621>
 LayerCount: 2
@@ -46224,9 +46236,10 @@ EndChar
 
 StartChar: uni2A0F
 Encoding: 10767 10767 1359
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A0F uni2A0F.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 782 42<615.5 621>
 LayerCount: 2
@@ -46263,9 +46276,10 @@ EndChar
 
 StartChar: uni2A10
 Encoding: 10768 10768 1360
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A10 uni2A10.display
 HStem: -320 42<144.5 152> 0 20<382 383 382 382> 782 42<613 620.5>
 VStem: 148 52<222.5 303.5 222.5 320>
@@ -46313,9 +46327,10 @@ EndChar
 
 StartChar: uni2A11
 Encoding: 10769 10769 1361
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A11 uni2A11.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
@@ -46365,9 +46380,10 @@ EndChar
 
 StartChar: uni2A12
 Encoding: 10770 10770 1362
-Width: 613
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 173
 GlyphVariantsVertical: uni2A12 uni2A12.display
 HStem: -320 42<144.5 152> 17 52<382 385 382 382 385 587 278 639> 163 180<358.5 407.5 358.5 408> 435 52<369 500 499 500 500 587> 782 42<613 620.5>
 VStem: 293 180<228 277.5 228 277.5> 587 52<69 435 435 435>
@@ -46414,9 +46430,10 @@ EndChar
 
 StartChar: uni2A13
 Encoding: 10771 10771 1363
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A13 uni2A13.display
 HStem: -320 42<144.5 152> 0 20<382 383 382 382> 163 180<361 406 361 410> 782 42<613 620.5>
 VStem: 293 180<230 279.5 230 280> 566 52<204.5 300 190 305.5>
@@ -46461,9 +46478,10 @@ EndChar
 
 StartChar: uni2A14
 Encoding: 10772 10772 1364
-Width: 675
+Width: 788
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 113
 GlyphVariantsVertical: uni2A14 uni2A14.display
 HStem: -320 42<144.5 152> 20 52<480 550.5 453.5 565> 163 180<478 523 478 527> 782 42<613 620.5>
 VStem: 410 180<230 279.5 230 280> 683 52<204.5 305.5>
@@ -46508,9 +46526,10 @@ EndChar
 
 StartChar: uni2A15
 Encoding: 10773 10773 1365
-Width: 593
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 193
 GlyphVariantsVertical: uni2A15 uni2A15.display
 HStem: -320 42<144 170.5 144 181.5> 0 20<382 447> 163 180<358.5 407.5 358.5 408> 782 42<594.5 621>
 VStem: 148 52<211.5 305.5 204.5 320> 293 180<228 277.5 228 277.5> 566 52<204.5 298.5 190 305.5>
@@ -46556,9 +46575,10 @@ EndChar
 
 StartChar: uni2A16
 Encoding: 10774 10774 1366
-Width: 623
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 163
 GlyphVariantsVertical: uni2A16 uni2A16.display
 HStem: -320 42<143.5 170.5 143.5 181.5> 17 52<178 265 395 587> 435 52<178 370 178 178 499 587> 782 42<594.5 621>
 VStem: 126 52<69 435 69 487> 587 52<69 435 435 435>
@@ -46605,9 +46625,10 @@ EndChar
 
 StartChar: uni2A17
 Encoding: 10775 10775 1367
-Width: 791
+Width: 924
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 GlyphVariantsVertical: uni2A17 uni2A17.display
 HStem: -320 42<225.5 252.5 225.5 263.5> 39 81<666 744 744 747 666 744> 231 81<214 215 215 400 537 731> 782 42<697.5 703>
 LayerCount: 2
@@ -46662,9 +46683,10 @@ EndChar
 
 StartChar: uni2A18
 Encoding: 10776 10776 1368
-Width: 633
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 153
 GlyphVariantsVertical: uni2A18 uni2A18.display
 HStem: -320 42<144.5 152> 782 42<613 620.5>
 LayerCount: 2
@@ -46708,9 +46730,10 @@ EndChar
 
 StartChar: uni2A19
 Encoding: 10777 10777 1369
-Width: 653
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 GlyphVariantsVertical: uni2A19 uni2A19.display
 HStem: -320 42<143.5 170 143.5 181.5> 782 42<594.5 621>
 VStem: 83 80<-11 221 -11 303> 590 80<-11 221 -11 260>
@@ -46752,9 +46775,10 @@ EndChar
 
 StartChar: uni2A1A
 Encoding: 10778 10778 1370
-Width: 653
+Width: 786
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 133
 GlyphVariantsVertical: uni2A1A uni2A1A.display
 HStem: -320 42<143.5 170 143.5 181.5> 782 42<615.5 621>
 VStem: 91 80<282 514> 598 80<282 514>
@@ -46797,9 +46821,10 @@ EndChar
 
 StartChar: uni2A1B
 Encoding: 10779 10779 1371
-Width: 557
+Width: 790
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni2A1B uni2A1B.display
 HStem: -320 42<144.5 152> 782 42<613 620.5> 879 80<231 737 231 737>
 LayerCount: 2
@@ -46834,9 +46859,10 @@ EndChar
 
 StartChar: uni2A1C
 Encoding: 10780 10780 1372
-Width: 557
+Width: 790
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 233
 GlyphVariantsVertical: uni2A1C uni2A1C.display
 HStem: -455 80<32 538 32 538> -320 42<148.5 156> 782 42<617 624.5>
 LayerCount: 2
@@ -59949,9 +59975,10 @@ EndChar
 
 StartChar: uni222B.small
 Encoding: 1114113 -1 1757
-Width: 562
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -59979,9 +60006,10 @@ EndChar
 
 StartChar: uni222C.small
 Encoding: 1114114 -1 1758
-Width: 870
+Width: 974
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5 436.5 464.5> 685 47<502.5 530.5 810.5 838.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 349 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673> 861 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60026,9 +60054,10 @@ EndChar
 
 StartChar: uni222D.small
 Encoding: 1114115 -1 1759
-Width: 1179
+Width: 1283
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5 436.5 464.5 745.5 773.5> 685 47<502.5 530.5 810.5 838.5 1119.5 1147.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 349 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673> 658 65<-130.5 -118.5 -134 -85> 861 65<657.5 669.5 624 673> 1170 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60090,9 +60119,10 @@ EndChar
 
 StartChar: uni222E.small
 Encoding: 1114116 -1 1760
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 210> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 145 50<254 311 254 326.5> 469 50<243 300> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60133,9 +60163,10 @@ EndChar
 
 StartChar: uni222F.small
 Encoding: 1114117 -1 1761
-Width: 934
+Width: 974
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 214.5 436.5 464.5> 90 50<464 495.5> 414 50<476.5 507.5> 685 47<502.5 530.5 810.5 838.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 145 50<256 308.5 256 327> 349 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673> 777 50<245 298.5> 861 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60204,9 +60235,10 @@ EndChar
 
 StartChar: uni2230.small
 Encoding: 1114118 -1 1762
-Width: 1243
+Width: 1283
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 214 436.5 464.5 745.5 773.5> 685 47<502.5 530.5 810.5 838.5 1119.5 1147.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 145 50<260.5 298 260.5 310> 349 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673> 658 65<-130.5 -118.5 -134 -85> 861 65<657.5 669.5 624 673> 1085 50<256 293.5> 1170 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60298,9 +60330,10 @@ EndChar
 
 StartChar: uni2231.small
 Encoding: 1114119 -1 1763
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 219.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60346,9 +60379,10 @@ EndChar
 
 StartChar: uni2232.small
 Encoding: 1114120 -1 1764
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 212.5> 685 47<502 530.5>
 VStem: 41 65<-130.5 -119 -134 -85> 148 50<255.5 309.5 255.5 326> 553 65<658 669.5 624 673>
 LayerCount: 2
@@ -60398,9 +60432,10 @@ EndChar
 
 StartChar: uni2233.small
 Encoding: 1114121 -1 1765
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 157 128.5 212.5> 685 47<502 530.5>
 VStem: 41 65<-130 -119 -134 -85.5> 148 50<256 309.5 256 326> 482 42<274.5 283> 553 65<658 669 624.5 673>
 LayerCount: 2
@@ -60451,8 +60486,9 @@ EndChar
 
 StartChar: uni2A0B.small
 Encoding: 1114122 -1 1766
-Width: 562
+Width: 666
 Flags: W
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5> 456.33 33.84<235.784 373.4 235.784 235.784> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60463,9 +60499,10 @@ EndChar
 
 StartChar: uni2A0C.small
 Encoding: 1114123 -1 1767
-Width: 1488
+Width: 1592
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5 436.5 464.5 745.5 773.5 1054.5 1082.5> 685 47<502.5 530.5 810.5 838.5 1119.5 1147.5 1428.5 1456.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 349 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673> 658 65<-130.5 -118.5 -134 -85> 861 65<657.5 669.5 624 673> 967 65<-130.5 -118.5 -134 -85> 1170 65<657.5 669.5 624 673> 1479 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60544,9 +60581,10 @@ EndChar
 
 StartChar: uni2A0D.small
 Encoding: 1114124 -1 1768
-Width: 578
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 88
 HStem: -193 47<128.5 156.5 128.5 219.5> 235 70<149 268 149 284 391 517> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60582,9 +60620,10 @@ EndChar
 
 StartChar: uni2A0E.small
 Encoding: 1114125 -1 1769
-Width: 578
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 88
 HStem: -193 47<128.5 156.5 128.5 219.5> 165 70<149 252 149 268 375 517> 305 70<149 284 149 300 407 517> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60628,9 +60667,10 @@ EndChar
 
 StartChar: uni2A0F.small
 Encoding: 1114126 -1 1770
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 219.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60666,9 +60706,10 @@ EndChar
 
 StartChar: uni2A10.small
 Encoding: 1114127 -1 1771
-Width: 562
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 205.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -119 -134 -85> 118 50<247.5 319.5 247.5 335.5> 553 65<658 669.5 624 673>
 LayerCount: 2
@@ -60710,9 +60751,10 @@ EndChar
 
 StartChar: uni2A11.small
 Encoding: 1114128 -1 1772
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 157 128.5 219.5> 685 47<502 530.5>
 VStem: 41 65<-130 -119 -134 -85.5> 553 65<658 669 624.5 673>
 LayerCount: 2
@@ -60758,9 +60800,10 @@ EndChar
 
 StartChar: uni2A12.small
 Encoding: 1114129 -1 1773
-Width: 579
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 87
 HStem: -193 47<128.5 156.5 128.5 211.5> 79 50<338 495 244 545 338 338> 196 167<309 354.5 309 355.5> 426 50<430 495> 685 47<502 530.5>
 VStem: 41 65<-130.5 -119 -134 -85> 248 167<256.5 302.5 256.5 303> 495 50<129 426 426 426> 553 65<658 669.5 624 673>
 LayerCount: 2
@@ -60800,9 +60843,10 @@ EndChar
 
 StartChar: uni2A13.small
 Encoding: 1114130 -1 1774
-Width: 581
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 85
 HStem: -193 47<128.5 156.5 128.5 209> 196 167<309 354.5 309 355.5> 685 47<495.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 248 167<256.5 302.5 256.5 303> 496 50<232 317 218.5 322> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60841,9 +60885,10 @@ EndChar
 
 StartChar: uni2A14.small
 Encoding: 1114131 -1 1775
-Width: 688
+Width: 700
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 12
 HStem: -193 47<128.5 156.5 128.5 212> 63 50<421 483 401.5 497> 196 167<415 460.5 415 461.5> 685 47<497 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 354 167<256.5 302.5 256.5 303> 553 65<657.5 669.5 624 673> 602 50<232 322>
 LayerCount: 2
@@ -60887,9 +60932,10 @@ EndChar
 
 StartChar: uni2A15.small
 Encoding: 1114132 -1 1776
-Width: 626
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 40
 HStem: -193 47<128.5 156.5 128.5 205.5> 196 167<309 354.5 309 355.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 118 50<235.5 322.5 231.5 335> 248 167<256.5 302.5 256.5 303> 496 50<231.5 318.5 218.5 322.5> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60932,9 +60978,10 @@ EndChar
 
 StartChar: uni2A16.small
 Encoding: 1114133 -1 1777
-Width: 579
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 87
 HStem: -193 47<128.5 156.5 128.5 208> 79 50<164 232 351 495> 426 50<164 312 164 164 431 495> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 114 50<129 426 129 476> 495 50<129 426 426 426> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -60980,9 +61027,10 @@ EndChar
 
 StartChar: uni2A17.small
 Encoding: 1114134 -1 1778
-Width: 646
+Width: 694
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 48
 HStem: -193 47<128.5 157 128.5 220> 109 75<453 507 453 511> 270 75<161.5 164 164 276 400 507 507 512> 685 47<502 530.5>
 VStem: 41 65<-130 -119.5 -134 -85.5> 553 65<658.5 669 624.5 673> 571 75<209 244>
 LayerCount: 2
@@ -61033,9 +61081,10 @@ EndChar
 
 StartChar: uni2A18.small
 Encoding: 1114135 -1 1779
-Width: 578
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 88
 HStem: -193 47<128.5 156.5 128.5 225> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -119 -134 -85> 553 65<658 669.5 624 673>
 LayerCount: 2
@@ -61078,9 +61127,10 @@ EndChar
 
 StartChar: uni2A19.small
 Encoding: 1114136 -1 1780
-Width: 559
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 107
 HStem: -193 47<128.5 156.5 128.5 219.5> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 104 70<62 275 62 334.5> 458 70<62 275 62 296> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -61120,9 +61170,10 @@ EndChar
 
 StartChar: uni2A1A.small
 Encoding: 1114137 -1 1781
-Width: 559
+Width: 666
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 107
 HStem: -193 47<128.5 156.5 128.5 209> 685 47<502.5 530.5>
 VStem: 41 65<-130.5 -118.5 -134 -85> 136 70<279 492> 490 70<279 492> 553 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -61162,9 +61213,10 @@ EndChar
 
 StartChar: uni2A1B.small
 Encoding: 1114138 -1 1782
-Width: 555
+Width: 659
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -193 47<128.5 156.5 128.5 219.5> 655 47<495.5 523.5> 732 70<214 611 214 611>
 VStem: 41 65<-130.5 -118.5 -134 -85> 546 65<627.5 639.5 594 643>
 LayerCount: 2
@@ -61197,9 +61249,10 @@ EndChar
 
 StartChar: uni2A1C.small
 Encoding: 1114139 -1 1783
-Width: 556
+Width: 660
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 104
 HStem: -268 70<41 438 41 438> -168 47<128.5 156.5 128.5 220> -6 20 685 47<496.5 524.5>
 VStem: 41 65<-105.5 -93.5 -109 -60> 547 65<657.5 669.5 624 673>
 LayerCount: 2
@@ -61232,9 +61285,10 @@ EndChar
 
 StartChar: uni222B.display
 Encoding: 1114140 -1 1784
-Width: 686
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 550
 HStem: -269 52<190.5 204> 1948 52<988 999.5>
 VStem: 56 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61264,9 +61318,10 @@ EndChar
 
 StartChar: uni222C.display
 Encoding: 1114141 -1 1785
-Width: 1084
+Width: 1634
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 550
 HStem: -269 52<190.5 204 588.5 602> 1948 52<988 999.5 1386 1397.5>
 VStem: 56 119<-202 -190 -203.5 -153> 454 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935> 1413 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61315,9 +61370,10 @@ EndChar
 
 StartChar: uni222D.display
 Encoding: 1114142 -1 1786
-Width: 1482
+Width: 2032
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 550
 HStem: -269 52<190.5 204 588.5 602 986.5 1000> 1948 52<988 999.5 1386 1397.5 1784 1795.5>
 VStem: 56 119<-202 -190 -203.5 -153> 454 119<-202 -190 -203.5 -153> 852 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935> 1413 121<1921 1932 1882 1935> 1811 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61385,9 +61441,10 @@ EndChar
 
 StartChar: uni222E.display
 Encoding: 1114143 -1 1787
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<190.5 204> 1948 52<988 999.5>
 VStem: 56 119<-202 -190 -203.5 -153> 270 73<816 928.5 816 951> 846 73<794.5 907.5> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61431,9 +61488,10 @@ EndChar
 
 StartChar: uni222F.display
 Encoding: 1114144 -1 1788
-Width: 1134
+Width: 1634
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5 590 598.5> 525 72<757 796.5> 1093 72<780 819> 1948 52<963.5 998 1361.5 1396>
 VStem: 56 119<-204.5 -190.5 -204.5 -149.5> 319 72<813 896 813 920> 454 119<-204.5 -190.5 -204.5 -149.5> 1015 121<1921.5 1936> 1185 72<794 877> 1413 121<1921.5 1936>
 LayerCount: 2
@@ -61506,9 +61564,10 @@ EndChar
 
 StartChar: uni2230.display
 Encoding: 1114145 -1 1789
-Width: 1532
+Width: 2032
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5 590 598.5 988 996.5> 1948 52<963 998 1361 1396 1759 1794>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 319 72<812 897 812 923.5> 454 119<-204.5 -190 -204.5 -149.5> 852 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936> 1413 121<1921 1936> 1585 72<793 878.5> 1811 121<1921 1936>
 LayerCount: 2
@@ -61603,9 +61662,10 @@ EndChar
 
 StartChar: uni2231.display
 Encoding: 1114146 -1 1790
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<190.5 204> 1948 52<988 999.5>
 VStem: 56 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61655,9 +61715,10 @@ EndChar
 
 StartChar: uni2232.display
 Encoding: 1114147 -1 1791
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 227 192 241.5> 1948 52<963.5 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 270 73<817.5 929 817.5 954> 1015 121<1921 1936>
 LayerCount: 2
@@ -61710,9 +61771,10 @@ EndChar
 
 StartChar: uni2233.display
 Encoding: 1114148 -1 1792
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 226.5 192 241.5> 1948 52<964 998>
 VStem: 56 119<-204.5 -190.5 -204.5 -149.5> 270 73<817.5 929 817.5 954> 1015 121<1921.5 1936>
 LayerCount: 2
@@ -61765,8 +61827,9 @@ EndChar
 
 StartChar: uni2A0B.display
 Encoding: 1114149 -1 1793
-Width: 686
+Width: 1236
 Flags: W
+ItalicCorrection: 550
 HStem: -269 52<190.5 204> 1335 72<429 673 429 429> 1948 52<988 999.5>
 VStem: 56 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61777,9 +61840,10 @@ EndChar
 
 StartChar: uni2A0C.display
 Encoding: 1114150 -1 1794
-Width: 1880
+Width: 2430
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 550
 HStem: -269 52<190.5 204 588.5 602 986.5 1000 1384.5 1398> 1948 52<988 999.5 1386 1397.5 1784 1795.5 2182 2193.5>
 VStem: 56 119<-202 -190 -203.5 -153> 454 119<-202 -190 -203.5 -153> 852 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935> 1250 119<-202 -190 -203.5 -153> 1413 121<1921 1932 1882 1935> 1811 121<1921 1932 1882 1935> 2209 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -61866,9 +61930,10 @@ EndChar
 
 StartChar: uni2A0D.display
 Encoding: 1114151 -1 1795
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5> 817 98<273 513 273 537 678 918> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936>
 LayerCount: 2
@@ -61905,9 +61970,10 @@ EndChar
 
 StartChar: uni2A0E.display
 Encoding: 1114152 -1 1796
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5> 683 98<263 479 263 504 644 928> 951 98<263 546 263 571 711 928> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936>
 LayerCount: 2
@@ -61952,9 +62018,10 @@ EndChar
 
 StartChar: uni2A0F.display
 Encoding: 1114153 -1 1797
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936>
 LayerCount: 2
@@ -61991,9 +62058,10 @@ EndChar
 
 StartChar: uni2A10.display
 Encoding: 1114154 -1 1798
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 227 192 241.5> 1948 52<963.5 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 270 73<817.5 929 817.5 954> 1015 121<1921 1936>
 LayerCount: 2
@@ -62036,9 +62104,10 @@ EndChar
 
 StartChar: uni2A11.display
 Encoding: 1114155 -1 1799
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936>
 LayerCount: 2
@@ -62085,9 +62154,10 @@ EndChar
 
 StartChar: uni2A12.display
 Encoding: 1114156 -1 1800
-Width: 836
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 400
 HStem: -269 52<192 200.5> 537 75<583 867 462 942 583 583> 736 260<578 649.5 578 650> 1119 75<747 867> 1948 52<963.5 998>
 VStem: 56 119<-204.5 -190.5 -204.5 -149.5> 484 260<830 901.5 830 902> 867 75<612 1119 1119 1119> 1015 121<1921.5 1936>
 LayerCount: 2
@@ -62129,9 +62199,10 @@ EndChar
 
 StartChar: uni2A13.display
 Encoding: 1114157 -1 1801
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192.5 227 192.5 241> 736 260<558.5 629.5 558.5 629.5> 1948 52<964 998>
 VStem: 56 119<-204.5 -190.5 -204.5 -150> 464 260<830.5 901.5 830.5 901.5> 846 73<792 923.5 770.5 930> 1015 121<1921.5 1936>
 LayerCount: 2
@@ -62172,9 +62243,10 @@ EndChar
 
 StartChar: uni2A14.display
 Encoding: 1114158 -1 1802
-Width: 926
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 310
 HStem: -269 52<192 200.5> 536 74<732.5 772.5> 736 260<721.5 792.5 721.5 792.5> 1948 52<963.5 998>
 VStem: 56 119<-204.5 -190.5 -204.5 -149.5> 627 260<830.5 901.5 830.5 901.5> 1009 73<792 931.5> 1015 121<1921.5 1936>
 LayerCount: 2
@@ -62219,9 +62291,10 @@ EndChar
 
 StartChar: uni2A15.display
 Encoding: 1114159 -1 1803
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 226.5 192 241.5> 736 260<558 629.5 558 630> 1948 52<964 998>
 VStem: 56 119<-204.5 -190.5 -204.5 -149.5> 270 73<801 931 793 954> 464 260<830 901.5 830 902> 846 73<792 924 770 931.5> 1015 121<1921.5 1936>
 LayerCount: 2
@@ -62265,9 +62338,10 @@ EndChar
 
 StartChar: uni2A16.display
 Encoding: 1114160 -1 1804
-Width: 836
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 400
 HStem: -269 52<192 200.5> 537 75<326 444 602 867> 1119 75<326 589 326 326 747 867> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 251 75<612 1119 612 1194> 867 75<612 1119 1119 1119> 1015 121<1921 1936>
 LayerCount: 2
@@ -62314,9 +62388,10 @@ EndChar
 
 StartChar: uni2A17.display
 Encoding: 1114161 -1 1805
-Width: 911
+Width: 1231
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 320
 HStem: -269 52<187 195.5> 663 92<819 893 893 896 819 893> 852 92<210.5 539 216 517 680 892> 1948 52<958 993>
 VStem: 51 119<-204.5 -190 -204.5 -149.5> 965 92<782 824.5> 1010 121<1921 1936>
 LayerCount: 2
@@ -62370,9 +62445,10 @@ EndChar
 
 StartChar: uni2A18.display
 Encoding: 1114162 -1 1806
-Width: 736
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<192 200.5> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 1015 121<1921 1936>
 LayerCount: 2
@@ -62415,9 +62491,10 @@ EndChar
 
 StartChar: uni2A19.display
 Encoding: 1114163 -1 1807
-Width: 836
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 400
 HStem: -269 52<192 200.5> 1295 112<508 598.5> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 176 112<367 991 367 1106> 897 112<367 991 367 1042> 1015 121<1921 1936>
 LayerCount: 2
@@ -62460,9 +62537,10 @@ EndChar
 
 StartChar: uni2A1A.display
 Encoding: 1114164 -1 1808
-Width: 836
+Width: 1236
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 400
 HStem: -269 52<192 200.5> 367 112<596.5 686 596.5 717> 1948 52<963 998>
 VStem: 56 119<-204.5 -190 -204.5 -149.5> 186 112<783 1407> 907 112<783 1407> 1015 121<1921 1936>
 LayerCount: 2
@@ -62505,9 +62583,10 @@ EndChar
 
 StartChar: uni2A1B.display
 Encoding: 1114165 -1 1809
-Width: 746
+Width: 1246
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 500
 HStem: -269 52<190.5 204> 1948 52<988 999.5> 2070 112<343 1146 343 1146>
 VStem: 56 119<-202 -190 -203.5 -153> 1015 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -62542,9 +62621,10 @@ EndChar
 
 StartChar: uni2A1C.display
 Encoding: 1114166 -1 1810
-Width: 696
+Width: 1246
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 287
 HStem: -451 112<56 859 56 859> -269 52<200.5 214> 1948 52<998 1009.5>
 VStem: 66 119<-202 -190 -203.5 -153> 1025 121<1921 1932 1882 1935>
 LayerCount: 2
@@ -63973,8 +64053,9 @@ EndChar
 
 StartChar: uni2A0B
 Encoding: 10763 10763 1875
-Width: 553
+Width: 786
 Flags: W
+ItalicCorrection: 233
 GlyphVariantsVertical: uni2A0B uni2A0B.display
 HStem: -320 42<144.5 152> -64.72 18.8 527.48 43.24<272.375 463.475 272.375 272.375> 782 42<613 620.5>
 LayerCount: 2
