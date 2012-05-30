@@ -49,7 +49,7 @@ OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
-Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs"  {"'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm" ) } ['rtlm' ('DFLT' <'dflt' > 'math' <'ARA ' > ) ]
+Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs"  {"'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm" ) } ['rtlm' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localised digits"  {"'locl' Localised digits-1"  } ['locl' ('math' <'ARA ' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms 2"  {"'dtls' Dotless Forms 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style 4"  {"'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
