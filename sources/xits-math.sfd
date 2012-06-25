@@ -105740,6 +105740,7 @@ SplineSet
  265 19 324 119 352 221 c 0
  361 254 367 288 367 319 c 0
 EndSplineSet
+Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2202.rtlm
 Substitution2: "'ss02' Sans Serif Math Greek-1" u1D715.ss
 EndChar
 
