@@ -41,7 +41,7 @@ xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(POSTPROCESS)
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
-%.otf: $(SRC)/%.sfd Makefile $(POSTPROCESS)
+%.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(POSTPROCESS)
 	@echo "Building $@"
 	@$(FF) -c $(SCRIPT) $< $(SRC)/$(FEA) $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
 	@$(POSTPROCESS) $@

@@ -76,36 +76,18 @@ feature onum {
     sub \nine  by \nine.onum;
 } onum;
 
-lookup StandardLigatures {
-  lookupflag 0;
+feature liga {
     sub \f \i  by \fi;
     sub \f \l  by \fl;
     sub \f \f  by \ff;
     sub \f \f \i  by \ffi;
     sub \f \f \l  by \ffl;
     sub \f \j  by \f_j;
-} StandardLigatures;
-
-lookup StandardLigaturesNLD {
-  lookupflag 0;
-    sub \f \i  by \fi;
-    sub \f \l  by \fl;
-    sub \f \f  by \ff;
-    sub \f \f \i  by \ffi;
-    sub \f \f \l  by \ffl;
-    sub \I \J  by \uni0132;
-    sub \i \j  by \uni0133;
-    sub \f \j  by \f_j;
-} StandardLigaturesNLD;
+} liga;
 
 feature liga {
-  script DFLT;
-     language dflt;
-      lookup StandardLigatures;
-
   script latn;
-     language dflt;
-      lookup StandardLigatures;
-     language NLD  exclude_dflt;
-      lookup StandardLigaturesNLD;
+   language NLD exclude_dflt;
+    sub \I \J  by \uni0132;
+    sub \i \j  by \uni0133;
 } liga;
