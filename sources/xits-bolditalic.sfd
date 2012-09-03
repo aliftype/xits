@@ -66,7 +66,7 @@ StemSnapH 31 [22 29 33 37 42 47 52 56 63 69]
 StemSnapV 31 [25 43 48 53 56 63 71 74 78 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114123 848
+BeginChars: 1114124 849
 
 StartChar: space
 Encoding: 32 32 0
@@ -30845,6 +30845,15 @@ SplineSet
  337 75 352 95 372 139 c 0
  400 199 414 269 414 335 c 0
 EndSplineSet
+EndChar
+
+StartChar: i.TRK
+Encoding: 1114123 -1 848
+Width: 278
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 73 105 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
