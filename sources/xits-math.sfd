@@ -125125,6 +125125,7 @@ StartChar: uni03C3.ss
 Encoding: 1114569 -1 3720
 Width: 526
 Flags: W
+ItalicCorrection: 61
 HStem: -10 71<207 298 207 325> 382 71<369 542 369 369>
 VStem: 28 79<180.5 272 180.5 308> 386 79<169 231.5 161.5 247.5>
 LayerCount: 2
@@ -125235,6 +125236,7 @@ StartChar: uni03C7.ss
 Encoding: 1114573 -1 3724
 Width: 399
 Flags: W
+ItalicCorrection: 86
 HStem: 443 20<63 114.5>
 LayerCount: 2
 Fore
@@ -125555,6 +125557,7 @@ StartChar: u1D6E4.ss
 Encoding: 1114583 -1 3734
 Width: 562
 Flags: W
+ItalicCorrection: 148
 HStem: 0 20 588 74<293 655 293 293>
 LayerCount: 2
 Fore
@@ -125593,6 +125596,7 @@ StartChar: u1D6E6.ss
 Encoding: 1114585 -1 3736
 Width: 639
 Flags: W
+ItalicCorrection: 70
 HStem: 0 74<165 509> 311 75<243 529 224 548> 588 74<293 645 293 293>
 LayerCount: 2
 Fore
@@ -125617,6 +125621,7 @@ StartChar: u1D6E7.ss
 Encoding: 1114586 -1 3737
 Width: 698
 Flags: W
+ItalicCorrection: 107
 HStem: 0 74<185 592> 588 74<232 597 205 760>
 LayerCount: 2
 Fore
@@ -125639,6 +125644,7 @@ StartChar: u1D6E8.ss
 Encoding: 1114587 -1 3738
 Width: 700
 Flags: W
+ItalicCorrection: 80
 HStem: 0 20 301 74<240 558 222 576>
 LayerCount: 2
 Fore
@@ -125692,6 +125698,7 @@ StartChar: u1D6EA.ss
 Encoding: 1114589 -1 3740
 Width: 433
 Flags: W
+ItalicCorrection: 115
 HStem: 0 74<54 165 254 338 50 165> 588 74<215 293 182 503 382 493 382 382>
 LayerCount: 2
 Fore
@@ -125716,6 +125723,7 @@ StartChar: u1D6EB.ss
 Encoding: 1114590 -1 3741
 Width: 631
 Flags: W
+ItalicCorrection: 129
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -125760,6 +125768,7 @@ StartChar: u1D6ED.ss
 Encoding: 1114592 -1 3743
 Width: 890
 Flags: W
+ItalicCorrection: 73
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -125785,6 +125794,7 @@ StartChar: u1D6EE.ss
 Encoding: 1114593 -1 3744
 Width: 724
 Flags: W
+ItalicCorrection: 73
 HStem: -14 20 0 20
 LayerCount: 2
 Fore
@@ -125807,6 +125817,7 @@ StartChar: u1D6EF.ss
 Encoding: 1114594 -1 3745
 Width: 722
 Flags: W
+ItalicCorrection: 77
 HStem: 0 87<58 614 47 645> 311 74<242 591 224 609> 588 74<237 743 210 754>
 LayerCount: 2
 Fore
@@ -125857,6 +125868,7 @@ StartChar: u1D6F1.ss
 Encoding: 1114596 -1 3747
 Width: 700
 Flags: W
+ItalicCorrection: 80
 HStem: 0 20 588 74<293 629 293 293>
 LayerCount: 2
 Fore
@@ -125877,6 +125889,7 @@ StartChar: u1D6F2.ss
 Encoding: 1114597 -1 3748
 Width: 538
 Flags: W
+ItalicCorrection: 131
 HStem: 0 20 285 74<236 324 324 338 218 324> 588 74<293 376 293 293>
 VStem: 533 91<465 534>
 LayerCount: 2
@@ -125930,6 +125943,7 @@ StartChar: u1D6F4.ss
 Encoding: 1114599 -1 3750
 Width: 654
 Flags: W
+ItalicCorrection: 97
 HStem: 0 74<185 577> 588 74<319 687 319 319>
 LayerCount: 2
 Fore
@@ -125954,6 +125968,7 @@ StartChar: u1D6F5.ss
 Encoding: 1114600 -1 3751
 Width: 585
 Flags: W
+ItalicCorrection: 119
 HStem: 0 20 588 74<101 317 72 659 405 650 405 405>
 LayerCount: 2
 Fore
@@ -125974,6 +125989,7 @@ StartChar: u1D6F6.ss
 Encoding: 1114601 -1 3752
 Width: 593
 Flags: W
+ItalicCorrection: 177
 HStem: 0 20 600 76<121 173.5 638.5 653.5>
 LayerCount: 2
 Fore
@@ -126034,6 +126050,7 @@ StartChar: u1D6F8.ss
 Encoding: 1114603 -1 3754
 Width: 722
 Flags: W
+ItalicCorrection: 118
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -126058,6 +126075,7 @@ StartChar: u1D6F9.ss
 Encoding: 1114604 -1 3755
 Width: 712
 Flags: W
+ItalicCorrection: 138
 HStem: 0 20 661 20<105 118 118 149 792 805 805 805>
 VStem: 123 90<428 457> 141 89<560 568>
 LayerCount: 2
@@ -126122,6 +126140,7 @@ StartChar: u1D6FC.ss
 Encoding: 1114606 -1 3757
 Width: 586
 Flags: W
+ItalicCorrection: 75
 HStem: -10 71<183.5 217> 392 71<254 308>
 VStem: 47 80<132.5 226>
 LayerCount: 2
@@ -126153,6 +126172,7 @@ StartChar: u1D6FD.ss
 Encoding: 1114607 -1 3758
 Width: 535
 Flags: W
+ItalicCorrection: 69
 HStem: -14 71<251 316> 612 71<386 427.5>
 VStem: 450 82<204 300.5> 478 81<529 567>
 LayerCount: 2
@@ -126188,6 +126208,7 @@ StartChar: u1D6FE.ss
 Encoding: 1114608 -1 3759
 Width: 503
 Flags: W
+ItalicCorrection: 69
 HStem: 443 20<142 188>
 VStem: 186 81<252 264>
 LayerCount: 2
@@ -126214,6 +126235,7 @@ StartChar: u1D6FF.ss
 Encoding: 1114609 -1 3760
 Width: 497
 Flags: W
+ItalicCorrection: 85
 HStem: -10 71<186 284 186 297.5> 612 71<331 381>
 VStem: 30 81<141.5 217.5> 168 81<517.5 572.5 517.5 582.5> 409 79<222.5 293.5>
 LayerCount: 2
@@ -126274,6 +126296,7 @@ StartChar: u1D701.ss
 Encoding: 1114611 -1 3762
 Width: 429
 Flags: W
+ItalicCorrection: 70
 HStem: -213 72<179.5 204.5 179.5 208> -10 79<118.5 245 183 223> 663 20<216 227 227 227>
 VStem: 32 84<109 149> 175 75<593 603.5> 280 84<-66 -27>
 LayerCount: 2
@@ -126398,6 +126421,7 @@ StartChar: u1D705.ss
 Encoding: 1114615 -1 3766
 Width: 472
 Flags: W
+ItalicCorrection: 90
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -126483,6 +126507,7 @@ StartChar: u1D708.ss
 Encoding: 1114618 -1 3769
 Width: 376
 Flags: W
+ItalicCorrection: 85
 HStem: -14 20
 VStem: 329 87<360 361.5>
 LayerCount: 2
@@ -126508,6 +126533,7 @@ StartChar: u1D709.ss
 Encoding: 1114619 -1 3770
 Width: 434
 Flags: W
+ItalicCorrection: 75
 HStem: -215 72<194.5 219.5 194.5 223.5> -10 79<126 251 193 228> 663 20<240 252 252 252>
 VStem: 43 85<123 150> 177 81<431 443> 195 76<600.5 606> 294 84<-66 -29>
 LayerCount: 2
@@ -126575,6 +126601,7 @@ StartChar: u1D70B.ss
 Encoding: 1114621 -1 3772
 Width: 565
 Flags: W
+ItalicCorrection: 69
 HStem: -10 20 382 71<306 392 306 306 470 572 470 470>
 VStem: 316 85<86 89.5>
 LayerCount: 2
@@ -126635,6 +126662,7 @@ StartChar: u1D70D.ss
 Encoding: 1114623 -1 3774
 Width: 436
 Flags: W
+ItalicCorrection: 109
 HStem: -212 72<196.5 222.5 196.5 233.5> -9 79<132 270 203 247> 392 71<339.5 370.5>
 VStem: 52 84<116 149.5> 305 84<-65 -26.5>
 LayerCount: 2
@@ -126667,6 +126695,7 @@ StartChar: u1D70E.ss
 Encoding: 1114624 -1 3775
 Width: 607
 Flags: W
+ItalicCorrection: 63
 HStem: -10 71<201 291 201 305.5> 382 71<254 625 435 608 435 435>
 VStem: 45 83<142.5 194.5> 411 81<203.5 274.5>
 LayerCount: 2
@@ -126693,6 +126722,7 @@ StartChar: u1D70F.ss
 Encoding: 1114625 -1 3776
 Width: 468
 Flags: W
+ItalicCorrection: 63
 HStem: -10 20 382 71<200.5 486 214 486 318 469 318 318>
 VStem: 163 85<83 85>
 LayerCount: 2
@@ -126784,6 +126814,7 @@ StartChar: u1D712.ss
 Encoding: 1114628 -1 3779
 Width: 514
 Flags: W
+ItalicCorrection: 83
 HStem: 443 20<178 220.5>
 VStem: 200 73<-79.5 25> 210 73<222.5 326.5>
 LayerCount: 2
@@ -126815,6 +126846,7 @@ StartChar: u1D713.ss
 Encoding: 1114629 -1 3780
 Width: 654
 Flags: W
+ItalicCorrection: 96
 HStem: 441 20<75 121 644.5 705>
 VStem: 87 85<126.5 143.5> 119 83<336 351>
 LayerCount: 2
@@ -126850,6 +126882,7 @@ StartChar: u1D714.ss
 Encoding: 1114630 -1 3781
 Width: 630
 Flags: W
+ItalicCorrection: 51
 HStem: -10 71<174 194.5 411.5 442.5> 434 20<264 264 544 544>
 VStem: 50 80<111.5 174.5 111.5 185.5> 556 80<274 295>
 LayerCount: 2
@@ -127044,6 +127077,7 @@ StartChar: u1D71B.ss
 Encoding: 1114636 -1 3787
 Width: 795
 Flags: W
+ItalicCorrection: 61
 HStem: -10 71<254.5 275 492 522.5> 382 71<199.5 811 213 811 349 349 349 584 698 794 698 698>
 VStem: 131 79<111 164> 635 82<279 292.5>
 LayerCount: 2
@@ -127112,6 +127146,7 @@ StartChar: u1D7EC.ss
 Encoding: 1114638 -1 3789
 Width: 500
 Flags: W
+ItalicCorrection: 123
 HStem: -13 95<248 308 248 311> 593 95<358 419.5>
 VStem: 89 120<150.5 202.5 150.5 219> 459 119<474.5 525.5>
 LayerCount: 2
@@ -127157,6 +127192,7 @@ StartChar: u1D7EE.ss
 Encoding: 1114640 -1 3791
 Width: 500
 Flags: W
+ItalicCorrection: 126
 HStem: 0 95<223 441> 593 95<365.5 408.5>
 VStem: 456 125<495 537.5>
 LayerCount: 2
@@ -127183,6 +127219,7 @@ StartChar: u1D7EF.ss
 Encoding: 1114641 -1 3792
 Width: 500
 Flags: W
+ItalicCorrection: 131
 HStem: -13 95<210.5 257.5> 593 95<380 413>
 VStem: 411 127<231.5 256> 466 120<532 552.5>
 LayerCount: 2
@@ -127214,6 +127251,7 @@ StartChar: u1D7F0.ss
 Encoding: 1114642 -1 3793
 Width: 500
 Flags: W
+ItalicCorrection: 128
 HStem: 0 20 145 95<181 328 471 498>
 LayerCount: 2
 Fore
@@ -127241,6 +127279,7 @@ StartChar: u1D7F1.ss
 Encoding: 1114643 -1 3794
 Width: 500
 Flags: W
+ItalicCorrection: 196
 HStem: -13 95<202.5 270.5 202.5 271> 571 105<362 587 362 362>
 VStem: 391 134<278.5 283.5>
 LayerCount: 2
@@ -127268,6 +127307,7 @@ StartChar: u1D7F2.ss
 Encoding: 1114644 -1 3795
 Width: 500
 Flags: W
+ItalicCorrection: 183
 HStem: -13 95<251 325.5 251 326.5> 329 95<363.5 367>
 VStem: 80 118<151 189.5 151 252.5> 412 124<220.5 275>
 LayerCount: 2
@@ -127297,6 +127337,7 @@ StartChar: u1D7F3.ss
 Encoding: 1114645 -1 3796
 Width: 500
 Flags: W
+ItalicCorrection: 184
 HStem: 0 20 561 115<226 469 174 639>
 LayerCount: 2
 Fore
@@ -127315,6 +127356,7 @@ StartChar: u1D7F4.ss
 Encoding: 1114646 -1 3797
 Width: 500
 Flags: W
+ItalicCorrection: 139
 HStem: -13 95<239 301 239 332> 593 95<360 419>
 VStem: 63 126<139 162.5> 165 121<492.5 528.5 492.5 530.5> 396 124<159.5 209> 476 118<517.5 554.5>
 LayerCount: 2
@@ -127346,6 +127388,7 @@ StartChar: u1D7F5.ss
 Encoding: 1114647 -1 3798
 Width: 500
 Flags: W
+ItalicCorrection: 133
 HStem: -13 20 251 95<302 304.5> 593 95<342.5 416.5>
 VStem: 133 124<400 454.5 400 479> 471 117<500 524>
 LayerCount: 2
@@ -127375,6 +127418,7 @@ StartChar: u1D7E2.ss
 Encoding: 1114648 -1 3799
 Width: 500
 Flags: W
+ItalicCorrection: 123
 HStem: -14 71<227.5 333.5 227.5 348> 605 71<334.5 433>
 VStem: 86 80<158 286.5 158 296> 497 81<379.5 503.5>
 LayerCount: 2
@@ -127416,6 +127460,7 @@ StartChar: u1D7E4.ss
 Encoding: 1114650 -1 3801
 Width: 500
 Flags: W
+ItalicCorrection: 119
 HStem: 0 71<194 440> 605 71<365 423>
 VStem: 491 83<516 545.5>
 LayerCount: 2
@@ -127444,6 +127489,7 @@ StartChar: u1D7E5.ss
 Encoding: 1114651 -1 3802
 Width: 500
 Flags: W
+ItalicCorrection: 89
 HStem: -14 71<192.5 263 192.5 268> 605 71<365.5 410.5>
 VStem: 413 84<172 247.5> 462 82<530 559>
 LayerCount: 2
@@ -127474,6 +127520,7 @@ StartChar: u1D7E6.ss
 Encoding: 1114652 -1 3803
 Width: 500
 Flags: W
+ItalicCorrection: 92
 HStem: 0 20 165 71<158 335 431 497 158 414> 656 20<491 541 541 541>
 LayerCount: 2
 Fore
@@ -127501,6 +127548,7 @@ StartChar: u1D7E7.ss
 Encoding: 1114653 -1 3804
 Width: 500
 Flags: W
+ItalicCorrection: 171
 HStem: -14 71<197.5 276.5 197.5 284> 605 71<399 576 399 399>
 VStem: 428 82<214.5 302.5>
 LayerCount: 2
@@ -127527,6 +127575,7 @@ StartChar: u1D7E8.ss
 Encoding: 1114654 -1 3805
 Width: 500
 Flags: W
+ItalicCorrection: 162
 HStem: -14 71<237.5 315.5 237.5 323> 360 71<341 369> 664 20<617 617>
 VStem: 83 80<141 186.5 141 230.5> 447 84<201.5 288.5>
 LayerCount: 2
@@ -127555,6 +127604,7 @@ StartChar: u1D7E9.ss
 Encoding: 1114655 -1 3806
 Width: 500
 Flags: W
+ItalicCorrection: 161
 HStem: -8 20 591 71<234 501 185 616>
 LayerCount: 2
 Fore
@@ -127574,6 +127624,7 @@ StartChar: u1D7EA.ss
 Encoding: 1114656 -1 3807
 Width: 500
 Flags: W
+ItalicCorrection: 105
 HStem: -14 71<231 299.5 231 317.5> 605 71<361 422>
 VStem: 81 84<114 156.5> 183 81<467 512.5 467 532.5> 412 81<149 208.5> 486 74<507.5 557>
 LayerCount: 2
@@ -127606,6 +127657,7 @@ StartChar: u1D7EB.ss
 Encoding: 1114657 -1 3808
 Width: 500
 Flags: W
+ItalicCorrection: 124
 HStem: 231 71<293 320.5> 605 71<347.5 425>
 VStem: 131 84<374.5 460.5> 499 80<473.5 519.5>
 LayerCount: 2
@@ -128068,6 +128120,7 @@ StartChar: u1D53D.bf
 Encoding: 1114671 -1 3822
 Width: 474
 Flags: W
+ItalicCorrection: 166
 HStem: 0 70<145 225 145 295> 304 70<295 555 295 555> 606 70<145 225 145 145 295 595 295 295>
 VStem: 75 70<70 606 70 676> 225 70<70 304 374 606>
 LayerCount: 2
@@ -128348,6 +128401,7 @@ StartChar: u1D54B.bf
 Encoding: 1114680 -1 3831
 Width: 556
 Flags: W
+ItalicCorrection: 134
 HStem: 0 70<295 375 295 445> 606 70<25 225 25 645 295 295 295 375 445 645 445 445>
 VStem: 225 70<70 606 70 606 70 606> 375 70<70 606 0 606>
 LayerCount: 2
@@ -128402,6 +128456,7 @@ StartChar: u1D54D.bf
 Encoding: 1114682 -1 3833
 Width: 627
 Flags: W
+ItalicCorrection: 122
 HStem: 0 70<297 381 297 474 247 381> 606 70<114 199 114 114>
 LayerCount: 2
 Fore
@@ -128427,6 +128482,7 @@ StartChar: u1D54E.bf
 Encoding: 1114683 -1 3834
 Width: 996
 Flags: W
+ItalicCorrection: 64
 HStem: 0 70<225 306 225 409 170 306 677 756> 606 70<104 185 104 104 555 636 555 555>
 LayerCount: 2
 Fore
@@ -128494,6 +128550,7 @@ StartChar: u1D550.bf
 Encoding: 1114685 -1 3836
 Width: 652
 Flags: W
+ItalicCorrection: 132
 HStem: 0 70<353 433 353 503> 606 70<150 243 150 150>
 VStem: 283 70<70 269 269 269> 433 70<70 262 0 310 0 310>
 LayerCount: 2
@@ -128634,6 +128691,7 @@ StartChar: u1D557.bf
 Encoding: 1114689 -1 3840
 Width: 474
 Flags: W
+ItalicCorrection: 107
 HStem: 0 70<199 259 199 329> 381 70<25 129 25 129 329 455> 606 70<365 391 299 399>
 VStem: 129 70<70 381 381 381 451 478 70 479 70 545.5> 259 70<70 381 451 592 592 592>
 LayerCount: 2
@@ -128998,6 +129056,7 @@ StartChar: u1D563.bf
 Encoding: 1114699 -1 3850
 Width: 339
 Flags: W
+ItalicCorrection: 151
 HStem: 0 70<130 190 130 260> 391 70<130 190 130 130>
 VStem: 60 70<70 391 70 461> 190 70<70 224 0 391>
 LayerCount: 2
@@ -129133,6 +129192,7 @@ StartChar: u1D567.bf
 Encoding: 1114703 -1 3854
 Width: 494
 Flags: W
+ItalicCorrection: 95
 HStem: 0 70<217 226 169 280 226 280 217 320 217 384> 391 70<104 167 104 104>
 LayerCount: 2
 Fore
@@ -129227,6 +129287,7 @@ StartChar: u1D56A.bf
 Encoding: 1114706 -1 3857
 Width: 471
 Flags: W
+ItalicCorrection: 111
 HStem: -205 70<143.5 199.5 143.5 204.5> 391 70<113 181 113 113>
 LayerCount: 2
 Fore
@@ -129361,6 +129422,7 @@ StartChar: u1D53C.bi
 Encoding: 1114710 -1 3861
 Width: 680
 Flags: W
+ItalicCorrection: 68
 HStem: 0 63<101 178 244 545> 313 63<328 590 311 606> 606 63<247 324 247 247 390 687 390 390>
 LayerCount: 2
 Fore
@@ -129390,6 +129452,7 @@ StartChar: u1D53D.bi
 Encoding: 1114711 -1 3862
 Width: 474
 Flags: W
+ItalicCorrection: 274
 HStem: 0 63<101 178 101 227> 308 63<327 590 310 606> 606 63<247 324 247 247 390 687 390 390>
 LayerCount: 2
 Fore
@@ -129454,6 +129517,7 @@ StartChar: u1D540.bi
 Encoding: 1114713 -1 3864
 Width: 382
 Flags: W
+ItalicCorrection: 74
 HStem: 0 63<105 182 105 231> 606 63<251 328 251 251>
 LayerCount: 2
 Fore
@@ -129475,6 +129539,7 @@ StartChar: u1D541.bi
 Encoding: 1114714 -1 3865
 Width: 603
 Flags: W
+ItalicCorrection: 86
 HStem: -14 63<224 245 224 291.5> 605 64<481 562 481 481>
 LayerCount: 2
 Fore
@@ -129559,6 +129624,7 @@ StartChar: u1D544.bi
 Encoding: 1114717 -1 3868
 Width: 912
 Flags: W
+ItalicCorrection: 76
 HStem: 0 63<289 365 289 422 232 365 639 717> 606 63<254 323 254 254 784 861 784 784>
 LayerCount: 2
 Fore
@@ -129600,6 +129666,7 @@ StartChar: u1D54A.bi
 Encoding: 1114718 -1 3869
 Width: 686
 Flags: W
+ItalicCorrection: 70
 HStem: -14 63<230.5 315.5 227.5 364.5> 622 63<422 505>
 VStem: 139 63<375.5 483 375.5 529.5> 266 63<470 516> 422 63<150.5 207.5> 549 63<189.5 288>
 LayerCount: 2
@@ -129635,6 +129702,7 @@ StartChar: u1D54B.bi
 Encoding: 1114719 -1 3870
 Width: 445
 Flags: W
+ItalicCorrection: 253
 HStem: 0 63<154 231 154 280> 606 63<46 234 30 653 300 300 300 377 443 637 443 443>
 LayerCount: 2
 Fore
@@ -129660,6 +129728,7 @@ StartChar: u1D54C.bi
 Encoding: 1114720 -1 3871
 Width: 709
 Flags: W
+ItalicCorrection: 91
 HStem: -14 63<281 347.5 281 355> 606 63<211 290 211 211>
 VStem: 35 63<137 169.5 137 174>
 LayerCount: 2
@@ -129690,6 +129759,7 @@ StartChar: u1D54D.bi
 Encoding: 1114721 -1 3872
 Width: 504
 Flags: W
+ItalicCorrection: 246
 HStem: 0 63<164 242 164 307 108 242> 606 63<111 188 111 111>
 LayerCount: 2
 Fore
@@ -129715,6 +129785,7 @@ StartChar: u1D54E.bi
 Encoding: 1114722 -1 3873
 Width: 891
 Flags: W
+ItalicCorrection: 145
 HStem: 0 63<144 221 144 299 552 629> 606 63<144 221 144 144 552 629 552 552>
 VStem: 81 63<63 606 63 669> 489 63<63 448 448 448> 629 63<129 606 606 606>
 LayerCount: 2
@@ -129754,6 +129825,7 @@ StartChar: u1D54F.bi
 Encoding: 1114723 -1 3874
 Width: 759
 Flags: W
+ItalicCorrection: 118
 HStem: 0 63<505 589 505 688 465 589> 606 63<258 342 258 258>
 LayerCount: 2
 Fore
@@ -129815,6 +129887,7 @@ StartChar: u1D550.bi
 Encoding: 1114725 -1 3876
 Width: 462
 Flags: W
+ItalicCorrection: 297
 HStem: 0 63<181 260 181 308> 606 63<103 185 103 103>
 LayerCount: 2
 Fore
@@ -129996,6 +130069,7 @@ StartChar: u1D557.bi
 Encoding: 1114730 -1 3881
 Width: 438
 Flags: W
+ItalicCorrection: 225
 HStem: 0 63<125 192 125 238> 386 63<62 149 45 166 359 468> 635 64<446 478.5>
 LayerCount: 2
 Fore
@@ -130147,6 +130221,7 @@ StartChar: u1D55D.bi
 Encoding: 1114734 -1 3885
 Width: 372
 Flags: W
+ItalicCorrection: 86
 HStem: 0 63<115 179 115 227>
 LayerCount: 2
 Fore
@@ -130372,6 +130447,7 @@ StartChar: u1D563.bi
 Encoding: 1114740 -1 3891
 Width: 403
 Flags: W
+ItalicCorrection: 180
 HStem: 0 63<114 178 114 226> 386 63<202 266 202 202> 442 20<469.5 505>
 LayerCount: 2
 Fore
@@ -130435,6 +130511,7 @@ StartChar: u1D565.bi
 Encoding: 1114742 -1 3893
 Width: 403
 Flags: W
+ItalicCorrection: 64
 HStem: -14 20 384 64<41 112 22 131> 385 63<322 403> 656 20<338 382 382 382>
 VStem: 37 67<86 86.5>
 LayerCount: 2
@@ -130509,6 +130586,7 @@ StartChar: u1D567.bi
 Encoding: 1114744 -1 3895
 Width: 477
 Flags: W
+ItalicCorrection: 102
 HStem: 0 63<144 205 144 285 88 205> 386 63<103 162 103 103>
 LayerCount: 2
 Fore
@@ -130534,6 +130612,7 @@ StartChar: u1D568.bi
 Encoding: 1114745 -1 3896
 Width: 733
 Flags: W
+ItalicCorrection: 75
 HStem: 0 63<134 195 134 266 73 195 442 503> 386 63<119 180 119 119 427 489 427 427>
 LayerCount: 2
 Fore
@@ -130572,6 +130651,7 @@ StartChar: u1D569.bi
 Encoding: 1114746 -1 3897
 Width: 562
 Flags: W
+ItalicCorrection: 72
 HStem: 0 63<342 410 342 516 307 410> 386 63<177 246 177 177>
 LayerCount: 2
 Fore
@@ -130601,6 +130681,7 @@ StartChar: u1D56A.bi
 Encoding: 1114747 -1 3898
 Width: 584
 Flags: W
+ItalicCorrection: 104
 HStem: -205 63<109.5 171.5 109.5 176> 386 63<205 266 205 205>
 LayerCount: 2
 Fore
@@ -130747,6 +130828,7 @@ StartChar: u1D53C.it
 Encoding: 1114751 -1 3902
 Width: 639
 Flags: W
+ItalicCorrection: 70
 HStem: 0 37<65 145 182 530> 317 37<267 538 257 549> 616 37<221 299 221 221 336 655 336 336>
 LayerCount: 2
 Fore
@@ -130776,6 +130858,7 @@ StartChar: u1D53D.it
 Encoding: 1114752 -1 3903
 Width: 469
 Flags: W
+ItalicCorrection: 240
 HStem: 0 37<65 145 65 172> 303 37<263 535 253 546> 616 37<221 299 221 221 336 655 336 336>
 LayerCount: 2
 Fore
@@ -130840,6 +130923,7 @@ StartChar: u1D540.it
 Encoding: 1114754 -1 3905
 Width: 320
 Flags: W
+ItalicCorrection: 75
 HStem: 0 37<69 147 69 175> 616 37<224 302 224 224>
 LayerCount: 2
 Fore
@@ -130861,6 +130945,7 @@ StartChar: u1D541.it
 Encoding: 1114755 -1 3906
 Width: 562
 Flags: W
+ItalicCorrection: 78
 HStem: -18 37<169.5 202 169.5 260.5> 616 37<470 548 470 470>
 LayerCount: 2
 Fore
@@ -130888,6 +130973,7 @@ StartChar: u1D542.it
 Encoding: 1114756 -1 3907
 Width: 700
 Flags: W
+ItalicCorrection: 75
 HStem: 0 37<65 143 65 171 498 584> 616 37<220 298 220 220>
 LayerCount: 2
 Fore
@@ -130946,6 +131032,7 @@ StartChar: u1D544.it
 Encoding: 1114758 -1 3909
 Width: 858
 Flags: W
+ItalicCorrection: 79
 HStem: 0 37<271 347 271 385 238 347 611 691> 616 37<224 301 224 224 768 845 768 768>
 LayerCount: 2
 Fore
@@ -131016,6 +131103,7 @@ StartChar: u1D54A.it
 Encoding: 1114760 -1 3911
 Width: 624
 Flags: W
+ItalicCorrection: 90
 HStem: -18 37<235 315 223 336.5> 629 37<393 477.5>
 VStem: 152 37<380 491.5 380 534.5> 251 37<442 523.5 442 524> 428 37<128.5 204.5> 527 37<157.5 269.5>
 LayerCount: 2
@@ -131052,6 +131140,7 @@ StartChar: u1D54B.it
 Encoding: 1114761 -1 3912
 Width: 463
 Flags: W
+ItalicCorrection: 264
 HStem: 0 37<163 241 163 269> 605 48<315 393 315 315> 616 37<40 280 30 682 432 672 432 432>
 LayerCount: 2
 Fore
@@ -131077,6 +131166,7 @@ StartChar: u1D54C.it
 Encoding: 1114762 -1 3913
 Width: 648
 Flags: W
+ItalicCorrection: 113
 HStem: -14 37<261 345 261 353> 616 37<189 267 189 189>
 VStem: 33 37<130 160>
 LayerCount: 2
@@ -131107,6 +131197,7 @@ StartChar: u1D54D.it
 Encoding: 1114763 -1 3914
 Width: 492
 Flags: W
+ItalicCorrection: 231
 HStem: 0 37<180 256 180 294 146 256> 616 37<117 193 117 117>
 LayerCount: 2
 Fore
@@ -131132,6 +131223,7 @@ StartChar: u1D54E.it
 Encoding: 1114764 -1 3915
 Width: 810
 Flags: W
+ItalicCorrection: 198
 HStem: 0 37<137 212 137 235 540 615> 616 37<137 212 137 137 540 615 540 540>
 VStem: 100 37<37 616 37 653> 212 37<116 616 616 616> 503 37<37 535 535 535> 615 37<116 616 616 616>
 LayerCount: 2
@@ -131171,6 +131263,7 @@ StartChar: u1D54F.it
 Encoding: 1114765 -1 3916
 Width: 650
 Flags: W
+ItalicCorrection: 165
 HStem: 0 37<460 545 460 601 440 545> 617 36<214 296 214 214>
 LayerCount: 2
 Fore
@@ -131200,6 +131293,7 @@ StartChar: u1D550.it
 Encoding: 1114766 -1 3917
 Width: 458
 Flags: W
+ItalicCorrection: 245
 HStem: 0 37<194 273 194 301> 617 36<98 183 98 98>
 LayerCount: 2
 Fore
@@ -131349,6 +131443,7 @@ StartChar: u1D557.it
 Encoding: 1114770 -1 3921
 Width: 331
 Flags: W
+ItalicCorrection: 233
 HStem: 0 37<75 142 75 167> 391 37<60 135 51 145 286 367> 646 37<385.5 411>
 LayerCount: 2
 Fore
@@ -131498,6 +131593,7 @@ StartChar: u1D55D.it
 Encoding: 1114774 -1 3925
 Width: 306
 Flags: W
+ItalicCorrection: 95
 HStem: 0 37<74 140 74 168> 663 20<309 356 356 356>
 LayerCount: 2
 Fore
@@ -131724,6 +131820,7 @@ StartChar: u1D563.it
 Encoding: 1114780 -1 3931
 Width: 332
 Flags: W
+ItalicCorrection: 180
 HStem: 0 37<74 140 74 167> 391 37<172 240 172 172>
 LayerCount: 2
 Fore
@@ -131859,6 +131956,7 @@ StartChar: u1D567.it
 Encoding: 1114784 -1 3935
 Width: 395
 Flags: W
+ItalicCorrection: 112
 HStem: 0 37<115 179 115 203 83 179> 391 37<86 150 86 86>
 LayerCount: 2
 Fore
@@ -131884,6 +131982,7 @@ StartChar: u1D568.it
 Encoding: 1114785 -1 3936
 Width: 639
 Flags: W
+ItalicCorrection: 96
 HStem: 0 37<105 168 105 189 69 168 393 456> 391 37<93 156 93 93 381 444 381 381>
 LayerCount: 2
 Fore
@@ -131952,6 +132051,7 @@ StartChar: u1D56A.it
 Encoding: 1114787 -1 3938
 Width: 471
 Flags: W
+ItalicCorrection: 112
 HStem: -218 37<85 134.5 85 139.5> 391 37<162 230 162 162>
 LayerCount: 2
 Fore
