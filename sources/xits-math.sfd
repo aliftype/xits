@@ -36303,6 +36303,7 @@ StartChar: uni2202
 Encoding: 8706 8706 1044
 Width: 471
 Flags: MW
+TopAccentHorizontal: 314
 HStem: -11 30<156.5 226.5 156.5 293> 405 30<256.5 313 224 319.5> 638 30<266 320>
 VStem: 40 81<108.5 186.5 98 221.5> 400 71<445 493 334 501>
 LayerCount: 2
@@ -105953,7 +105954,7 @@ Encoding: 120597 120597 3055
 Width: 471
 Flags: MW
 ItalicCorrection: 40
-TopAccentHorizontal: 280
+TopAccentHorizontal: 314
 HStem: -11 30<156.5 226.5 156.5 293> 405 30<256.5 313 224 319.5> 638 30<266 320>
 VStem: 40 81<108.5 186.5 98 221.5> 400 71<445 493 334 501>
 LayerCount: 2
