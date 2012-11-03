@@ -62,6 +62,7 @@ Lookup: 1 0 0 "'ss06' Italic Double-Struck Math Alphabet"  {"'ss06' Italic Doubl
 Lookup: 1 0 0 "'ss07' Bold Italic Double-Struck Math Alphabet"  {"'ss07' Bold Italic Double-Struck Math Alphabet-1" ("bi" ) } ['ss07' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss09' Negated Symbols With Vertical Stroke"  {"'ss09' Negated Symbols With Vertical Stroke-1" ("ss09" ) } ['ss09' ('math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss20' Upright Partial Differential"  {"'ss20' Upright Partial Differential-1"  } ['ss20' ('math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -76,6 +77,7 @@ OtfFeatName: 'ss06' 1033 "Mathematical Italic Double-Struck Alphabet"
 OtfFeatName: 'ss07' 1033 "Mathematical Bold Italic Double-Struck Alphabet" 
 OtfFeatName: 'ss08' 1033 "Upright Integrals" 
 OtfFeatName: 'ss09' 1033 "Negated Symbols With Vertical Stroke" 
+OtfFeatName: 'ss20' 1033 "Upright Partial Differential" 
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -144,7 +146,7 @@ StdVW 4 [66]
 StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 EndPrivate
-BeginChars: 1115070 4375
+BeginChars: 1115072 4377
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -36327,6 +36329,7 @@ SplineSet
  265 19 324 119 352 221 c 0
  361 254 367 288 367 319 c 0
 EndSplineSet
+Substitution2: "'ss20' Upright Partial Differential-1" uni2202.up
 Substitution2: "'ss02' Sans Serif Math Greek-1" uni2202.ss
 Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2202.rtlm
 EndChar
@@ -145283,6 +145286,7 @@ SplineSet
  350 256 264 405 165 405 c 0
  138 405 104 384 104 319 c 0
 EndSplineSet
+Substitution2: "'ss20' Upright Partial Differential-1" uni2202.up.rtlm
 EndChar
 
 StartChar: uni2203.rtlm
@@ -147290,6 +147294,45 @@ SplineSet
  161 -105 198 -62 212 -10 c 2
  318 386 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2202.up
+Encoding: 1115070 -1 4375
+Width: 433
+Flags: W
+TopAccentHorizontal: 232
+HStem: -11 30<191.928 277.927> 428 31<198.879 280.252>
+VStem: 50 82<102.975 337.999> 337 76<125.449 357.053>
+LayerCount: 2
+Fore
+SplineSet
+89 595 m 1
+ 73 610 l 1
+ 114 662 221 678 276 650 c 0
+ 373 601 414 472 413 292 c 0
+ 412 145 380.013697988 -11 234 -11 c 0
+ 115 -11 50 81 50 230 c 0
+ 50 343 118 459 236 459 c 0
+ 268 459 294 453 327 429 c 1
+ 328 536 231 705 89 595 c 1
+238 428 m 0
+ 178 428 133 329 132 227 c 0
+ 131 140 146.001512061 20.1265631385 235 19 c 0
+ 314 18 337 132 337 230 c 0
+ 337 321 311 428 238 428 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2202.up.rtlm
+Encoding: 1115071 -1 4376
+Width: 433
+Flags: W
+TopAccentHorizontal: 201
+HStem: -11 30<155.091 241.09> 428 31<152.766 234.139>
+VStem: 20.0178 76<125.449 357.053> 301.018 82<102.975 337.999>
+LayerCount: 2
+Fore
+Refer: 4375 -1 S -1 0 0 1 433.018 0 2
 EndChar
 EndChars
 EndSplineFont

@@ -53,6 +53,7 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1"  {"'liga' Standard L
 Lookup: 3 0 0 "'ssty' Script Style 4"  {"'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Calligraphic Math Alphabet"  {"'ss01' Calligraphic Math Alphabet-1" ("cal" ) } ['ss01' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss20' Upright Partial Differential"  {"'ss20' Upright Partial Differential-1"  } ['ss20' ('math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -127,7 +128,7 @@ StemSnapH 31 [29 33 38 43 48 52 57 68 73 78]
 StemSnapV 31 [42 48 51 54 62 66 69 73 79 83]
 ForceBold 4 true
 EndPrivate
-BeginChars: 1114325 2150
+BeginChars: 1114326 2151
 
 StartChar: space
 Encoding: 32 32 0
@@ -30189,6 +30190,7 @@ SplineSet
  160 57 188 30 248 30 c 0
  340 30 423 165 423 293 c 0
 EndSplineSet
+Substitution2: "'ss20' Upright Partial Differential-1" uni2202.up
 EndChar
 
 StartChar: uni2203
@@ -74970,6 +74972,17 @@ SplineSet
  831 -339 l 1
  831 -451 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni2202.up
+Encoding: 1114325 -1 2150
+Width: 515
+Flags: W
+TopAccentHorizontal: 258
+HStem: -14 31<223 281 223 291> 442 31<226 273.5 226 281.5> 639 68<201 242.5>
+LayerCount: 2
+Fore
+Refer: 1563 120539 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
