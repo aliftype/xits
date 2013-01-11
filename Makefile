@@ -6,15 +6,17 @@ DOC=documentation
 DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
-FF=fontforge -lang=ff
+PY=python
 POSTPROCESS=./postprocess.py
-FFLAGES=0x200000
-SCRIPT='Open($$1);\
-       if ($$argc>3)\
-         MergeFeature($$2);\
-       endif;\
-       SetFontNames("","","","","","$(VERSION)");\
-       Generate($$argv[$$argc-1], "", $(FFLAGES))'
+
+define SCRIPT
+import fontforge, sys
+f = fontforge.open(sys.argv[1])
+if len(sys.argv) > 3:
+  f.mergeFeature(sys.argv[3])
+f.version = $(VERSION)
+f.generate(sys.argv[2], flags=("round"))
+endef
 
 FONTS=math mathbold regular bold italic bolditalic
 DOCS=user-guide xits-specimen
@@ -31,19 +33,19 @@ otf: $(OTF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
-	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(PY) -c "$$SCRIPT" $< $@
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
 xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
-	@$(FF) -c $(SCRIPT) $< $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(PY) -c "$$SCRIPT" $< $@
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
 %.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(POSTPROCESS)
 	@echo "Building $@"
-	@$(FF) -c $(SCRIPT) $< $(SRC)/$(FEA) $@ 2>/dev/stdout 1>/dev/stderr | tail -n +4
+	@$(PY) -c "$$SCRIPT" $< $@ $(SRC)/$(FEA)
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
