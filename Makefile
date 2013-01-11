@@ -9,14 +9,16 @@ DIST=$(NAME)-$(VERSION)
 PY=python
 POSTPROCESS=./postprocess.py
 
-define SCRIPT
+define $(NAME)SCRIPT
 import fontforge, sys
 f = fontforge.open(sys.argv[1])
 if len(sys.argv) > 3:
   f.mergeFeature(sys.argv[3])
-f.version = $(VERSION)
-f.generate(sys.argv[2], flags=("round"))
+f.version = "$(VERSION)"
+f.generate(sys.argv[2], flags=("round", "opentype"))
 endef
+
+export $(NAME)SCRIPT
 
 FONTS=math mathbold regular bold italic bolditalic
 DOCS=user-guide xits-specimen
@@ -33,19 +35,19 @@ otf: $(OTF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@
+	@$(PY) -c "$$$(NAME)SCRIPT" $< $@
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
 xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(POSTPROCESS)
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@
+	@$(PY) -c "$$$(NAME)SCRIPT" $< $@
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
 %.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(POSTPROCESS)
 	@echo "Building $@"
-	@$(PY) -c "$$SCRIPT" $< $@ $(SRC)/$(FEA)
+	@$(PY) -c "$$$(NAME)SCRIPT" $< $@ $(SRC)/$(FEA)
 	@$(POSTPROCESS) $@
 	@mv $@.post $@
 
