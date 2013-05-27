@@ -18480,6 +18480,8 @@ Encoding: 978 978 546
 Width: 743
 GlyphClass: 2
 Flags: MW
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-120
 HStem: 0 20 626 66<109.5 142> 641 51<573 594.5>
 LayerCount: 2
 Fore
@@ -18630,6 +18632,8 @@ Encoding: 988 988 551
 Width: 620
 GlyphClass: 2
 Flags: MW
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 326 47<266 494 266 494> 642 34<310.5 380>
 LayerCount: 2
 Fore
@@ -44794,6 +44798,8 @@ Width: 722
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 345
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20 197 39<189 384 189 399 174 384> 670 20<329 357 357 357>
 LayerCount: 2
 Fore
@@ -44976,6 +44982,8 @@ Width: 611
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 300
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 642 34<310.5 380>
 LayerCount: 2
 Fore
@@ -45198,6 +45206,7 @@ Width: 667
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 192
+TopRightVertex: 1  400,-150
 HStem: 0 31<319.5 393.5 319.5 596> 656 20<19 367 367 367>
 LayerCount: 2
 Fore
@@ -45332,6 +45341,8 @@ Width: 611
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 308
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 641 35<295.5 331 331 353.5>
 LayerCount: 2
 Fore
@@ -45480,6 +45491,8 @@ Width: 667
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 334
+TopRightVertex: 1  400,30
+BottomRightVertex: 1  0,-120
 HStem: 0 20 656 20<34 634 634 634>
 LayerCount: 2
 Fore
@@ -45678,6 +45691,8 @@ Width: 722
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 415
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 656 20<15 350 350 350 479 699 699 699>
 LayerCount: 2
 Fore
@@ -51963,6 +51978,8 @@ Width: 735
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 343
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20 197 39<189 384 189 399 174 384> 670 20<329 357 357 357>
 LayerCount: 2
 Fore
@@ -52038,6 +52055,8 @@ Width: 620
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 304
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 642 34<322.5 379>
 LayerCount: 2
 Fore
@@ -52073,6 +52092,8 @@ Width: 691
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 326
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20 670 20<312 340 340 340>
 LayerCount: 2
 Fore
@@ -52652,6 +52673,8 @@ Width: 667
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 334
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 656 20<34 634 634 634>
 LayerCount: 2
 Fore
@@ -52681,6 +52704,8 @@ Width: 722
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 403
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 626 66<105.5 138> 650 32<621 654 603 671.5>
 LayerCount: 2
 Fore
@@ -52913,6 +52938,8 @@ Width: 691
 GlyphClass: 2
 Flags: MW
 TopAccentHorizontal: 336
+TopRightVertex: 1  400,50
+BottomRightVertex: 1  0,-150
 HStem: -14 20 656 20<16 656 656 656>
 LayerCount: 2
 Fore

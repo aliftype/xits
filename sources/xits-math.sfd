@@ -1089,6 +1089,8 @@ Encoding: 65 65 34
 Width: 722
 Flags: MW
 TopAccentHorizontal: 361
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,50
 HStem: 0 20 216 41<216 447 216 461 199 447> 654 20<347 367 367 367>
 LayerCount: 2
 Fore
@@ -1272,6 +1274,8 @@ Encoding: 70 70 39
 Width: 556
 Flags: MW
 TopAccentHorizontal: 294
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 327 41<201 343 201 343> 624 38<220.5 235 235 367>
 LayerCount: 2
 Fore
@@ -1486,6 +1490,8 @@ Encoding: 76 76 45
 Width: 611
 Flags: MW
 TopAccentHorizontal: 151
+TopRightVertex: 1  275,-150
+BottomRightVertex: 1  0,50
 HStem: 0 39<291 361 361 401.5> 642 20<12 295 295 295>
 LayerCount: 2
 Fore
@@ -1619,6 +1625,8 @@ Encoding: 80 80 49
 Width: 557
 Flags: MW
 TopAccentHorizontal: 279
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 288 40<258 318 253 324.5> 625 37<222.5 275 275 305>
 LayerCount: 2
 Fore
@@ -1765,6 +1773,8 @@ Encoding: 84 84 53
 Width: 611
 Flags: MW
 TopAccentHorizontal: 305
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 620 42<141 194 194 254 356 415 356 356>
 LayerCount: 2
 Fore
@@ -1832,6 +1842,7 @@ Encoding: 86 86 55
 Width: 722
 Flags: MW
 TopAccentHorizontal: 388
+BottomRightVertex: 1  0,-150
 HStem: -11 20 642 20<16 281 281 281 493 697 697 697>
 LayerCount: 2
 Fore
@@ -1864,6 +1875,8 @@ Encoding: 87 87 56
 Width: 944
 Flags: MW
 TopAccentHorizontal: 456
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: -11 20 642 20<5 249 249 249 314 579 579 579 735 932 932 932>
 LayerCount: 2
 Fore
@@ -1955,6 +1968,7 @@ Encoding: 89 89 58
 Width: 722
 Flags: MW
 TopAccentHorizontal: 396
+BottomRightVertex: 1  0,-150
 HStem: 0 20 642 20<277 277>
 LayerCount: 2
 Fore
@@ -21045,6 +21059,8 @@ Encoding: 913 913 619
 Width: 722
 Flags: MW
 TopAccentHorizontal: 361
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,50
 HStem: 0 20 216 41<216 447 216 461 199 447> 654 20<347 367 367 367>
 LayerCount: 2
 Fore
@@ -21120,6 +21136,8 @@ Encoding: 915 915 621
 Width: 587
 Flags: MW
 TopAccentHorizontal: 294
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 624 38<223 237 237 412>
 LayerCount: 2
 Fore
@@ -21149,6 +21167,7 @@ Encoding: 916 916 622
 Width: 722
 Flags: MW
 TopAccentHorizontal: 362
+TopRightVertex: 2  275,-100 400,-150
 HStem: 0 92<136 524 136 675 48 524> 654 20<347 367 367 367>
 LayerCount: 2
 Fore
@@ -21611,6 +21630,8 @@ Encoding: 929 929 635
 Width: 557
 Flags: MW
 TopAccentHorizontal: 279
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 288 40<258 318 253 324.5> 625 37<222.5 275 275 305>
 LayerCount: 2
 Fore
@@ -21676,6 +21697,7 @@ Encoding: 932 932 637
 Width: 611
 Flags: MW
 TopAccentHorizontal: 305
+BottomRightVertex: 1  0,-110
 HStem: 0 20 620 42<141 194 194 254 356 415 356 356>
 LayerCount: 2
 Fore
@@ -21706,6 +21728,8 @@ Encoding: 933 933 638
 Width: 722
 Flags: MW
 TopAccentHorizontal: 390
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-120
 HStem: 0 20 624 50<101 226.5> 644 27<601.5 650 588 676.5>
 LayerCount: 2
 Fore
@@ -22509,6 +22533,8 @@ Encoding: 955 955 660
 Width: 497
 Flags: MW
 TopAccentHorizontal: 136
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,50
 HStem: -11 70<402.5 425.5 402.5 435> 0 20 613 70<114.5 144>
 LayerCount: 2
 Fore
@@ -23248,6 +23274,8 @@ Encoding: 978 978 682
 Width: 722
 Flags: MW
 TopAccentHorizontal: 398
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-120
 HStem: 0 20 624 50<101 226.5> 650 26<541.5 596.5>
 VStem: 617 81<570.5 642>
 LayerCount: 2
@@ -23481,6 +23509,8 @@ Encoding: 988 988 689
 Width: 556
 Flags: MW
 TopAccentHorizontal: 278
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 327 41<201 449 201 449> 624 38<220.5 235 235 367>
 LayerCount: 2
 Fore
@@ -78636,6 +78666,8 @@ Encoding: 119808 119808 2292
 Width: 722
 Flags: MW
 TopAccentHorizontal: 345
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20 197 39<189 384 189 399 174 384>
 LayerCount: 2
 Fore
@@ -78804,6 +78836,8 @@ Encoding: 119813 119813 2297
 Width: 611
 Flags: MW
 TopAccentHorizontal: 300
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 642 34<310.5 380>
 LayerCount: 2
 Fore
@@ -79010,6 +79044,7 @@ Encoding: 119819 119819 2303
 Width: 667
 Flags: MW
 TopAccentHorizontal: 192
+TopRightVertex: 1  275,-150
 HStem: 0 31<319.5 393.5 319.5 596> 656 20<19 367 367 367>
 LayerCount: 2
 Fore
@@ -79133,6 +79168,8 @@ Encoding: 119823 119823 2307
 Width: 611
 Flags: MW
 TopAccentHorizontal: 308
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 641 35<295.5 331 331 353.5>
 LayerCount: 2
 Fore
@@ -79270,6 +79307,8 @@ Encoding: 119827 119827 2311
 Width: 667
 Flags: MW
 TopAccentHorizontal: 334
+TopRightVertex: 1  275,30
+BottomRightVertex: 1  0,-120
 HStem: 0 20 656 20<34 634 634 634>
 LayerCount: 2
 Fore
@@ -79453,6 +79492,8 @@ Encoding: 119832 119832 2316
 Width: 722
 Flags: MW
 TopAccentHorizontal: 415
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 656 20<15 350 350 350 479 699 699 699>
 LayerCount: 2
 Fore
@@ -101946,6 +101987,8 @@ Encoding: 120488 120488 2946
 Width: 735
 Flags: MW
 TopAccentHorizontal: 343
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20 197 39<189 384 189 399 174 384>
 LayerCount: 2
 Fore
@@ -102017,6 +102060,8 @@ Encoding: 120490 120490 2948
 Width: 620
 Flags: MW
 TopAccentHorizontal: 304
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: 0 20 642 34<322.5 379>
 LayerCount: 2
 Fore
@@ -102050,6 +102095,8 @@ Encoding: 120491 120491 2949
 Width: 691
 Flags: MW
 TopAccentHorizontal: 326
+TopRightVertex: 2  275,-100 400,-150
+BottomRightVertex: 1  0,30
 HStem: 0 20
 LayerCount: 2
 Fore
@@ -102597,6 +102644,8 @@ Encoding: 120507 120507 2965
 Width: 667
 Flags: MW
 TopAccentHorizontal: 334
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 656 20<34 634 634 634>
 LayerCount: 2
 Fore
@@ -102624,6 +102673,8 @@ Encoding: 120508 120508 2966
 Width: 722
 Flags: MW
 TopAccentHorizontal: 403
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-100
 HStem: 0 20 626 66<105.5 138> 650 32<621 654 603 671.5>
 LayerCount: 2
 Fore
@@ -102847,6 +102898,8 @@ Encoding: 120513 120513 2971
 Width: 691
 Flags: MW
 TopAccentHorizontal: 336
+TopRightVertex: 1  275,50
+BottomRightVertex: 1  0,-150
 HStem: -14 20 656 20<16 656 656 656>
 LayerCount: 2
 Fore
