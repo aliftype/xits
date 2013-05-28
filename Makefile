@@ -1,5 +1,5 @@
 NAME=xits
-VERSION=1.107
+VERSION=1.108
 
 SRC=sources
 DOC=documentation
