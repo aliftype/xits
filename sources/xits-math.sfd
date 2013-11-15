@@ -30111,6 +30111,8 @@ SplineSet
  89 264 111 201 148 145 c 0
  154 135 160 125 169 118 c 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2102.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2102.it
 EndChar
 
 StartChar: uni2105
@@ -30384,6 +30386,8 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni210D.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni210D.it
 EndChar
 
 StartChar: uni210E
@@ -30678,6 +30682,8 @@ SplineSet
  515 44 l 1
  584 44 l 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2115.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2115.it
 EndChar
 
 StartChar: uni2116
@@ -30851,6 +30857,8 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2119.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2119.it
 EndChar
 
 StartChar: uni211A
@@ -30896,6 +30904,8 @@ SplineSet
  332 34 359 30 381 30 c 0
  404 30 433 34 460 41 c 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni211A.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni211A.it
 EndChar
 
 StartChar: uni211B
@@ -31043,6 +31053,8 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni211D.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni211D.it
 EndChar
 
 StartChar: uni211E
@@ -31117,6 +31129,8 @@ SplineSet
  200 44 l 1
  617 618 l 1
 EndSplineSet
+Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2124.bi
+Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2124.it
 EndChar
 
 StartChar: uni2125
