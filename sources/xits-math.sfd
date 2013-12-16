@@ -50,7 +50,6 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 306
 OS2Vendor: 'STIX'
 Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs"  {"'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm" ) } ['rtlm' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localised digits"  {"'locl' Localised digits-1"  } ['locl' ('math' <'ARA ' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms 2"  {"'dtls' Dotless Forms 2-1" ("dtls" ) } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style 4"  {"'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Calligraphic Math Alphabet"  {"'ss01' Calligraphic Math Alphabet-1" ("cal" ) } ['ss01' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -353,7 +352,6 @@ SplineSet
  132 381 155 353 189 353 c 0
  260 353 321 454 321 569 c 0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni066A
 EndChar
 
 StartChar: ampersand
@@ -630,7 +628,6 @@ SplineSet
  120 126 164 12 250 12 c 0
  335 12 380 127 380 325 c 0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0660
 EndChar
 
 StartChar: one
@@ -657,7 +654,6 @@ SplineSet
  299 33 319 15 394 15 c 1
  394 0 l 1
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0661
 EndChar
 
 StartChar: two
@@ -686,7 +682,6 @@ SplineSet
  406 76 427 87 460 143 c 1
  474 137 l 1
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0662
 EndChar
 
 StartChar: three
@@ -720,7 +715,6 @@ SplineSet
  318 582 276 616 210 616 c 0
  148 616 102 584 61 510 c 1xe0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0663
 EndChar
 
 StartChar: four
@@ -749,7 +743,6 @@ SplineSet
  52 231 l 1
  292 231 l 1
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0664
 EndChar
 
 StartChar: five
@@ -784,7 +777,6 @@ SplineSet
  404 662 413 667 429 688 c 1
  438 681 l 1
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0665
 EndChar
 
 StartChar: six
@@ -813,7 +805,6 @@ SplineSet
  127 114 175 14 269 14 c 0
  341 14 378 86 378 188 c 0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0666
 EndChar
 
 StartChar: seven
@@ -835,7 +826,6 @@ SplineSet
  449 662 l 1
  449 646 l 1
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0667
 EndChar
 
 StartChar: eight
@@ -868,7 +858,6 @@ SplineSet
  324 14 369 59 369 124 c 0
  369 186 339 226 271 272 c 2xe4
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0668
 EndChar
 
 StartChar: nine
@@ -898,7 +887,6 @@ SplineSet
  122 355 170 280 245 280 c 0
  289 280 362 302 362 355 c 2
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0669
 EndChar
 
 StartChar: colon
@@ -3554,7 +3542,6 @@ SplineSet
  132 381 155 353 189 353 c 0
  260 353 321 454 321 569 c 0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni0609
 EndChar
 
 StartChar: Scaron
@@ -28667,7 +28654,6 @@ SplineSet
  132 381 155 353 189 353 c 0
  260 353 321 454 321 569 c 0
 EndSplineSet
-Substitution2: "'locl' Localised digits-1" uni060A
 EndChar
 
 StartChar: uni2032
