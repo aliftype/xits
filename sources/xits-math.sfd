@@ -61,6 +61,7 @@ Lookup: 1 0 0 "'ss06' Italic Double-Struck Math Alphabet"  {"'ss06' Italic Doubl
 Lookup: 1 0 0 "'ss07' Bold Italic Double-Struck Math Alphabet"  {"'ss07' Bold Italic Double-Struck Math Alphabet-1" ("bi" ) } ['ss07' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss09' Negated Symbols With Vertical Stroke"  {"'ss09' Negated Symbols With Vertical Stroke-1" ("ss09" ) } ['ss09' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss10' Plank constant over two pi, with a bar"  {"'ss10' Plank constant over two pi, with a bar-1" ("bar" ) } ['ss10' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -75,6 +76,7 @@ OtfFeatName: 'ss06' 1033 "Mathematical Italic Double-Struck Alphabet"
 OtfFeatName: 'ss07' 1033 "Mathematical Bold Italic Double-Struck Alphabet" 
 OtfFeatName: 'ss08' 1033 "Upright Integrals" 
 OtfFeatName: 'ss09' 1033 "Negated Symbols With Vertical Stroke" 
+OtfFeatName: 'ss10' 1033 "Plank constant over two pi, with a bar" 
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -143,7 +145,7 @@ StdVW 4 [66]
 StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 EndPrivate
-BeginChars: 1115084 4492
+BeginChars: 1115085 4493
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -30463,6 +30465,7 @@ SplineSet
  431 57 435 50 444 50 c 0
  461 50 483 59 532 117 c 1xb0
 EndSplineSet
+Substitution2: "'ss10' Plank constant over two pi, with a bar-1" uni210F.bar
 EndChar
 
 StartChar: uni2110
@@ -153776,6 +153779,52 @@ SplineSet
  243 -138 282 -158 339 -165 c 0
  396 -172 453 -165 510 -142 c 0
  569 -118 608 -85 629 -42 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni210F.bar
+Encoding: 1115084 -1 4492
+Width: 579
+Flags: W
+HStem: -10 60<380.5 460> 0 20 406 54<366.5 395.5> 519 37<89 189 80 200 281 410> 663 20<309 309>
+VStem: 345 86<29 76> 418 86<360 375>
+LayerCount: 2
+Fore
+SplineSet
+532 117 m 1xbc
+ 547 107 l 1
+ 517 62 459 -10 398 -10 c 0
+ 363 -10 345 12 345 46 c 0x84
+ 345 71 362 130 369 156 c 2
+ 409 300 l 2
+ 415 320 418 342 418 362 c 0
+ 418 388 410 406 381 406 c 0
+ 335 406 264 306 241 273 c 0
+ 185 190 158 95 131 0 c 1
+ 47 0 l 1x62
+ 174 469 l 1
+ 189 519 l 1
+ 80 519 l 1
+ 89 556 l 1
+ 200 556 l 1
+ 205 571 209 586 209 602 c 0
+ 209 626 168 624 152 624 c 1
+ 152 639 l 1
+ 206 650 257 664 309 683 c 1
+ 317 681 l 1
+ 303 640 292 598 281 556 c 1
+ 422 556 l 1
+ 410 519 l 1
+ 270 519 l 1
+ 244 429 221 337 196 246 c 1
+ 197 246 l 1
+ 235 321 317 460 416 460 c 0
+ 475 460 504 431 504 372 c 0xba
+ 504 348 500 324 493 301 c 2
+ 442 122 l 2
+ 437 105 431 85 431 67 c 0
+ 431 59 434 50 444 50 c 0
+ 476 50 514 95 532 117 c 1xbc
 EndSplineSet
 EndChar
 EndChars
