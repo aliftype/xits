@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-from __future__ import division
 import sys
-import fontforge
 import unicodedata
+from fontTools.ttLib import TTFont
 
 # Unicode blocks file from: http://www.unicode.org/Public/UNIDATA/Blocks.txt
 
@@ -19,9 +17,11 @@ logfile = open(sys.argv[2], "r")
 log = logfile.read()
 logfile.close()
 
-for fontfile in sys.argv[3:]:
-    font = fontforge.open(fontfile)
-    font.encoding = "UnicodeFull"
+for fontfile in sys.argv[3:-1]:
+    font = TTFont(fontfile)
+    cmap = font['cmap'].getcmap(3, 10)
+    if cmap is None:
+        cmap = font['cmap'].getcmap(3, 1)
     found = [ ]
 
     for block in blocks:
@@ -30,20 +30,18 @@ for fontfile in sys.argv[3:]:
         start, end = int(block[1][0], 16), int(block[1][1], 16)
         i = start
         while (i <= end):
-            category = unicodedata.category(unichr(i))
+            category = unicodedata.category(chr(i))
             if category != "Cc" and category!= "Cn":
-                try:
-                    glyph = font[i]
+                if i in cmap.cmap:
                     f += 1
-                except TypeError:
-                    pass
                 t += 1
             i += 1
         if f:
             found.append((name, (t,f)))
 
+    fullname = str(font['name'].getName(4, 1, 0).string, encoding='ascii')
     coverage  = ""
-    coverage += "* %s:\n" %font.fullname
+    coverage += "* %s:\n" %fullname
     for f in found:
         for b in blocks:
             if b[0] == f[0]:
@@ -53,6 +51,8 @@ for fontfile in sys.argv[3:]:
                 percent = present/total*100
                 coverage += "  %s (U+%s-%s): %s/%s (%.2f%%)\n" %(name, start, end, present, total, percent)
 
-    log = log.replace("%%{%s}" %font.fullname, coverage)
+    log = log.replace("%%{%s}" %fullname, coverage)
 
-print log
+outfile = open(sys.argv[-1], "w")
+outfile.write(log)
+outfile.close()

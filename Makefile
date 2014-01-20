@@ -8,6 +8,7 @@ DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
 PY=python
+PY3=python3
 BUILD=$(TOOLS)/build.py
 POSTPROCESS=$(TOOLS)/postprocess.py
 COVERAGE=$(TOOLS)/fontcoverage.py
@@ -49,9 +50,9 @@ $(DOC)/%.pdf: $(DOCSRC)/%.tex
 	@echo "Building $@"
 	@context --nonstopmode --result=$@ $< 1>/dev/null
 
-FONTLOG.txt: FONTLOG.txt.in $(COVERAGE)
+FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 	@echo "Generating $@"
-	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(SFD) > $@
+	@$(PY3) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
 
 dist: $(OTF) $(PDF) FONTLOG.txt
 	@echo "Making dist tarball"
