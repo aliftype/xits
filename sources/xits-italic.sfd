@@ -35,9 +35,9 @@ OS2WinAscent: 32
 OS2WinAOffset: 1
 OS2WinDescent: 150
 OS2WinDOffset: 1
-HheadAscent: 1055
+HheadAscent: 750
 HheadAOffset: 0
-HheadDescent: -455
+HheadDescent: -250
 HheadDOffset: 0
 OS2SubXSize: 500
 OS2SubYSize: 500
