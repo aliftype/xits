@@ -36,19 +36,19 @@ web: $(WOF)
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD) $(POSTPROCESS)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION)
-	@$(PY) $(POSTPROCESS) $@
+	@$(PY) $(POSTPROCESS) $@ $@.post
 	@mv $@.post $@
 
 xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD) $(POSTPROCESS)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION)
-	@$(PY) $(POSTPROCESS) $@
+	@$(PY) $(POSTPROCESS) $@ $@.post
 	@mv $@.post $@
 
 %.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(BUILD) $(POSTPROCESS)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION) $(SRC)/$(FEA)
-	@$(PY) $(POSTPROCESS) $@
+	@$(PY) $(POSTPROCESS) $@ $@.post
 	@mv $@.post $@
 
 $(WEB)/%.woff: %.otf

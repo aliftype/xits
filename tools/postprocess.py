@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 import sys
-from fontTools import ttLib
+from fontTools.ttLib import TTFont
 
-font = ttLib.TTFont(sys.argv[1])
+font = TTFont(sys.argv[1])
 
 MS_Platform_ID  = 3
 MS_Enc_ID       = 1
@@ -20,4 +20,4 @@ psname = cff.cff.fontNames[0]
 fullname = name.getName(FullName_ID, MS_Platform_ID, MS_Enc_ID, MS_Lang_US_ID)
 fullname.string = psname.encode("utf_16_be")
 
-font.save(sys.argv[1] + ".post")
+font.save(sys.argv[2])
