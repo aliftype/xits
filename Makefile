@@ -2,6 +2,7 @@ NAME=xits
 VERSION=1.108
 
 SRC=sources
+WEB=webfonts
 DOC=documentation
 TOOLS=tools
 DOCSRC=$(DOC)/$(DOC)-$(SRC)
@@ -9,6 +10,7 @@ DIST=$(NAME)-$(VERSION)
 
 PY=python
 PY3=python3
+SFNTTOOL=sfnttool
 BUILD=$(TOOLS)/build.py
 POSTPROCESS=$(TOOLS)/postprocess.py
 COVERAGE=$(TOOLS)/fontcoverage.py
@@ -19,12 +21,17 @@ FEA=xits.fea
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfd)
 OTF=$(FONTS:%=$(NAME)-%.otf)
+WOF=$(FONTS:%=$(WEB)/$(NAME)-%.woff)
+EOT=$(FONTS:%=$(WEB)/$(NAME)-%.eot)
 TEX=$(DOCS:%=$(DOCSRC)/%.tex)
 PDF=$(DOCS:%=$(DOC)/%.pdf)
 
-all: otf
+all: otf web
 
 otf: $(OTF)
+# sfntool does not support buiding EOT from OTF fonts
+#web: $(WOF) $(EOT)
+web: $(WOF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD) $(POSTPROCESS)
 	@echo "Building $@"
@@ -43,6 +50,16 @@ xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD) $(POSTPROCESS)
 	@$(PY) $(BUILD) $< $@ $(VERSION) $(SRC)/$(FEA)
 	@$(PY) $(POSTPROCESS) $@
 	@mv $@.post $@
+
+$(WEB)/%.woff: %.otf
+	@echo "Building $@"
+	@mkdir -p $(WEB)
+	@$(SFNTTOOL) -w $< $@
+
+$(WEB)/%.eot: %.otf
+	@echo "Building $@"
+	@mkdir -p $(WEB)
+	@$(SFNTTOOL) -e -x $< $@
 
 doc: $(PDF)
 
