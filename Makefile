@@ -8,7 +8,7 @@ TOOLS=tools
 DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
-PY=python
+PY=python2
 PY3=python3
 SFNTTOOL=sfnttool
 BUILD=$(TOOLS)/build.py
