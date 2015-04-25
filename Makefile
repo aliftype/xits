@@ -12,7 +12,6 @@ PY=python2
 PY3=python3
 SFNTTOOL=sfnttool
 BUILD=$(TOOLS)/build.py
-POSTPROCESS=$(TOOLS)/postprocess.py
 COVERAGE=$(TOOLS)/fontcoverage.py
 
 FONTS=math mathbold regular bold italic bolditalic
@@ -33,23 +32,17 @@ otf: $(OTF)
 #web: $(WOF) $(EOT)
 web: $(WOF)
 
-xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD) $(POSTPROCESS)
+xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION)
-	@$(PY) $(POSTPROCESS) $@ $@.post
-	@mv $@.post $@
 
-xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD) $(POSTPROCESS)
+xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION)
-	@$(PY) $(POSTPROCESS) $@ $@.post
-	@mv $@.post $@
 
-%.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(BUILD) $(POSTPROCESS)
+%.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(BUILD)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@ $(VERSION) $(SRC)/$(FEA)
-	@$(PY) $(POSTPROCESS) $@ $@.post
-	@mv $@.post $@
 
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
@@ -80,7 +73,7 @@ dist: $(OTF) $(PDF) FONTLOG.txt
 	@cp $(SFD) $(DIST)/$(SRC)
 	@cp $(SRC)/$(FEA) $(DIST)/$(SRC)
 	@cp $(OTF) $(DIST)
-	@cp $(POSTPROCESS) $(BUILD) $(COVERAGE) $(DIST)/$(TOOLS)
+	@cp $(BUILD) $(COVERAGE) $(DIST)/$(TOOLS)
 	@cp -r $(PDF) $(DIST)/$(DOC)
 	@cp -r $(TEX) $(DIST)/$(DOCSRC)
 	@cp -r Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
