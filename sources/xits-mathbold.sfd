@@ -118,14 +118,13 @@ MATH:MinConnectorOverlap: 50
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
-BeginPrivate: 7
+BeginPrivate: 6
 BlueValues 23 [-19 0 461 473 676 691]
 BlueShift 1 6
 StdHW 4 [90]
 StdVW 4 [88]
 StemSnapH 31 [29 33 38 43 48 52 57 68 73 78]
 StemSnapV 31 [42 48 51 54 62 66 69 73 79 83]
-ForceBold 4 true
 EndPrivate
 BeginChars: 1114325 2149
 
