@@ -16,7 +16,6 @@ Layer: 1 0 "Fore"  0
 XUID: [1021 862 584604386 11015597]
 UniqueID: 4164958
 FSType: 0
-OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710265
@@ -144652,6 +144651,7 @@ StartChar: bar.size1
 Encoding: 1114185 -1 4301
 Width: 320
 Flags: W
+IsExtendedShape: 1
 VStem: 127 66<-164 1066>
 LayerCount: 2
 Fore
@@ -144668,6 +144668,7 @@ StartChar: uni2016.size1
 Encoding: 1114186 -1 4302
 Width: 523
 Flags: W
+IsExtendedShape: 1
 VStem: 129 66<-164 1066> 328 66<-164 1066>
 LayerCount: 2
 Fore
@@ -144679,6 +144680,7 @@ StartChar: uni2980.size1
 Encoding: 1114187 -1 4303
 Width: 594
 Flags: W
+IsExtendedShape: 1
 VStem: 85 66<-164 1066> 264 66<-164 1066> 443 66<-164 1066>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -144692,6 +144694,7 @@ StartChar: bar.size2
 Encoding: 1114258 -1 4304
 Width: 320
 Flags: W
+IsExtendedShape: 1
 VStem: 127 66<-279 1566>
 LayerCount: 2
 Fore
@@ -144708,6 +144711,7 @@ StartChar: uni2016.size2
 Encoding: 1114259 -1 4305
 Width: 523
 Flags: W
+IsExtendedShape: 1
 VStem: 129 66<-279 1566> 328 66<-279 1566>
 LayerCount: 2
 Fore
@@ -144719,6 +144723,7 @@ StartChar: uni2980.size2
 Encoding: 1114260 -1 4306
 Width: 594
 Flags: W
+IsExtendedShape: 1
 VStem: 85 66<-279 1566> 264 66<-279 1566> 443 66<-279 1566>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -144732,6 +144737,7 @@ StartChar: bar.size3
 Encoding: 1114311 -1 4307
 Width: 320
 Flags: W
+IsExtendedShape: 1
 VStem: 127 66<-394 2066>
 LayerCount: 2
 Fore
@@ -144748,6 +144754,7 @@ StartChar: uni2016.size3
 Encoding: 1114312 -1 4308
 Width: 523
 Flags: W
+IsExtendedShape: 1
 VStem: 129 66<-394 2066> 328 66<-394 2066>
 LayerCount: 2
 Fore
@@ -144759,6 +144766,7 @@ StartChar: uni2980.size3
 Encoding: 1114313 -1 4309
 Width: 594
 Flags: W
+IsExtendedShape: 1
 VStem: 85 66<-394 2066> 264 66<-394 2066> 443 66<-394 2066>
 CounterMasks: 1 e0
 LayerCount: 2
@@ -144772,6 +144780,7 @@ StartChar: bar.size4
 Encoding: 1114363 -1 4310
 Width: 320
 Flags: W
+IsExtendedShape: 1
 VStem: 127 66<-509 2566>
 LayerCount: 2
 Fore
@@ -144788,6 +144797,7 @@ StartChar: uni2016.size4
 Encoding: 1114364 -1 4311
 Width: 523
 Flags: W
+IsExtendedShape: 1
 VStem: 129 66<-509 2566> 328 66<-509 2566>
 LayerCount: 2
 Fore
@@ -144799,6 +144809,7 @@ StartChar: uni2980.size4
 Encoding: 1114365 -1 4312
 Width: 594
 Flags: W
+IsExtendedShape: 1
 VStem: 85 66<-509 2566> 264 66<-509 2566> 443 66<-509 2566>
 CounterMasks: 1 e0
 LayerCount: 2
