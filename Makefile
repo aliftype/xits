@@ -10,8 +10,8 @@ DIST=$(NAME)-$(VERSION)
 
 PY=python2
 PY3=python3
-SFNTTOOL=sfnttool
 BUILD=$(TOOLS)/build.py
+MAKEWEB=$(TOOLS)/makeweb.py
 COVERAGE=$(TOOLS)/fontcoverage.py
 
 FONTS=math mathbold regular bold italic bolditalic
@@ -28,8 +28,6 @@ PDF=$(DOCS:%=$(DOC)/%.pdf)
 all: otf web
 
 otf: $(OTF)
-# sfntool does not support buiding EOT from OTF fonts
-#web: $(WOF) $(EOT)
 web: $(WOF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD)
@@ -47,12 +45,7 @@ xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
 	@mkdir -p $(WEB)
-	@$(SFNTTOOL) -w $< $@
-
-$(WEB)/%.eot: %.otf
-	@echo "Building $@"
-	@mkdir -p $(WEB)
-	@$(SFNTTOOL) -e -x $< $@
+	@$(PY) $(MAKEWEB) $< $(WEB)
 
 doc: $(PDF)
 
