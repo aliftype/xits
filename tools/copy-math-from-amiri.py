@@ -14,12 +14,15 @@ names = []
 alts = []
 for aglyph in amiri.glyphs():
     u = aglyph.unicode
-    if 0x1EEFF >= u >= 0x1EE00:
+    if (u in range(0x1EE00, 0x1EF00) or
+        u in range(0x0660, 0x066E) or
+        u in range(0x06F0, 0x06FA) or
+        u in range(0x0608, 0x060B)):
         names.append(aglyph.name)
 
 for aglyph in amiri.glyphs():
     for name in names:
-        if aglyph.name != name and aglyph.name.startswith(name):
+        if aglyph.name != name and aglyph.name.startswith(name + ".alt"):
             alts.append(aglyph.name)
 
 for name in names + alts:
