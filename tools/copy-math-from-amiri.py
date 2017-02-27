@@ -38,7 +38,7 @@ for name in names + alts:
 for name in alts:
     base, ext = name.split(".")
     if ext.startswith("alt"):
-        xits[base].addPosSub("'cv00' Alternate Arabic Math symbols-1", name)
+        xits[base].addPosSub("'cv01' Alternate Arabic Math symbols-1", name)
     elif ext.startswith("display"):
         xits[base].verticalVariants = (xits[base], xits[name])
     else:

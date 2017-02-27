@@ -61,7 +61,7 @@ Lookup: 1 0 0 "'ss07' Bold Italic Double-Struck Math Alphabet"  {"'ss07' Bold It
 Lookup: 1 0 0 "'ss08' Upright Integrals"  {"'ss08' Upright Integrals-1" ("up" ) } ['ss08' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss09' Negated Symbols With Vertical Stroke"  {"'ss09' Negated Symbols With Vertical Stroke-1" ("ss09" ) } ['ss09' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss10' Plank constant over two pi, with a bar"  {"'ss10' Plank constant over two pi, with a bar-1" ("bar" ) } ['ss10' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 3 0 0 "'cv00' Alternate Arabic Math symbols"  {"'cv00' Alternate Arabic Math symbols-1"  } ['cv00' ('DFLT' <'dflt' > 'arab' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'cv01' Alternate Arabic Math symbols"  {"'cv01' Alternate Arabic Math symbols-1"  } ['cv01' ('DFLT' <'dflt' > 'arab' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -146083,7 +146083,7 @@ SplineSet
  53 591 54 602 58 612 c 0
  83 670 l 0
 EndSplineSet
-AlternateSubs2: "'cv00' Alternate Arabic Math symbols-1" u1EE00.alt0
+AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE00.alt0
 EndChar
 
 StartChar: u1EE01
@@ -146204,7 +146204,7 @@ SplineSet
  393 403 397 405 399 412 c 0
  410 441 416 466 419 487 c 0
 EndSplineSet
-AlternateSubs2: "'cv00' Alternate Arabic Math symbols-1" u1EE03.alt0
+AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE03.alt0
 EndChar
 
 StartChar: u1EE05
@@ -146572,7 +146572,7 @@ SplineSet
  418 463 l 0
  421 472 426 471 433 460 c 0
 EndSplineSet
-AlternateSubs2: "'cv00' Alternate Arabic Math symbols-1" u1EE0D.alt0
+AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE0D.alt0
 EndChar
 
 StartChar: u1EE0E
@@ -146835,7 +146835,7 @@ SplineSet
  364 311 363 313 364 316 c 0
  388 416 l 0
 EndSplineSet
-AlternateSubs2: "'cv00' Alternate Arabic Math symbols-1" u1EE13.alt0
+AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE13.alt0
 EndChar
 
 StartChar: u1EE14
