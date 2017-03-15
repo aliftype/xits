@@ -45,7 +45,7 @@ xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
 	@mkdir -p $(WEB)
-	@$(PY) $(MAKEWEB) $< $(WEB)
+	@$(PY3) $(MAKEWEB) $< $(WEB)
 
 doc: $(PDF)
 
