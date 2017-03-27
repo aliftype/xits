@@ -6,6 +6,9 @@ except ImportError:
 
 font = fontforge.open(sys.argv[1])
 
+for glyph in font.glyphs():
+    glyph.unlinkRmOvrlpSave = True
+
 if len(sys.argv) > 4:
   font.mergeFeature(sys.argv[4])
 
