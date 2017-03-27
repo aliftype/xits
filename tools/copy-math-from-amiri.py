@@ -17,7 +17,8 @@ for aglyph in amiri.glyphs():
     if (u in range(0x1EE00, 0x1EF00) or
         u in range(0x0660, 0x066E) or
         u in range(0x06F0, 0x06FA) or
-        u in range(0x0608, 0x060B)):
+        u in range(0x0608, 0x060B) or
+        u == 0x060C):
         names.append(aglyph.name)
 
 for aglyph in amiri.glyphs():
