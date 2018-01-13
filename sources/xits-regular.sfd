@@ -77714,7 +77714,6 @@ EndChar
 StartChar: zero.numr
 Encoding: 1114123 -1 2317
 Width: 350
-VWidth: 1015
 Flags: W
 HStem: 262 40<125.134 223.81> 636 40<125.889 223.52>
 VStem: 19 76<354.865 583.604> 255 76<352.772 579.953>
@@ -77850,7 +77849,6 @@ EndChar
 StartChar: five.numr
 Encoding: 1114128 -1 2322
 Width: 350
-VWidth: 1010
 Flags: W
 HStem: 262 48<112.399 215.31> 598 72<135 285.641>
 VStem: 238 65<334.633 446.591>
@@ -77931,7 +77929,6 @@ EndChar
 StartChar: eight.numr
 Encoding: 1114131 -1 2325
 Width: 350
-VWidth: 1015
 Flags: W
 HStem: 262 54<123.929 234.494> 623 53<117.264 219.798>
 VStem: 40 70<330.119 420.749 535.844 615.421> 232 62<531.27 609.133> 242 68<325.659 405.259>
@@ -77964,7 +77961,6 @@ EndChar
 StartChar: nine.numr
 Encoding: 1114132 -1 2326
 Width: 350
-VWidth: 1031
 Flags: W
 HStem: 262 24<41 89.4569> 410 38<142.528 222.704> 647 45<124.462 209.392>
 VStem: 26 80<485.148 625.648> 242 82<466.012 610.761>

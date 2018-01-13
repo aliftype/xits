@@ -23839,7 +23839,6 @@ EndChar
 StartChar: uni2032
 Encoding: 8242 8242 693
 Width: 345
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 VStem: 146.587 123.675<676.81 745.813>
@@ -23862,7 +23861,6 @@ EndChar
 StartChar: uni2033
 Encoding: 8243 8243 694
 Width: 548
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 VStem: 146.588 123.675<676.81 745.813> 349.95 123.675<676.81 745.813>
@@ -23892,7 +23890,6 @@ EndChar
 StartChar: uni2034
 Encoding: 8244 8244 695
 Width: 751
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 VStem: 146.587 123.675<676.81 745.813> 349.95 123.675<676.81 745.813> 553.312 123.675<676.81 745.813>
@@ -23930,7 +23927,6 @@ EndChar
 StartChar: uni2035
 Encoding: 8245 8245 696
 Width: 345
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -23952,7 +23948,6 @@ EndChar
 StartChar: uni2036
 Encoding: 8246 8246 697
 Width: 548
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -23981,7 +23976,6 @@ EndChar
 StartChar: uni2037
 Encoding: 8247 8247 698
 Width: 751
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -24398,7 +24392,6 @@ EndChar
 StartChar: uni2057
 Encoding: 8279 8279 710
 Width: 955
-VWidth: 1021
 GlyphClass: 2
 Flags: W
 VStem: 146.587 123.675<676.81 745.813> 349.95 123.675<676.81 745.813> 553.312 123.675<676.81 745.813> 756.675 123.675<676.81 745.813>
@@ -71110,7 +71103,6 @@ EndChar
 StartChar: uni2032.ssty2
 Encoding: 1114231 -1 2055
 Width: 556
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 VStem: 237 194<458.133 566.373>
@@ -71130,7 +71122,6 @@ EndChar
 StartChar: uni2033.ssty2
 Encoding: 1114232 -1 2056
 Width: 875
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 VStem: 237 194<458.133 566.373> 556 194<458.133 566.373>
@@ -71157,7 +71148,6 @@ EndChar
 StartChar: uni2034.ssty2
 Encoding: 1114233 -1 2057
 Width: 1194
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 VStem: 237 194<458.133 566.373> 556 194<458.133 566.373> 875 194<458.133 566.373>
@@ -71192,7 +71182,6 @@ EndChar
 StartChar: uni2035.ssty2
 Encoding: 1114234 -1 2058
 Width: 556
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -71211,7 +71200,6 @@ EndChar
 StartChar: uni2036.ssty2
 Encoding: 1114235 -1 2059
 Width: 875
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -71237,7 +71225,6 @@ EndChar
 StartChar: uni2037.ssty2
 Encoding: 1114236 -1 2060
 Width: 1194
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -71270,7 +71257,6 @@ EndChar
 StartChar: uni2057.ssty2
 Encoding: 1114237 -1 2061
 Width: 1513
-VWidth: 1016
 GlyphClass: 2
 Flags: W
 VStem: 237 194<458.133 566.373> 556 194<458.133 566.373> 875 194<458.133 566.373> 1194 194<458.133 566.373>
@@ -71311,7 +71297,6 @@ EndChar
 StartChar: uni2032.ssty1
 Encoding: 1114238 -1 2062
 Width: 460
-VWidth: 854
 Flags: W
 VStem: 195.45 164.9<394.413 486.417>
 LayerCount: 2
@@ -71322,7 +71307,6 @@ EndChar
 StartChar: uni2033.ssty1
 Encoding: 1114239 -1 2063
 Width: 731
-VWidth: 854
 Flags: W
 VStem: 195.45 164.9<394.413 486.417> 466.6 164.9<394.413 486.417>
 LayerCount: 2
@@ -71333,7 +71317,6 @@ EndChar
 StartChar: uni2034.ssty1
 Encoding: 1114240 -1 2064
 Width: 1002
-VWidth: 854
 Flags: W
 VStem: 195.45 164.9<394.413 486.417> 466.6 164.9<394.413 486.417> 737.75 164.9<394.413 486.417>
 LayerCount: 2
@@ -71344,7 +71327,6 @@ EndChar
 StartChar: uni2035.ssty1
 Encoding: 1114241 -1 2065
 Width: 460
-VWidth: 854
 Flags: W
 LayerCount: 2
 Fore
@@ -71354,7 +71336,6 @@ EndChar
 StartChar: uni2036.ssty1
 Encoding: 1114242 -1 2066
 Width: 731
-VWidth: 854
 Flags: W
 LayerCount: 2
 Fore
@@ -71364,7 +71345,6 @@ EndChar
 StartChar: uni2037.ssty1
 Encoding: 1114243 -1 2067
 Width: 1002
-VWidth: 854
 Flags: W
 LayerCount: 2
 Fore
@@ -71374,7 +71354,6 @@ EndChar
 StartChar: uni2057.ssty1
 Encoding: 1114244 -1 2068
 Width: 1273
-VWidth: 854
 Flags: W
 VStem: 195.45 164.9<394.413 486.417> 466.6 164.9<394.413 486.417> 737.75 164.9<394.413 486.417> 1008.9 164.9<394.413 486.417>
 LayerCount: 2
