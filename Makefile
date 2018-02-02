@@ -8,8 +8,7 @@ TOOLS=tools
 DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
-PY=python2
-PY3=python3
+PY=python
 BUILD=$(TOOLS)/build.py
 MAKEWEB=$(TOOLS)/makeweb.py
 COVERAGE=$(TOOLS)/fontcoverage.py
@@ -45,7 +44,7 @@ xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
 	@mkdir -p $(WEB)
-	@$(PY3) $(MAKEWEB) $< $(WEB)
+	@$(PY) $(MAKEWEB) $< $(WEB)
 
 doc: $(PDF)
 
@@ -55,7 +54,7 @@ $(DOC)/%.pdf: $(DOCSRC)/%.tex
 
 FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 	@echo "Generating $@"
-	@$(PY3) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
+	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
 
 dist: $(OTF) $(PDF) FONTLOG.txt
 	@echo "Making dist tarball"
