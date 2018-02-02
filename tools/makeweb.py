@@ -4,8 +4,6 @@ import os
 from fontTools.ttLib import TTFont
 
 def makeWeb(args):
-    """If we are building a web version then try to minimise file size"""
-
     font = TTFont(args.file)
 
     base, ext = os.path.splitext(args.file)
