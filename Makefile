@@ -20,7 +20,6 @@ DOCS=user-guide xits-specimen
 SFD=$(FONTS:%=$(SRC)/%.sfd)
 OTF=$(FONTS:%=%.otf)
 WOF=$(FONTS:%=$(WEB)/%.woff)
-EOT=$(FONTS:%=$(WEB)/%.eot)
 TEX=$(DOCS:%=$(DOCSRC)/%.tex)
 PDF=$(DOCS:%=$(DOC)/%.pdf)
 
