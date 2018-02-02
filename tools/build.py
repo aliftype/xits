@@ -2,8 +2,9 @@ import sys
 
 import fontforge
 
+infile, outfile, version = sys.argv[1:4]
 
-font = fontforge.open(sys.argv[1])
+font = fontforge.open(infile)
 
 for glyph in font.glyphs():
     glyph.unlinkRmOvrlpSave = True
@@ -11,5 +12,5 @@ for glyph in font.glyphs():
 if len(sys.argv) > 4:
   font.mergeFeature(sys.argv[4])
 
-font.version = sys.argv[3]
-font.generate(sys.argv[2], flags=("round", "opentype"))
+font.version = version
+font.generate(outfile, flags=("round", "opentype"))
