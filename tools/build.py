@@ -1,34 +1,53 @@
+import argparse
 import os
-import sys
 
 import fontforge
 from fontTools.ttLib import TTFont
 
-infile, outfile, version = sys.argv[1:4]
 
-mods = [os.stat(infile).st_mtime]
+def postProcess(args):
+    font = TTFont(args.output)
 
-font = fontforge.open(infile)
+    # Drop useless table with timestamp
+    if "FFTM" in font:
+        del font["FFTM"]
 
-for glyph in font.glyphs():
-    glyph.unlinkRmOvrlpSave = True
+    font.save(args.output)
 
-if len(sys.argv) > 4:
-  mods += [os.stat(sys.argv[4]).st_mtime]
-  font.mergeFeature(sys.argv[4])
 
-os.environ["SOURCE_DATE_EPOCH"] = "%d" % max(mods)
+def makeFont(args):
+    mods = [os.stat(args.input).st_mtime]
 
-font.appendSFNTName("English (US)", "UniqueID", "%s;%s;%s" % (version,
-    font.os2_vendor, font.fontname))
+    font = fontforge.open(args.input)
 
-font.version = version
-font.generate(outfile, flags=("round", "opentype"))
+    for glyph in font.glyphs():
+        glyph.unlinkRmOvrlpSave = True
 
-ttfont = TTFont(outfile)
+    if args.features:
+        mods += [os.stat(args.features).st_mtime]
+        font.mergeFeature(args.features)
 
-# Drop useless table with timestamp
-if "FFTM" in ttfont:
-    del ttfont["FFTM"]
+    os.environ["SOURCE_DATE_EPOCH"] = "%d" % max(mods)
 
-ttfont.save(outfile)
+    font.appendSFNTName("English (US)", "UniqueID", "%s;%s;%s" % (args.version,
+        font.os2_vendor, font.fontname))
+
+    font.version = args.version
+    font.generate(args.output, flags=("round", "opentype"))
+
+    postProcess(args)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Create web fonts.")
+    parser.add_argument("input", help="input font file name")
+    parser.add_argument("output", help="output font file name")
+    parser.add_argument("--version", help="font version", required=True)
+    parser.add_argument("--features", help="font features file name")
+
+    args = parser.parse_args()
+
+    makeFont(args)
+
+if __name__ == "__main__":
+    main()

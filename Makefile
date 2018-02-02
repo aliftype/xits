@@ -31,15 +31,15 @@ web: $(WOF)
 
 xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD)
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ $(VERSION)
+	@$(PY) $(BUILD) $< $@ --version=$(VERSION)
 
 xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ $(VERSION)
+	@$(PY) $(BUILD) $< $@ --version=$(VERSION)
 
 %.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(BUILD)
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ $(VERSION) $(SRC)/$(FEA)
+	@$(PY) $(BUILD) $< $@ --version=$(VERSION) --features=$(SRC)/$(FEA)
 
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
