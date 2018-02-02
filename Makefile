@@ -49,16 +49,12 @@ FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 
 dist: $(OTF) $(WOF) $(PDF) FONTLOG.txt
 	@echo "Making dist tarball"
-	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(DOC)
-	@mkdir -p $(DIST)/$(DOCSRC)
-	@mkdir -p $(DIST)/$(TOOLS)
-	@cp $(SFD) $(DIST)/$(SRC)
+	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
-	@cp $(MAKEFNT) $(COVERAGE) $(DIST)/$(TOOLS)
+	@cp $(WOF) $(DIST)/$(WEB)
 	@cp -r $(PDF) $(DIST)/$(DOC)
-	@cp -r $(TEX) $(DIST)/$(DOCSRC)
-	@cp -r Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
+	@cp -r OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
