@@ -1,11 +1,10 @@
 SplineFontDB: 3.0
-FontName: XITS
+FontName: XITS-Regular
 FullName: XITS
 FamilyName: XITS
 Weight: Regular
 Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
 Version: $version
-DefaultBaseFilename: xits-regular
 ItalicAngle: 0
 UnderlinePosition: -50
 UnderlineWidth: 50
