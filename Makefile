@@ -23,7 +23,7 @@ EOT=$(FONTS:%=$(WEB)/$(NAME)-%.eot)
 TEX=$(DOCS:%=$(DOCSRC)/%.tex)
 PDF=$(DOCS:%=$(DOC)/%.pdf)
 
-all: otf web
+all: otf
 
 otf: $(OTF)
 web: $(WOF)
@@ -47,7 +47,7 @@ FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 	@echo "Generating $@"
 	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
 
-dist: $(OTF) $(PDF) FONTLOG.txt
+dist: $(OTF) $(WOF) $(PDF) FONTLOG.txt
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(SRC)
 	@mkdir -p $(DIST)/$(DOC)
