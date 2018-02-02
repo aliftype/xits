@@ -15,7 +15,6 @@ COVERAGE=$(TOOLS)/fontcoverage.py
 
 FONTS=math mathbold regular bold italic bolditalic
 DOCS=user-guide xits-specimen
-FEA=xits.fea
 
 SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfd)
 OTF=$(FONTS:%=$(NAME)-%.otf)
@@ -29,17 +28,9 @@ all: otf web
 otf: $(OTF)
 web: $(WOF)
 
-xits-math.otf: $(SRC)/xits-math.sfd
+%.otf: $(SRC)/%.sfd $(SRC)/%.fea
 	@echo "Building $@"
-	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION)
-
-xits-mathbold.otf: $(SRC)/xits-mathbold.sfd
-	@echo "Building $@"
-	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION)
-
-%.otf: $(SRC)/%.sfd $(SRC)/$(FEA)
-	@echo "Building $@"
-	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION) --features=$(SRC)/$(FEA)
+	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION) --features=$(word 2,$+)
 
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
@@ -63,7 +54,6 @@ dist: $(OTF) $(PDF) FONTLOG.txt
 	@mkdir -p $(DIST)/$(DOCSRC)
 	@mkdir -p $(DIST)/$(TOOLS)
 	@cp $(SFD) $(DIST)/$(SRC)
-	@cp $(SRC)/$(FEA) $(DIST)/$(SRC)
 	@cp $(OTF) $(DIST)
 	@cp $(MAKEFNT) $(COVERAGE) $(DIST)/$(TOOLS)
 	@cp -r $(PDF) $(DIST)/$(DOC)
