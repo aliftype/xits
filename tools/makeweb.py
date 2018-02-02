@@ -7,9 +7,8 @@ def makeWeb(args):
     font = TTFont(args.file)
 
     base, ext = os.path.splitext(args.file)
-    for flavor in ("woff", "woff2"):
-        font.flavor = flavor
-        font.save(args.dir + "/" + base + "." + flavor)
+    font.flavor = "woff"
+    font.save(os.path.join(args.dir, base + ".woff"))
     font.close()
 
 
