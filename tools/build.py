@@ -1,8 +1,7 @@
 import sys
-try:
-    from sortsmill import ffcompat as fontforge
-except ImportError:
-    import fontforge
+
+import fontforge
+
 
 font = fontforge.open(sys.argv[1])
 

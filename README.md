@@ -20,18 +20,17 @@ Developers
 ----------
 
 The preferred way for modifying the fonts is by editing the SFD files under
-`sources`, using [Sorts Mill Tools][3] or [FontForge][4]. When submitting
+`sources`, using [FontForge][3] (or derivatives). When submitting
 patches, please make sure they are as clean as possible, avoiding any unrelated
 or unnecessary changes.
 
 To build the fonts from source you need a make program (only GNU Make is
-tested), either [Sorts Mill Tools][3] (preferred) or [FontForge][4] with Python
-support, and [FontTools][5].
+tested), [FontForge][3] (or derivatives) with Python support, and
+[FontTools][4].
 
 
 
 [1]: http://www.stixfonts.org
 [2]: http://scripts.sil.org/OFL
-[3]: http://sortsmill.bitbucket.org/
-[4]: http://fontforge.org/
-[5]: http://github.com/behdad/fonttools
+[3]: http://fontforge.org/
+[4]: http://github.com/behdad/fonttools

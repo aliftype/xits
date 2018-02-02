@@ -1,5 +1,6 @@
 import sys
-from sortsmill import ffcompat as fontforge
+
+import fontforge
 
 
 amiri = fontforge.open(sys.argv[1])
