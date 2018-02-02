@@ -52,35 +52,11 @@ OS2StrikeYPos: 306
 OS2CapHeight: 662
 OS2XHeight: 450
 OS2Vendor: 'ALIF'
-Lookup: 1 0 0 "'rtlm' RTL mirrored math glyphs" { "'rtlm' RTL mirrored math glyphs-1"  "'rtlm' RTL mirrored math glyphs-2" ("rtlm") "'rtlm' RTL mirrored math glyphs-3"  } ['rtlm' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'dtls' Dotless Forms 2" { "'dtls' Dotless Forms 2-1" ("dtls") } ['dtls' ('math' <'dflt' > ) ]
-Lookup: 3 0 0 "'ssty' Script Style 4" { "'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Calligraphic Math Alphabet" { "'ss01' Calligraphic Math Alphabet-1" ("cal") } ['ss01' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Sans Serif Math Greek" { "'ss02' Sans Serif Math Greek-1" ("ss") } ['ss02' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss03' Sans Serif Italic Math Digits" { "'ss03' Sans Serif Italic Math Digits-1" ("ss") } ['ss03' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss04' Bold Monospace Math digits" { "'ss04' Bold Monospace Math digits-1" ("bf") } ['ss04' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss05' Bold Double-Struck Math Alphabet" { "'ss05' Bold Double-Struck Math Alphabet-1" ("bf") } ['ss05' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss06' Italic Double-Struck Math Alphabet" { "'ss06' Italic Double-Struck Math Alphabet-1" ("it") } ['ss06' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss07' Bold Italic Double-Struck Math Alphabet" { "'ss07' Bold Italic Double-Struck Math Alphabet-1" ("bi") } ['ss07' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss08' Upright Integrals" { "'ss08' Upright Integrals-1" ("up") } ['ss08' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss09' Negated Symbols With Vertical Stroke" { "'ss09' Negated Symbols With Vertical Stroke-1" ("ss09") } ['ss09' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss10' Plank constant over two pi, with a bar" { "'ss10' Plank constant over two pi, with a bar-1" ("bar") } ['ss10' ('DFLT' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 3 0 0 "'cv01' Alternate Arabic Math symbols" { "'cv01' Alternate Arabic Math symbols-1"  } ['cv01' ('DFLT' <'dflt' > 'arab' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "https://github.com/khaledhosny/xits" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html"
 GaspTable: 2 8 3 65535 3 0
-OtfFeatName: 'ss10' 1033 "Plank constant over two pi, with a bar"
-OtfFeatName: 'ss09' 1033 "Negated Symbols With Vertical Stroke"
-OtfFeatName: 'ss08' 1033 "Upright Integrals"
-OtfFeatName: 'ss07' 1033 "Mathematical Bold Italic Double-Struck Alphabet"
-OtfFeatName: 'ss06' 1033 "Mathematical Italic Double-Struck Alphabet"
-OtfFeatName: 'ss05' 1033 "Mathematical Bold Double-Struck Alphabet"
-OtfFeatName: 'ss04' 1033 "Mathematical Bold Monospace Digits"
-OtfFeatName: 'ss03' 1033 "Mathematical Italic Sans Serif Digits"
-OtfFeatName: 'ss02' 1033 "Mathematical Greek Sans Serif Alphabet"
-OtfFeatName: 'ss01' 1033 "Mathematical Calligraphic Alphabet"
 MATH:ScriptPercentScaleDown: 75
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -2474,7 +2450,6 @@ SplineSet
  253 0 l 1xd0
 EndSplineSet
 Kerns2: 75 -34 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'dtls' Dotless Forms 2-1" dotlessi
 EndChar
 
 StartChar: j
@@ -2509,7 +2484,6 @@ SplineSet
  91 424 129 437 188 460 c 1
  193 457 l 1xe8
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" uni0237
 EndChar
 
 StartChar: k
@@ -20279,7 +20253,6 @@ SplineSet
  -23 662 l 1
  31 662 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni20D2
 EndChar
 
 StartChar: uni0339
@@ -21071,7 +21044,6 @@ SplineSet
  216 257 l 1
  447 257 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0391.ss
 EndChar
 
 StartChar: uni0392
@@ -21109,7 +21081,6 @@ SplineSet
  478 302 390 326 280 326 c 2
  215 326 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0392.ss
 EndChar
 
 StartChar: uni0393
@@ -21140,7 +21111,6 @@ SplineSet
  572 662 l 1
  577 494 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0393.ss
 EndChar
 
 StartChar: uni0394
@@ -21163,7 +21133,6 @@ SplineSet
  136 92 l 1
  524 92 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0394.ss
 EndChar
 
 StartChar: uni0395
@@ -21201,7 +21170,6 @@ SplineSet
  481 37 524 63 569 169 c 1
  597 169 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0395.ss
 EndChar
 
 StartChar: uni0396
@@ -21231,7 +21199,6 @@ SplineSet
  548 89 557 117 575 176 c 1
  598 176 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0396.ss
 EndChar
 
 StartChar: uni0397
@@ -21273,7 +21240,6 @@ SplineSet
  614 40 628 25 703 19 c 1
  703 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0397.ss
 EndChar
 
 StartChar: uni0398
@@ -21315,7 +21281,6 @@ SplineSet
  412 22 456 37 491 70 c 0
  546 123 574 217 574 337 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0398.ss
 EndChar
 
 StartChar: uni0399
@@ -21341,7 +21306,6 @@ SplineSet
  217 37 233 22 315 19 c 1
  315 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni0399.ss
 EndChar
 
 StartChar: uni039A
@@ -21387,7 +21351,6 @@ SplineSet
  650 37 677 19 723 19 c 1
  723 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039A.ss
 EndChar
 
 StartChar: uni039B
@@ -21419,7 +21382,6 @@ SplineSet
  620 46 635 25 687 19 c 1
  687 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039B.ss
 EndChar
 
 StartChar: uni039C
@@ -21459,7 +21421,6 @@ SplineSet
  776 41 791 24 864 19 c 1
  864 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039C.ss
 EndChar
 
 StartChar: uni039D
@@ -21496,7 +21457,6 @@ SplineSet
  470 662 l 1
  707 662 l 1x78
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039D.ss
 EndChar
 
 StartChar: uni039E
@@ -21540,7 +21500,6 @@ SplineSet
  614 171 l 1
  614 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039E.ss
 EndChar
 
 StartChar: uni039F
@@ -21567,7 +21526,6 @@ SplineSet
  412 22 456 37 491 70 c 0
  546 123 574 217 574 337 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni039F.ss
 EndChar
 
 StartChar: uni03A0
@@ -21603,7 +21561,6 @@ SplineSet
  614 40 628 25 703 19 c 1
  703 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A0.ss
 EndChar
 
 StartChar: uni03A1
@@ -21640,7 +21597,6 @@ SplineSet
  433 585 373 625 237 625 c 0
  208 625 202 616 202 589 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A1.ss
 EndChar
 
 StartChar: uni03A3
@@ -21670,7 +21626,6 @@ SplineSet
  535 95 562 128 577 204 c 1
  600 204 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A3.ss
 EndChar
 
 StartChar: uni03A4
@@ -21701,7 +21656,6 @@ SplineSet
  586 662 l 1
  593 492 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A4.ss
 EndChar
 
 StartChar: uni03A5
@@ -21735,7 +21689,6 @@ SplineSet
  424 579 537 671 639 671 c 0
  661 671 680 670 703 658 c 1x20
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A5.ss
 EndChar
 
 StartChar: uni03A6
@@ -21777,7 +21730,6 @@ SplineSet
  221 523 144 416 144 318 c 0
  144 224 211 140 332 140 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A6.ss
 EndChar
 
 StartChar: uni03A7
@@ -21825,7 +21777,6 @@ SplineSet
  632 37 651 25 704 19 c 1
  704 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A7.ss
 EndChar
 
 StartChar: uni03A8
@@ -21867,7 +21818,6 @@ SplineSet
  556 307 569 414 569 509 c 0
  569 615 607 690 724 690 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A8.ss
 EndChar
 
 StartChar: uni03A9
@@ -21903,7 +21853,6 @@ SplineSet
  715 169 l 1
  715 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03A9.ss
 EndChar
 
 StartChar: uni03AA
@@ -22204,7 +22153,6 @@ SplineSet
  119 199 136 18 225 18 c 0
  294 18 321 155 331 208 c 1x98
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B1.ss
 EndChar
 
 StartChar: uni03B2
@@ -22245,7 +22193,6 @@ SplineSet
  187 655 155 593 155 500 c 2
  155 485 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B2.ss
 EndChar
 
 StartChar: uni03B3
@@ -22272,7 +22219,6 @@ SplineSet
  344 450 l 1
  444 450 l 1x20
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B3.ss
 EndChar
 
 StartChar: uni03B4
@@ -22305,7 +22251,6 @@ SplineSet
  192 37 231 18 260 18 c 0
  337 18 380 89 380 208 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B4.ss
 EndChar
 
 StartChar: uni03B5
@@ -22340,7 +22285,6 @@ SplineSet
  115 71 168 40 220 40 c 0
  294 40 344 77 393 145 c 1xf0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B5.ss
 EndChar
 
 StartChar: uni03B6
@@ -22377,7 +22321,6 @@ SplineSet
  106 518 55 542 55 593 c 0
  55 632 87 665 153 683 c 1x48
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B6.ss
 EndChar
 
 StartChar: uni03B7
@@ -22410,7 +22353,6 @@ SplineSet
  436 -132 l 2
  436 -171 441 -199 452 -217 c 1x38
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B7.ss
 EndChar
 
 StartChar: uni03B8
@@ -22440,7 +22382,6 @@ SplineSet
  120 179 137 18 256 18 c 0
  341 18 378 140 378 316 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B8.ss
 EndChar
 
 StartChar: uni03B9
@@ -22467,7 +22408,6 @@ SplineSet
  179 69 184 56 199 56 c 0
  221 56 229 66 252 107 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03B9.ss
 EndChar
 
 StartChar: uni03BA
@@ -22506,7 +22446,6 @@ SplineSet
  434 35 458 20 503 15 c 1
  503 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BA.ss
 EndChar
 
 StartChar: uni03BB
@@ -22538,7 +22477,6 @@ SplineSet
  366 97 388 59 417 59 c 0
  434 59 470 79 477 137 c 1xa0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BB.ss
 EndChar
 
 StartChar: uni03BC
@@ -22575,7 +22513,6 @@ SplineSet
  429 67 438 56 449 56 c 0
  468 56 479 65 501 106 c 1x6c
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BC.ss
 EndChar
 
 StartChar: uni03BD
@@ -22603,7 +22540,6 @@ SplineSet
  180 90 l 1
  319 113 424 336 424 460 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BD.ss
 EndChar
 
 StartChar: uni03BE
@@ -22647,7 +22583,6 @@ SplineSet
  110 536 81 554 81 594 c 0
  81 635 111 665 177 683 c 1x48
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BE.ss
 EndChar
 
 StartChar: uni03BF
@@ -22671,7 +22606,6 @@ SplineSet
  124 161 166 22 269 22 c 0
  349 22 384 125 384 191 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03BF.ss
 EndChar
 
 StartChar: uni03C0
@@ -22705,7 +22639,6 @@ SplineSet
  362 97 375 73 405 73 c 0
  427 73 454 82 467 137 c 1x70
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C0.ss
 EndChar
 
 StartChar: uni03C1
@@ -22735,7 +22668,6 @@ SplineSet
  380 352 321 432 247 432 c 0
  188 432 155 369 155 273 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C1.ss
 EndChar
 
 StartChar: uni03C2
@@ -22767,7 +22699,6 @@ SplineSet
  35 333 169 460 283 460 c 0
  386 460 432 404 432 352 c 0x5c
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C2.ss
 EndChar
 
 StartChar: uni03C3
@@ -22794,7 +22725,6 @@ SplineSet
  119 119 191 18 261 18 c 0
  340 18 377 96 377 171 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C3.ss
 EndChar
 
 StartChar: uni03C4
@@ -22823,7 +22753,6 @@ SplineSet
  442 450 l 1
  442 366 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C4.ss
 EndChar
 
 StartChar: uni03C5
@@ -22854,7 +22783,6 @@ SplineSet
  326 418 294 437 255 440 c 1
  255 460 l 1xb8
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C5.ss
 EndChar
 
 StartChar: uni03C6
@@ -22892,7 +22820,6 @@ SplineSet
  353 432 353 348 353 258 c 2
  353 18 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C6.ss
 EndChar
 
 StartChar: uni03C7
@@ -22925,7 +22852,6 @@ SplineSet
  388 450 l 1
  486 450 l 1x20
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C7.ss
 EndChar
 
 StartChar: uni03C8
@@ -22959,7 +22885,6 @@ SplineSet
  509 356 531 460 632 460 c 0
  650 460 670 460 684 457 c 1xa0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C8.ss
 EndChar
 
 StartChar: uni03C9
@@ -22994,7 +22919,6 @@ SplineSet
  497 18 505 116 505 208 c 0
  505 362 454 445 361 445 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03C9.ss
 EndChar
 
 StartChar: uni03CA
@@ -23247,7 +23171,6 @@ SplineSet
  203 646 168 615 168 559 c 0
  168 505 197 382 369 322 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03D1.ss
 EndChar
 
 StartChar: uni03D2
@@ -23321,7 +23244,6 @@ SplineSet
  119 193 136 120 173 68 c 0
  197 34 235 18 270 18 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03D5.ss
 EndChar
 
 StartChar: uni03D6
@@ -23361,7 +23283,6 @@ SplineSet
  583 18 596 118 596 206 c 0
  596 259 581 332 558 366 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03D6.ss
 EndChar
 
 StartChar: uni03D8
@@ -23718,7 +23639,6 @@ SplineSet
  119 155 162 18 266 18 c 0
  359 18 380 133 380 217 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03F1.ss
 EndChar
 
 StartChar: uni03F4
@@ -23748,7 +23668,6 @@ SplineSet
  412 22 456 37 491 70 c 0
  542 119 571 205 574 315 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03F4.ss
 EndChar
 
 StartChar: uni03F5
@@ -23778,7 +23697,6 @@ SplineSet
  115 123 162 31 246 31 c 0
  304 31 349 55 392 113 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni03F5.ss
 EndChar
 
 StartChar: uni03F6
@@ -28668,7 +28586,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4294 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2032.ssty1 uni2032.ssty2
 EndChar
 
 StartChar: uni2033
@@ -28696,7 +28613,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4295 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2033.ssty1 uni2033.ssty2
 EndChar
 
 StartChar: uni2034
@@ -28732,7 +28648,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4296 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2034.ssty1 uni2034.ssty2
 EndChar
 
 StartChar: uni2035
@@ -28753,7 +28668,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4297 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2035.ssty1 uni2035.ssty2
 EndChar
 
 StartChar: uni2036
@@ -28781,7 +28695,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4298 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2036.ssty1 uni2036.ssty2
 EndChar
 
 StartChar: uni2037
@@ -28816,7 +28729,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4299 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2037.ssty1 uni2037.ssty2
 EndChar
 
 StartChar: uni2038
@@ -29279,7 +29191,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 4300 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2057.ssty1 uni2057.ssty2
 EndChar
 
 StartChar: uni205F
@@ -30084,9 +29995,6 @@ SplineSet
  89 264 111 201 148 145 c 0
  154 135 160 125 169 118 c 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni2102.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2102.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2102.it
 EndChar
 
 StartChar: uni2105
@@ -30279,7 +30187,6 @@ SplineSet
  86 24 98 17 110 15 c 1
  171 15 253 147 307 241 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni210B.cal
 EndChar
 
 StartChar: uni210C
@@ -30360,9 +30267,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni210D.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni210D.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni210D.it
 EndChar
 
 StartChar: uni210E
@@ -30450,7 +30354,6 @@ SplineSet
  431 57 435 50 444 50 c 0
  461 50 483 59 532 117 c 1xb0
 EndSplineSet
-Substitution2: "'ss10' Plank constant over two pi, with a bar-1" uni210F.bar
 EndChar
 
 StartChar: uni2110
@@ -30495,7 +30398,6 @@ SplineSet
  437 422 465 371 536 362 c 1
  594 475 649 547 729 601 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2110.cal
 EndChar
 
 StartChar: uni2111
@@ -30589,7 +30491,6 @@ SplineSet
  74 32 103 21 161 21 c 0
  200 21 235 24 266 35 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2112.cal
 EndChar
 
 StartChar: uni2113
@@ -30658,9 +30559,6 @@ SplineSet
  515 44 l 1
  584 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni2115.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2115.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2115.it
 EndChar
 
 StartChar: uni2116
@@ -30834,9 +30732,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni2119.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2119.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2119.it
 EndChar
 
 StartChar: uni211A
@@ -30882,9 +30777,6 @@ SplineSet
  332 34 359 30 381 30 c 0
  404 30 433 34 460 41 c 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni211A.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni211A.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni211A.it
 EndChar
 
 StartChar: uni211B
@@ -30940,7 +30832,6 @@ SplineSet
  649 354 669 348 686 337 c 1
  766 345 814 417 814 486 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni211B.cal
 EndChar
 
 StartChar: uni211C
@@ -31032,9 +30923,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni211D.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni211D.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni211D.it
 EndChar
 
 StartChar: uni211E
@@ -31109,9 +30997,6 @@ SplineSet
  200 44 l 1
  617 618 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" uni2124.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" uni2124.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" uni2124.it
 EndChar
 
 StartChar: uni2125
@@ -31382,7 +31267,6 @@ SplineSet
  675 352 697 348 717 338 c 1
  803 345 841 421 841 485 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni212C.cal
 EndChar
 
 StartChar: uni212D
@@ -31532,7 +31416,6 @@ SplineSet
  546 621 416 520 403 430 c 1
  567 440 693 525 693 588 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2130.cal
 EndChar
 
 StartChar: uni2131
@@ -31588,7 +31471,6 @@ SplineSet
  468 320 472 330 477 341 c 0
  520 439 577 500 657 568 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2131.cal
 EndChar
 
 StartChar: uni2132
@@ -31661,7 +31543,6 @@ SplineSet
  668 317 821 648 1020 674 c 1
  1028 674 1036 674 1048 672 c 1x3c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" uni2133.cal
 EndChar
 
 StartChar: uni2134
@@ -32013,7 +31894,6 @@ SplineSet
  265 -201 l 1
  550 252 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2140.rtlm
 EndChar
 
 StartChar: uni2141
@@ -36321,7 +36201,6 @@ SplineSet
  338 220 l 1
  404 220 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2201.rtlm
 EndChar
 
 StartChar: uni2202
@@ -36350,8 +36229,6 @@ SplineSet
  310.234853974 18.9934674538 337 132.427147364 337 230 c 0
  337 321 306 428 233 428 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" uni2202.ss
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2202.rtlm
 EndChar
 
 StartChar: uni2203
@@ -36378,7 +36255,6 @@ SplineSet
  487 662 l 1
  487 0 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2203.rtlm
 EndChar
 
 StartChar: uni2204
@@ -36423,7 +36299,6 @@ SplineSet
  194 66 l 1
  421 66 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2204.rtlm
 EndChar
 
 StartChar: uni2205
@@ -36568,7 +36443,6 @@ SplineSet
  138 162 174 108 223 75 c 1
  295 219 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2209.ss09
 EndChar
 
 StartChar: uni220A
@@ -36664,7 +36538,6 @@ SplineSet
  351 39 l 2
  454 39 540 124 557 219 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni220C.ss09
 EndChar
 
 StartChar: uni220D
@@ -36816,7 +36689,6 @@ SplineSet
  768 -128 804 -60 826 40 c 1
  856 40 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2211.rtlm
 EndChar
 
 StartChar: uni2213
@@ -37012,7 +36884,6 @@ SplineSet
  909 973 l 1
  963 973 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221A.rtlm
 EndChar
 
 StartChar: uni221B
@@ -37058,7 +36929,6 @@ SplineSet
  909 973 l 1
  963 973 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221B.rtlm
 EndChar
 
 StartChar: uni221C
@@ -37102,7 +36972,6 @@ SplineSet
  909 973 l 1
  963 973 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221C.rtlm
 EndChar
 
 StartChar: uni221D
@@ -37133,7 +37002,6 @@ SplineSet
  101 167 152 84 240 84 c 0
  329 84 377 145 404 181 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221D.rtlm
 EndChar
 
 StartChar: uni221E
@@ -37186,7 +37054,6 @@ SplineSet
  634 66 l 1
  634 0 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni221F.rtlm
 EndChar
 
 StartChar: uni2220
@@ -37205,7 +37072,6 @@ SplineSet
  643 66 l 1
  643 0 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2220.rtlm
 EndChar
 
 StartChar: uni2221
@@ -37237,7 +37103,6 @@ SplineSet
  463 143 433 213 388 273 c 1
  181 66 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2221.rtlm
 EndChar
 
 StartChar: uni2222
@@ -37272,7 +37137,6 @@ SplineSet
  513 290 508 329 498 367 c 1
  228 253 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2222.rtlm
 EndChar
 
 StartChar: uni2223
@@ -37466,8 +37330,6 @@ SplineSet
  97 -286 101 -289 108 -289 c 0
  155 -289 179 -225 204 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni222B.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni222B.up
 EndChar
 
 StartChar: uni222C
@@ -37517,8 +37379,6 @@ SplineSet
  97 -286 101 -289 108 -289 c 0
  155 -289 179 -225 204 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni222C.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni222C.up
 EndChar
 
 StartChar: uni222D
@@ -37585,8 +37445,6 @@ SplineSet
  97 -286 101 -289 108 -289 c 0
  155 -289 179 -225 204 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni222D.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni222D.up
 EndChar
 
 StartChar: uni222E
@@ -37637,8 +37495,6 @@ SplineSet
  147 176 191 111 255 81 c 1
  344 438 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni222E.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni222E.up
 EndChar
 
 StartChar: uni222F
@@ -37714,8 +37570,6 @@ SplineSet
  226 399 148 331 148 252 c 0
  148 194 192 141 261 107 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni222F.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni222F.up
 EndChar
 
 StartChar: uni2230
@@ -37816,8 +37670,6 @@ SplineSet
  220 380 145 323 145 252 c 0
  145 192 189 146 263 114 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2230.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2230.up
 EndChar
 
 StartChar: uni2231
@@ -37872,8 +37724,6 @@ SplineSet
  83 266 184 367 308 367 c 0
  314 367 320 367 326 366 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2231.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2231.up
 EndChar
 
 StartChar: uni2232
@@ -37936,8 +37786,6 @@ SplineSet
  148 178 192 113 255 83 c 1
  344 439 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2232.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2232.up
 EndChar
 
 StartChar: uni2233
@@ -38000,8 +37848,6 @@ SplineSet
  148 178 192 113 255 83 c 1
  344 439 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2233.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2233.up
 EndChar
 
 StartChar: uni2234
@@ -38160,7 +38006,6 @@ SplineSet
  448 286 l 1
  448 220 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2239.rtlm
 EndChar
 
 StartChar: uni223A
@@ -38373,7 +38218,6 @@ SplineSet
  410 253 452 224 487 224 c 0
  561 224 591 301 604 362 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2241.ss09
 Colour: ff0000
 EndChar
 
@@ -38462,7 +38306,6 @@ SplineSet
  637 121 l 1
  637 55 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2244.ss09
 Colour: ff0000
 EndChar
 
@@ -38581,7 +38424,6 @@ SplineSet
  637 39 l 1
  637 -27 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2247.ss09
 Colour: ff0000
 EndChar
 
@@ -39433,7 +39275,6 @@ SplineSet
  637 186 l 1
  637 120 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni225F.rtlm
 EndChar
 
 StartChar: uni2260
@@ -39466,7 +39307,6 @@ SplineSet
  637 186 l 1
  637 120 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2260.ss09
 EndChar
 
 StartChar: uni2261
@@ -39534,7 +39374,6 @@ SplineSet
  637 94 l 1
  637 28 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2262.ss09
 EndChar
 
 StartChar: uni2263
@@ -39712,7 +39551,6 @@ SplineSet
  621 -118 l 1
  621 -184 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2268.ss09
 EndChar
 
 StartChar: uni2269
@@ -39753,7 +39591,6 @@ SplineSet
  621 -118 l 1
  621 -184 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2269.ss09
 EndChar
 
 StartChar: uni226A
@@ -39872,7 +39709,6 @@ SplineSet
  347 200 l 1
  457 198 591 145 637 43 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni226D.ss09
 EndChar
 
 StartChar: uni226E
@@ -39905,7 +39741,6 @@ SplineSet
  297 198 l 1
  357 336 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni226E.ss09
 EndChar
 
 StartChar: uni226F
@@ -39938,7 +39773,6 @@ SplineSet
  321 169 l 1
  488 252 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni226F.ss09
 EndChar
 
 StartChar: uni2270
@@ -39979,7 +39813,6 @@ SplineSet
  317 263 l 1
  375 419 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2270.ss09
 EndChar
 
 StartChar: uni2271
@@ -40020,7 +39853,6 @@ SplineSet
  356 261 l 1
  488 327 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2271.ss09
 EndChar
 
 StartChar: uni2272
@@ -40123,7 +39955,6 @@ SplineSet
  322 317 l 1
  365 471 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2274.ss09
 Colour: ffff00
 EndChar
 
@@ -40168,7 +39999,6 @@ SplineSet
  348 310 l 1
  496 384 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2275.ss09
 Colour: ffff00
 EndChar
 
@@ -40269,7 +40099,6 @@ SplineSet
  312 -33 l 1
  496 43 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2278.ss09
 EndChar
 
 StartChar: uni2279
@@ -40317,7 +40146,6 @@ SplineSet
  271 8 l 1
  286 83 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2279.ss09
 EndChar
 
 StartChar: uni227A
@@ -40490,7 +40318,6 @@ SplineSet
  344 271 314 261 287 253 c 1
  308 247 330 239 353 231 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2280.ss09
 EndChar
 
 StartChar: uni2281
@@ -40523,7 +40350,6 @@ SplineSet
  342 235 371 245 398 253 c 1
  377 259 355 266 333 274 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2281.ss09
 EndChar
 
 StartChar: uni2282
@@ -40606,7 +40432,6 @@ SplineSet
  131 179 175 105 241 67 c 1
  415 465 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2284.ss09
 EndChar
 
 StartChar: uni2285
@@ -40643,7 +40468,6 @@ SplineSet
  557 330 511 404 444 441 c 1
  270 41 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2285.ss09
 EndChar
 
 StartChar: uni2286
@@ -40743,7 +40567,6 @@ SplineSet
  130 242 190 156 275 127 c 1
  429 541 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2288.ss09
 EndChar
 
 StartChar: uni2289
@@ -40788,7 +40611,6 @@ SplineSet
  555 398 518 464 463 504 c 1
  319 117 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni2289.ss09
 EndChar
 
 StartChar: uni228A
@@ -40899,7 +40721,6 @@ SplineSet
  506 536 l 1
  572 536 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni228C.rtlm
 EndChar
 
 StartChar: uni228D
@@ -41651,7 +41472,6 @@ SplineSet
  434 264 l 1
  434 198 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22A7.rtlm
 EndChar
 
 StartChar: uni22A8
@@ -41736,7 +41556,6 @@ SplineSet
  111 662 l 1
  111 0 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22AA.rtlm
 EndChar
 
 StartChar: uni22AB
@@ -41802,7 +41621,6 @@ SplineSet
  231 228 l 1
  299 298 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22AC.rtlm
 EndChar
 
 StartChar: uni22AD
@@ -41842,7 +41660,6 @@ SplineSet
  266 264 l 1
  397 398 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22AD.rtlm
 EndChar
 
 StartChar: uni22AE
@@ -41882,7 +41699,6 @@ SplineSet
  922 364 l 1
  922 298 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22AE.rtlm
 EndChar
 
 StartChar: uni22AF
@@ -41929,7 +41745,6 @@ SplineSet
  431 335 l 1
  510 398 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22AF.rtlm
 EndChar
 
 StartChar: uni22B0
@@ -42164,7 +41979,6 @@ SplineSet
  549 198 594 153 649 153 c 0
  704 153 749 198 749 253 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22B8.rtlm
 EndChar
 
 StartChar: uni22B9
@@ -43226,7 +43040,6 @@ SplineSet
  338 369 278 356 247 350 c 1
  276 344 323 334 378 313 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni22E0.ss09
 EndChar
 
 StartChar: uni22E1
@@ -43266,7 +43079,6 @@ SplineSet
  373 336 413 345 438 350 c 1
  416 354 382 361 341 374 c 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni22E1.ss09
 EndChar
 
 StartChar: uni22E2
@@ -43677,7 +43489,6 @@ SplineSet
  298 263 l 1
  352 421 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni22EC.ss09
 EndChar
 
 StartChar: uni22ED
@@ -43720,7 +43531,6 @@ SplineSet
  269 230 l 1
  319 403 l 1
 EndSplineSet
-Substitution2: "'ss09' Negated Symbols With Vertical Stroke-1" uni22ED.ss09
 EndChar
 
 StartChar: uni22EE
@@ -43951,7 +43761,6 @@ SplineSet
  625 39 l 1
  625 -27 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F5.rtlm
 EndChar
 
 StartChar: uni22F6
@@ -44042,7 +43851,6 @@ SplineSet
  625 -114 l 1
  625 -180 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F8.rtlm
 EndChar
 
 StartChar: uni22F9
@@ -44074,7 +43882,6 @@ SplineSet
  625 39 l 1
  625 -27 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22F9.rtlm
 EndChar
 
 StartChar: uni22FA
@@ -44252,7 +44059,6 @@ SplineSet
  865 -108 l 1
  865 -158 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni22FF.rtlm
 EndChar
 
 StartChar: uni2300
@@ -57678,7 +57484,6 @@ SplineSet
  634 66 l 1
  634 0 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni27C0.rtlm
 EndChar
 
 StartChar: uni27C1
@@ -58322,7 +58127,6 @@ SplineSet
  100 198 145 153 200 153 c 0
  255 153 300 198 300 253 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni27DC.rtlm
 EndChar
 
 StartChar: uni27DD
@@ -66702,7 +66506,6 @@ SplineSet
  100 135 146 84 224 84 c 0
  305 84 337 103 424 241 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni29DC.rtlm
 EndChar
 
 StartChar: uni29DD
@@ -67506,7 +67309,6 @@ SplineSet
  55 91 85 114 118 114 c 0
  153 114 182 92 182 51 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni29F4.rtlm
 EndChar
 
 StartChar: uni29F5
@@ -68115,7 +67917,6 @@ SplineSet
  282 230 311 172 360 135 c 1
  450 251 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0A.rtlm
 EndChar
 
 StartChar: uni2A0B
@@ -68177,8 +67978,6 @@ SplineSet
  262 31 l 1
  288 134 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0B.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A0B.up
 EndChar
 
 StartChar: uni2A0C
@@ -68262,8 +68061,6 @@ SplineSet
  97 -286 101 -289 108 -289 c 0
  155 -289 179 -225 204 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0C.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A0C.up
 EndChar
 
 StartChar: uni2A0D
@@ -68305,8 +68102,6 @@ SplineSet
  111 285 l 1
  306 285 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0D.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A0D.up
 EndChar
 
 StartChar: uni2A0E
@@ -68355,8 +68150,6 @@ SplineSet
  111 385 l 1
  331 385 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0E.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A0E.up
 EndChar
 
 StartChar: uni2A0F
@@ -68397,8 +68190,6 @@ SplineSet
  79 144 l 1
  302 271 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A0F.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A0F.up
 EndChar
 
 StartChar: uni2A10
@@ -68450,8 +68241,6 @@ SplineSet
  146 177 191 111 255 82 c 1
  344 439 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A10.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A10.up
 EndChar
 
 StartChar: uni2A11
@@ -68504,8 +68293,6 @@ SplineSet
  144 368 l 1
  144 282 202 209 281 187 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A11.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A11.up
 EndChar
 
 StartChar: uni2A12
@@ -68551,8 +68338,6 @@ SplineSet
  256 300 296 331 334 331 c 0
  374 331 412 299 412 253 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A12.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A12.up
 EndChar
 
 StartChar: uni2A13
@@ -68598,8 +68383,6 @@ SplineSet
  256 300 296 331 334 331 c 0
  374 331 412 299 412 253 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A13.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A13.up
 EndChar
 
 StartChar: uni2A14
@@ -68647,8 +68430,6 @@ SplineSet
  574 790 570 793 563 793 c 0
  513 793 488 721 462 616 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A14.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A14.up
 EndChar
 
 StartChar: uni2A15
@@ -68699,8 +68480,6 @@ SplineSet
  147 149 231 65 334 65 c 0
  437 65 521 149 521 252 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A15.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A15.up
 EndChar
 
 StartChar: uni2A16
@@ -68751,8 +68530,6 @@ SplineSet
  251 65 l 1
  344 439 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A16.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A16.up
 EndChar
 
 StartChar: uni2A17
@@ -68809,8 +68586,6 @@ SplineSet
  620 793 595 721 569 616 c 2
  491 304 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A17.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A17.up
 EndChar
 
 StartChar: uni2A18
@@ -68857,8 +68632,6 @@ SplineSet
  146 487 l 1
  314 319 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A18.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A18.up
 EndChar
 
 StartChar: uni2A19
@@ -68905,8 +68678,6 @@ SplineSet
  72 405 186 516 334 516 c 0
  344 516 353 516 363 515 c 1xd0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A19.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A19.up
 EndChar
 
 StartChar: uni2A1A
@@ -68953,8 +68724,6 @@ SplineSet
  138 261 l 2
  138 178 185 106 253 73 c 1xe8
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A1A.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A1A.up
 EndChar
 
 StartChar: uni2A1B
@@ -68992,8 +68761,6 @@ SplineSet
  97 -286 101 -289 108 -289 c 0
  155 -289 179 -225 204 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A1B.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A1B.up
 EndChar
 
 StartChar: uni2A1C
@@ -69031,8 +68798,6 @@ SplineSet
  482 -377 l 1
  482 -443 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A1C.rtlm
-Substitution2: "'ss08' Upright Integrals-1" uni2A1C.up
 EndChar
 
 StartChar: uni2A1D
@@ -69140,7 +68905,6 @@ SplineSet
  98 633 l 1
  752 253 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A20.rtlm
 EndChar
 
 StartChar: uni2A21
@@ -71832,7 +71596,6 @@ SplineSet
  48 193 78 216 111 216 c 0
  146 216 175 194 175 153 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A74.rtlm
 EndChar
 
 StartChar: uni2A75
@@ -72092,7 +71855,6 @@ SplineSet
  609 39 l 1
  609 -26 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A7B.rtlm
 EndChar
 
 StartChar: uni2A7C
@@ -72131,7 +71893,6 @@ SplineSet
  641 258 l 1
  641 248 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2A7C.rtlm
 EndChar
 
 StartChar: uni2A7D
@@ -72395,7 +72156,6 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A86
 Colour: ff
 EndChar
 
@@ -72434,7 +72194,6 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A85
 Colour: ff
 EndChar
 
@@ -72468,7 +72227,6 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A88
 EndChar
 
 StartChar: uni2A88
@@ -72501,7 +72259,6 @@ SplineSet
  621 -54 l 1
  621 -120 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A87
 EndChar
 
 StartChar: uni2A89
@@ -72550,7 +72307,6 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8A
 Colour: ff
 EndChar
 
@@ -72600,7 +72356,6 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A89
 Colour: ff
 EndChar
 
@@ -72709,7 +72464,6 @@ SplineSet
  625 -110 l 1
  625 -176 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8E
 Colour: ff
 EndChar
 
@@ -72744,7 +72498,6 @@ SplineSet
  625 -110 l 1
  625 -176 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8D
 Colour: ff
 EndChar
 
@@ -72782,7 +72535,6 @@ SplineSet
  625 -123 l 1
  625 -133 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A90
 Colour: ff
 EndChar
 
@@ -72820,7 +72572,6 @@ SplineSet
  625 -296 l 1
  625 -361 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A8F
 Colour: ff
 EndChar
 
@@ -73216,7 +72967,6 @@ SplineSet
  620 -99 l 1
  620 -164 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9E
 Colour: ff
 EndChar
 
@@ -73246,7 +72996,6 @@ SplineSet
  630 120 l 1
  630 110 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9D
 Colour: ff
 EndChar
 
@@ -73286,7 +73035,6 @@ SplineSet
  625 -201 l 1
  625 -267 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AA0
 Colour: ff
 EndChar
 
@@ -73326,7 +73074,6 @@ SplineSet
  625 -201 l 1
  625 -267 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2A9F
 Colour: ff
 EndChar
 
@@ -73412,7 +73159,6 @@ SplineSet
  908 -37 l 1
  908 -103 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2AA3.rtlm
 EndChar
 
 StartChar: uni2AA4
@@ -73781,7 +73527,6 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB2
 EndChar
 
 StartChar: uni2AB2
@@ -73814,7 +73559,6 @@ SplineSet
  625 -54 l 1
  625 -120 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB1
 EndChar
 
 StartChar: uni2AB3
@@ -73913,7 +73657,6 @@ SplineSet
  622 -118 l 1
  622 -184 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB6
 EndChar
 
 StartChar: uni2AB6
@@ -73954,7 +73697,6 @@ SplineSet
  622 -118 l 1
  622 -184 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB5
 EndChar
 
 StartChar: uni2AB7
@@ -73992,7 +73734,6 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB8
 Colour: ff
 EndChar
 
@@ -74031,7 +73772,6 @@ SplineSet
  307 -71 414 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB7
 Colour: ff
 EndChar
 
@@ -74081,7 +73821,6 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ABA
 Colour: ff
 EndChar
 
@@ -74131,7 +73870,6 @@ SplineSet
  395 -158 446 -199 487 -199 c 0
  556 -199 589 -132 604 -61 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AB9
 Colour: ff
 EndChar
 
@@ -74549,7 +74287,6 @@ SplineSet
  308 40 411 -88 481 -88 c 0
  547 -88 579 -21 593 50 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC8
 Colour: ff
 EndChar
 
@@ -74583,7 +74320,6 @@ SplineSet
  308 40 411 -88 481 -88 c 0
  547 -88 579 -21 593 50 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC7
 Colour: ff
 EndChar
 
@@ -74626,7 +74362,6 @@ SplineSet
  308 -70 411 -198 481 -198 c 0
  547 -198 579 -131 593 -60 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACA
 Colour: ff
 EndChar
 
@@ -74669,7 +74404,6 @@ SplineSet
  308 -70 411 -198 481 -198 c 0
  547 -198 579 -131 593 -60 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2AC9
 Colour: ff
 EndChar
 
@@ -74715,7 +74449,6 @@ SplineSet
  619 -145 l 1
  619 -211 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACC
 EndChar
 
 StartChar: uni2ACC
@@ -74760,7 +74493,6 @@ SplineSet
  614 -145 l 1
  614 -211 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" uni2ACB
 EndChar
 
 StartChar: uni2ACD
@@ -75414,7 +75146,6 @@ SplineSet
  625 172 l 1
  625 106 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2AE2.rtlm
 EndChar
 
 StartChar: uni2AE3
@@ -75527,7 +75258,6 @@ SplineSet
  626 364 l 1
  626 298 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2AE6.rtlm
 EndChar
 
 StartChar: uni2AE7
@@ -79573,7 +79303,6 @@ SplineSet
  208 42 221 29 256 24 c 1
  256 0 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D422.dtls
 EndChar
 
 StartChar: u1D423
@@ -79607,7 +79336,6 @@ SplineSet
  58 461 l 1
  260 461 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D423.dtls
 EndChar
 
 StartChar: u1D424
@@ -81465,7 +81193,6 @@ SplineSet
  69 419 l 1
  227 441 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D6A4
 EndChar
 
 StartChar: u1D457
@@ -81499,7 +81226,6 @@ SplineSet
  193 413 l 1
  351 441 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D6A5
 EndChar
 
 StartChar: u1D458
@@ -83394,7 +83120,6 @@ SplineSet
  180 70 189 58 201 58 c 0
  221 58 236 81 255 104 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D48A.dtls
 EndChar
 
 StartChar: u1D48B
@@ -83429,7 +83154,6 @@ SplineSet
  187 427 l 1
  384 462 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D48B.dtls
 EndChar
 
 StartChar: u1D48C
@@ -84036,7 +83760,6 @@ SplineSet
  203 218 245 158 310 119 c 1
  368 183 431 278 492 372 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49C.cal
 EndChar
 
 StartChar: u1D49E
@@ -84080,7 +83803,6 @@ SplineSet
  740 619 723 632 690 632 c 0
  593 632 442 513 331 355 c 1x2f
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49E.cal
 EndChar
 
 StartChar: u1D49F
@@ -84130,7 +83852,6 @@ SplineSet
  77 32 106 21 164 21 c 0
  207 21 243 26 276 39 c 1x65
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D49F.cal
 EndChar
 
 StartChar: u1D4A2
@@ -84178,7 +83899,6 @@ SplineSet
  556 632 425 534 361 420 c 1
  532 420 699 512 699 590 c 0x2e
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A2.cal
 EndChar
 
 StartChar: u1D4A5
@@ -84225,7 +83945,6 @@ SplineSet
  51 -129 65 -147 87 -147 c 0
  172 -147 239 -72 302 43 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A5.cal
 EndChar
 
 StartChar: u1D4A6
@@ -84287,7 +84006,6 @@ SplineSet
  565 611 594 598 616 598 c 0
  660 598 722 624 771 669 c 1xbb80
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A6.cal
 EndChar
 
 StartChar: u1D4A9
@@ -84330,7 +84048,6 @@ SplineSet
  609 615 603 524 596 391 c 0
  591 291 583 202 569 131 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4A9.cal
 EndChar
 
 StartChar: u1D4AA
@@ -84363,7 +84080,6 @@ SplineSet
  82 444 283 680 521 680 c 0
  608 680 663 621 663 549 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AA.cal
 EndChar
 
 StartChar: u1D4AB
@@ -84411,7 +84127,6 @@ SplineSet
  630 687 710 666 772 628 c 1
  797 644 824 657 856 669 c 1xbe
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AB.cal
 EndChar
 
 StartChar: u1D4AC
@@ -84456,7 +84171,6 @@ SplineSet
  82 444 283 680 521 680 c 0
  607 680 663 621 663 549 c 1x4f
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AC.cal
 EndChar
 
 StartChar: u1D4AE
@@ -84490,7 +84204,6 @@ SplineSet
  67 242 152 299 234 299 c 0
  309 299 384 252 397 143 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AE.cal
 EndChar
 
 StartChar: u1D4AF
@@ -84532,7 +84245,6 @@ SplineSet
  295 16 363 81 454 277 c 0
  522 423 578 485 658 553 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4AF.cal
 EndChar
 
 StartChar: u1D4B0
@@ -84578,7 +84290,6 @@ SplineSet
  719 658 l 1
  805 658 l 1xbe
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B0.cal
 EndChar
 
 StartChar: u1D4B1
@@ -84624,7 +84335,6 @@ SplineSet
  501 541 466 460 421 347 c 0
  366 210 291 90 214 21 c 1xf4
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B1.cal
 EndChar
 
 StartChar: u1D4B2
@@ -84681,7 +84391,6 @@ SplineSet
  750 588 708 467 650 334 c 0
  594 207 539 108 455 24 c 1xf4
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B2.cal
 EndChar
 
 StartChar: u1D4B3
@@ -84730,7 +84439,6 @@ SplineSet
  169 605 259 687 374 687 c 0
  495 687 571 599 571 489 c 1xbc
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B3.cal
 EndChar
 
 StartChar: u1D4B4
@@ -84778,7 +84486,6 @@ SplineSet
  165 -178 182 -196 204 -196 c 0
  289 -196 356 -117 419 -2 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B4.cal
 EndChar
 
 StartChar: u1D4B5
@@ -84840,7 +84547,6 @@ SplineSet
  100 35 117 21 171 21 c 0
  215 21 252 31 283 51 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4B5.cal
 EndChar
 
 StartChar: u1D4B6
@@ -85113,7 +84819,6 @@ SplineSet
  180 33 193 19 213 19 c 0
  262 19 320 76 417 188 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D4BE.dtls
 EndChar
 
 StartChar: u1D4BF
@@ -85158,7 +84863,6 @@ SplineSet
  43 -168 66 -185 99 -185 c 0
  137 -185 199 -174 254 -86 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D4BF.dtls
 EndChar
 
 StartChar: u1D4C0
@@ -85827,7 +85531,6 @@ SplineSet
  293 239 329 183 381 147 c 1
  444 219 496 301 547 384 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D0.cal
 EndChar
 
 StartChar: u1D4D1
@@ -85885,7 +85588,6 @@ SplineSet
  731 367 766 364 786 354 c 1
  839 364 871 423 871 480 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D1.cal
 EndChar
 
 StartChar: u1D4D2
@@ -85927,7 +85629,6 @@ SplineSet
  786 617 771 632 740 632 c 0
  653 632 505 519 414 375 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D2.cal
 EndChar
 
 StartChar: u1D4D3
@@ -85982,7 +85683,6 @@ SplineSet
  151 45 172 38 215 38 c 0
  249 38 280 42 310 51 c 1x64
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D3.cal
 EndChar
 
 StartChar: u1D4D4
@@ -86030,7 +85730,6 @@ SplineSet
  700 624 686 632 655 632 c 0
  579 632 481 542 456 455 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D4.cal
 EndChar
 
 StartChar: u1D4D5
@@ -86084,7 +85783,6 @@ SplineSet
  334 213 414 276 525 323 c 1
  608 468 656 515 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D5.cal
 EndChar
 
 StartChar: u1D4D6
@@ -86132,7 +85830,6 @@ SplineSet
  708 617 695 632 665 632 c 0
  589 632 489 548 424 447 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D6.cal
 EndChar
 
 StartChar: u1D4D7
@@ -86190,7 +85887,6 @@ SplineSet
  156 38 165 34 176 34 c 0
  217 34 294 131 344 225 c 1x8e
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D7.cal
 EndChar
 
 StartChar: u1D4D8
@@ -86234,7 +85930,6 @@ SplineSet
  517 406 535 375 571 358 c 1
  618 450 672 546 769 604 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D8.cal
 EndChar
 
 StartChar: u1D4D9
@@ -86283,7 +85978,6 @@ SplineSet
  110 -157 122 -169 139 -169 c 0
  207 -169 287 -54 333 50 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D9.cal
 EndChar
 
 StartChar: u1D4DA
@@ -86342,7 +86036,6 @@ SplineSet
  638 643 667 636 682 636 c 0
  719 636 779 642 842 699 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DA.cal
 EndChar
 
 StartChar: u1D4DB
@@ -86395,7 +86088,6 @@ SplineSet
  131 47 152 38 195 38 c 0
  229 38 260 44 290 53 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DB.cal
 EndChar
 
 StartChar: u1D4DC
@@ -86446,7 +86138,6 @@ SplineSet
  1046 657 1115 699 1182 699 c 0
  1193 699 1222 698 1234 691 c 1x20
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DC.cal
 EndChar
 
 StartChar: u1D4DD
@@ -86489,7 +86180,6 @@ SplineSet
  725 618 722 498 713 375 c 0
  708 307 703 229 695 175 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DD.cal
 EndChar
 
 StartChar: u1D4DE
@@ -86521,7 +86211,6 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DE.cal
 EndChar
 
 StartChar: u1D4DF
@@ -86568,7 +86257,6 @@ SplineSet
  672 699 750 683 816 654 c 1
  846 671 878 686 914 698 c 1xdc
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DF.cal
 EndChar
 
 StartChar: u1D4E0
@@ -86611,7 +86299,6 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1x4c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E0.cal
 EndChar
 
 StartChar: u1D4E1
@@ -86667,7 +86354,6 @@ SplineSet
  720 367 742 360 760 349 c 1
  811 358 857 423 857 481 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E1.cal
 EndChar
 
 StartChar: u1D4E2
@@ -86700,7 +86386,6 @@ SplineSet
  81 251 179 306 275 306 c 0
  363 306 424 257 437 136 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E2.cal
 EndChar
 
 StartChar: u1D4E3
@@ -86742,7 +86427,6 @@ SplineSet
  331 34 403 86 490 260 c 0
  585 450 618 477 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E3.cal
 EndChar
 
 StartChar: u1D4E4
@@ -86789,7 +86473,6 @@ SplineSet
  769 669 l 1
  904 669 l 1xb8
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E4.cal
 EndChar
 
 StartChar: u1D4E5
@@ -86832,7 +86515,6 @@ SplineSet
  593 552 554 473 506 355 c 0
  461 245 400 137 332 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E5.cal
 EndChar
 
 StartChar: u1D4E6
@@ -86882,7 +86564,6 @@ SplineSet
  952 687 971 683 983 679 c 1
  812 495 816 242 634 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E6.cal
 EndChar
 
 StartChar: u1D4E7
@@ -86932,7 +86613,6 @@ SplineSet
  338 686 392 699 450 699 c 0
  561 699 637 648 664 567 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E7.cal
 EndChar
 
 StartChar: u1D4E8
@@ -86983,7 +86663,6 @@ SplineSet
  194 -154 201 -169 223 -169 c 0
  265 -169 334 -134 396 -23 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E8.cal
 EndChar
 
 StartChar: u1D4E9
@@ -87046,7 +86725,6 @@ SplineSet
  141 46 163 37 198 37 c 0
  225 37 252 43 278 56 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E9.cal
 EndChar
 
 StartChar: u1D4EA
@@ -87398,7 +87076,6 @@ SplineSet
  241 50 249 36 262 36 c 0
  295 36 349 83 450 205 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D4F2.dtls
 EndChar
 
 StartChar: u1D4F3
@@ -87442,7 +87119,6 @@ SplineSet
  141 -165 162 -173 181 -173 c 0
  210 -173 260 -166 310 -90 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D4F3.dtls
 EndChar
 
 StartChar: u1D4F4
@@ -89364,7 +89040,6 @@ SplineSet
  318 121 l 1
  338 104 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D526.dtls
 EndChar
 
 StartChar: u1D527
@@ -89398,7 +89073,6 @@ SplineSet
  203 468 l 1
  235 440 278 414 311 401 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D527.dtls
 EndChar
 
 StartChar: u1D528
@@ -90065,9 +89739,6 @@ SplineSet
  189 253 l 1
  425 253 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D538.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D538.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D538.bf
 EndChar
 
 StartChar: u1D539
@@ -90115,9 +89786,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D539.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D539.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D539.bf
 EndChar
 
 StartChar: u1D53B
@@ -90152,9 +89820,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D53B.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D53B.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D53B.it
 EndChar
 
 StartChar: u1D53C
@@ -90185,9 +89850,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D53C.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D53C.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D53C.bf
 EndChar
 
 StartChar: u1D53D
@@ -90217,9 +89879,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D53D.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D53D.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D53D.bf
 EndChar
 
 StartChar: u1D53E
@@ -90258,9 +89917,6 @@ SplineSet
  118 493 89 410 89 333 c 0
  89 253 119 180 169 119 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D53E.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D53E.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D53E.bf
 EndChar
 
 StartChar: u1D540
@@ -90283,9 +89939,6 @@ SplineSet
  122 44 l 1
  200 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D540.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D540.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D540.bf
 EndChar
 
 StartChar: u1D541
@@ -90312,9 +89965,6 @@ SplineSet
  373 36 l 1
  423 57 451 97 451 151 c 2
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D541.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D541.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D541.bf
 EndChar
 
 StartChar: u1D542
@@ -90350,9 +90000,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D542.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D542.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D542.bf
 EndChar
 
 StartChar: u1D543
@@ -90377,9 +90024,6 @@ SplineSet
  114 44 l 1
  192 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D543.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D543.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D543.bf
 EndChar
 
 StartChar: u1D544
@@ -90421,9 +90065,6 @@ SplineSet
  310 44 l 1
  393 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D544.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D544.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D544.bf
 EndChar
 
 StartChar: u1D546
@@ -90456,9 +90097,6 @@ SplineSet
  112 489 89 412 89 332 c 0
  89 255 116 175 169 119 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D546.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D546.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D546.bf
 EndChar
 
 StartChar: u1D54A
@@ -90493,9 +90131,6 @@ SplineSet
  116 279 487 305 487 139 c 0
  487 113 481 84 464 63 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54A.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54A.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54A.bf
 EndChar
 
 StartChar: u1D54B
@@ -90523,9 +90158,6 @@ SplineSet
  282 44 l 1
  360 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54B.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54B.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54B.bf
 EndChar
 
 StartChar: u1D54C
@@ -90554,9 +90186,6 @@ SplineSet
  109 196 l 2
  109 130 140 105 187 67 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54C.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54C.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54C.bf
 EndChar
 
 StartChar: u1D54D
@@ -90583,9 +90212,6 @@ SplineSet
  279 44 l 1
  361 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54D.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54D.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54D.bf
 EndChar
 
 StartChar: u1D54E
@@ -90625,9 +90251,6 @@ SplineSet
  228 44 l 1
  310 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54E.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54E.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54E.bf
 EndChar
 
 StartChar: u1D54F
@@ -90657,9 +90280,6 @@ SplineSet
  552 44 l 1
  649 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D54F.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D54F.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D54F.bf
 EndChar
 
 StartChar: u1D550
@@ -90691,9 +90311,6 @@ SplineSet
  318 44 l 1
  396 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D550.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D550.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D550.bf
 EndChar
 
 StartChar: u1D552
@@ -90735,9 +90352,6 @@ SplineSet
  113 193 89 159 89 118 c 0
  89 81 119 50 154 42 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D552.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D552.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D552.bf
 EndChar
 
 StartChar: u1D553
@@ -90778,9 +90392,6 @@ SplineSet
  94 44 l 1
  154 44 l 1x5f
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D553.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D553.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D553.bf
 EndChar
 
 StartChar: u1D554
@@ -90810,9 +90421,6 @@ SplineSet
  104 341 89 281 89 227 c 0
  89 172 103 110 149 75 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D554.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D554.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D554.bf
 EndChar
 
 StartChar: u1D555
@@ -90852,9 +90460,6 @@ SplineSet
  102 350 89 281 89 228 c 0
  89 173 104 106 149 70 c 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D555.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D555.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D555.it
 EndChar
 
 StartChar: u1D556
@@ -90893,9 +90498,6 @@ SplineSet
  106 343 89 282 89 227 c 0
  89 171 105 109 149 71 c 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D556.bf
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D556.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D556.bi
 EndChar
 
 StartChar: u1D557
@@ -90931,9 +90533,6 @@ SplineSet
  152 44 l 1
  212 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D557.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D557.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D557.bf
 EndChar
 
 StartChar: u1D558
@@ -90976,9 +90575,6 @@ SplineSet
  104 343 89 277 89 222 c 0
  89 168 103 101 149 66 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D558.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D558.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D558.bf
 EndChar
 
 StartChar: u1D559
@@ -91015,9 +90611,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D559.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D559.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D559.bf
 EndChar
 
 StartChar: u1D55A
@@ -91050,10 +90643,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55A.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55A.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55A.it
-Substitution2: "'dtls' Dotless Forms 2-1" u1D55A.dtls
 EndChar
 
 StartChar: u1D55B
@@ -91090,10 +90679,6 @@ SplineSet
  151 -153 l 1
  186 -135 206 -97 206 -58 c 2
 EndSplineSet
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55B.bf
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55B.bi
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55B.it
-Substitution2: "'dtls' Dotless Forms 2-1" u1D55B.dtls
 EndChar
 
 StartChar: u1D55C
@@ -91129,9 +90714,6 @@ SplineSet
  94 44 l 1
  154 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55C.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55C.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55C.bf
 EndChar
 
 StartChar: u1D55D
@@ -91155,9 +90737,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55D.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55D.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55D.bf
 EndChar
 
 StartChar: u1D55E
@@ -91206,9 +90785,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55E.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55E.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55E.bf
 EndChar
 
 StartChar: u1D55F
@@ -91245,9 +90821,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D55F.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D55F.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D55F.bf
 EndChar
 
 StartChar: u1D560
@@ -91280,9 +90853,6 @@ SplineSet
  106 335 89 279 89 225 c 0
  89 168 105 114 149 76 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D560.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D560.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D560.bf
 EndChar
 
 StartChar: u1D561
@@ -91323,9 +90893,6 @@ SplineSet
  99 -174 l 1
  159 -174 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D561.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D561.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D561.bf
 EndChar
 
 StartChar: u1D562
@@ -91366,9 +90933,6 @@ SplineSet
  104 344 89 277 89 222 c 0
  89 169 102 100 149 67 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D562.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D562.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D562.bf
 EndChar
 
 StartChar: u1D563
@@ -91398,9 +90962,6 @@ SplineSet
  99 44 l 1
  159 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D563.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D563.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D563.bf
 EndChar
 
 StartChar: u1D564
@@ -91436,9 +90997,6 @@ SplineSet
  119 185 384 214 384 93 c 0
  384 80 379 64 372 53 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D564.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D564.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D564.bf
 EndChar
 
 StartChar: u1D565
@@ -91474,9 +91032,6 @@ SplineSet
  124 62 141 34 168 34 c 2
  184 34 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D565.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D565.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D565.bf
 EndChar
 
 StartChar: u1D566
@@ -91513,9 +91068,6 @@ SplineSet
  99 157 l 2
  99 110 112 61 159 41 c 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D566.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D566.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D566.bf
 EndChar
 
 StartChar: u1D567
@@ -91542,9 +91094,6 @@ SplineSet
  213 44 l 1
  277 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D567.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D567.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D567.bf
 EndChar
 
 StartChar: u1D568
@@ -91584,9 +91133,6 @@ SplineSet
  161 44 l 1
  222 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D568.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D568.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D568.bf
 EndChar
 
 StartChar: u1D569
@@ -91616,9 +91162,6 @@ SplineSet
  370 44 l 1
  445 44 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D569.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D569.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D569.bf
 EndChar
 
 StartChar: u1D56A
@@ -91648,9 +91191,6 @@ SplineSet
  312 35 l 1
  338 106 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D56A.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D56A.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D56A.bf
 EndChar
 
 StartChar: u1D56B
@@ -91678,9 +91218,6 @@ SplineSet
  170 44 l 1
  420 406 l 1
 EndSplineSet
-Substitution2: "'ss06' Italic Double-Struck Math Alphabet-1" u1D56B.it
-Substitution2: "'ss07' Bold Italic Double-Struck Math Alphabet-1" u1D56B.bi
-Substitution2: "'ss05' Bold Double-Struck Math Alphabet-1" u1D56B.bf
 EndChar
 
 StartChar: u1D56C
@@ -93119,7 +92656,6 @@ SplineSet
  308 83 329 98 360 123 c 1
  379 101 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D58E.dtls
 EndChar
 
 StartChar: u1D58F
@@ -93155,7 +92691,6 @@ SplineSet
  217 475 l 1
  264 445 306 417 337 414 c 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D58F.dtls
 EndChar
 
 StartChar: u1D590
@@ -94729,7 +94264,6 @@ SplineSet
  152 459 l 1
  152 0 l 1xd0
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D5C2.dtls
 EndChar
 
 StartChar: u1D5C3
@@ -94760,7 +94294,6 @@ SplineSet
  171 464 l 1
  180 459 l 1xd0
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D5C3.dtls
 EndChar
 
 StartChar: u1D5C4
@@ -96113,7 +95646,6 @@ SplineSet
  184 461 l 1
  184 0 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D5F6.dtls
 EndChar
 
 StartChar: u1D5F7
@@ -96141,7 +95673,6 @@ SplineSet
  133 461 l 1
  258 461 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D5F7.dtls
 EndChar
 
 StartChar: u1D5F8
@@ -97533,7 +97064,6 @@ SplineSet
  258 464 l 1
  266 459 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D62A.dtls
 EndChar
 
 StartChar: u1D62B
@@ -97563,7 +97093,6 @@ SplineSet
  286 464 l 1
  294 459 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D62B.dtls
 EndChar
 
 StartChar: u1D62C
@@ -98971,7 +98500,6 @@ SplineSet
  173 462 l 1
  298 462 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D65E.dtls
 EndChar
 
 StartChar: u1D65F
@@ -98999,7 +98527,6 @@ SplineSet
  247 462 l 1
  372 462 l 1
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D65F.dtls
 EndChar
 
 StartChar: u1D660
@@ -100923,7 +100450,6 @@ SplineSet
  424 64 l 2
  437 64 448 53 448 40 c 2xe8
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D692.dtls
 EndChar
 
 StartChar: u1D693
@@ -100960,7 +100486,6 @@ SplineSet
  337 450 l 2
  351 450 361 439 361 426 c 2xd0
 EndSplineSet
-Substitution2: "'dtls' Dotless Forms 2-1" u1D693.dtls
 EndChar
 
 StartChar: u1D694
@@ -103888,7 +103413,6 @@ SplineSet
  296 248 l 1
  466 248 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E2.ss
 EndChar
 
 StartChar: u1D6E3
@@ -103931,7 +103455,6 @@ SplineSet
  531 283 467 318 389 318 c 0
  373 318 353 318 338 314 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E3.ss
 EndChar
 
 StartChar: u1D6E4
@@ -103966,7 +103489,6 @@ SplineSet
  201 653 l 1
  721 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E4.ss
 EndChar
 
 StartChar: u1D6E5
@@ -103989,7 +103511,6 @@ SplineSet
  137 82 l 1
  429 82 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E5.ss
 EndChar
 
 StartChar: u1D6E6
@@ -104035,7 +103556,6 @@ SplineSet
  200 653 l 1
  734 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E6.ss
 EndChar
 
 StartChar: u1D6E7
@@ -104062,7 +103582,6 @@ SplineSet
  239 653 l 1
  802 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E7.ss
 EndChar
 
 StartChar: u1D6E8
@@ -104117,7 +103636,6 @@ SplineSet
  593 653 l 1
  923 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E8.ss
 EndChar
 
 StartChar: u1D6E9
@@ -104156,7 +103674,6 @@ SplineSet
  171 77 232 27 310 27 c 0
  521 27 596 292 596 444 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6E9.ss
 EndChar
 
 StartChar: u1D6EA
@@ -104189,7 +103706,6 @@ SplineSet
  202 653 l 1
  530 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6EA.ss
 EndChar
 
 StartChar: u1D6EB
@@ -104242,7 +103758,6 @@ SplineSet
  586 653 l 1
  802 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6EB.ss
 EndChar
 
 StartChar: u1D6EC
@@ -104277,7 +103792,6 @@ SplineSet
  686 16 l 1
  686 0 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6EC.ss
 EndChar
 
 StartChar: u1D6ED
@@ -104329,7 +103843,6 @@ SplineSet
  840 653 l 1
  1055 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6ED.ss
 EndChar
 
 StartChar: u1D6EE
@@ -104373,7 +103886,6 @@ SplineSet
  635 653 l 1
  901 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6EE.ss
 EndChar
 
 StartChar: u1D6EF
@@ -104423,7 +103935,6 @@ SplineSet
  567 82 588 83 613 158 c 1
  629 158 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6EF.ss
 EndChar
 
 StartChar: u1D6F0
@@ -104447,7 +103958,6 @@ SplineSet
  171 80 233 27 311 27 c 0
  523 27 596 302 596 443 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F0.ss
 EndChar
 
 StartChar: u1D6F1
@@ -104491,7 +104001,6 @@ SplineSet
  199 653 l 1
  923 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F1.ss
 EndChar
 
 StartChar: u1D6F2
@@ -104531,7 +104040,6 @@ SplineSet
  585 563 555 616 460 616 c 0
  443 616 428 615 411 613 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F2.ss
 EndChar
 
 StartChar: u1D6F3
@@ -104560,7 +104068,6 @@ SplineSet
  171 77 232 27 310 27 c 0
  459 27 541 160 575 292 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F3.ss
 EndChar
 
 StartChar: u1D6F4
@@ -104590,7 +104097,6 @@ SplineSet
  226 653 l 1
  760 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F4.ss
 EndChar
 
 StartChar: u1D6F5
@@ -104625,7 +104131,6 @@ SplineSet
  71 653 l 1
  670 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F5.ss
 EndChar
 
 StartChar: u1D6F6
@@ -104665,7 +104170,6 @@ SplineSet
  573 625 613 665 671 665 c 0
  712 665 735 644 743 604 c 1x40
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F6.ss
 EndChar
 
 StartChar: u1D6F7
@@ -104711,7 +104215,6 @@ SplineSet
  243 510 144 365 144 254 c 0
  144 189 186 133 283 133 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F7.ss
 EndChar
 
 StartChar: u1D6F8
@@ -104765,7 +104268,6 @@ SplineSet
  588 653 l 1
  810 653 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F8.ss
 EndChar
 
 StartChar: u1D6F9
@@ -104815,7 +104317,6 @@ SplineSet
  606 635 653 667 725 667 c 2
  743 667 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6F9.ss
 EndChar
 
 StartChar: u1D6FA
@@ -104861,7 +104362,6 @@ SplineSet
  87 109 108 94 149 94 c 2
  280 94 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6FA.ss
 EndChar
 
 StartChar: u1D6FB
@@ -104920,7 +104420,6 @@ SplineSet
  242 20 298 147 317 202 c 1
  321 222 322 246 322 273 c 0xb0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6FC.ss
 EndChar
 
 StartChar: u1D6FD
@@ -104962,7 +104461,6 @@ SplineSet
  445 564 428 618 384 618 c 0
  309 618 287 544 266 459 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6FD.ss
 EndChar
 
 StartChar: u1D6FE
@@ -104992,7 +104490,6 @@ SplineSet
  368 428 l 1
  458 428 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6FE.ss
 EndChar
 
 StartChar: u1D6FF
@@ -105024,7 +104521,6 @@ SplineSet
  118 65 145 18 188 18 c 0
  278 18 351 174 351 269 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D6FF.ss
 EndChar
 
 StartChar: u1D700
@@ -105057,7 +104553,6 @@ SplineSet
  83 375 166 441 308 441 c 0
  370 441 431 408 444 372 c 1xe8
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D700.ss
 EndChar
 
 StartChar: u1D701
@@ -105095,7 +104590,6 @@ SplineSet
  208 505 167 525 167 564 c 0
  167 605 208 648 290 668 c 1x5e
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D701.ss
 EndChar
 
 StartChar: u1D702
@@ -105136,7 +104630,6 @@ SplineSet
  196 441 205 424 205 400 c 0
  205 358 182 289 173 251 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D702.ss
 EndChar
 
 StartChar: u1D703
@@ -105167,7 +104660,6 @@ SplineSet
  249 18 309 149 340 248 c 0
  347 271 353 299 356 308 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D703.ss
 EndChar
 
 StartChar: u1D704
@@ -105195,7 +104687,6 @@ SplineSet
  69 415 l 1
  227 441 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D704.ss
 EndChar
 
 StartChar: u1D705
@@ -105234,7 +104725,6 @@ SplineSet
  243 439 l 1
  193 251 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D705.ss
 EndChar
 
 StartChar: u1D706
@@ -105266,7 +104756,6 @@ SplineSet
  404 113 406 48 442 48 c 0
  457 48 474 67 495 124 c 1xb0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D706.ss
 EndChar
 
 StartChar: u1D707
@@ -105303,7 +104792,6 @@ SplineSet
  471 428 l 1
  549 428 l 1x60
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D707.ss
 EndChar
 
 StartChar: u1D708
@@ -105328,7 +104816,6 @@ SplineSet
  238 91 l 1
  347 174 410 324 444 446 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D708.ss
 EndChar
 
 StartChar: u1D709
@@ -105373,7 +104860,6 @@ SplineSet
  195 530 173 552 173 574 c 0
  173 618 211 654 293 668 c 1x52
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D709.ss
 EndChar
 
 StartChar: u1D70A
@@ -105397,7 +104883,6 @@ SplineSet
  121 93 124 19 180 19 c 0
  286 19 357 242 357 318 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70A.ss
 EndChar
 
 StartChar: u1D70B
@@ -105433,7 +104918,6 @@ SplineSet
  118 382 182 428 286 428 c 2
  568 428 l 1xa0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70B.ss
 EndChar
 
 StartChar: u1D70C
@@ -105462,7 +104946,6 @@ SplineSet
  388 365 360 385 337 385 c 0
  284 385 234 332 212 238 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70C.ss
 EndChar
 
 StartChar: u1D70D
@@ -105494,7 +104977,6 @@ SplineSet
  35 306 220 490 376 490 c 0
  411 490 464 477 464 438 c 0x5c
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70D.ss
 EndChar
 
 StartChar: u1D70E
@@ -105523,7 +105005,6 @@ SplineSet
  285 19 358 145 358 226 c 0
  358 290 319 335 286 355 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70E.ss
 EndChar
 
 StartChar: u1D70F
@@ -105555,7 +105036,6 @@ SplineSet
  58 332 141 428 237 428 c 2
  472 428 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D70F.ss
 EndChar
 
 StartChar: u1D710
@@ -105587,7 +105067,6 @@ SplineSet
  317 18 385 191 385 289 c 0
  385 370 355 414 293 425 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D710.ss
 EndChar
 
 StartChar: u1D711
@@ -105620,7 +105099,6 @@ SplineSet
  547 370 525 382 503 382 c 0
  455 382 400 320 380 238 c 2
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D711.ss
 EndChar
 
 StartChar: u1D712
@@ -105655,7 +105133,6 @@ SplineSet
  545 428 l 1
  645 428 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D712.ss
 EndChar
 
 StartChar: u1D713
@@ -105691,7 +105168,6 @@ SplineSet
  509 326 532 439 685 439 c 2
  711 439 l 1x80
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D713.ss
 EndChar
 
 StartChar: u1D714
@@ -105725,7 +105201,6 @@ SplineSet
  504 19 581 206 581 292 c 0
  581 388 542 416 465 425 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D714.ss
 EndChar
 
 StartChar: u1D715
@@ -105757,8 +105232,6 @@ SplineSet
  265 19 324 119 352 221 c 0
  361 254 367 288 367 319 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-1" u1D715.rtlm
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D715.ss
 EndChar
 
 StartChar: u1D716
@@ -105791,7 +105264,6 @@ SplineSet
  404 421 411 432 415 441 c 1
  430 441 l 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D716.ss
 EndChar
 
 StartChar: u1D717
@@ -105830,7 +105302,6 @@ SplineSet
  259 398 308 307 393 256 c 1
  411 330 423 407 423 484 c 0
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D717.ss
 EndChar
 
 StartChar: u1D718
@@ -105872,7 +105343,6 @@ SplineSet
  479 428 l 1
  587 428 l 1x70
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D71A.ss
 EndChar
 
 StartChar: u1D719
@@ -105908,7 +105378,6 @@ SplineSet
  209 411 124 277 124 158 c 0
  124 95 170 19 240 19 c 1
 EndSplineSet
-Substitution2: "'ss02' Sans Serif Math Greek-1" u1D719.ss
 EndChar
 
 StartChar: u1D71A
@@ -111899,7 +111368,6 @@ SplineSet
  102 205 137 57 250 57 c 0
  357 57 398 194 398 330 c 0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E2.ss
 EndChar
 
 StartChar: u1D7E3
@@ -111920,7 +111388,6 @@ SplineSet
  302 672 l 1
  302 0 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E3.ss
 EndChar
 
 StartChar: u1D7E4
@@ -111949,7 +111416,6 @@ SplineSet
  177 71 l 1
  469 71 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E4.ss
 EndChar
 
 StartChar: u1D7E5
@@ -111982,7 +111448,6 @@ SplineSet
  331 570 289 605 240 605 c 0
  191 605 138 571 113 492 c 1xe0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E5.ss
 EndChar
 
 StartChar: u1D7E6
@@ -112011,7 +111476,6 @@ SplineSet
  227 417 166 329 100 236 c 1
  294 236 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E6.ss
 EndChar
 
 StartChar: u1D7E7
@@ -112039,7 +111503,6 @@ SplineSet
  196 676 l 1
  458 676 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E7.ss
 EndChar
 
 StartChar: u1D7E8
@@ -112067,7 +111530,6 @@ SplineSet
  112 134 167 57 260 57 c 0
  333 57 390 120 390 207 c 0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E8.ss
 EndChar
 
 StartChar: u1D7E9
@@ -112087,7 +111549,6 @@ SplineSet
  451 662 l 1
  451 642 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7E9.ss
 EndChar
 
 StartChar: u1D7EA
@@ -112120,7 +111581,6 @@ SplineSet
  309 57 368 94 368 158 c 0
  368 213 343 250 276 286 c 2xe4
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7EA.ss
 EndChar
 
 StartChar: u1D7EB
@@ -112148,7 +111608,6 @@ SplineSet
  108 354 177 303 247 303 c 0
  312 303 373 340 386 422 c 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7EB.ss
 EndChar
 
 StartChar: u1D7EC
@@ -112170,7 +111629,6 @@ SplineSet
  149 203 172 82 250 82 c 0
  328 82 351 203 351 341 c 0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7EC.ss
 EndChar
 
 StartChar: u1D7ED
@@ -112190,7 +111648,6 @@ SplineSet
  334 688 l 1
  334 0 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7ED.ss
 EndChar
 
 StartChar: u1D7EE
@@ -112216,7 +111673,6 @@ SplineSet
  200 95 l 1
  474 95 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7EE.ss
 EndChar
 
 StartChar: u1D7EF
@@ -112249,7 +111705,6 @@ SplineSet
  364 688 452 621 452 519 c 0
  452 469 428 406 380 375 c 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7EF.ss
 EndChar
 
 StartChar: u1D7F0
@@ -112277,7 +111732,6 @@ SplineSet
  122 240 l 1
  292 240 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F0.ss
 EndChar
 
 StartChar: u1D7F1
@@ -112306,7 +111760,6 @@ SplineSet
  154 676 l 1
  483 676 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F1.ss
 EndChar
 
 StartChar: u1D7F2
@@ -112335,7 +111788,6 @@ SplineSet
  146 153 185 82 259 82 c 0
  329 82 355 144 355 201 c 0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F2.ss
 EndChar
 
 StartChar: u1D7F3
@@ -112354,7 +111806,6 @@ SplineSet
  58 676 l 1
  471 676 l 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F3.ss
 EndChar
 
 StartChar: u1D7F4
@@ -112386,7 +111837,6 @@ SplineSet
  148 141 176 82 250 82 c 0
  303 82 352 117 352 168 c 0
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F4.ss
 EndChar
 
 StartChar: u1D7F5
@@ -112415,7 +111865,6 @@ SplineSet
  146 402 175 346 240 346 c 0
  282 346 328 371 355 432 c 1
 EndSplineSet
-Substitution2: "'ss03' Sans Serif Italic Math Digits-1" u1D7F5.ss
 EndChar
 
 StartChar: u1D7F6
@@ -112438,7 +111887,6 @@ SplineSet
  114 185 180 53 261 53 c 0
  343 53 409 185 409 348 c 0
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7F6.bf
 EndChar
 
 StartChar: u1D7F7
@@ -112471,7 +111919,6 @@ SplineSet
  411 64 l 2
  424 64 435 53 435 40 c 2
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7F7.bf
 EndChar
 
 StartChar: u1D7F8
@@ -112507,7 +111954,6 @@ SplineSet
  446 111 l 2
  459 111 470 101 470 87 c 2
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7F8.bf
 EndChar
 
 StartChar: u1D7F9
@@ -112544,7 +111990,6 @@ SplineSet
  174 370 l 2
  174 382 184 393 196 394 c 2xd0
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7F9.bf
 EndChar
 
 StartChar: u1D7FA
@@ -112587,7 +112032,6 @@ SplineSet
  96 252 l 1
  324 252 l 1
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FA.bf
 EndChar
 
 StartChar: u1D7FB
@@ -112624,7 +112068,6 @@ SplineSet
  435 616 424 606 411 606 c 2
  151 606 l 1
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FB.bf
 EndChar
 
 StartChar: u1D7FC
@@ -112655,7 +112098,6 @@ SplineSet
  406 305 341 374 267 374 c 0
  187 374 124 312 124 240 c 1
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FC.bf
 EndChar
 
 StartChar: u1D7FD
@@ -112685,7 +112127,6 @@ SplineSet
  455 670 l 2
  468 670 479 659 479 646 c 2
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FD.bf
 EndChar
 
 StartChar: u1D7FE
@@ -112717,7 +112158,6 @@ SplineSet
  101 115 173 53 261 53 c 0
  349 53 421 115 421 191 c 0xf2
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FE.bf
 EndChar
 
 StartChar: u1D7FF
@@ -112748,7 +112188,6 @@ SplineSet
  117 365 181 296 255 296 c 0
  336 296 399 358 399 430 c 1
 EndSplineSet
-Substitution2: "'ss04' Bold Monospace Math digits-1" u1D7FF.bf
 EndChar
 
 StartChar: uni222B.small
@@ -116411,7 +115850,6 @@ SplineSet
  394 -79 l 1
  294 -79 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2320.rtlm
 EndChar
 
 StartChar: uni2321
@@ -116435,7 +115873,6 @@ SplineSet
  294 1086 l 1
  394 1086 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-2" uni2321.rtlm
 EndChar
 
 StartChar: uni239B
@@ -133392,7 +132829,6 @@ SplineSet
  192 -289 196 -202 196 -150 c 0
  196 -139 196 -131 196 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222B.rtlm.up
 EndChar
 
 StartChar: uni222C.up
@@ -133445,7 +132881,6 @@ SplineSet
  192 -289 196 -202 196 -150 c 0
  196 -139 196 -131 196 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222C.rtlm.up
 EndChar
 
 StartChar: uni222D.up
@@ -133517,7 +132952,6 @@ SplineSet
  192 -289 196 -202 196 -150 c 0
  196 -139 196 -131 196 -124 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222D.rtlm.up
 EndChar
 
 StartChar: uni222E.up
@@ -133563,7 +132997,6 @@ SplineSet
  140 416 73 340 73 248 c 0
  73 156 140 81 227 65 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222E.rtlm.up
 EndChar
 
 StartChar: uni222F.up
@@ -133638,7 +133071,6 @@ SplineSet
  126 364 73 310 73 240 c 0xfa
  73 170 126 116 186 86 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222F.rtlm.up
 EndChar
 
 StartChar: uni2230.up
@@ -133734,7 +133166,6 @@ SplineSet
  183 366 92 318 92 240 c 0
  92 162 183 114 246 92 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2230.rtlm.up
 EndChar
 
 StartChar: uni2231.up
@@ -133787,7 +133218,6 @@ SplineSet
  498 222 502 230 505 235 c 0
  516 256 520 274 535 296 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2231.rtlm.up
 EndChar
 
 StartChar: uni2232.up
@@ -133847,7 +133277,6 @@ SplineSet
  138 416 73 338 73 248 c 0
  73 158 139 81 227 65 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2232.rtlm.up
 EndChar
 
 StartChar: uni2233.up
@@ -133906,7 +133335,6 @@ SplineSet
  139 416 73 338 73 248 c 0
  73 158 139 81 227 65 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2233.rtlm.up
 EndChar
 
 StartChar: uni2A0B.up
@@ -133969,7 +133397,6 @@ SplineSet
  195 19 l 1
  310 19 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0B.rtlm.up
 EndChar
 
 StartChar: uni2A0C.up
@@ -134052,7 +133479,6 @@ SplineSet
  128 -297 133 -301 141 -301 c 0
  188 -301 196 -237 196 -136 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0C.rtlm.up
 EndChar
 
 StartChar: uni2A0D.up
@@ -134092,7 +133518,6 @@ SplineSet
  509 273 l 1
  509 207 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0D.rtlm.up
 EndChar
 
 StartChar: uni2A0E.up
@@ -134140,7 +133565,6 @@ SplineSet
  509 173 l 1
  509 107 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0E.rtlm.up
 EndChar
 
 StartChar: uni2A0F.up
@@ -134182,7 +133606,6 @@ SplineSet
  522 496 l 1
  571 448 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0F.rtlm.up
 EndChar
 
 StartChar: uni2A10.up
@@ -134229,7 +133652,6 @@ SplineSet
  137 406 73 331 73 240 c 0
  73 150 137 74 223 57 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A10.rtlm.up
 EndChar
 
 StartChar: uni2A11.up
@@ -134281,7 +133703,6 @@ SplineSet
  505 350 l 1
  505 295 525 241 547 193 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A11.rtlm.up
 EndChar
 
 StartChar: uni2A12.up
@@ -134326,7 +133747,6 @@ SplineSet
  131 288 171 319 209 319 c 0
  249 319 287 287 287 241 c 0xfd
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A12.rtlm.up
 EndChar
 
 StartChar: uni2A13.up
@@ -134371,7 +133791,6 @@ SplineSet
  150 288 190 319 228 319 c 0
  268 319 306 287 306 241 c 0xf4
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A13.rtlm.up
 EndChar
 
 StartChar: uni2A14.up
@@ -134418,7 +133837,6 @@ SplineSet
  334 777 329 781 321 781 c 0
  271 781 264 709 264 604 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A14.rtlm.up
 EndChar
 
 StartChar: uni2A15.up
@@ -134466,7 +133884,6 @@ SplineSet
  73 137 157 53 260 53 c 0
  363 53 447 137 447 240 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A15.rtlm.up
 EndChar
 
 StartChar: uni2A16.up
@@ -134516,7 +133933,6 @@ SplineSet
  69 53 l 1
  219 53 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A16.rtlm.up
 EndChar
 
 StartChar: uni2A17.up
@@ -134572,7 +133988,6 @@ SplineSet
  487 781 480 709 480 604 c 2
  480 292 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A17.rtlm.up
 EndChar
 
 StartChar: uni2A18.up
@@ -134618,7 +134033,6 @@ SplineSet
  326 240 l 1
  515 51 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A18.rtlm.up
 EndChar
 
 StartChar: uni2A19.up
@@ -134662,7 +134076,6 @@ SplineSet
  474 485 569 382 569 236 c 2
  569 -23 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A19.rtlm.up
 EndChar
 
 StartChar: uni2A1A.up
@@ -134706,7 +134119,6 @@ SplineSet
  503 504 l 1
  569 504 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1A.rtlm.up
 EndChar
 
 StartChar: uni2A1B.up
@@ -134743,7 +134155,6 @@ SplineSet
  205 -297 210 -301 218 -301 c 0
  265 -301 273 -237 273 -136 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1B.rtlm.up
 EndChar
 
 StartChar: uni2A1C.up
@@ -134780,7 +134191,6 @@ SplineSet
  509 -389 l 1
  509 -455 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1C.rtlm.up
 EndChar
 
 StartChar: uni222B.up.display
@@ -134811,7 +134221,6 @@ SplineSet
  148 -226 155 -231 165 -231 c 0
  230 -231 236 -143 236 -10 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222B.rtlm.display.up
 EndChar
 
 StartChar: uni222C.up.display
@@ -134859,7 +134268,6 @@ SplineSet
  148 -226 155 -231 165 -231 c 0
  230 -231 236 -143 236 -10 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222C.rtlm.display.up
 EndChar
 
 StartChar: uni222D.up.display
@@ -134924,7 +134332,6 @@ SplineSet
  148 -226 155 -231 165 -231 c 0
  230 -231 236 -143 236 -10 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222D.rtlm.display.up
 EndChar
 
 StartChar: uni222E.up.display
@@ -134969,7 +134376,6 @@ SplineSet
  198 1089 101 979 101 846 c 0
  101 713 198 602 325 580 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222E.rtlm.display.up
 EndChar
 
 StartChar: uni222F.up.display
@@ -135047,7 +134453,6 @@ SplineSet
  156 1038 89 962 89 867 c 0xfa
  89 772 156 696 236 653 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni222F.rtlm.display.up
 EndChar
 
 StartChar: uni2230.up.display
@@ -135142,7 +134547,6 @@ SplineSet
  138 1014 86 944 86 867 c 0xe8
  86 790 138 720 236 672 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2230.rtlm.display.up
 EndChar
 
 StartChar: uni2231.up.display
@@ -135194,7 +134598,6 @@ SplineSet
  670 841 675 851 678 859 c 0
  691 888 703 918 721 945 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2231.rtlm.display.up
 EndChar
 
 StartChar: uni2232.up.display
@@ -135252,7 +134655,6 @@ SplineSet
  198 1089 101 979 101 846 c 0
  101 713 198 602 325 580 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2232.rtlm.display.up
 EndChar
 
 StartChar: uni2233.up.display
@@ -135313,7 +134715,6 @@ SplineSet
  196 1089 101 977 101 846 c 0
  101 715 196 602 325 580 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2233.rtlm.display.up
 EndChar
 
 StartChar: uni2A0B.up.display
@@ -135373,7 +134774,6 @@ SplineSet
  242 516 l 1
  419 516 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0B.rtlm.display.up
 EndChar
 
 StartChar: uni2A0C.up.display
@@ -135455,7 +134855,6 @@ SplineSet
  148 -226 155 -231 165 -231 c 0
  230 -231 236 -143 236 -10 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0C.rtlm.display.up
 EndChar
 
 StartChar: uni2A0D.up.display
@@ -135494,7 +134893,6 @@ SplineSet
  647 901 l 1
  647 831 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0D.rtlm.display.up
 EndChar
 
 StartChar: uni2A0E.up.display
@@ -135541,7 +134939,6 @@ SplineSet
  647 791 l 1
  647 721 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0E.rtlm.display.up
 EndChar
 
 StartChar: uni2A0F.up.display
@@ -135582,7 +134979,6 @@ SplineSet
  684 1219 l 1
  734 1169 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A0F.rtlm.display.up
 EndChar
 
 StartChar: uni2A10.up.display
@@ -135628,7 +135024,6 @@ SplineSet
  198 1103 106 996 106 866 c 0
  106 737 198 630 321 607 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A10.rtlm.display.up
 EndChar
 
 StartChar: uni2A11.up.display
@@ -135678,7 +135073,6 @@ SplineSet
  675 1018 l 1
  675 940 701 867 736 800 c 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A11.rtlm.display.up
 EndChar
 
 StartChar: uni2A12.up.display
@@ -135722,7 +135116,6 @@ SplineSet
  170 928 220 979 283 979 c 0
  345 979 396 928 396 866 c 0xfa
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A12.rtlm.display.up
 EndChar
 
 StartChar: uni2A13.up.display
@@ -135766,7 +135159,6 @@ SplineSet
  170 928 220 979 283 979 c 0
  345 979 396 928 396 866 c 0xe8
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A13.rtlm.display.up
 EndChar
 
 StartChar: uni2A14.up.display
@@ -135812,7 +135204,6 @@ SplineSet
  422 1957 415 1962 405 1962 c 0
  340 1962 332 1871 332 1741 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A14.rtlm.display.up
 EndChar
 
 StartChar: uni2A15.up.display
@@ -135859,7 +135250,6 @@ SplineSet
  106 720 224 602 370 602 c 0
  516 602 634 720 634 866 c 0
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A15.rtlm.display.up
 EndChar
 
 StartChar: uni2A16.up.display
@@ -135908,7 +135298,6 @@ SplineSet
  108 604 l 1
  321 604 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A16.rtlm.display.up
 EndChar
 
 StartChar: uni2A17.up.display
@@ -135963,7 +135352,6 @@ SplineSet
  609 1962 601 1871 601 1741 c 2
  601 931 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A17.rtlm.display.up
 EndChar
 
 StartChar: uni2A18.up.display
@@ -136008,7 +135396,6 @@ SplineSet
  386 868 l 1
  608 646 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A18.rtlm.display.up
 EndChar
 
 StartChar: uni2A19.up.display
@@ -136051,7 +135438,6 @@ SplineSet
  633 1375 801 1248 801 1069 c 2
  801 367 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A19.rtlm.display.up
 EndChar
 
 StartChar: uni2A1A.up.display
@@ -136094,7 +135480,6 @@ SplineSet
  721 1399 l 1
  801 1399 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1A.rtlm.display.up
 EndChar
 
 StartChar: uni2A1B.up.display
@@ -136130,7 +135515,6 @@ SplineSet
  377 -226 384 -231 394 -231 c 0
  459 -231 465 -143 465 -10 c 2
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1B.rtlm.display.up
 EndChar
 
 StartChar: uni2A1C.up.display
@@ -136166,7 +135550,6 @@ SplineSet
  799 -346 l 1
  799 -426 l 1
 EndSplineSet
-Substitution2: "'rtlm' RTL mirrored math glyphs-3" uni2A1C.rtlm.display.up
 EndChar
 
 StartChar: uni222B.rtlm
@@ -136199,7 +135582,6 @@ SplineSet
  217 824 265 686 285 606 c 2
  467 -124 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222B.rtlm.up
 EndChar
 
 StartChar: uni222C.rtlm
@@ -136249,7 +135631,6 @@ SplineSet
  449 824 507 686 527 606 c 2
  709 -124 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222C.rtlm.up
 EndChar
 
 StartChar: uni222D.rtlm
@@ -136316,7 +135697,6 @@ SplineSet
  691 824 749 686 769 606 c 2
  951 -124 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222D.rtlm.up
 EndChar
 
 StartChar: uni222E.rtlm
@@ -136367,7 +135747,6 @@ SplineSet
  524 354 440 438 337 438 c 2
  327 438 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222E.rtlm.up
 EndChar
 
 StartChar: uni222F.rtlm
@@ -136443,7 +135822,6 @@ SplineSet
  765 331 687 399 572 426 c 1
  652 107 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222F.rtlm.up
 EndChar
 
 StartChar: uni2230.rtlm
@@ -136544,7 +135922,6 @@ SplineSet
  1009 323 934 380 817 412 c 1
  891 114 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2230.rtlm.up
 EndChar
 
 StartChar: uni2231.rtlm
@@ -136601,7 +135978,6 @@ SplineSet
  462 -320 412 -199 392 -118 c 2
  285 313 l 1xfe
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2231.rtlm.up
 EndChar
 
 StartChar: uni2232.rtlm
@@ -136661,7 +136037,6 @@ SplineSet
  336 439 332 439 327 439 c 1
  416 81 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2232.rtlm.up
 EndChar
 
 StartChar: uni2233.rtlm
@@ -136719,7 +136094,6 @@ SplineSet
  475 403 401 444 326 440 c 1
  416 82 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2233.rtlm.up
 EndChar
 
 StartChar: uni2A0B.rtlm
@@ -136781,7 +136155,6 @@ SplineSet
  507 31 l 1
  404 134 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0B.rtlm.up
 EndChar
 
 StartChar: uni2A0C.rtlm
@@ -136865,7 +136238,6 @@ SplineSet
  932 824 990 686 1010 606 c 2
  1192 -124 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0C.rtlm.up
 EndChar
 
 StartChar: uni2A0D.rtlm
@@ -136906,7 +136278,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  365 285 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0D.rtlm.up
 EndChar
 
 StartChar: uni2A0E.rtlm
@@ -136955,7 +136326,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  340 385 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0E.rtlm.up
 EndChar
 
 StartChar: uni2A0F.rtlm
@@ -136996,7 +136366,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  369 271 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0F.rtlm.up
 EndChar
 
 StartChar: uni2A10.rtlm
@@ -137048,7 +136417,6 @@ SplineSet
  525 355 441 439 338 439 c 2
  327 439 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A10.rtlm.up
 EndChar
 
 StartChar: uni2A11.rtlm
@@ -137102,7 +136470,6 @@ SplineSet
  462 -320 412 -199 392 -118 c 2
  326 145 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A11.rtlm.up
 EndChar
 
 StartChar: uni2A12.rtlm
@@ -137148,7 +136515,6 @@ SplineSet
  415 205 383 175 337 175 c 0
  290 175 259 213 259 253 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A12.rtlm.up
 EndChar
 
 StartChar: uni2A13.rtlm
@@ -137194,7 +136560,6 @@ SplineSet
  415 205 383 175 337 175 c 0
  290 175 259 213 259 253 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A13.rtlm.up
 EndChar
 
 StartChar: uni2A14.rtlm
@@ -137242,7 +136607,6 @@ SplineSet
  269 477 282 476 293 474 c 1
  258 616 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A14.rtlm.up
 EndChar
 
 StartChar: uni2A15.rtlm
@@ -137293,7 +136657,6 @@ SplineSet
  524 355 440 439 337 439 c 0
  234 439 150 355 150 252 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A15.rtlm.up
 EndChar
 
 StartChar: uni2A16.rtlm
@@ -137344,7 +136707,6 @@ SplineSet
  524 439 l 1
  327 439 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A16.rtlm.up
 EndChar
 
 StartChar: uni2A17.rtlm
@@ -137401,7 +136763,6 @@ SplineSet
  532 -320 482 -199 462 -118 c 2
  373 238 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A17.rtlm.up
 EndChar
 
 StartChar: uni2A18.rtlm
@@ -137448,7 +136809,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  357 319 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A18.rtlm.up
 EndChar
 
 StartChar: uni2A19.rtlm
@@ -137495,7 +136855,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  308 515 l 1xd0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A19.rtlm.up
 EndChar
 
 StartChar: uni2A1A.rtlm
@@ -137542,7 +136901,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  418 73 l 1xe8
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1A.rtlm.up
 EndChar
 
 StartChar: uni2A1B.rtlm
@@ -137580,7 +136938,6 @@ SplineSet
  207 824 265 686 285 606 c 2
  467 -124 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1B.rtlm.up
 EndChar
 
 StartChar: uni2A1C.rtlm
@@ -137618,7 +136975,6 @@ SplineSet
  639 -443 l 1
  189 -443 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1C.rtlm.up
 EndChar
 
 StartChar: uni222B.rtlm.display
@@ -137650,7 +137006,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  811 -10 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222B.rtlm.display.up
 EndChar
 
 StartChar: uni222C.rtlm.display
@@ -137699,7 +137054,6 @@ SplineSet
  581 2000 659 1865 707 1670 c 2
  1121 -10 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222C.rtlm.display.up
 EndChar
 
 StartChar: uni222D.rtlm.display
@@ -137765,7 +137119,6 @@ SplineSet
  891 2000 969 1865 1017 1670 c 2
  1431 -10 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222D.rtlm.display.up
 EndChar
 
 StartChar: uni222E.rtlm.display
@@ -137815,7 +137168,6 @@ SplineSet
  811 1007 693 1124 549 1124 c 2
  532 1124 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222E.rtlm.display.up
 EndChar
 
 StartChar: uni222F.rtlm.display
@@ -137890,7 +137242,6 @@ SplineSet
  1052 979 968 1069 845 1109 c 1
  951 679 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222F.rtlm.display.up
 EndChar
 
 StartChar: uni2230.rtlm.display
@@ -137989,7 +137340,6 @@ SplineSet
  1362 970 1283 1045 1161 1088 c 1
  1258 692 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2230.rtlm.display.up
 EndChar
 
 StartChar: uni2231.rtlm.display
@@ -138040,7 +137390,6 @@ SplineSet
  857 904 853 841 882 841 c 0
  902 841 906 889 943 945 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2231.rtlm.display.up
 EndChar
 
 StartChar: uni2232.rtlm.display
@@ -138102,7 +137451,6 @@ SplineSet
  551 604 557 604 563 604 c 1
  439 1108 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2232.rtlm.display.up
 EndChar
 
 StartChar: uni2233.rtlm.display
@@ -138171,7 +137519,6 @@ SplineSet
  672 1110 600 1134 530 1130 c 1
  654 627 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2233.rtlm.display.up
 EndChar
 
 StartChar: uni2A0B.rtlm.display
@@ -138231,7 +137578,6 @@ SplineSet
  762 516 l 1
  644 669 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0B.rtlm.display.up
 EndChar
 
 StartChar: uni2A0C.rtlm.display
@@ -138314,7 +137660,6 @@ SplineSet
  1201 2000 1279 1865 1327 1670 c 2
  1741 -10 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0C.rtlm.display.up
 EndChar
 
 StartChar: uni2A0D.rtlm.display
@@ -138354,7 +137699,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  587 901 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0D.rtlm.display.up
 EndChar
 
 StartChar: uni2A0E.rtlm.display
@@ -138402,7 +137746,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  560 1011 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0E.rtlm.display.up
 EndChar
 
 StartChar: uni2A0F.rtlm.display
@@ -138442,7 +137785,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  592 880 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0F.rtlm.display.up
 EndChar
 
 StartChar: uni2A10.rtlm.display
@@ -138493,7 +137835,6 @@ SplineSet
  545 1128 538 1128 531 1127 c 1
  655 625 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A10.rtlm.display.up
 EndChar
 
 StartChar: uni2A11.rtlm.display
@@ -138547,7 +137888,6 @@ SplineSet
  824 -269 747 -144 702 37 c 2
  536 711 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A11.rtlm.display.up
 EndChar
 
 StartChar: uni2A12.rtlm.display
@@ -138592,7 +137932,6 @@ SplineSet
  664 803 614 753 551 753 c 0
  489 753 438 803 438 866 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A12.rtlm.display.up
 EndChar
 
 StartChar: uni2A13.rtlm.display
@@ -138637,7 +137976,6 @@ SplineSet
  664 803 614 753 551 753 c 0
  489 753 438 803 438 866 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A13.rtlm.display.up
 EndChar
 
 StartChar: uni2A14.rtlm.display
@@ -138684,7 +138022,6 @@ SplineSet
  395 1180 419 1177 442 1172 c 1
  302 1741 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A14.rtlm.display.up
 EndChar
 
 StartChar: uni2A15.rtlm.display
@@ -138734,7 +138071,6 @@ SplineSet
  813 1011 696 1128 551 1128 c 0
  406 1128 289 1011 289 866 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A15.rtlm.display.up
 EndChar
 
 StartChar: uni2A16.rtlm.display
@@ -138784,7 +138120,6 @@ SplineSet
  813 1127 l 1
  531 1127 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A16.rtlm.display.up
 EndChar
 
 StartChar: uni2A17.rtlm.display
@@ -138840,7 +138175,6 @@ SplineSet
  184 941 194 931 210 931 c 2
  455 931 l 1xfa
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A17.rtlm.display.up
 EndChar
 
 StartChar: uni2A18.rtlm.display
@@ -138886,7 +138220,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  575 948 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A18.rtlm.display.up
 EndChar
 
 StartChar: uni2A19.rtlm.display
@@ -138932,7 +138265,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  466 1392 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A19.rtlm.display.up
 EndChar
 
 StartChar: uni2A1A.rtlm.display
@@ -138978,7 +138310,6 @@ SplineSet
  271 2000 349 1865 397 1670 c 2
  690 480 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1A.rtlm.display.up
 EndChar
 
 StartChar: uni2A1B.rtlm.display
@@ -139015,7 +138346,6 @@ SplineSet
  272 2000 350 1865 398 1670 c 2
  812 -10 l 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1B.rtlm.display.up
 EndChar
 
 StartChar: uni2A1C.rtlm.display
@@ -139052,7 +138382,6 @@ SplineSet
  1034 -426 l 1
  302 -426 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1C.rtlm.display.up
 EndChar
 
 StartChar: uni221A.rtlm
@@ -145973,7 +145302,6 @@ SplineSet
  53 591 54 602 58 612 c 0
  83 670 l 0
 EndSplineSet
-AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE00.alt0
 EndChar
 
 StartChar: u1EE01
@@ -146091,7 +145419,6 @@ SplineSet
  393 403 397 405 399 412 c 0
  410 441 416 466 419 487 c 0
 EndSplineSet
-AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE03.alt0
 EndChar
 
 StartChar: u1EE05
@@ -146450,7 +145777,6 @@ SplineSet
  418 463 l 0
  421 472 426 471 433 460 c 0
 EndSplineSet
-AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE0D.alt0
 EndChar
 
 StartChar: u1EE0E
@@ -146707,7 +146033,6 @@ SplineSet
  364 311 363 313 364 316 c 0
  388 416 l 0
 EndSplineSet
-AlternateSubs2: "'cv01' Alternate Arabic Math symbols-1" u1EE13.alt0
 EndChar
 
 StartChar: u1EE14

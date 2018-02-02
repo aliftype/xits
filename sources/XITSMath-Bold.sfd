@@ -51,11 +51,6 @@ OS2StrikeYPos: 313
 OS2CapHeight: 676
 OS2XHeight: 461
 OS2Vendor: 'ALIF'
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1" { "'liga' Standard Ligatures in Latin lookup 1 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
-Lookup: 3 0 0 "'ssty' Script Style 4" { "'ssty' Script Style 4-1"  } ['ssty' ('math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss01' Calligraphic Math Alphabet" { "'ss01' Calligraphic Math Alphabet-1" ("cal") } ['ss01' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss08' Upright Integrals" { "'ss08' Upright Integrals-1" ("up") } ['ss08' ('math' <'dflt' > 'DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -6866,7 +6861,6 @@ SplineSet
  275 41 294 30 370 25 c 1
  370 0 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D408 u1D409
 EndChar
 
 StartChar: uni0133
@@ -6916,7 +6910,6 @@ SplineSet
  208 42 221 29 256 24 c 1
  256 0 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D422 u1D423
 EndChar
 
 StartChar: uni0134
@@ -23858,7 +23851,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2062 -1 N 0.75 0 0 0.75 0 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2032.ssty1 uni2032.ssty2
 EndChar
 
 StartChar: uni2033
@@ -23887,7 +23879,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2063 -1 N 0.75 0 0 0.75 3.125e-05 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2033.ssty1 uni2033.ssty2
 EndChar
 
 StartChar: uni2034
@@ -23924,7 +23915,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2064 -1 N 0.75 0 0 0.75 -4.6875e-06 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2034.ssty1 uni2034.ssty2
 EndChar
 
 StartChar: uni2035
@@ -23945,7 +23935,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2065 -1 N 0.75 0 0 0.75 -9.375e-06 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2035.ssty1 uni2035.ssty2
 EndChar
 
 StartChar: uni2036
@@ -23973,7 +23962,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2066 -1 N 0.75 0 0 0.75 3.125e-05 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2036.ssty1 uni2036.ssty2
 EndChar
 
 StartChar: uni2037
@@ -24008,7 +23996,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2067 -1 N 0.75 0 0 0.75 -4.6875e-06 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2037.ssty1 uni2037.ssty2
 EndChar
 
 StartChar: uni2038
@@ -24432,7 +24419,6 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2068 -1 N 0.75 0 0 0.75 -3.59375e-05 381 2
-AlternateSubs2: "'ssty' Script Style 4-1" uni2057.ssty1 uni2057.ssty2
 EndChar
 
 StartChar: nsuperior
@@ -31222,7 +31208,6 @@ SplineSet
  130 -275 142 -278 147 -278 c 0
  182 -278 210 -206 234 -108 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222B.up
 EndChar
 
 StartChar: uni222C
@@ -31275,7 +31260,6 @@ SplineSet
  130 -275 142 -278 147 -278 c 0
  182 -278 210 -206 234 -108 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222C.up
 EndChar
 
 StartChar: uni222D
@@ -31347,7 +31331,6 @@ SplineSet
  130 -275 142 -278 147 -278 c 0
  182 -278 210 -205 234 -108 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222D.up
 EndChar
 
 StartChar: uni222E
@@ -31397,7 +31380,6 @@ SplineSet
  273 431 198 352 198 255 c 0
  198 190 232 132 284 100 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222E.up
 EndChar
 
 StartChar: uni222F
@@ -31480,7 +31462,6 @@ SplineSet
  187 202 217 153 291 122 c 1
  325 256 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni222F.up
 EndChar
 
 StartChar: uni2230
@@ -31585,7 +31566,6 @@ SplineSet
  187 208 214 164 294 132 c 1
  325 256 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2230.up
 EndChar
 
 StartChar: uni2231
@@ -31637,7 +31617,6 @@ SplineSet
  144 143 l 1
  144 263 236 359 353 366 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2231.up
 EndChar
 
 StartChar: uni2232
@@ -31692,7 +31671,6 @@ SplineSet
  274 431 200 351 200 255 c 0
  200 192 232 133 286 100 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2232.up
 EndChar
 
 StartChar: uni2233
@@ -31748,7 +31726,6 @@ SplineSet
  274 431 200 351 200 255 c 0
  200 192 233 133 286 100 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2233.up
 EndChar
 
 StartChar: uni2234
@@ -42378,7 +42355,6 @@ SplineSet
  130 -275 142 -278 147 -278 c 0
  182 -278 210 -205 234 -108 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0C.up
 EndChar
 
 StartChar: uni2A0D
@@ -42420,7 +42396,6 @@ SplineSet
  137 292 l 1
  334 292 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0D.up
 EndChar
 
 StartChar: uni2A0E
@@ -42468,7 +42443,6 @@ SplineSet
  137 394 l 1
  360 394 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0E.up
 EndChar
 
 StartChar: uni2A0F
@@ -42509,7 +42483,6 @@ SplineSet
  95 127 l 1
  325 254 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A0F.up
 EndChar
 
 StartChar: uni2A10
@@ -42561,7 +42534,6 @@ SplineSet
  200 190 234 132 286 100 c 1
  369 437 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A10.up
 EndChar
 
 StartChar: uni2A11
@@ -42615,7 +42587,6 @@ SplineSet
  231 307 265 249 316 218 c 1
  363 407 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A11.up
 EndChar
 
 StartChar: uni2A12
@@ -42666,7 +42637,6 @@ SplineSet
  488 435 l 1
  369 435 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A12.up
 EndChar
 
 StartChar: uni2A13
@@ -42715,7 +42685,6 @@ SplineSet
  566 356 484 438 383 438 c 2
  370 438 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A13.up
 EndChar
 
 StartChar: uni2A14
@@ -42764,7 +42733,6 @@ SplineSet
  635 780 623 782 618 782 c 0
  583 782 555 711 531 613 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A14.up
 EndChar
 
 StartChar: uni2A15
@@ -42814,7 +42782,6 @@ SplineSet
  200 154 282 72 383 72 c 0
  484 72 566 154 566 255 c 0
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A15.up
 EndChar
 
 StartChar: uni2A16
@@ -42865,7 +42832,6 @@ SplineSet
  278 69 l 1
  370 435 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A16.up
 EndChar
 
 StartChar: uni2A17
@@ -42924,7 +42890,6 @@ SplineSet
  653 782 621 646 613 613 c 2
  537 312 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A17.up
 EndChar
 
 StartChar: uni2A18
@@ -42972,7 +42937,6 @@ SplineSet
  181 501 l 1
  347 344 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A18.up
 EndChar
 
 StartChar: uni2A19
@@ -43018,7 +42982,6 @@ SplineSet
  83 385 215 514 377 514 c 2
  390 514 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A19.up
 EndChar
 
 StartChar: uni2A1A
@@ -43065,7 +43028,6 @@ SplineSet
  171 282 l 2
  171 203 215 130 284 94 c 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1A.up
 EndChar
 
 StartChar: uni2A1B
@@ -43104,7 +43066,6 @@ SplineSet
  130 -275 142 -278 147 -278 c 0
  182 -278 210 -205 234 -108 c 2
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1B.up
 EndChar
 
 StartChar: uni2A1C
@@ -43143,7 +43104,6 @@ SplineSet
  538 -375 l 1
  538 -455 l 1
 EndSplineSet
-Substitution2: "'ss08' Upright Integrals-1" uni2A1C.up
 EndChar
 
 StartChar: uni2A22
@@ -44558,8 +44518,6 @@ SplineSet
  210 461 l 1
  348 461 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D41F
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D41F
 EndChar
 
 StartChar: fi
@@ -44604,8 +44562,6 @@ SplineSet
  487 41 500 26 536 24 c 1
  536 0 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D422
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D422
 EndChar
 
 StartChar: fl
@@ -44652,8 +44608,6 @@ SplineSet
  210 461 l 1
  348 461 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D425
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D425
 EndChar
 
 StartChar: ffi
@@ -44716,8 +44670,6 @@ SplineSet
  210 461 l 1
  348 461 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D41F u1D422
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D41F u1D422
 EndChar
 
 StartChar: ffl
@@ -44782,8 +44734,6 @@ SplineSet
  210 461 l 1
  348 461 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D41F u1D425
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D41F u1D425
 EndChar
 
 StartChar: u1D400
@@ -56447,8 +56397,6 @@ SplineSet
  314 461 l 2
  349 461 410 461 487 474 c 1xfa
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable" u1D41F u1D423
-Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" u1D41F u1D423
 EndChar
 
 StartChar: uni222B.small
@@ -60594,7 +60542,6 @@ SplineSet
  340 233 l 1
 EndSplineSet
 Refer: 909 8747 N 1 0 0 1 0 0 2
-Substitution2: "'ss08' Upright Integrals-1" uni2A0B.up
 EndChar
 
 StartChar: uni210A
@@ -63383,7 +63330,6 @@ SplineSet
  293 239 329 183 381 147 c 1
  444 219 496 301 547 384 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D0.cal
 EndChar
 
 StartChar: u1D4D1
@@ -63443,7 +63389,6 @@ SplineSet
  731 367 766 364 786 354 c 1
  839 364 871 423 871 480 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D1.cal
 EndChar
 
 StartChar: u1D4D2
@@ -63487,7 +63432,6 @@ SplineSet
  786 617 771 632 740 632 c 0
  653 632 505 519 414 375 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D2.cal
 EndChar
 
 StartChar: u1D4D3
@@ -63544,7 +63488,6 @@ SplineSet
  151 45 172 38 215 38 c 0
  249 38 280 42 310 51 c 1x64
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D3.cal
 EndChar
 
 StartChar: u1D4D4
@@ -63594,7 +63537,6 @@ SplineSet
  700 624 686 632 655 632 c 0
  579 632 481 542 456 455 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D4.cal
 EndChar
 
 StartChar: u1D4D5
@@ -63650,7 +63592,6 @@ SplineSet
  334 213 414 276 525 323 c 1
  608 468 656 515 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D5.cal
 EndChar
 
 StartChar: u1D4D6
@@ -63700,7 +63641,6 @@ SplineSet
  708 617 695 632 665 632 c 0
  589 632 489 548 424 447 c 1x2c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D6.cal
 EndChar
 
 StartChar: u1D4D7
@@ -63760,7 +63700,6 @@ SplineSet
  156 38 165 34 176 34 c 0
  217 34 294 131 344 225 c 1x87
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D7.cal
 EndChar
 
 StartChar: u1D4D8
@@ -63806,7 +63745,6 @@ SplineSet
  517 406 535 375 571 358 c 1
  618 450 672 546 769 604 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D8.cal
 EndChar
 
 StartChar: u1D4D9
@@ -63857,7 +63795,6 @@ SplineSet
  110 -157 122 -169 139 -169 c 0
  207 -169 287 -54 333 50 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4D9.cal
 EndChar
 
 StartChar: u1D4DA
@@ -63918,7 +63855,6 @@ SplineSet
  638 643 667 636 682 636 c 0
  719 636 779 642 842 699 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DA.cal
 EndChar
 
 StartChar: u1D4DB
@@ -63973,7 +63909,6 @@ SplineSet
  131 47 152 38 195 38 c 0
  229 38 260 44 290 53 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DB.cal
 EndChar
 
 StartChar: u1D4DC
@@ -64026,7 +63961,6 @@ SplineSet
  1046 657 1115 699 1182 699 c 0
  1193 699 1222 698 1234 691 c 1x20
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DC.cal
 EndChar
 
 StartChar: u1D4DD
@@ -64071,7 +64005,6 @@ SplineSet
  725 618 722 498 713 375 c 0
  708 307 703 229 695 175 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DD.cal
 EndChar
 
 StartChar: u1D4DE
@@ -64105,7 +64038,6 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DE.cal
 EndChar
 
 StartChar: u1D4DF
@@ -64154,7 +64086,6 @@ SplineSet
  672 699 750 683 816 654 c 1
  846 671 878 686 914 698 c 1xdc
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4DF.cal
 EndChar
 
 StartChar: u1D4E0
@@ -64199,7 +64130,6 @@ SplineSet
  72 464 295 699 560 699 c 0
  668 699 743 635 749 562 c 1x4c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E0.cal
 EndChar
 
 StartChar: u1D4E1
@@ -64257,7 +64187,6 @@ SplineSet
  720 367 742 360 760 349 c 1
  811 358 857 423 857 481 c 0
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E1.cal
 EndChar
 
 StartChar: u1D4E2
@@ -64292,7 +64221,6 @@ SplineSet
  81 251 179 306 275 306 c 0
  363 306 424 257 437 136 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E2.cal
 EndChar
 
 StartChar: u1D4E3
@@ -64336,7 +64264,6 @@ SplineSet
  331 34 403 86 490 260 c 0
  585 450 618 477 718 558 c 1x98
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E3.cal
 EndChar
 
 StartChar: u1D4E4
@@ -64385,7 +64312,6 @@ SplineSet
  769 669 l 1
  904 669 l 1x8c
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E4.cal
 EndChar
 
 StartChar: u1D4E5
@@ -64430,7 +64356,6 @@ SplineSet
  593 552 554 473 506 355 c 0
  461 245 400 137 332 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E5.cal
 EndChar
 
 StartChar: u1D4E6
@@ -64482,7 +64407,6 @@ SplineSet
  952 687 971 683 983 679 c 1
  812 495 816 242 634 62 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E6.cal
 EndChar
 
 StartChar: u1D4E7
@@ -64534,7 +64458,6 @@ SplineSet
  338 686 392 699 450 699 c 0
  561 699 637 648 664 567 c 1xb8
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E7.cal
 EndChar
 
 StartChar: u1D4E8
@@ -64587,7 +64510,6 @@ SplineSet
  194 -154 201 -169 223 -169 c 0
  265 -169 334 -134 396 -23 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E8.cal
 EndChar
 
 StartChar: u1D4E9
@@ -64652,7 +64574,6 @@ SplineSet
  141 46 163 37 198 37 c 0
  225 37 252 43 278 56 c 1
 EndSplineSet
-Substitution2: "'ss01' Calligraphic Math Alphabet-1" u1D4E9.cal
 EndChar
 
 StartChar: u1D4EA
