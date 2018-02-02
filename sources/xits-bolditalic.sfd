@@ -50,6 +50,8 @@ OS2SupXOff: 0
 OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 309
+OS2CapHeight: 669
+OS2XHeight: 449
 OS2Vendor: 'ALIF'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1

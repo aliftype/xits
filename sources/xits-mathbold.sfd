@@ -48,6 +48,8 @@ OS2SupXOff: 0
 OS2SupYOff: 500
 OS2StrikeYSize: 50
 OS2StrikeYPos: 313
+OS2CapHeight: 676
+OS2XHeight: 461
 OS2Vendor: 'ALIF'
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0 subtable"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1" { "'liga' Standard Ligatures in Latin lookup 1 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
