@@ -1,4 +1,4 @@
-NAME=xits
+NAME=XITS
 VERSION=1.108
 
 SRC=sources
@@ -13,13 +13,14 @@ MAKEFNT=$(TOOLS)/makefnt.py
 MAKEWEB=$(TOOLS)/makeweb.py
 COVERAGE=$(TOOLS)/fontcoverage.py
 
-FONTS=math mathbold regular bold italic bolditalic
+FONTS=$(NAME)Math-Regular $(NAME)Math-Bold \
+      $(NAME)-Regular $(NAME)-Bold $(NAME)-Italic $(NAME)-BoldItalic
 DOCS=user-guide xits-specimen
 
-SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfd)
-OTF=$(FONTS:%=$(NAME)-%.otf)
-WOF=$(FONTS:%=$(WEB)/$(NAME)-%.woff)
-EOT=$(FONTS:%=$(WEB)/$(NAME)-%.eot)
+SFD=$(FONTS:%=$(SRC)/%.sfd)
+OTF=$(FONTS:%=%.otf)
+WOF=$(FONTS:%=$(WEB)/%.woff)
+EOT=$(FONTS:%=$(WEB)/%.eot)
 TEX=$(DOCS:%=$(DOCSRC)/%.tex)
 PDF=$(DOCS:%=$(DOC)/%.pdf)
 
