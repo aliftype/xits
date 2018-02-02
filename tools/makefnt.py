@@ -8,6 +8,11 @@ from fontTools.ttLib import TTFont
 def postProcess(args):
     font = TTFont(args.output)
 
+    os2 = font["OS/2"]
+    # FontForge sets this to ord(' ') for OTF fonts, 0 for TTF fonts, we want
+    # to keep things consistent.
+    os2.usDefaultChar = 0
+
     # Drop useless table with timestamp
     if "FFTM" in font:
         del font["FFTM"]
