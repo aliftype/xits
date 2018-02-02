@@ -9,7 +9,7 @@ DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
 PY=python
-BUILD=$(TOOLS)/build.py
+MAKEFNT=$(TOOLS)/makefnt.py
 MAKEWEB=$(TOOLS)/makeweb.py
 COVERAGE=$(TOOLS)/fontcoverage.py
 
@@ -29,17 +29,17 @@ all: otf web
 otf: $(OTF)
 web: $(WOF)
 
-xits-math.otf: $(SRC)/xits-math.sfd Makefile $(BUILD)
+xits-math.otf: $(SRC)/xits-math.sfd
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ --version=$(VERSION)
+	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION)
 
-xits-mathbold.otf: $(SRC)/xits-mathbold.sfd Makefile $(BUILD)
+xits-mathbold.otf: $(SRC)/xits-mathbold.sfd
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ --version=$(VERSION)
+	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION)
 
-%.otf: $(SRC)/%.sfd Makefile $(SRC)/$(FEA) $(BUILD)
+%.otf: $(SRC)/%.sfd $(SRC)/$(FEA)
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@ --version=$(VERSION) --features=$(SRC)/$(FEA)
+	@$(PY) $(MAKEFNT) $< $@ --version=$(VERSION) --features=$(SRC)/$(FEA)
 
 $(WEB)/%.woff: %.otf
 	@echo "Building $@"
@@ -65,7 +65,7 @@ dist: $(OTF) $(PDF) FONTLOG.txt
 	@cp $(SFD) $(DIST)/$(SRC)
 	@cp $(SRC)/$(FEA) $(DIST)/$(SRC)
 	@cp $(OTF) $(DIST)
-	@cp $(BUILD) $(COVERAGE) $(DIST)/$(TOOLS)
+	@cp $(MAKEFNT) $(COVERAGE) $(DIST)/$(TOOLS)
 	@cp -r $(PDF) $(DIST)/$(DOC)
 	@cp -r $(TEX) $(DIST)/$(DOCSRC)
 	@cp -r Makefile OFL-FAQ.txt OFL.txt FONTLOG.txt tex $(DIST)
