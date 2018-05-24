@@ -30,18 +30,16 @@ def postProcess(args):
 
 
 def makeFont(args):
-    mods = [os.stat(args.input).st_mtime]
-
     font = fontforge.open(args.input)
 
     for glyph in font.glyphs():
         glyph.unlinkRmOvrlpSave = True
 
     if args.features:
-        mods += [os.stat(args.features).st_mtime]
         font.mergeFeature(args.features)
 
-    os.environ["SOURCE_DATE_EPOCH"] = "%d" % max(mods)
+    if os.environ.get("SOURCE_DATE_EPOCH") is None:
+        os.environ["SOURCE_DATE_EPOCH"] = "0"
 
     font.appendSFNTName("English (US)", "UniqueID", "%s;%s;%s" % (args.version,
         font.os2_vendor, font.fontname))
