@@ -1198,6 +1198,7 @@ Encoding: 124 124 40
 Width: 340
 GlyphClass: 2
 Flags: W
+GlyphCompositionVertical: 2  bar%0,0,400,880 bar%1,400,0,880
 HStem: 671 20G<126 214>
 VStem: 126 88<-189 691>
 LayerCount: 2
