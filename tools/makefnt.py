@@ -13,6 +13,15 @@ def postProcess(args):
     # to keep things consistent.
     os2.usDefaultChar = 0
 
+    # Filter-out useless Macintosh names
+    font["name"].names = [n for n in font["name"].names if n.platformID != 1]
+
+    # https://github.com/fontforge/fontforge/pull/3235
+    # fontDirectionHint is deprecated and must be set to 2
+    font["head"].fontDirectionHint = 2
+    # unset bits 6..10
+    font["head"].flags &= ~0x7e0
+
     # Drop useless table with timestamp
     if "FFTM" in font:
         del font["FFTM"]
