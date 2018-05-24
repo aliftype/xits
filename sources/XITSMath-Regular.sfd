@@ -7602,18 +7602,18 @@ EndChar
 
 StartChar: fraction
 Encoding: 8260 8260 217
-Width: 167
-Flags: MW
+Width: 481
+Flags: W
 GlyphVariantsVertical: fraction slash.size1 slash.size2 slash.size3 slash.size4
-HStem: -14 20 656 20<285 331 331 331>
+HStem: -14 21G<-9 53.0435> 656 20G<430.87 490>
 LayerCount: 2
 Fore
 SplineSet
-331 676 m 1
- -119 -14 l 1
- -168 -14 l 1
- 285 676 l 1
- 331 676 l 1
+490 676 m 1
+ 40 -14 l 1
+ -9 -14 l 1
+ 444 676 l 1
+ 490 676 l 1
 EndSplineSet
 EndChar
 
