@@ -714,8 +714,6 @@ feature ss10 {
 feature cv01 {
   featureNames { name "Alternate Arabic math symbols"; };
 
-  script arab;
-
   sub u1EE00 from [u1EE00.alt0];
   sub u1EE03 from [u1EE03.alt0];
   sub u1EE0D from [u1EE0D.alt0];
