@@ -41,6 +41,20 @@ http://github.com/alif-type/xits
 
 ChangeLog
 ----------
+29 September 2018 (Khaled Hosny) <XITS> Version 1.109
+- Improve Arabic math glyph considerably, they are much usable now.
+- Add upright RTL integral alternates.
+- Change ‘cv01’ feature for alternate Arabic math glyphs.
+- Make the ‘hhea’ ascent/descent/line gap match the ‘OS/2’ typo metrics.
+- Don’t set deprecated ForceBold in CFF Private dictionary.
+- Fix script position with vertical bar on MS Word.
+- Make vertical bar extensible in bold math font.
+- Make MS Word linear fraction work better.
+- Bundle WOFF fonts.
+- Remove glyph overlap, some CFF rasterizers handle it badly.
+- Fonts can be build with vanilla FontForge now.
+- Builds are reproducible.
+
 20 Jan 2014 (Khaled Hosny) <XITS> Version 1.108
 - Add ‘latn’ and ‘dflt’ languages to math stylistic sets
 - Add missing substitutions from ‘ss05’, ‘ss06’ and ‘ss07’ features
