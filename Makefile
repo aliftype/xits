@@ -20,8 +20,6 @@ DOCS=user-guide xits-specimen
 SFD=$(FONTS:%=$(SRC)/%.sfd)
 OTF=$(FONTS:%=%.otf)
 WOF=$(FONTS:%=$(WEB)/%.woff)
-TEX=$(DOCS:%=$(DOCSRC)/%.tex)
-PDF=$(DOCS:%=$(DOC)/%.pdf)
 
 all: otf
 
@@ -37,23 +35,16 @@ $(WEB)/%.woff: %.otf
 	@mkdir -p $(WEB)
 	@$(PY) $(MAKEWEB) $< $(WEB)
 
-doc: $(PDF)
-
-$(DOC)/%.pdf: $(DOCSRC)/%.tex
-	@echo "Building $@"
-	@context --nonstopmode --result=$@ $< 1>/dev/null
-
 FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 	@echo "Generating $@"
 	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
 
-dist: $(OTF) $(WOF) $(PDF) FONTLOG.txt
+dist: $(OTF) $(WOF) FONTLOG.txt
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(DOC)
 	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
 	@cp $(WOF) $(DIST)/$(WEB)
-	@cp -r $(PDF) $(DIST)/$(DOC)
 	@cp -r OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
