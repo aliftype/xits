@@ -3,9 +3,7 @@ VERSION=1.109
 
 SRC=sources
 WEB=webfonts
-DOC=documentation
 TOOLS=tools
-DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
 PY=python
@@ -15,7 +13,6 @@ COVERAGE=$(TOOLS)/fontcoverage.py
 
 FONTS=$(NAME)Math-Regular $(NAME)Math-Bold \
       $(NAME)-Regular $(NAME)-Bold $(NAME)-Italic $(NAME)-BoldItalic
-DOCS=user-guide xits-specimen
 
 SFD=$(FONTS:%=$(SRC)/%.sfd)
 OTF=$(FONTS:%=%.otf)
@@ -41,7 +38,6 @@ FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 
 dist: $(OTF) $(WOF) FONTLOG.txt
 	@echo "Making dist tarball"
-	@mkdir -p $(DIST)/$(DOC)
 	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
 	@cp $(WOF) $(DIST)/$(WEB)
