@@ -22,6 +22,7 @@ tracker.
 
 XITS currently provides the following Unicode coverage:
 %{XITS Math}
+%{XITS Math Bold}
 %{XITS}
 %{XITS Bold}
 %{XITS Italic}
