@@ -15,7 +15,7 @@ quality mathematic typesetting with OpenType MATH capable layout systems, like
 MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
 
 XITS development is currently hosted on:
-http://github.com/khaledhosny/xits-math
+http://github.com/alif-type/xits
 
 Feature requests, bug reports and patches should be directed to our issue
 tracker.
@@ -36,7 +36,7 @@ recommendations regarding why you would want to contribute to the project or
 make your own version of the font.
 
 See the project website for the current master and the various branches:
-http://github.com/khaledhosny/xits-math
+http://github.com/alif-type/xits
 
 
 ChangeLog
@@ -196,7 +196,7 @@ order.)
 
 N: Khaled Hosny
 E: khaledhosny@eglug.org
-W: http://www.khaledhosny.org
+W: http://github.com/alif-type
 D: Engineer - OpenType MATH code
 
 N: STIX Fonts project
