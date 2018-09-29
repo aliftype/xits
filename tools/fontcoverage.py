@@ -39,7 +39,7 @@ for fontfile in sys.argv[3:-1]:
         if f:
             found.append((name, (t,f)))
 
-    fullname = str(font['name'].getName(4, 1, 0).string, encoding='ascii')
+    fullname = str(font['name'].getName(4, 3, 1).string, encoding='ascii')
     coverage  = ""
     coverage += "* %s:\n" %fullname
     for f in found:
