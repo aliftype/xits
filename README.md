@@ -30,7 +30,7 @@ tested), [FontForge][3] (or derivatives) with Python support, and
 
 
 
-[1]: http://www.stixfonts.org
-[2]: http://scripts.sil.org/OFL
-[3]: http://fontforge.org/
-[4]: http://github.com/behdad/fonttools
+[1]: https://www.stixfonts.org
+[2]: https://scripts.sil.org/OFL
+[3]: https://fontforge.github.io
+[4]: https://github.com/fonttools/fonttools
