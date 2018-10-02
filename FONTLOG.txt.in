@@ -42,6 +42,10 @@ http://github.com/alif-type/xits
 
 ChangeLog
 ----------
+2 October 2018 (Khaled Hosny) <XITS> Version 1.200
+- This is the final release with new features, from now only XITS is in
+  maintenance mode and only bug fixes will be made.
+
 29 September 2018 (Khaled Hosny) <XITS> Version 1.109
 - Improve Arabic math glyph considerably, they are much usable now.
 - Add upright RTL integral alternates.
