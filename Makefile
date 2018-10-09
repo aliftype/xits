@@ -5,6 +5,7 @@ SRC=sources
 WEB=webfonts
 TOOLS=tools
 DIST=$(NAME)-$(VERSION)
+DIST_CTAN=$(DIST)-CTAN
 
 PY=python
 MAKEFNT=$(TOOLS)/makefnt.py
@@ -36,7 +37,7 @@ FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
 	@echo "Generating $@"
 	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
 
-dist: $(OTF) $(WOF) FONTLOG.txt
+dist: dist-ctan $(OTF) $(WOF) FONTLOG.txt
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
@@ -45,5 +46,13 @@ dist: $(OTF) $(WOF) FONTLOG.txt
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
+dist-ctan: $(OTF) FONTLOG.txt
+	@echo "Making CTAN dist tarball"
+	@mkdir -p $(DIST_CTAN)
+	@cp $(OTF) $(DIST_CTAN)
+	@cp -r OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST_CTAN)
+	@cp README.md $(DIST_CTAN)/README.txt
+	@zip -r $(DIST_CTAN).zip $(DIST_CTAN)
+
 clean:
-	@rm -rf $(OTF) $(DIST) $(DIST).zip
+	@rm -rf $(OTF) $(DIST) $(DIST).zip $(DIST_CTAN) $(DIST_CTAN).zip
