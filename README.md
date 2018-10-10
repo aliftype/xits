@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/alif-type/xits/badge)](https://www.jsdelivr.com/package/gh/alif-type/xits)
+
 The XITS font project
 ======================
 
