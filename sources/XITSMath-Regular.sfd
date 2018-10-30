@@ -143677,8 +143677,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni1D98
-Encoding: 7576 7576 4287
+StartChar: uni1D9B
+Encoding: 7576 7579 4287
 Width: 441
 GlyphClass: 2
 Flags: MW
