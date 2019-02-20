@@ -24673,6 +24673,7 @@ Encoding: 8400 8400 716
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -228
 HStem: 637 78<-293 14 -293 14>
 LayerCount: 2
 Fore
@@ -24693,6 +24694,7 @@ Encoding: 8401 8401 717
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -228
 HStem: 637 78<-470 -163 -163 -148.5 -470 14 -470 -163>
 LayerCount: 2
 Fore
@@ -24730,6 +24732,7 @@ Encoding: 8406 8406 719
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -258
 HStem: 637 78<-340 -16 -326 -16>
 LayerCount: 2
 Fore
@@ -24754,6 +24757,7 @@ Encoding: 8407 8407 720
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -228
 HStem: 637 78<-470 -160 -470 -160>
 LayerCount: 2
 Fore
@@ -24778,6 +24782,7 @@ Encoding: 8411 8411 721
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -238
 HStem: 537 129<-464.5 -430 -464.5 -429.5 -254.5 -220 -45.5 -10.5>
 VStem: -2 129 208 129 418 129
 CounterMasks: 1 70
@@ -24807,6 +24812,7 @@ Encoding: 8412 8412 722
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -248
 HStem: 537 129<-579.5 -545 -579.5 -544.5 -369.5 -335 -159.5 -125 49.5 84.5>
 VStem: -627 129<584 618 582.5 619> -417 129<584 618 582.5 619> -207 129<584 618 582.5 619> 3 129<584 618 582.5 619.5>
 LayerCount: 2
@@ -24863,6 +24869,7 @@ Encoding: 8417 8417 724
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -218
 HStem: 637 78<-349 -341 -341 -95>
 LayerCount: 2
 Fore
@@ -24952,6 +24959,7 @@ Encoding: 8423 8423 728
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -222
 HStem: 672 88<-643 112 -643 200>
 VStem: 112 88<-172 672 672 672>
 LayerCount: 2
@@ -25001,6 +25009,7 @@ Encoding: 8425 8425 730
 Width: 0
 GlyphClass: 2
 Flags: MW
+TopAccentHorizontal: -228
 HStem: 639 78<-432 -24 -432 -432>
 VStem: -510 78<544 639 544 717> -24 78<544 639 639 639>
 LayerCount: 2
