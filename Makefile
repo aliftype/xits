@@ -1,5 +1,5 @@
 NAME=XITS
-VERSION=1.200
+VERSION=1.201
 
 SRC=sources
 WEB=webfonts
