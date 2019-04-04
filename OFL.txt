@@ -16,6 +16,10 @@ Phone: (718) 575-1816.
 
 Portions copyright (c) 1990 by Elsevier, Inc.
 
+Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.
+
+Portions copyright (c) 2009-2019 by Khaled Hosny.
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL

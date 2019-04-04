@@ -3,7 +3,7 @@ FontName: XITS-Italic
 FullName: XITS Italic
 FamilyName: XITS
 Weight: Italic
-Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny.  All rights reserved.
+Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  Portions copyright (c) 2009-2011 by Khaled Hosny. Portions copyright (c) 2014,2015 by (URW)++ Design & Development. All rights reserved.
 Version: $version
 ItalicAngle: -16.33
 UnderlinePosition: -50
@@ -67,7 +67,7 @@ StdVW 4 [42]
 StemSnapH 31 [23 28 31 34 38 43 48 53 60 64]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114124 869
+BeginChars: 1114124 871
 
 StartChar: space
 Encoding: 32 32 0
@@ -31820,6 +31820,52 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 73 105 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: minute
+Encoding: 8242 8242 869
+Width: 219
+Flags: W
+HStem: 648 20<211 232.5>
+LayerCount: 2
+Fore
+SplineSet
+131 387 m 1
+ 146 529 l 2
+ 153 599 158 621 172 641 c 0
+ 183 658 201 668 221 668 c 0
+ 244 668 259 654 259 634 c 0
+ 259 618 253 603 219 529 c 2
+ 152 387 l 1
+ 131 387 l 1
+EndSplineSet
+EndChar
+
+StartChar: second
+Encoding: 8243 8243 870
+Width: 417
+Flags: W
+HStem: 648 20<226.5 247 402.5 424>
+LayerCount: 2
+Fore
+SplineSet
+322 387 m 1
+ 336 527 l 2
+ 343 598 347 618 360 639 c 0
+ 370 656 392 668 413 668 c 0
+ 435 668 449 655 449 635 c 0
+ 449 618 432 570 412 528 c 2
+ 344 387 l 1
+ 322 387 l 1
+145 387 m 1
+ 160 529 l 2
+ 167 600 172 621 186 641 c 0
+ 198 658 217 668 236 668 c 0
+ 258 668 273 654 273 634 c 0
+ 273 617 268 604 233 529 c 2
+ 166 387 l 1
+ 145 387 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
