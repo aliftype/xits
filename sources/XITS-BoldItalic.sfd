@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710455
-ModificationTime: 1554400408
+ModificationTime: 1554780712
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -63,7 +63,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113818 19 17
+WinInfo: 1113989 19 8
 BeginPrivate: 7
 BlueValues 15 [-18 0 669 685]
 BlueScale 8 0.039625
@@ -30907,10 +30907,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zero.numr
+StartChar: zero.sups
 Encoding: 1114124 -1 851
 Width: 300
-Flags: W
+Flags: HW
 HStem: 263 24<94 113.5 94 119.5> 657 24<184 202.5>
 VStem: 9 67<311.5 440>
 LayerCount: 2
@@ -30933,10 +30933,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: four.numr
+StartChar: four.sups
 Encoding: 1114125 -1 852
 Width: 300
-Flags: W
+Flags: HW
 HStem: 360 64<42 133 -11 151 233 256> 661 20<260 303 303 303>
 LayerCount: 2
 Fore
@@ -30960,10 +30960,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: five.numr
+StartChar: five.sups
 Encoding: 1114126 -1 853
 Width: 300
-Flags: W
+Flags: HW
 HStem: 263 30<98.5 123> 601 71<121 295 121 271>
 VStem: 180 69<377.5 405.5>
 LayerCount: 2
@@ -30988,10 +30988,10 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: six.numr
+StartChar: six.sups
 Encoding: 1114127 -1 854
 Width: 300
-Flags: W
+Flags: HW
 HStem: 262 26<105 122 105 160> 497 30<141.5 203.5> 659 20<302 307>
 VStem: 13 73<315.5 438.5> 187 80<442 454.5 377.5 473>
 LayerCount: 2
@@ -31016,7 +31016,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seven.numr
+StartChar: seven.sups
 Encoding: 1114128 -1 855
 Width: 300
 Flags: W
@@ -31036,7 +31036,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eight.numr
+StartChar: eight.sups
 Encoding: 1114129 -1 856
 Width: 300
 Flags: W
@@ -31067,7 +31067,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.numr
+StartChar: nine.sups
 Encoding: 1114130 -1 857
 Width: 300
 Flags: W
@@ -31095,7 +31095,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: two.numr
+StartChar: two.sups
 Encoding: 1114131 -1 858
 Width: 300
 Flags: W
@@ -31123,7 +31123,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: three.numr
+StartChar: three.sups
 Encoding: 1114132 -1 859
 Width: 300
 Flags: W
@@ -31153,7 +31153,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: one.numr
+StartChar: one.sups
 Encoding: 1114133 -1 860
 Width: 300
 Flags: W

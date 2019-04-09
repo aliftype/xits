@@ -39,14 +39,14 @@ feature locl {
 } locl;
 
 feature sups {
-    sub zero  by zero.numr;
-    sub one   by one.numr;
-    sub two   by two.numr;
-    sub three by three.numr;
-    sub four  by four.numr;
-    sub five  by five.numr;
-    sub six   by six.numr;
-    sub seven by seven.numr;
-    sub eight by eight.numr;
-    sub nine  by nine.numr;
+    sub zero  by zero.sups;
+    sub one   by one.sups;
+    sub two   by two.sups;
+    sub three by three.sups;
+    sub four  by four.sups;
+    sub five  by five.sups;
+    sub six   by six.sups;
+    sub seven by seven.sups;
+    sub eight by eight.sups;
+    sub nine  by nine.sups;
 } sups;

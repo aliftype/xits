@@ -63,7 +63,7 @@ NameList: AGL without afii
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113489 39 17
+WinInfo: 1113989 19 8
 BeginPrivate: 6
 BlueValues 15 [-18 0 653 667]
 BlueScale 8 0.039625
@@ -31873,7 +31873,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: two.numr
+StartChar: two.sups
 Encoding: 1114124 -1 871
 Width: 300
 Flags: W
@@ -31903,7 +31903,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: three.numr
+StartChar: three.sups
 Encoding: 1114125 -1 872
 Width: 300
 Flags: W
@@ -31935,7 +31935,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: one.numr
+StartChar: one.sups
 Encoding: 1114126 -1 873
 Width: 300
 Flags: HW
@@ -31962,7 +31962,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: four.numr
+StartChar: four.sups
 Encoding: 1114127 -1 874
 Width: 300
 Flags: W
@@ -31989,7 +31989,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: five.numr
+StartChar: five.sups
 Encoding: 1114128 -1 875
 Width: 300
 Flags: W
@@ -32018,7 +32018,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: six.numr
+StartChar: six.sups
 Encoding: 1114129 -1 876
 Width: 300
 Flags: W
@@ -32045,7 +32045,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seven.numr
+StartChar: seven.sups
 Encoding: 1114130 -1 877
 Width: 300
 Flags: W
@@ -32066,7 +32066,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eight.numr
+StartChar: eight.sups
 Encoding: 1114131 -1 878
 Width: 300
 Flags: W
@@ -32097,7 +32097,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.numr
+StartChar: nine.sups
 Encoding: 1114132 -1 879
 Width: 300
 Flags: W
@@ -32124,7 +32124,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: zero.numr
+StartChar: zero.sups
 Encoding: 1114133 -1 880
 Width: 300
 Flags: W
