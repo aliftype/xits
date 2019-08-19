@@ -78250,7 +78250,7 @@ EndChar
 StartChar: i.TRK
 Encoding: 1114143 -1 2337
 Width: 278
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 73 105 N 1 0 0 1 0 0 2
@@ -78540,7 +78540,7 @@ EndChar
 StartChar: f_f_j
 Encoding: 1114154 -1 2348
 Width: 815
-Flags: HW
+Flags: W
 HStem: 0 20 418 32<21 103 21 103 187 374 458 542> 655 27<247.5 258> 655 28<564 593.5>
 VStem: 103 84<103 418> 374 84<96 418> 645 84<99 358>
 LayerCount: 2

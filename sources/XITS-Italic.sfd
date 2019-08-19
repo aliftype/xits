@@ -31816,7 +31816,7 @@ EndChar
 StartChar: i.TRK
 Encoding: 1114123 -1 868
 Width: 278
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 73 105 N 1 0 0 1 0 0 2
@@ -31895,7 +31895,7 @@ EndChar
 StartChar: one.sups
 Encoding: 1114125 -1 872
 Width: 300
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -32148,7 +32148,7 @@ EndChar
 StartChar: f_f_j
 Encoding: 1114134 -1 881
 Width: 721
-Flags: HW
+Flags: W
 HStem: -207 21<-66 -39 -66 -22.5> -207 24<182.5 196.5> -8 45<569 631.5> 396 32<41 125 34 134 211 375 460 609> 656 22<307.5 340> 656 25<603.5 631.5>
 VStem: -147 67<-174.5 -134.5> 103 67<-175 -135.5> 355 69<605 647> 539 75<44 51 44 54> 655 70<600.5 648>
 LayerCount: 2
