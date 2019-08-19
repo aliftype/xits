@@ -16,7 +16,7 @@ Contributing
 
 The preferred way for modifying the fonts is by editing the SFD files under
 `sources` directory in the [source repository][5], using [FontForge][3]. When
-submitting patches, please make sure they are as clean as possible, avoiding
+submitting patches, please run `make normalize` before committing and avoid
 any unrelated or unnecessary changes.
 
 To build the fonts from source you need GNU Make, [FontForge][3] Python module,
