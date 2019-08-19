@@ -11,22 +11,14 @@ Basic Font Information
 XITS is a Times-like typeface for mathematical and scientific publishing, based
 on STIX fonts project. The main mission of XITS is to provide a version of STIX
 fonts enriched with the OpenType MATH extension, making it suitable for high
-quality mathematic typesetting with OpenType MATH capable layout systems, like
-MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
+quality mathematical typesetting with OpenType MATH capable layout systems,
+like MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
 
 XITS development is currently hosted on:
 http://github.com/alif-type/xits
 
 Feature requests, bug reports and patches should be directed to our issue
 tracker.
-
-XITS currently provides the following Unicode coverage:
-%{XITS Math}
-%{XITS Math Bold}
-%{XITS}
-%{XITS Bold}
-%{XITS Italic}
-%{XITS Bold Italic}
 
 Information for Contributors
 ------------------------------

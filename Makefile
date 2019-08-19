@@ -10,7 +10,6 @@ DIST_CTAN=$(DIST)-CTAN
 PY=python
 MAKEFNT=$(TOOLS)/makefnt.py
 MAKEWEB=$(TOOLS)/makeweb.py
-COVERAGE=$(TOOLS)/fontcoverage.py
 NORMALIZE=$(TOOLS)/sfdnormalize.py
 
 FONTS=$(NAME)Math-Regular $(NAME)Math-Bold \
@@ -48,11 +47,7 @@ $(WEB)/%.woff: %.otf
 	@mkdir -p $(WEB)
 	@$(PY) $(MAKEWEB) $< $(WEB)
 
-FONTLOG.txt: FONTLOG.txt.in $(COVERAGE) $(OTF)
-	@echo "Generating $@"
-	@$(PY) $(COVERAGE) tools/Blocks.txt $< $(OTF) $@
-
-dist: check dist-ctan $(OTF) $(WOF) FONTLOG.txt
+dist: check dist-ctan $(OTF) $(WOF)
 	@echo "Making dist tarball"
 	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
@@ -61,7 +56,7 @@ dist: check dist-ctan $(OTF) $(WOF) FONTLOG.txt
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
-dist-ctan: $(OTF) FONTLOG.txt
+dist-ctan: $(OTF)
 	@echo "Making CTAN dist tarball"
 	@mkdir -p $(DIST_CTAN)
 	@cp $(OTF) $(DIST_CTAN)
