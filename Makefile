@@ -52,7 +52,7 @@ dist: check dist-ctan $(OTF) $(WOF)
 	@mkdir -p $(DIST)/$(WEB)
 	@cp $(OTF) $(DIST)
 	@cp $(WOF) $(DIST)/$(WEB)
-	@cp -r OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST)
+	@cp -r OFL.txt FONTLOG.txt $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
@@ -60,7 +60,7 @@ dist-ctan: $(OTF)
 	@echo "Making CTAN dist tarball"
 	@mkdir -p $(DIST_CTAN)
 	@cp $(OTF) $(DIST_CTAN)
-	@cp -r OFL-FAQ.txt OFL.txt FONTLOG.txt $(DIST_CTAN)
+	@cp -r OFL.txt FONTLOG.txt $(DIST_CTAN)
 	@cp README.md $(DIST_CTAN)/README.txt
 	@zip -r $(DIST_CTAN).zip $(DIST_CTAN)
 
