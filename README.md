@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alif-type/xits.svg?branch=master)](https://travis-ci.com/alif-type/xits)
+
 The XITS font project
 ======================
 
