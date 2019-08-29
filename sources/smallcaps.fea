@@ -85,6 +85,7 @@ feature c2sc {
     sub uni012A by uni012B.sc;
     sub uni012C by uni012D.sc;
     sub uni012E by uni012F.sc;
+    sub uni0130 by i.TRK.sc;
     sub uni0132 by uni0133.sc;
     sub uni0134 by uni0135.sc;
     sub uni0136 by uni0137.sc;
@@ -145,6 +146,7 @@ feature smcp {
     sub g by g.sc;
     sub h by h.sc;
     sub i by i.sc;
+    sub i.TRK by i.TRK.sc;
     sub j by j.sc;
     sub k by k.sc;
     sub l by l.sc;

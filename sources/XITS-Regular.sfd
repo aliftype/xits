@@ -141,7 +141,7 @@ StemSnapH 31 [23 28 31 34 38 43 50 54 63 66]
 StemSnapV 31 [39 43 48 52 56 59 66 73 79 83]
 ExpansionFactor 4 0.06
 EndPrivate
-BeginChars: 1114313 2511
+BeginChars: 1114314 2512
 
 StartChar: space
 Encoding: 32 32 0
@@ -87298,6 +87298,36 @@ SplineSet
  119 16 131 25 135 41 c 0
  138 51 140 56 140 108 c 2
  140 301 l 1
+EndSplineSet
+EndChar
+
+StartChar: i.TRK.sc
+Encoding: 1114313 -1 2511
+Width: 278
+Flags: W
+HStem: 0 16<16 63.9075 203.503 252> 470 16<14 62.4968 202.092 250> 559 99<91.719 172.544>
+VStem: 83 99<568.117 648.604> 90 86<27.0016 458.998>
+LayerCount: 2
+Fore
+SplineSet
+182 608 m 0xf0
+ 182 581 159 559 131 559 c 0
+ 104 559 83 581 83 609 c 0
+ 83 636 105 658 132 658 c 0
+ 159 658 182 635 182 608 c 0xf0
+252 0 m 1
+ 16 0 l 1
+ 16 16 l 1
+ 75 17 90 33 90 87 c 2
+ 90 399 l 2
+ 90 453 73 470 14 470 c 1
+ 14 486 l 1
+ 250 486 l 1
+ 250 470 l 1
+ 191 469 176 453 176 399 c 2
+ 176 87 l 2xe8
+ 176 33 193 17 252 16 c 1
+ 252 0 l 1
 EndSplineSet
 EndChar
 EndChars

@@ -40,9 +40,3 @@ feature liga {
     sub I J  by uni0132;
     sub i j  by uni0133;
 } liga;
-
-feature locl {
-  script latn;
-   language TRK exclude_dflt;
-    sub i by i.TRK;
-} locl;
