@@ -1,5 +1,6 @@
+include (langsys.fea)
+include (smallcaps.fea)
 include (xits.fea)
 include (frac.fea)
 include (numrdnom.fea)
-include (smallcaps.fea)
 include (altonum.fea)

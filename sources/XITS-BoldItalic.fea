@@ -1,2 +1,3 @@
+include (langsys.fea)
 include (xits.fea)
 include (altonum.fea)
