@@ -129,6 +129,10 @@ feature c2sc {
     sub uni203C by uni203C.sc;
     sub uni2047 by uni2047.sc;
     sub uni214B by uni214B.sc;
+    sub uni1E80 by uni1E81.sc;
+    sub uni1E82 by uni1E83.sc;
+    sub uni1E84 by uni1E85.sc;
+    sub uni1EF2 by uni1EF3.sc;
 } c2sc;
 
 feature smcp {
@@ -268,4 +272,8 @@ feature smcp {
     sub uni214B by uni214B.sc;
     sub scommaaccent by scommaaccent.sc;
     sub uni021B by uni021B.sc;
+    sub uni1E81 by uni1E81.sc;
+    sub uni1E83 by uni1E83.sc;
+    sub uni1E85 by uni1E85.sc;
+    sub uni1EF3 by uni1EF3.sc;
 } smcp;
