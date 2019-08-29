@@ -9,12 +9,12 @@ works.
 Basic Font Information
 --------------------------
 XITS is a Times-like typeface for mathematical and scientific publishing, based
-on STIX fonts project. The main mission of XITS is to provide a version of STIX
-fonts enriched with the OpenType MATH extension, making it suitable for high
-quality mathematical typesetting with OpenType MATH capable layout systems,
-like MS Office 2007 and the new TeX engines XeTeX and LuaTeX.
+on the STIX fonts project. The main mission of XITS is to provide a version of
+STIX fonts enriched with the OpenType MATH extension, making it suitable for
+high quality mathematical typesetting with OpenType MATH capable layout systems,
+like MS Office 2007 and later and the TeX engines XeTeX and LuaTeX.
 
-XITS development is currently hosted on:
+XITS development is currently hosted at:
 http://github.com/alif-type/xits
 
 Feature requests, bug reports and patches should be directed to our issue
@@ -207,16 +207,16 @@ order.)
 
 N: Khaled Hosny
 E: khaledhosny@eglug.org
-W: http://github.com/alif-type
+W: https://github.com/alif-type
 D: Engineer - OpenType MATH code
 
 N: Daniel Benjamin Miller
 E: dbmiller@dbmiller.org
 W: https://dbmiller.org
-D: Made some minor additions and adjustments.
+D: Added and improved characters
 
 N: STIX Fonts project
-E: 
-W: http://www.stixfonts.org
+E: stix@aip.org
+W: https://www.stixfonts.org
 D: Original authors
 
