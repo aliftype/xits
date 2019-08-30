@@ -34,6 +34,20 @@ http://github.com/alif-type/xits
 
 ChangeLog
 ----------
+30 August 2019 (Khaled Hosny) <XITS> Version 1.300
+- Fix mis-encoded U+1D9B as U+1D98.
+- Add top accent position to few accents in bold math font.
+- Add minute and second signs to italic font.
+- Add OpenType feature for superior figures.
+- Fix thickness of connector part in division symbol.
+- Add superior figures.
+- Add ffj ligature.
+- Fix displaced accented i glyphs.
+- Add small caps to regular font.
+- Add alternate old-style figures
+- Add T and S with comma below for Romanian.
+- Add scientific inferiors feature.
+
 2 October 2018 (Khaled Hosny) <XITS> Version 1.200
 - This is the final release with new features, from now only XITS is in
   maintenance mode and only bug fixes will be made.
