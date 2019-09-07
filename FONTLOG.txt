@@ -34,6 +34,11 @@ http://github.com/alif-type/xits
 
 ChangeLog
 ----------
+7 September 2019 (Khaled Hosny) <XITS> Version 1.301
+- Add some small caps glyphs for a few missed accented characters.
+- Fix positions of superior and inferior figures.
+- Improve small caps kerning.
+
 30 August 2019 (Khaled Hosny) <XITS> Version 1.300
 - Fix mis-encoded U+1D9B as U+1D98.
 - Add top accent position to few accents in bold math font.
