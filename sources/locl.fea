@@ -2,4 +2,8 @@ feature locl {
   script latn;
    language TRK exclude_dflt;
     sub i by i.TRK;
+   language AZE exclude_dflt;
+    sub i by i.TRK;
+   language CRT exclude_dflt;
+    sub i by i.TRK;
 } locl;

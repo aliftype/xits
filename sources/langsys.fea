@@ -1,5 +1,7 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem cyrl dflt;
 languagesystem grek dflt;
