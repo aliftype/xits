@@ -34,6 +34,11 @@ http://github.com/alif-type/xits
 
 ChangeLog
 ----------
+2 July 2020 (Khaled Hosny) <XITS> Version 1.302
+- Extend small capital i/ı variant to Azerbaijani and Crimean Tatar.
+- THIS IS THE FINAL RELEASE OF XITS FONTS, NO FUTURE VERSIONS WILL BE
+  RELEASED.
+
 7 September 2019 (Khaled Hosny) <XITS> Version 1.301
 - Add some small caps glyphs for a few missed accented characters.
 - Fix positions of superior and inferior figures.
